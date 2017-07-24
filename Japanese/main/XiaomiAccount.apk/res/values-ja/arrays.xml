@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="account_user_gender_name">
+        <item>男性</item>
+        <item>女性</item>
+    </string-array>
+    <string-array name="education">
+        <item>中学校</item>
+        <item>予備校</item>
+        <item>高校</item>
+        <item>専門学校</item>
+        <item>学士号</item>
+        <item>修士号</item>
+        <item>博士号</item>
+    </string-array>
+</resources>

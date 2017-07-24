@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>スキャン中...</item>
+        <item>接続中...</item>
+        <item>認証中...</item>
+        <item>IPアドレスを取得中...</item>
+        <item>接続済み</item>
+        <item>保留中</item>
+        <item>切断中...</item>
+        <item>切断されました</item>
+        <item>失敗しました</item>
+        <item>ブロック中</item>
+        <item>接続不良により一時的に無効</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>スキャン中...</item>
+        <item>%1$sに接続中...</item>
+        <item>%1$sによる認証中...</item>
+        <item>IPアドレスを%1$sから取得中...</item>
+        <item>%1$sに接続しました</item>
+        <item>保留中</item>
+        <item>%1$sから切断中...</item>
+        <item>切断されました</item>
+        <item>失敗しました</item>
+        <item>ブロック中</item>
+        <item>接続不良により一時的に無効</item>
+    </string-array>
+    <string-array name="weather_type">
+        <item>"晴れ"</item>
+        <item>"曇り"</item>
+        <item>"一面曇り"</item>
+        <item>"霧"</item>
+        <item>"豪雨"</item>
+        <item>"土砂降り"</item>
+        <item>"暴風雨"</item>
+        <item>"雷雨"</item>
+        <item>"にわか雨"</item>
+        <item>"大雨"</item>
+        <item>"並雨"</item>
+        <item>"小雨"</item>
+        <item>"雨混じりの雪"</item>
+        <item>"猛吹雪"</item>
+        <item>"雪"</item>
+        <item>"大雪"</item>
+        <item>"並雪"</item>
+        <item>"小雪"</item>
+        <item>"強い砂嵐"</item>
+        <item>"砂嵐"</item>
+        <item>"砂"</item>
+        <item>"強風"</item>
+        <item>"雹(ひょう)"</item>
+        <item>"ちり"</item>
+        <item>"煙霧"</item>
+        <item>"冷たい雨"</item>
+        <item></item>
+    </string-array>
+</resources>

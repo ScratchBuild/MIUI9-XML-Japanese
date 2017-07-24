@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ac_mode_array">
+        <item>冷房</item>
+        <item>暖房</item>
+        <item>除湿</item>
+        <item>送風</item>
+    </string-array>
+    <string-array name="answer">
+        <item>"お使いの端末はMi TV, Mi Box, 及びその他のWi-Fiを使用したAndroid搭載端末のみペアリングできます。"</item>
+        <item>"ペアリングの手順で正しいエアコンのモデルを選択したことを確認してください。ペアリングが完了するまで端末に表示された手順に従ってください。"</item>
+        <item>"いいえ。現在リモコンとして利用できるのはMi 4, Mi 4c, およびRedmi Note 2です。"</item>
+    </string-array>
+    <string-array name="epg_week_tab">
+        <item>日</item>
+        <item>月</item>
+        <item>火</item>
+        <item>水</item>
+        <item>木</item>
+        <item>金</item>
+        <item>土</item>
+    </string-array>
+    <string-array name="question">
+        <item>"携帯がワイヤレスデバイスを探し続けているのはなぜですか？"</item>
+        <item>"なぜエアコンのみをオンにでき、オフにはできないのですか？"</item>
+        <item>"私はMi 3, Mi 2を使用しています、Redmiの様にリモコンを利用できますか？"</item>
+    </string-array>
+    <string-array name="assistant_tab">
+        <item>ビデオ</item>
+        <item>スクリーンショット</item>
+        <item>アプリ</item>
+    </string-array>
+    <string-array name="epg_channel_tab">
+        <item>Complete</item>
+        <item>Collect</item>
+        <item>CCTV</item>
+        <item>TV</item>
+        <item>HD</item>
+        <item>Recent</item>
+    </string-array>
+    <string-array name="epg_channel_tab_actionbar">
+        <item>All Channels</item>
+        <item>Favorite channels</item>
+        <item>CCTV Channel</item>
+        <item>Satellite TV Channel</item>
+        <item>HD channels</item>
+        <item>Recently Watched</item>
+    </string-array>
+    <string-array name="epg_program_genre">
+        <item></item>
+        <item></item>
+        <item>バラエティ</item>
+        <item></item>
+        <item>スポーツ</item>
+        <item>キッズ</item>
+        <item>ニュース</item>
+        <item>生活</item>
+    </string-array>
+    <string-array name="epg_program_tab">
+        <item>人気</item>
+        <item>映画</item>
+        <item>バラエティ</item>
+        <item>TVシリーズ</item>
+        <item>スポーツ</item>
+        <item>キッズ</item>
+        <item>ニュース</item>
+        <item>生活</item>
+    </string-array>
+    <string-array name="epg_program_tab_actionbar">
+        <item>人気番組</item>
+        <item>映画番組</item>
+        <item>バラエティ番組</item>
+        <item>TVシリーズ</item>
+        <item>スポーツ番組</item>
+        <item>キッズ番組</item>
+        <item>ニュース番組</item>
+        <item>生活番組</item>
+    </string-array>
+</resources>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="baby_sexy">
+        <item>"男の子"</item>
+        <item>"女の子"</item>
+    </string-array>
+    <string-array name="owner_relation">
+        <item>"父親"</item>
+        <item>"母親"</item>
+        <item>"父方の祖父"</item>
+        <item>"父方の祖母"</item>
+        <item>"母方の祖父"</item>
+        <item>"母方の祖母"</item>
+    </string-array>
+    <string-array name="sharer_relation_addressive">
+        <item>"父親"</item>
+        <item>"母親"</item>
+        <item>"父方の祖父"</item>
+        <item>"父方の祖母"</item>
+        <item>"母方の祖父"</item>
+        <item>"母方の祖母"</item>
+    </string-array>
+    <string-array name="relation_with_me">
+        <item>"わたし"</item>
+        <item>"子ども"</item>
+        <item>"家族"</item>
+        <item>"同僚"</item>
+        <item>"同級生"</item>
+        <item>"友だち"</item>
+        <item>"未分類"</item>
+    </string-array>
+</resources>

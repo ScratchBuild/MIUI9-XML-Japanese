@@ -1,0 +1,172 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="about_preference_screen_title">"このアプリについて"</string>
+  <string name="about_preference_title">"このアプリについて"</string>
+  <string name="acknowledge_btn">I Acknowledge</string>
+  <string name="action_settings">"設定"</string>
+  <string name="activation_page">Not activated</string>
+  <string name="activation_page_btn_txt">Activate</string>
+  <string name="activation_page_info">Sign in to your Mi Account to activate Secure Sign-in</string>
+  <string name="add_account_menu_item">"アカウントを追加"</string>
+  <string name="app_name">Xiaomi Authenticator</string>
+  <string name="app_name_lockpattern">LockPattern</string>
+  <string name="app_name_short">Authenticator</string>
+  <string name="authenticator_invalid_tip">You may have turned this feature off using your desktop Browser or activated another Mi Security Token.</string>
+  <string name="authenticator_invalid_title">Account：%1$s security token has expired.</string>
+  <string name="authenticator_page_reactivation">Reactivate</string>
+  <string name="button_add_account">"アカウントを追加"</string>
+  <string name="button_add_account_manual_entry">"手動でアカウントを追加"</string>
+  <string name="button_add_account_scan_barcode">"バーコードをスキャン"</string>
+  <string name="button_back">"戻る"</string>
+  <string name="button_exit_howitworks_flow">"終了"</string>
+  <string name="button_how_it_works">See how it works</string>
+  <string name="button_next">"次へ"</string>
+  <string name="button_uninstall_old_app">"アンインストール"</string>
+  <string name="cancel">"キャンセル"</string>
+  <string name="change_security_lock">More screen locks</string>
+  <string name="check_code">To check that you have the correct key value for %1$s verify that the value here matches the integrity check value provided by the server:&lt;br/&gt;</string>
+  <string name="check_code_menu_item">Check key value</string>
+  <string name="check_code_title">Integrity check value</string>
+  <string name="continue_btn">"続行"</string>
+  <string name="copy_to_clipboard">"クリップボードにコピー"</string>
+  <string name="correct_enter_password">"入力したパスワードが正しくありません"</string>
+  <string name="correct_enter_update_password">"入力したパスワードが正しくありません"</string>
+  <string name="counter_pin">"コードを取得"</string>
+  <string name="dataimport_import_succeeded_uninstall_dialog_prompt">Your data has been successfully imported from the deprecated Xiaomi Authenticator app. It is now safe to uninstall the prior version of the app by clicking below.</string>
+  <string name="dataimport_import_succeeded_uninstall_dialog_title">Import succeeded</string>
+  <string name="decoding_exception">Decoding exception</string>
+  <string name="details_patternforgotten">"Reactivate: 
+Sign in at account.xiaomi.com and click Reactivate."</string>
+  <string name="enter_account_label">"アカウント名を入力"</string>
+  <string name="enter_key_hint">Enter your key</string>
+  <string name="enter_key_illegal_char">Key value has illegal character</string>
+  <string name="enter_key_page_add_button">"追加"</string>
+  <string name="enter_key_title">Manual account entry</string>
+  <string name="enter_key_too_short">Key value is too short</string>
+  <string name="enter_pin">"アカウントのログイン時にメッセージが表示されたら、この認証コードを入力してください:"</string>
+  <string name="error_empty_secret">Cannot save empty secret</string>
+  <string name="error_exists">"申し訳ありませんが、その名前は既に使用されています。"</string>
+  <string name="error_qr">"QRコードを読み取れません。"</string>
+  <string name="error_title">"エラー"</string>
+  <string name="error_uri">Key not recognized.</string>
+  <string name="forget_password">&lt;u&gt;パスワードを忘れた場合&lt;/u&gt;</string>
+  <string name="general_security_exception">General security exception</string>
+  <string name="gif_not_support_camera_msg">Your device does not support video recording.</string>
+  <string name="how_it_works_menu_item">How it works</string>
+  <string name="howitworks_page_enter_code_details">This app will generate the code needed to proceed with sign in.</string>
+  <string name="howitworks_page_enter_code_title">"If you're on a new computer, enter a code from your phone."</string>
+  <string name="howitworks_page_enter_password_details">"However, if you're at a new computer or device, Xiaomi will ask you for a special code to make sure it's really you."</string>
+  <string name="howitworks_page_enter_password_title">"To sign in, you'll enter your password."</string>
+  <string name="howitworks_page_verify_device_details">"You can also choose to remember the computer and Xiaomi won't ask you for a code there again."</string>
+  <string name="howitworks_page_verify_device_title">"Then you're signed in."</string>
+  <string name="install_button">"インストール"</string>
+  <string name="install_dialog_message">"キーを含むバーコードを読み取るには、ZXingバーコードスキャナーをインストールする必要があります。"</string>
+  <string name="install_dialog_title">"バーコードスキャナーをインストールしますか？"</string>
+  <string name="jump_createpattern_tip">"アカウントを保護するためのパスワードを作成"</string>
+  <string name="jump_lockpattern_title">"注意"</string>
+  <string name="jump_updatepattern_tip">"アカウントを保護するためのパスワードを作成"</string>
+  <string name="lockpassword_choose_your_pattern_header">"パターンの選択"</string>
+  <string name="lockpassword_confirm_your_pattern_header">"パターンの確認"</string>
+  <string name="lockpassword_input_your_pattern_header">"パターンの確認"</string>
+  <string name="lockpattern_confirm_button_text">"確認"</string>
+  <string name="lockpattern_continue_button_text">"続行"</string>
+  <string name="lockpattern_need_to_confirm">"確認のためパターンを再入力"</string>
+  <string name="lockpattern_need_to_confirm_wrong">"以前の入力と一致しません、再入力してください:"</string>
+  <string name="lockpattern_need_to_unlock_footer"/>
+  <string name="lockpattern_need_to_unlock_wrong">&lt;font color=red&gt;パスワードが間違っています。入力できるのはあと%d回です&lt;/font&gt;</string>
+  <string name="lockpattern_need_to_unlock_wrong_footer"/>
+  <string name="lockpattern_pattern_confirmed_header">"新しいロック解除パターン:"</string>
+  <string name="lockpattern_pattern_entered_header">"パターンが記録されました。"</string>
+  <string name="lockpattern_recording_incorrect_too_short">"少なくとも%dつの点を結んでください:"</string>
+  <string name="lockpattern_recording_inprogress">"描き終わりの点で指を離します"</string>
+  <string name="lockpattern_recording_intro_header">"ロック解除パターンを入力:"</string>
+  <string name="lockpattern_redraw_button_text">"再描画"</string>
+  <string name="lockpattern_retry_text">Reset pattern password</string>
+  <string name="lockpattern_settings_help_how_to_record">"ロック解除パターンの描き方"</string>
+  <string name="lockpattern_too_many_failed_confirmation_attempts_footer">"%d秒後にもう一度お試しください。"</string>
+  <string name="lockpattern_too_many_failed_confirmation_attempts_header">"&lt;font color=red&gt;誤った回数が多すぎます！&lt;/font&gt;"</string>
+  <string name="lockpattern_tutorial_cancel_label">"キャンセル"</string>
+  <string name="lockpattern_tutorial_close_label">"閉じる"</string>
+  <string name="lockpattern_tutorial_continue_label">"次へ"</string>
+  <string name="lockpattern_tutorial_jump_label">"スキップ"</string>
+  <string name="lockscreen_forgot_pattern_button_text">&lt;u&gt;Forgot pattern password&lt;/u&gt;</string>
+  <string name="login">"ログイン"</string>
+  <string name="main_preference_screen_title">"設定"</string>
+  <string name="mycard_scan_barcode">MiID Code Scanner</string>
+  <string name="new_pattern_tip">"パスワードは4文字以上にする必要があります"</string>
+  <string name="ok">OK</string>
+  <string name="ok_button">OK</string>
+  <string name="open_camera_exception_dialog_content">"システムカメラに問題がある場合、デバイスを再起動する必要があります。"</string>
+  <string name="open_camera_exception_dialog_title">"カメラの誤動作"</string>
+  <string name="opensource_preference_title">Open-source project</string>
+  <string name="original_pattern_tip">"ロック解除パターンを入力"</string>
+  <string name="password_error">"入力したパスワードが間違っています"</string>
+  <string name="password_forget">Forget password?</string>
+  <string name="password_hint">"Mi Accountのパスワードを入力"</string>
+  <string name="privacy_preference_title">"プライバシーポリシー"</string>
+  <string name="progress_loading">"読み込み中…"</string>
+  <string name="remove_Xiaomi_account_dialog_message">Removing this account will &lt;b&gt;remove your ability&lt;/b&gt; to generate codes, however, it will &lt;b&gt;not&lt;/b&gt; turn off 2-step verification. This may prevent you from signing into your account. &lt;p&gt; Before removing: &lt;ul&gt; &lt;li&gt;Turn off 2-step verification for this account, or&lt;/li&gt; &lt;li&gt;Ensure you have an alternate mechanism for generating codes.&lt;/li&gt; &lt;/ul&gt;</string>
+  <string name="remove_account">"アカウントを削除"</string>
+  <string name="remove_account_dialog_message">"Removing this account will remove your ability to generate codes. This may prevent you from signing into your account.
+
+Before removing:
+—Turn off 2-factor authentication for this account, or
+—Ensure you have an alternate mechanism for generating codes."</string>
+  <string name="remove_account_dialog_title">"アカウントを削除しますか？"</string>
+  <string name="rename">"名前を変更"</string>
+  <string name="rename_message">"%1$sの名前を変更"</string>
+  <string name="resetbtn_patternforgotten">"リセット"</string>
+  <string name="save_key_message">Save key for</string>
+  <string name="scan_barcode">Scan MiID</string>
+  <string name="scan_barcode_info">Place and scan a MiID barcode inside of this viewfinder.</string>
+  <string name="secret_saved">Secret saved</string>
+  <string name="security_setting">"セキュリティ設定"</string>
+  <string name="settings_menu_item">"設定"</string>
+  <string name="submit">"保存"</string>
+  <string name="success_copy_to_clipboard">"クリップボードにコピーしました"</string>
+  <string name="success_reset_password">"パスワードが正常にリセットされました"</string>
+  <string name="success_set_password">"パスワードが作成されました"</string>
+  <string name="summary_lockpattern">Require a unique pattern lock for MiCredit</string>
+  <string name="terms_preference_title">"利用規約"</string>
+  <string name="timesync_about_feature_preference_title">"この機能について"</string>
+  <string name="timesync_about_feature_screen_details">"If you press &amp;quot;Sync now&amp;quot;, Authenticator will attempt to sync its internal clock with Google servers once. The device's Date &amp; Time settings will not be changed. &lt;p&gt; Authenticator does not transmit any personal data or account information while synchronizing its internal clock with Google servers. &lt;p&gt; &lt;b&gt;Why this is useful&lt;/b&gt; &lt;p&gt; Authenticator generates 2-step verification codes based on 1) the current time, and 2) a secret number known to the app and the server. &lt;p&gt; If Authenticator and the server disagree on what time it is, the codes that the app generates may not be accepted when you try to log in. &lt;p&gt; By default Authenticator uses the device's Date &amp; Time settings, and in most cases you will be able to generate valid codes by making sure your time, date, and time zone settings are configured correctly. However, when time mismatches do occur, they can be hard to troubleshoot (especially if you use network-provided time or time zones)."</string>
+  <string name="timesync_about_feature_screen_title">"この機能について"</string>
+  <string name="timesync_preference_screen_summary">"Sync Authenticator's internal clock with servers"</string>
+  <string name="timesync_preference_screen_title">Time correction for codes</string>
+  <string name="timesync_sync_now_connectivity_error_dialog_details">"There was a problem contacting 's server. Please check your network settings and try again."</string>
+  <string name="timesync_sync_now_connectivity_error_dialog_title">"今すぐ同期"</string>
+  <string name="timesync_sync_now_preference_title">"今すぐ同期"</string>
+  <string name="timesync_sync_now_progress_dialog_details">"サーバーに接続中…"</string>
+  <string name="timesync_sync_now_progress_dialog_title">"今すぐ同期"</string>
+  <string name="timesync_sync_now_screen_title">"今すぐ同期"</string>
+  <string name="timesync_sync_now_time_already_correct_dialog_details">"Authenticator's internal clock was not adjusted because it appears to already be in sync with servers."</string>
+  <string name="timesync_sync_now_time_already_correct_dialog_title">Time already correct</string>
+  <string name="timesync_sync_now_time_corrected_dialog_details">"Authenticator's internal clock has been adjusted to match the time provided by servers. 
+
+The Date &amp; Time settings on this device have not been changed."</string>
+  <string name="timesync_sync_now_time_corrected_dialog_title">"時刻を修正しました"</string>
+  <string name="tip1_patternforgotten">Reinstall and reactivate</string>
+  <string name="tip2_patternforgotten">Touch reset to clear account data and reactivate.</string>
+  <string name="tip_lockpattern">"パスワードは4文字以上にする必要があります"</string>
+  <string name="title_change_lockpattern">"パターンロックを設定"</string>
+  <string name="title_createpattern">"パスワードを作成"</string>
+  <string name="title_forgetpattern">Forget password</string>
+  <string name="title_gesture">"パターンロック"</string>
+  <string name="title_lockpattern">Require pattern lock</string>
+  <string name="title_myaccount">My account: %s</string>
+  <string name="title_nopassword">"少額の支払いには必要ありません"</string>
+  <string name="title_nopassword_dialog">Daily limit</string>
+  <string name="title_password">"パスワード"</string>
+  <string name="title_password_threshold">Daily limit = ￥%1$s</string>
+  <string name="title_patternforgotten">"Forget password？
+You can："</string>
+  <string name="title_updatepattern">"パスワードを変更"</string>
+  <string name="title_visible_pattern">"パターンを表示する"</string>
+  <string name="type_prompt">Type of key</string>
+  <string name="update_pattern_jump">&lt;u&gt;パスワードを削除&lt;/u&gt;</string>
+  <string name="version_preference_title">Version</string>
+  <string name="welcome_page_alert">"&lt;font color=#fb3500&gt;* &lt;/font&gt;If you delete your Mi Security Token, you won't be able to sign in to your account."</string>
+  <string name="welcome_page_details">"— あなたのアカウントを安全に保ちます。
+— 見知らぬ人が端末を使用してアカウントにログインできないようにします。"</string>
+  <string name="welcome_page_title">Use for Secure Sign-in</string>
+</resources>

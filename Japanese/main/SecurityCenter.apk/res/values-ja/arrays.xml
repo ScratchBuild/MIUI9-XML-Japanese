@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="date_of_traffic_cmcc">
+        <item>"今週 "</item>
+        <item>"今日 "</item>
+        <item>"今月 "</item>
+    </string-array>
+    <string-array name="date_of_traffic">
+        <item>"昨日 "</item>
+        <item>"今日 "</item>
+        <item>"今月 "</item>
+    </string-array>
+    <string-array name="date_of_traffic_prefix_cmcc">
+        <item>"今週: "</item>
+        <item>"今日: "</item>
+        <item>"今月: "</item>
+    </string-array>
+    <string-array name="date_of_traffic_prefix">
+        <item>"昨日: "</item>
+        <item>"今日: "</item>
+        <item>"今月: "</item>
+    </string-array>
+    <string-array name="date_of_app_all">
+        <item>"昨日 (data)"</item>
+        <item>"今日 (data)"</item>
+        <item>"今月 (data)"</item>
+        <item>"昨日 WLAN"</item>
+        <item>"今日 WLAN"</item>
+        <item>"今月 WLAN"</item>
+    </string-array>
+    <string-array name="traffic_type">
+        <item>"モバイル使用量 "</item>
+        <item>"Wi-Fi使用量 "</item>
+    </string-array>
+    <string-array name="mi_service_traffic_type">
+        <item>"モバイル使用量 "</item>
+        <item>"Wi-Fi使用量 "</item>
+    </string-array>
+    <string-array name="over_limit_traffic_waring_style">
+        <item>"警告を表示"</item>
+        <item>"警告と共にモバイルデータをオフ"</item>
+    </string-array>
+    <string-array name="roaming_network_type">
+        <item>Always</item>
+        <item>For exceptions only</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="lock_mode">
+        <item>"デバイスがロックされた時"</item>
+        <item>"デバイスがロックされた時、またはアプリを終了した後"</item>
+        <item>"デバイスがロックされた時、またはアプリを終了した1分後"</item>
+    </string-array>
+    <string-array name="sort_type">
+        <item>"状態"</item>
+        <item>"アプリ名"</item>
+        <item>"使用頻度"</item>
+        <item>"ストレージ使用"</item>
+        <item>"データ使用量"</item>
+        <item>"バッテリー使用量"</item>
+    </string-array>
+    <string-array name="sort_title">
+        <item>"状態順"</item>
+        <item>"アプリ名順"</item>
+        <item>"使用頻度順"</item>
+        <item>"ストレージ使用順"</item>
+        <item>"データ使用量順"</item>
+        <item>"バッテリー使用量順"</item>
+    </string-array>
+    <string-array name="sms_report_type">
+        <item>"データ使用量"</item>
+        <item>"電話の残高"</item>
+    </string-array>
+    <string-array name="alarm_repeat_type">
+        <item>Once</item>
+        <item>Every day</item>
+        <item>Legal workdays</item>
+        <item>Weekdays</item>
+        <item>Custom</item>
+    </string-array>
+    <string-array name="alarm_repeat_type_no_workdays">
+        <item>Once</item>
+        <item>Every day</item>
+        <item>Weekdays</item>
+        <item>Custom</item>
+    </string-array>
+</resources>
