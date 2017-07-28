@@ -9,6 +9,8 @@
   <string name="auth_notif_message">%1$sのセッションキーを入力してください</string>
   <string name="auth_notif_ticker">OBEX認証リクエスト</string>
   <string name="auth_notif_title">セッションキー</string>
+  <string name="bluetooth_connected">Bluetooth オーディオは接続されています</string>
+  <string name="bluetooth_disconnected">Bluetooth オーディオは接続を解除されています</string>
   <string name="bluetooth_in_airplane_mode">"機内モード"</string>
   <string name="bluetooth_map_settings_app_icon">"アプリアイコン"</string>
   <string name="bluetooth_map_settings_cancel">"キャンセル"</string>
@@ -98,6 +100,7 @@
   <string name="pbap_authentication_timeout_message">%1$sでのセッションキーの入力がタイムアウトになりました</string>
   <string name="pbap_session_key_dialog_header">Bluetoothセッションキーが必要です</string>
   <string name="pbap_session_key_dialog_title">%1$sのセッションキーを入力</string>
+  <string name="permdesc_bluetoothAvrcpDataManager">Allows the app to access the BluetoothAvrcpData manager and use it to display on UI.</string>
   <string name="permdesc_bluetoothShareManager">"BluetoothShareマネージャーへのアクセスとそれを利用したファイル転送をアプリに許可します。"</string>
   <string name="permdesc_bluetoothWhitelist">"Bluetooth端末によるアクセスを一時的に許可して、ユーザーの確認を受けずにその端末からこの端末にファイルを送信することをアプリに許可します。"</string>
   <string name="permdesc_handoverStatus">Allows receiving handover transfer status information from Bluetooth.</string>

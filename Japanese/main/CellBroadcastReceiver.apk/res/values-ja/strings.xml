@@ -1,9 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="add_channel">チャンネルを追加</string>
   <string name="alert_reminder_interval_summary" />
   <string name="alert_reminder_interval_title">警報リマインダー</string>
-  <string name="alert_sound_duration_summary" />
-  <string name="alert_sound_duration_title">警告音の持続時間</string>
   <string name="app_label">緊急警報</string>
   <string name="button_cancel">キャンセル</string>
   <string name="button_delete">削除</string>

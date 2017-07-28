@@ -1,15 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="alert_sound_duration_entries">
-        <item>2秒</item>
-        <item>4秒</item>
-        <item>6秒</item>
-        <item>8秒</item>
-        <item>10秒</item>
-    </string-array>
     <string-array name="alert_reminder_interval_entries">
         <item>1回のみ</item>
         <item>2分ごと</item>
+        <item>5分ごと</item>
         <item>15分ごと</item>
         <item>オフ</item>
     </string-array>

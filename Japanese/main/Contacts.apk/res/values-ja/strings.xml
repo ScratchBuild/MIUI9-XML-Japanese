@@ -374,9 +374,6 @@
   <string name="dialer_menu_title">"メニューオプション"</string>
   <string name="dialer_returnToInCallScreen">"通話に戻る"</string>
   <string name="dialer_useDtmfDialpad">"プッシュホン式キーパッドを使う"</string>
-  <string name="dialog_device_info_hardware_version">ハードウェアバージョン: %s</string>
-  <string name="dialog_device_info_miui_version">MIUIバージョン: %s</string>
-  <string name="dialog_device_info_title">バージョン情報</string>
   <string name="dialog_import">連絡先をインポートする</string>
   <string name="dialog_import_export">連絡先をインポート/エクスポートする</string>
   <string name="dialog_new_contact_account">アカウント配下に連絡先を作成する</string>
@@ -1194,6 +1191,7 @@ To add a contact to your list of favorites:
   <string name="vcard_import_failed">"vCard %s をインポートできません。"</string>
   <string name="vcard_import_request_rejected_message">vCardのインポートが拒否されました。再度実行してください。</string>
   <string name="vcard_import_will_start_message">まもなく %s がインポートされます。</string>
+  <string name="vcard_import_will_start_message_with_default_name">まもなくファイルがインポートされます。</string>
   <string name="vcard_unknown_filename">contact</string>
   <string name="video_call">"ビデオ通話"</string>
   <string name="video_chat">"ビデオチャット"</string>

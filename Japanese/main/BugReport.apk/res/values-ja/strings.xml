@@ -282,8 +282,8 @@
   <string name="toast_report_copied_to_clipboard">"レポートをクリップボードにコピーしました"</string>
   <string name="toast_report_sent_failed">"レポートを送信できません"</string>
   <string name="toast_report_sent_succeed">"レポートが送信されました"</string>
-  <string name="toast_title_required">"問題の説明を記述してください"</string>
   <string name="toast_third_packagename_required">"アプリ名を入力してください"</string>
+  <string name="toast_title_required">"問題の説明を記述してください"</string>
   <string name="try_again">"再試行"</string>
   <string name="upload_log_failed">"ログを送信できませんでした"</string>
   <string name="warning_field_empty">"%1$sを入力してください"</string>

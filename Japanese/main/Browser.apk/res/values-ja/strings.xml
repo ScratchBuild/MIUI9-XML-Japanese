@@ -199,8 +199,7 @@
   <string name="current_version_pad">Pad</string>
   <string name="current_version_pc">Desktop</string>
   <string name="current_version_phone">Phone</string>
-  <string name="custom_head_card_text">"Always believe that something wonderful
-is about to happen"</string>
+  <string name="custom_head_card_text">Always believe that something wonderful is about to happen</string>
   <string name="custom_head_card_text_incognito">"You're incognito!
 閲覧したページは履歴に表示されません。"</string>
   <string name="data_traffic_prompt_change">"モバイルデータ接続を使用して動画を視聴すると、データ使用量が増加します。データ使用量の制限を超えた場合は、キャリアによっては追加料金が発生する場合があります。"</string>
