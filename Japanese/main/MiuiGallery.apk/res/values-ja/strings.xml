@@ -49,7 +49,10 @@
   <string name="album_jump_failed">Wait until albums are synced with Mi Cloud and try again</string>
   <string name="album_member">Album members %s</string>
   <string name="album_name">"アルバム名"</string>
+  <string name="album_name_locations">"場所"</string>
+  <string name="album_name_people">"人物"</string>
   <string name="album_name_recent_discovery">"履歴"</string>
+  <string name="album_name_tags">"タグ"</string>
   <string name="album_others_share_baby_info_format">Baby album from %s</string>
   <string name="album_others_share_info_format">From %s</string>
   <string name="album_owner_share">"共有済み"</string>
@@ -306,6 +309,7 @@
   <string name="empty_recommend_back">"戻る"</string>
   <string name="empty_recommend_face_page_view">"おすすめはありません"</string>
   <string name="empty_relation">"グループ名は空にすることはできません"</string>
+  <string name="empty_title_no_photos">"写真や動画はありません"</string>
   <string name="enable_auto_upload_tip">"このアルバムのMi Cloudとの同期をオンにしますか？"</string>
   <string name="enable_auto_upload_title">"Mi Cloudとの同期をオンにする"</string>
   <string name="enable_cloud_for_sharing">Turn on Mi Cloud albums to view shared photos.</string>
@@ -338,7 +342,7 @@
   <string name="face_album_empty">"Not enough photos to recognize people.
 Take more photos of your friends!"</string>
   <string name="face_album_empty_syncing">Syncing data, come back in a while</string>
-  <string name="face_album_empty_syncing_when_connect_wifi">Connect to WLAN to sync info</string>
+  <string name="face_album_empty_syncing_when_connect_wifi">"情報を同期するためネットワークに接続"</string>
   <string name="face_album_long_tap_tip">To select multiple people or change group settings, press &amp; hold a profile photo</string>
   <string name="face_album_new_name_hint">New name</string>
   <string name="face_album_not_named">Unnamed</string>
@@ -393,7 +397,7 @@ Take more photos of your friends!"</string>
   <string name="has_invalid_recipient">"不明な宛先: %1$s"</string>
   <string name="have_known">OK</string>
   <string name="hidden_album_display_name">Hidden album</string>
-  <string name="home_page_empty">Empty</string>
+  <string name="home_page_empty_action">"写真を撮影"</string>
   <string name="home_page_label">"写真"</string>
   <string name="how_to_set_relation">"グループを作成するにはアルバムを長押し"</string>
   <string name="hybrid_check_network">"ネットワーク設定"</string>
@@ -545,7 +549,10 @@ Take more photos of your friends!"</string>
   <string name="other_album">"その他のアルバム"</string>
   <string name="other_settings">"その他の設定"</string>
   <string name="owner_album_subtitle">Shared with %1$s people</string>
+  <string name="people_album_empty_title">"人物ごとに写真を並べ替えできます"</string>
   <string name="people_jump_failed">Wait until photos with people are synced with Mi Cloud and try again</string>
+  <string name="people_mark_mode_title">\"%s\"を選択</string>
+  <string name="people_mark_mode_title_no_mark_name">"人物を選択"</string>
   <string name="people_page_label">People</string>
   <string name="people_page_unname">Unnamed</string>
   <string name="pet_album_display_name">"ペットの写真"</string>
@@ -570,6 +577,7 @@ Take more photos of your friends!"</string>
   <string name="picker_title_format">You can select %d photos</string>
   <string name="picker_title_selection_format">Selected photos: %d</string>
   <string name="picker_title_unlimit">"写真を選択"</string>
+  <string name="places_album_empty_title">"場所ごとに写真を並べ替えできます"</string>
   <string name="preparing_data">"読み込み中…"</string>
   <string name="projection_checkbox_text">Remember this display</string>
   <string name="projection_device_connection_failed">"プロジェクターに接続できませんでした"</string>
@@ -585,6 +593,7 @@ Take more photos of your friends!"</string>
   <string name="publish_succeeded">Album published</string>
   <string name="publishing">Publishing…</string>
   <string name="quotation">\"%s\"</string>
+  <string name="recent_album_empty_title">"最近追加された新しい写真はありません"</string>
   <string name="recipient_editor_count_format">%d</string>
   <string name="recommanded_face_abandon_tip">Removed from suggestions</string>
   <string name="recommanded_face_added_tip">Added to \"%s\"</string>
@@ -632,7 +641,6 @@ Take more photos of your friends!"</string>
   <string name="scan_barcode_guide">"To get album's QR code, tap the Share icon."</string>
   <string name="scan_barcode_to_join">Scan QR code to add album</string>
   <string name="scan_qr_code_buttom_text">Scan QR code to view this album</string>
-  <string name="search_album_jump_failed">Wait until albums are synced with Mi Cloud and try again</string>
   <string name="search_backup_full_screen">Turn on sync with Mi Cloud to find more objects and people</string>
   <string name="search_backup_now">"オンにする"</string>
   <string name="search_backup_sub_title">Turn on to find more images</string>
@@ -648,15 +656,22 @@ Take more photos of your friends!"</string>
   <string name="search_login_sub_title">Sign in to find more photos</string>
   <string name="search_login_title">Mi Account</string>
   <string name="search_login_title_full_screen">Sign in with your Mi Account to find more objects and people</string>
-  <string name="search_people_jump_failed">Wait until photos with people are synced with Mi Cloud and try again</string>
+  <string name="search_net_error">"ネットワークエラーが発生しました。別のネットワークに接続してもう一度お試しください。"</string>
+  <string name="search_request_open">"テストチームに参加"</string>
   <string name="search_result_empty">"何も見つかりませんでした"</string>
   <string name="search_retry">"再試行"</string>
+  <string name="search_select_network">"ネットワークを選択"</string>
   <string name="search_set_network_connection">"ネットワーク設定"</string>
+  <string name="search_setting_sub_title">"改善された画像検索"</string>
+  <string name="search_setting_sub_title_open">"承認されました。開始までもう少々お待ちください。"</string>
+  <string name="search_setting_title">"ギャラリー内の写真を検索"</string>
+  <string name="search_title_album">"アルバム"</string>
   <string name="search_title_history">"検索履歴"</string>
   <string name="search_title_location">Locations</string>
   <string name="search_title_others">All results</string>
   <string name="search_title_people">People</string>
   <string name="search_title_recommend">Recommended</string>
+  <string name="search_title_suggestion">"提案"</string>
   <string name="search_title_tag">Objects</string>
   <string name="secret_album_card_description">The best place for all your little secrets</string>
   <string name="secret_album_card_title">Try hidden album</string>
@@ -690,6 +705,7 @@ Take more photos of your friends!"</string>
   <string name="set_face_image">"新しいプロフィール写真を設定"</string>
   <string name="set_group">"グループを設定"</string>
   <string name="set_wallpaper_get_image_failed">"画像をダウンロードできませんでした、後ほど再試行してください"</string>
+  <string name="setup_network_connection">"ネットワーク設定"</string>
   <string name="share">"共有"</string>
   <string name="share_album">"アルバムを共有"</string>
   <string name="share_album_needs_auto_upload_tip">"共有アルバムのバックアップをオフにすることはできません"</string>
@@ -743,6 +759,7 @@ Take more photos of your friends!"</string>
   <string name="text_append_hint">Enter text</string>
   <string name="text_append_style">Bubble</string>
   <string name="text_append_transparent">Opacity</string>
+  <string name="things_album_empty_title">"被写体ごとに写真を並べ替えできます"</string>
   <string name="tip_capture_location">"撮影場所:"</string>
   <string name="tip_capture_params">"EXIFデータ:"</string>
   <string name="tip_capture_time">"撮影日時:"</string>

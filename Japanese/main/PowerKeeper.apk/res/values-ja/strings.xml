@@ -173,14 +173,12 @@
   <string name="set_lcd_mode">Screen mode</string>
   <string name="settings_safetylegal_activity_loading">"読み込み中…"</string>
   <string name="show_system_app">"システムアプリを表示"</string>
-  <string name="sleep_config_enhance_description">Will improve standby power usage in night</string>
+  <string name="sleep_config_enhance_description">"機械学習によるユーザーの睡眠時間を予測し、睡眠時間中にいくつかのバックグラウンドアプリをクリアしたり、NFC、KeyGauard通知、同期、Bluetooth、GPS、モバイルデータやWi-Fiなどの使用を制限する場合があります。"</string>
   <string name="sleep_config_enhance_title">Sleep saving modes</string>
   <string name="still">"写真"</string>
   <string name="ui">Standard</string>
   <string name="user_define_mode">"名前"</string>
   <string name="vip_feedback">Vip Feedback</string>
-  <string name="vip_feedback_apply">Apply Vip Feedback</string>
-  <string name="vip_feedback_apply_msg">Please contact vip-feedback-system@xiaomi.com to apply Vip Feedback</string>
   <string name="vip_feedback_enable">Enable Vip Auto Feedback</string>
   <string name="warm_configure">"温度制御の設定"</string>
 </resources>

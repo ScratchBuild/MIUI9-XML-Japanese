@@ -65,6 +65,9 @@
   <string name="commercial">Commercial</string>
   <string name="common_loading_text">"読み込み中..."</string>
   <string name="connect_fail">"ネットワークに接続できません、後でもう一度お試しください。"</string>
+  <string name="content_desc_activity_main_add_city">"都市を追加"</string>
+  <string name="content_desc_activity_main_add_city_manage">"都市を管理"</string>
+  <string name="content_desc_activity_main_more_settings">"その他の設定"</string>
   <string name="daily_forcast_drawer_on_bottom">"非表示"</string>
   <string name="daily_forcast_no_stable_direction">"そよ風"</string>
   <string name="daily_forcast_weather_transfer">%1$s. %2$s later.</string>
