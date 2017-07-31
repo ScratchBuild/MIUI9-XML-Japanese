@@ -33,44 +33,44 @@
         <item quantity="one">Shared to %d person</item>
     </plurals>
     <plurals name="picker_all_image_need_download">
-        <item quantity="other">"選択した写真はデバイス上にありません。モバイルデータを使用してダウンロードしますか？"</item>
-        <item quantity="one">"選択した写真はデバイス上にありません。モバイルデータを使用してダウンロードしますか？"</item>
+        <item quantity="other">"選択した写真は端末上にありません。モバイルデータを使用してダウンロードしますか？"</item>
+        <item quantity="one">"選択した写真は端末上にありません。モバイルデータを使用してダウンロードしますか？"</item>
     </plurals>
     <plurals name="picker_all_origin_need_download">
-        <item quantity="other">"選択した写真 (%dMB) はデバイス上にありません。モバイルデータを使用してダウンロードしますか？"</item>
-        <item quantity="one">"選択した写真 (%dMB) はデバイス上にありません。モバイルデータを使用してダウンロードしますか？"</item>
+        <item quantity="other">"選択した写真 (%dMB) は端末上にありません。モバイルデータを使用してダウンロードしますか？"</item>
+        <item quantity="one">"選択した写真 (%dMB) は端末上にありません。モバイルデータを使用してダウンロードしますか？"</item>
     </plurals>
     <plurals name="picker_all_image_will_download">
-        <item quantity="other">"Selected photos aren't on device. They will be downloaded."</item>
-        <item quantity="one">"Selected photo isn't on device. It will be downloaded."</item>
+        <item quantity="other">選択した写真は端末上にありません。まもなくダウンロードされます。</item>
+        <item quantity="one">選択した写真は端末上にありません。まもなくダウンロードされます。</item>
     </plurals>
     <plurals name="picker_skip_unavailable_images">
-        <item quantity="other">"Skipped %d photos which aren't on device."</item>
-        <item quantity="one">"Skipped a photo which isn't on device."</item>
+        <item quantity="other">端末上にない%d枚の写真はスキップしました。</item>
+        <item quantity="one">端末上にない写真はスキップしました。</item>
     </plurals>
     <plurals name="picker_retry_image_confirm_message">
-        <item quantity="other">"Couldn't download %1$d photos, try again?"</item>
-        <item quantity="one">"Couldn't download photo, try again?"</item>
+        <item quantity="other">%1$d枚の写真をダウンロードできませんでした、もう一度お試しください</item>
+        <item quantity="one">写真をダウンロードできませんでした、もう一度お試しください</item>
     </plurals>
     <plurals name="picker_no_network_retry_image_confirm_message">
-        <item quantity="other">"Couldn't download %1$d photos, connect to the network and try again"</item>
-        <item quantity="one">"Couldn't download photo, connect to the network and try again"</item>
+        <item quantity="other">%1$d枚の写真をダウンロードできませんでした、ネットワークに接続してもう一度お試しください</item>
+        <item quantity="one">写真をダウンロードできませんでした、ネットワークに接続してもう一度お試しください</item>
     </plurals>
     <plurals name="picker_retry_origin_confirm_message">
-        <item quantity="other">"Couldn't download %1$d photos (%2$dMB), try again?"</item>
-        <item quantity="one">"Couldn't download photo (%2$dMB), try again?"</item>
+        <item quantity="other">%1$d枚の写真 (%2$dMB) をダウンロードできませんでした、もう一度お試しください</item>
+        <item quantity="one">写真 (%2$dMB) をダウンロードできませんでした、もう一度お試しください</item>
     </plurals>
     <plurals name="picker_no_network_retry_origin_confirm_message">
-        <item quantity="other">"Couldn't download %1$d photos (%2$dMB), connect to the network and try again"</item>
-        <item quantity="one">"Couldn't download photo (%2$dMB), connect to the network and try again"</item>
+        <item quantity="other">%1$d枚の写真 (%2$dMB) をダウンロードできませんでした、ネットワークに接続してもう一度お試しください</item>
+        <item quantity="one">写真 (%2$dMB) をダウンロードできませんでした、ネットワークに接続してもう一度お試しください</item>
     </plurals>
     <plurals name="picker_cancel_confirm_message">
-        <item quantity="other">Cancel downloading %d remaining photos?</item>
-        <item quantity="one">Cancel downloading the remaining photo?</item>
+        <item quantity="other">残り%d枚の写真のダウンロードをキャンセルしますか？</item>
+        <item quantity="one">残りの写真のダウンロードをキャンセルしますか？</item>
     </plurals>
     <plurals name="add_to_album_cloud_photo_count_tip">
-        <item quantity="other">Added %d cloud photos, turn off \"Only show local albums\" to view.</item>
-        <item quantity="one">Added %d cloud photo, turn off \"Only show local albums\" to view.</item>
+        <item quantity="other">クラウドに%d枚の写真を追加しました、表示するには\"端末上のアルバムのみ表示\"をオフにしてください。</item>
+        <item quantity="one">クラウドに%d枚の写真を追加しました、表示するには\"端末上のアルバムのみ表示\"をオフにしてください。</item>
     </plurals>
     <plurals name="delete_photo_msg_format">
         <item quantity="other">Delete %1$d photos %2$s?</item>
@@ -153,24 +153,24 @@
         <item quantity="one">1 item waiting to back up</item>
     </plurals>
     <plurals name="number_of_uploading_images">
-        <item quantity="other">Backing up %1$d photos…</item>
-        <item quantity="one">Backing up photo…</item>
+        <item quantity="other">%1$d枚の写真をバックアップしています…</item>
+        <item quantity="one">写真をバックアップしています…</item>
     </plurals>
     <plurals name="number_of_uploading_videos">
-        <item quantity="other">Backing up %1$d videos…</item>
-        <item quantity="one">Backing up video…</item>
+        <item quantity="other">%1$d個の動画をバックアップしています…</item>
+        <item quantity="one">動画をバックアップしています…</item>
     </plurals>
     <plurals name="number_of_uploading_images_and_videos">
-        <item quantity="other">Backing up %1$d items…</item>
-        <item quantity="one">Backing up 1 item…</item>
+        <item quantity="other">%1$d個のアイテムをバックアップしています…</item>
+        <item quantity="one">1個のアイテムをバックアップしています…</item>
     </plurals>
     <plurals name="download_error">
-        <item quantity="other">"Couldn't download %1$d files"</item>
-        <item quantity="one">"Couldn't download %1$d file"</item>
+        <item quantity="other">%1$d個のファイルをダウンロードできませんでした</item>
+        <item quantity="one">%1$d個のファイルをダウンロードできませんでした</item>
     </plurals>
     <plurals name="download_retry_message">
-        <item quantity="other">"Couldn't download %1$d files, check network connection and try again"</item>
-        <item quantity="one">"Couldn't download %1$d file, check network connection and try again"</item>
+        <item quantity="other">%1$d個のファイルをダウンロードできませんでした、ネットワーク接続を確認してもう一度お試しください</item>
+        <item quantity="one">%1$d個のファイルをダウンロードできませんでした、ネットワーク接続を確認してもう一度お試しください</item>
     </plurals>
     <plurals name="custom_select_title_items_selected">
         <item quantity="other">%d items selected</item>
@@ -185,7 +185,7 @@
         <item quantity="one">Total %1$d item</item>
     </plurals>
     <plurals name="quickly_discovery_message_format">
-        <item quantity="other">Found %1$d new photos</item>
-        <item quantity="one">Found a new photo</item>
+        <item quantity="other">%1$d枚の新しい写真が見つかりました</item>
+        <item quantity="one">新しい写真が見つかりました</item>
     </plurals>
 </resources>
