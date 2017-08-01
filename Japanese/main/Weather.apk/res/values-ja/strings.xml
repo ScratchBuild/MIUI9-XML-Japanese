@@ -18,6 +18,7 @@
   <string name="activity_main_update_time">"%1$s前に更新"</string>
   <string name="activity_main_update_time_expire">"データ期限切れ"</string>
   <string name="activity_main_update_time_right_now">"少し"</string>
+  <string name="activity_minute_rain_location_fail_msg">"現在地を取得できませんでした、地図の初期位置は北京です"</string>
   <string name="activity_weathermain_locationg">"現在地を取得中…"</string>
   <string name="activity_weathermain_locationg_error">"現在地を取得できません"</string>
   <string name="add_city">"追加"</string>
