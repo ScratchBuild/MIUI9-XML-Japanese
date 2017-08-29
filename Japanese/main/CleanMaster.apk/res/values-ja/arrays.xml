@@ -9,71 +9,24 @@
         <item>名前順</item>
     </string-array>
     <string-array name="installed_app_sort_type">
-        <item>Most used</item>
+        <item>Frequently used</item>
         <item>サイズ順</item>
     </string-array>
     <string-array name="auto_clean_time">
-        <item>Every day</item>
+        <item>Everyday</item>
         <item>Every 3 days</item>
         <item>Every 7 days</item>
+        <item>Every 15 days</item>
     </string-array>
     <string-array name="auto_clean_size">
-        <item>100 MB</item>
-        <item>300 MB</item>
-        <item>500 MB</item>
-        <item>1 GB</item>
+        <item>100MB</item>
+        <item>300MB</item>
+        <item>500MB</item>
+        <item>1GB</item>
     </string-array>
     <string-array name="auto_process_mode">
         <item>通知のみ</item>
         <item>自動的に消去</item>
         <item>消去して通知</item>
-    </string-array>
-    <string-array name="cache_clean_menu">
-        <item>このファイルを消去</item>
-        <item>ファイルの場所を表示</item>
-    </string-array>
-    <string-array name="trash_clean_menu">
-        <item>このファイルを消去</item>
-        <item>ファイルの場所を表示</item>
-    </string-array>
-    <string-array name="video_clean_menu">
-        <item>このファイルを消去</item>
-        <item>開く</item>
-    </string-array>
-    <string-array name="empty_floder_clean_menu">
-        <item>クリーンアップ</item>
-    </string-array>
-    <string-array name="apk_clean_menu">
-        <item>クリーンアップ</item>
-        <item>このアプリをインストール</item>
-        <item>ファイルの場所を表示</item>
-    </string-array>
-    <string-array name="long_add_menu">
-        <item>例外に追加</item>
-    </string-array>
-    <string-array name="long_add_app_menu">
-        <item>アプリを例外に追加</item>
-    </string-array>
-    <string-array name="app_clean_menu">
-        <item>アンインストール</item>
-    </string-array>
-    <string-array name="auto_alert_apps_time">
-        <item>Every 7 days</item>
-        <item>Every 15 days</item>
-        <item>Every 30 days</item>
-    </string-array>
-    <string-array name="scan_engine">
-        <item>Clean Master</item>
-        <item>Tencent</item>
-    </string-array>
-    <string-array name="wechat_menu_delete">
-        <item>消去</item>
-    </string-array>
-    <string-array name="wechat_menu_delete_whitelist">
-        <item>消去</item>
-    </string-array>
-    <string-array name="wechat_menu_delete_whitelist_view">
-        <item>消去</item>
-        <item>表示</item>
     </string-array>
 </resources>

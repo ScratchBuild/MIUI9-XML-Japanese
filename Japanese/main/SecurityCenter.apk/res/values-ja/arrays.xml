@@ -66,6 +66,12 @@
         <item>"データ使用量順"</item>
         <item>"バッテリー使用量順"</item>
     </string-array>
+    <string-array name="title_app_info">
+        <item>Installation source</item>
+        <item>Installation time</item>
+        <item>Last update source</item>
+        <item>Last update time</item>
+    </string-array>
     <string-array name="sms_report_type">
         <item>"データ使用量"</item>
         <item>"電話の残高"</item>

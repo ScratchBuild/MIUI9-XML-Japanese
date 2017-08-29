@@ -12,4 +12,8 @@
         <item quantity="other">Second spaceに%d個の通知</item>
         <item quantity="one">Second spaceに%d個の通知</item>
     </plurals>
+    <plurals name="search_app_count_txt_na">
+        <item quantity="other">%d個のアプリを検索</item>
+        <item quantity="one">%d個のアプリを検索</item>
+    </plurals>
 </resources>

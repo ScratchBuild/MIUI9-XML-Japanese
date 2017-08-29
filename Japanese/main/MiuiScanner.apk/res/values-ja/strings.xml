@@ -44,6 +44,7 @@
   <string name="document_ocr_result_title">Document photo</string>
   <string name="document_ocr_tip_msg">読み取り中…</string>
   <string name="document_recognize_fail_tip">"ドキュメントを読み取れませんでした"</string>
+  <string name="document_recognize_null_tip">"ドキュメントの読み取り結果は空です"</string>
   <string name="document_rectify">調整</string>
   <string name="document_rectify_tip_msg">調整中…</string>
   <string name="document_save_succeed_tip">%1$sにドキュメントを保存しました</string>

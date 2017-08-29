@@ -3,6 +3,7 @@
   <string name="agree">"同意"</string>
   <string name="agree_terms">"私は利用規約およびプライバシーポリシーを読み、同意しました。"</string>
   <string name="app_name">Provision</string>
+  <string name="application_permissions">"アプリのパーミッション"</string>
   <string name="back">"戻る"</string>
   <string name="cm_terms_content">"In order to improve the services provided to you, the mobile network operator of your choice may upload your personal data and the info about this device to its servers using WLAN networks or mobile data connection. This information will only be used for statistical purposes in order to improve the quality of the services and provide more personalized content. This information won't be used to identify you personally and won't be disclosed to third parties."</string>
   <string name="cm_terms_title">Mobile Network Operator Agreement</string>
@@ -37,8 +38,6 @@
   <string name="other_settings_auto_update_summary">"MIUIは更新のインストールに最適な時間を選択します。"</string>
   <string name="other_settings_location">"位置情報"</string>
   <string name="other_settings_location_summary">"アプリに位置情報へのアクセスを許可する"</string>
-  <string name="other_settings_mifg_online_content">Wallpaper Carousel</string>
-  <string name="other_settings_mifg_online_content_summary">"新しい画像をダウンロードするためWallpaper Carouselにインターネットへの接続を許可する"</string>
   <string name="other_settings_upload_debug_log_summary">"収集した情報はシステム内の問題を特定および分析するために使用され、個人情報が含まれる場合がありますが、 あなた個人を識別するためにデータが使用されることはありません。"</string>
   <string name="other_settings_upload_debug_log_title">"診断データを自動的に送信する"</string>
   <string name="other_settings_user_experience">"ユーザーエクスペリエンスプログラム"</string>

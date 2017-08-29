@@ -127,6 +127,7 @@
   <string name="international_details_uv_index_title">"UV指数"</string>
   <string name="international_details_wind_connect">%1$s %2$s</string>
   <string name="international_details_wind_title">"風速"</string>
+  <string name="it_is_going_to_rain">It is going to rain</string>
   <string name="locate_fail_detail_err">"端末の現在地を取得できません
 画面をタップして手動で追加または都市の位置を変更する"</string>
   <string name="location_tag">Locate</string>
@@ -148,12 +149,15 @@
   <string name="more_details">"さらに詳しく"</string>
   <string name="network_not_available">"ネットワークに接続できませんでした"</string>
   <string name="network_unavailable">"ネットワークに接続できませんでした。"</string>
+  <string name="night_not_disturb_settings_summary">Will not receive all weather notices from 23:00 to 07:00 the next day after opening</string>
+  <string name="night_not_disturb_settings_title">Do not disturb at night</string>
   <string name="no_network_btn">"再試行"</string>
   <string name="no_vote_ratio">Against %1$s%%</string>
   <string name="open">"開く"</string>
   <string name="open_browser">"ブラウザで開く"</string>
   <string name="open_now">"開く"</string>
   <string name="other">"その他"</string>
+  <string name="other_warning_settings">Other Warning Settings</string>
   <string name="particulate_matter_exceeded">High</string>
   <string name="particulate_matter_not_exceeded">Normal</string>
   <string name="particulate_matter_serious_exceeded">Too high</string>
@@ -164,9 +168,12 @@
   <string name="precipitation_degree_two">Light</string>
   <string name="pressure_connect">%1$s hPa</string>
   <string name="radar_cloud_image_title">"レーダーマップ"</string>
+  <string name="rainfall_settings_summary">Rainfall Settings</string>
+  <string name="rainfall_settings_title">Rainfall Warning</string>
   <string name="realtime_aqi_title">Air Quality Index</string>
   <string name="realtime_humidity_title">"相対湿度"</string>
   <string name="refresh_fail">"ネットワークに接続できませんでした"</string>
+  <string name="reminder_from_xiaomi_weather_app">Reminder From Xiaomi Weather APP</string>
   <string name="retry">"再試行"</string>
   <string name="search_weather">Weather</string>
   <string name="search_weather_keywords">Temperature;Weather Forecast;Weather;Air Quality;Pollution Degree;Humidity</string>
@@ -192,6 +199,9 @@
   <string name="unit">"単位"</string>
   <string name="unit_temperature">"気温の単位"</string>
   <string name="unit_wind">"風速の単位"</string>
+  <string name="update_night_setting_summary_text">Will not update automatically 23:00-07:00 after closed</string>
+  <string name="update_night_setting_title_text">Update Automatically At Night</string>
+  <string name="update_setting_title_text">Update Settings</string>
   <string name="view_forecast_item_yesterday">"昨日"</string>
   <string name="view_indexes_item_today">"今日"</string>
   <string name="view_indexes_item_tommorrow">"明日"</string>
@@ -200,4 +210,5 @@
   <string name="xiaomi_weather_description_content">"Weather provides you with accurate weather info. Without this app, status bar and Home screen Weather widget won't work properly. Make sure you can do without these features before you uninstall the app."</string>
   <string name="xiaomi_weather_description_title">"天気について"</string>
   <string name="yes_vote_ratio">For %1$s%%</string>
+  <string name="your_location">Your location</string>
 </resources>

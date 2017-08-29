@@ -121,7 +121,7 @@
   <string name="callUnanswered_forwarded">Call unanswered and forwarded</string>
   <string name="call_advanced_setting_title">"詳細設定"</string>
   <string name="call_background_lock_wallpaper">ロック画面の壁紙</string>
-  <string name="call_background_setting">"通話時の背景"</string>
+  <string name="call_background_setting">"着信時の背景"</string>
   <string name="call_barring">発着信制限</string>
   <string name="call_barring_incoming">通話着信制限</string>
   <string name="call_barring_outgoing">通話発信制限</string>
@@ -195,6 +195,7 @@
   <string name="card_title_outgoing_barred">Outgoing calls barred</string>
   <string name="card_title_redialing">リダイヤル中</string>
   <string name="card_title_unconditionalCF">Unconditional call forwarding is on</string>
+  <string name="carrier_info">携帯通信会社の情報</string>
   <string name="carrier_settings_title">携帯通信会社の設定</string>
   <string name="cb_psw_dont_match">パスワードが一致しません</string>
   <string name="cb_sms_settings">緊急警報SMS設定</string>

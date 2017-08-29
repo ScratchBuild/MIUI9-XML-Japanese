@@ -87,6 +87,7 @@
   <string name="aqi_quality_index_moderate">"中程度"</string>
   <string name="aqi_quality_index_pure">"優良"</string>
   <string name="aqi_quality_index_unhealthy">"不健康"</string>
+  <string name="at_miui_browser">\@Miブラウザ</string>
   <string name="autoSwithcingSearchEngineTips">"頻繁に使用する検索エンジンに切り替えました"</string>
   <string name="autofill_keyboard_accessory_content_description">Suggestions available…</string>
   <string name="autofill_popup_content_description">"自動入力のポップアップを表示しています"</string>
@@ -481,6 +482,8 @@
   <string name="miuichromium_error_page_suggestion_check_wifi_proxy" formatted="false">"(Wi-Fi) %s1プロキシ設定%s2を確認してください。"</string>
   <string name="miuichromium_error_page_suggestion_clear_cache" formatted="false">"キャッシュを消去してください (%s1設定%s2 - データを消去)。"</string>
   <string name="miuichromium_error_page_suggestion_clear_cache_and_cookies" formatted="false">"キャッシュとcookieを消去してください (%s1設定%s2 - データを消去、アカウント情報が失われる可能性があります)。"</string>
+  <string name="miuichromium_error_page_suggestion_clear_cache_and_cookies_no_invoke">"キャッシュとcookieを消去 (アカウント情報が失われる可能性があります)。"</string>
+  <string name="miuichromium_error_page_suggestion_clear_cache_no_invoke">"キャッシュを消去。"</string>
   <string name="miuichromium_error_page_suggestion_connect_and_retry">"インターネットに接続した後に再読み込みしてください"</string>
   <string name="miuichromium_error_page_suggestion_contact_admin">"システム管理者に問い合わせてください。"</string>
   <string name="miuichromium_error_page_suggestion_correct_url">"入力したアドレスを確認し、正しいURLを使用してもう一度お試しください。"</string>
@@ -652,6 +655,7 @@
   <string name="pull_to_refresh_pull_label">"画面を引っ張って"</string>
   <string name="pull_to_refresh_release_label">"指を離して更新"</string>
   <string name="qr_code_title">"QRコード"</string>
+  <string name="qr_description">"QRコードをスキャン"</string>
   <string name="quicklink_bookmark_save">Save to</string>
   <string name="quicklink_cannot_save_url">"このURLは追加できません。"</string>
   <string name="quicklink_folder_text">Top apps</string>
@@ -750,8 +754,9 @@
   <string name="send_comment_title">"コメント"</string>
   <string name="senddesktop">"ホーム画面"</string>
   <string name="sendstartpage">"スタートページ"</string>
-  <string name="share_image_text">こんなものを見つけました！</string>
-  <string name="share_page_text">こんなものを見つけました: %1$s | %2$s</string>
+  <string name="share_by_yidianzixun">【ちょっとした情報】</string>
+  <string name="share_image_text">こんなものを見つけました！ @MIUI</string>
+  <string name="share_page_text">こんなものを見つけました: %1$s @MIUI| %2$s</string>
   <string name="show_check_security_url_check_tip_dialog_description">Browser needs to connect to the internet to work normally. To improve security and receive more relevant recommendations, allow Browser to get the URLs of the websites you visit and access your location info.</string>
   <string name="show_check_security_url_check_tip_dialog_description_international">Browser needs to connect to the internet to work normally. To receive more relevant recommendations, allow Browser to get the URLs of the websites you visit and access your location info.</string>
   <string name="show_security_tip_dialog_title">"利用規約"</string>
@@ -761,12 +766,13 @@
   <string name="skip_current_version">"このバージョンをスキップ"</string>
   <string name="snapshot">Local</string>
   <string name="snapshot_failed">"ページを保存できませんでした"</string>
-  <string name="snapshot_successed">"ページを保存しました"</string>
+  <string name="snapshot_successed">Open Bookmarks/History-&gt;LOCAL to view page</string>
   <string name="ssl_bad_clock_date_settings">"日付を設定"</string>
   <string name="ssl_bad_clock_warning" formatted="false">"端末の日付と時刻(%s2)が正しくないため、%s1へのプライベート接続を確立できません。"</string>
   <string name="ssl_certificate">"セキュリティ証明書"</string>
   <string name="ssl_certificate_is_valid">"この証明書は有効です。"</string>
   <string name="ssl_continue">"続行"</string>
+  <string name="ssl_date_error_warnings_header">"このサイトの証明書は失効しているか、まだ有効ではありません。このページを離れることをお勧めします。"</string>
   <string name="ssl_date_invalid">"この証明書の日付は無効です。"</string>
   <string name="ssl_expired">"この証明書は有効期限切れです。"</string>
   <string name="ssl_go_back">"戻る"</string>
@@ -895,6 +901,7 @@
   <string name="view_document_downloaded_files">View downloaded files in Downloads</string>
   <string name="voice_check_network">"ネットワークの設定を確認してもう一度お試しください。"</string>
   <string name="voice_connect_network">"ネットワークに接続できません"</string>
+  <string name="voice_description">"音声検索"</string>
   <string name="voice_network_connection">"音声検索が正常に動作するには、インターネットへの接続が必要です。"</string>
   <string name="voice_search_permission">"音声検索が正常に動作するには、マイクへのアクセスが必要です。"</string>
   <string name="voice_semantic_analysis">Browser will be able to analyze semantics after you allow it to connect.</string>

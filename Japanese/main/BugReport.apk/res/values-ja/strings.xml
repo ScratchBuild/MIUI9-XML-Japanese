@@ -8,7 +8,7 @@
   <string name="app_name">"フィードバック"</string>
   <string name="btn_send">"送信"</string>
   <string name="bugreport_dialog_not_show_again">"次回から表示しない"</string>
-  <string name="bugreport_dialog_submit_content">"フィードバックには個人情報が含まれる場合があります。"</string>
+  <string name="bugreport_dialog_submit_content">"フィードバックには個人情報と位置データが含まれる場合があります。"</string>
   <string name="bugreport_dump_complete_notification_summary">"表示するにはタップ。"</string>
   <string name="bugreport_dump_complete_notification_title">"バグレポートを作成"</string>
   <string name="bugreport_dump_start_notification_summary">"これには数分かかります。"</string>
@@ -54,6 +54,7 @@
   <string name="feedback_choose_module">"アイテムを選択"</string>
   <string name="feedback_choose_module_hint">"必須"</string>
   <string name="feedback_collect_log_failed">"ログを取得できませんでした"</string>
+  <string name="feedback_contact_info_hint">"電話番号/メールアドレス"</string>
   <string name="feedback_continue">"フィードバックを続行"</string>
   <string name="feedback_description">"説明"</string>
   <string name="feedback_description_bugreport_hint">In some cases (…) my phone misbehaves (…).</string>
@@ -73,6 +74,7 @@
   <string name="feedback_report_remind_login_desc2">"\"My reports\"でレポートの進捗状況を確認することができます。"</string>
   <string name="feedback_retest_label">"再現手順"</string>
   <string name="feedback_select_images">"画像を追加"</string>
+  <string name="feedback_select_modem_log">"モデムログを追加"</string>
   <string name="feedback_select_problem">"問題"</string>
   <string name="feedback_select_suggestion">"提案"</string>
   <string name="feedback_select_upload_log">"ログを追加"</string>
@@ -180,6 +182,11 @@
   <string name="michat_wait_for_a_moment">"少々お待ちください、すぐ助けに向かいます！"</string>
   <string name="michat_webview_title">"詳細を表示"</string>
   <string name="min_error">Your %1$s should be longer.</string>
+  <string name="mobile_data_note_dialog_cancel">Wait for WLAN</string>
+  <string name="mobile_data_note_dialog_confirm">Upload</string>
+  <string name="mobile_data_note_dialog_content">Using mobile data to upload logs may generate additional fees.</string>
+  <string name="mobile_data_note_dialog_content_with_file_size">Uploading logs using mobile data connection will require %sMB of data.</string>
+  <string name="mobile_data_note_dialog_title">Data usage warning</string>
   <string name="modem_tool_log">Capture modem logs</string>
   <string name="modem_tool_log_start">"開始"</string>
   <string name="modem_tool_log_start_toast">Saving modem log to %s</string>
@@ -189,6 +196,7 @@
   <string name="module_data">"ストレージとデュアルアプリ"</string>
   <string name="module_desktop">"ホーム画面と設定"</string>
   <string name="module_finance">Finance &amp; Mi Wallet</string>
+  <string name="module_google_apps">"Googleアプリ"</string>
   <string name="module_item_less">"非表示"</string>
   <string name="module_item_more">"その他"</string>
   <string name="module_medias">"メディア"</string>
@@ -246,7 +254,7 @@
   <string name="section_screenshot">"スクリーンショット"</string>
   <string name="submit_dialog_cancel">"キャンセル"</string>
   <string name="submit_dialog_confirm">"送信"</string>
-  <string name="submit_dialog_content">"あなたのフィードバックは添付ファイルと共にMIUIのサーバーに送信されます。これには個人情報が含まれる場合があります。"</string>
+  <string name="submit_dialog_content">"あなたのフィードバックは添付ファイルと共にMIUIのサーバーに送信されます。これには個人情報と位置データが含まれる場合があります。"</string>
   <string name="submit_dialog_title">"レポートを送信"</string>
   <string name="submit_feedback_info_failed">"レポートを送信できませんでした"</string>
   <string name="suggestion_description">"ここに説明を追加"</string>

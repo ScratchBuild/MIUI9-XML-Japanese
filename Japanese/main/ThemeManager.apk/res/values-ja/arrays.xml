@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="wallpaper_settings_precust_cover_name">
+        <item>エンターテイメント</item>
+        <item>風景</item>
+        <item>星空</item>
+        <item>植物</item>
+        <item>動物</item>
+    </string-array>
     <string-array name="disable_package_replacement">
         <item>disable package name</item>
     </string-array>

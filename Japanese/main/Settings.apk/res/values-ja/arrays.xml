@@ -820,6 +820,13 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>Click adjust - Click trigger</item>
         <item>Click adjust - Long Click trigger</item>
     </string-array>
+    <string-array name="silent_mode_duration_text">
+        <item>常に</item>
+        <item>30分</item>
+        <item>1時間</item>
+        <item>2時間</item>
+        <item>8時間</item>
+    </string-array>
     <string-array name="alarm_repeat_type">
         <item>毎日</item>
         <item>平日</item>

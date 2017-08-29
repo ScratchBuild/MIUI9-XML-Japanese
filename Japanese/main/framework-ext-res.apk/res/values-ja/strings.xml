@@ -71,6 +71,11 @@
   <string name="maml_component_customization_title">"設定"</string>
   <string name="memory_clear_nothing_result">Nothing to clear in cache</string>
   <string name="memory_clear_result">"%1$sBを解放しました"</string>
+  <string name="miui_screen_ratio_hint">"アスペクト比の問題"</string>
+  <string name="miui_screen_ratio_hint_dont_show_again">"二度と表示しない"</string>
+  <string name="miui_screen_ratio_hint_go_to_settings">"設定に移動"</string>
+  <string name="miui_screen_ratio_hint_message">"このアプリは全画面表示で実行することができますが、正しく表示されない可能性があります。これは [設定] &gt; [高度な設定] &gt; [ボタン] から変更することができます。"</string>
+  <string name="miui_screen_ratio_hint_ok">OK</string>
   <string name="miui_upgrading_notification_title">"システムを読み込み中、一部の機能が制限される場合があります"</string>
   <string name="package_delete_confirm_step_1">"%sを削除しますか？"</string>
   <string name="package_delete_confirm_step_2">"このアプリを削除すると、システムが不安定になる場合があります。"</string>

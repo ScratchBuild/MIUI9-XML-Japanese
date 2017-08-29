@@ -4,6 +4,7 @@
   <string name="app_label">HTMLビューア</string>
   <string name="app_name_which_call">アプリ:%s</string>
   <string name="app_version_which_call">アプリバージョン:%s</string>
+  <string name="autoconnect">自動接続</string>
   <string name="ime_privacy_policy">キーボードを選択</string>
   <string name="license_host_unreachable">"ネットワークに接続できません。今すぐこの情報を表示するには、
 接続可能な端末から%sにアクセスしてください。"</string>

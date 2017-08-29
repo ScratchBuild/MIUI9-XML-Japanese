@@ -3,6 +3,7 @@
   <string name="accessibility_call_muted">"通話がミュートされています。"</string>
   <string name="accessibility_speakerphone_enabled">"スピーカーが有効です。"</string>
   <string name="add_vm_number_str">"番号を追加"</string>
+  <string name="callFailed_simError">SIMカードのエラー</string>
   <string name="can_not_dial_vt_while_voice_prompt">"音声通話中にビデオ通話はできません"</string>
   <string name="can_not_dial_while_vt_prompt">"ビデオ通話中はダイヤルできません"</string>
   <string name="dial_conference_fail_prompt">"現在のネットワークはVoLTEをサポートしていないため、直接グループ通話に発信することはできません。"</string>
@@ -11,6 +12,8 @@
   <string name="enable_account_preference_title">"通話アカウント"</string>
   <string name="handle_restricted">"制限あり"</string>
   <string name="incall_error_call_failed">"発信できません。"</string>
+  <string name="incall_error_power_off">"電話をかけるには機内モードをオフにします。"</string>
+  <string name="incall_error_supp_service_unknown">"このサービスはサポートされていません。"</string>
   <string name="lch_dtmf_key">D</string>
   <string name="no_vm_number">"ボイスメール番号がありません"</string>
   <string name="no_vm_number_msg">"SIMカードにボイスメールの番号がありません。"</string>

@@ -511,6 +511,8 @@
   <string name="bluetooth_device_name">端末名</string>
   <string name="bluetooth_device_searchable">Discoverable</string>
   <string name="bluetooth_devices">Bluetooth端末</string>
+  <string name="bluetooth_disable_absolute_volume">絶対音量を無効にする</string>
+  <string name="bluetooth_disable_absolute_volume_summary">リモート端末で音量に関する問題（音量が大きすぎる、制御できないなど）が発生した場合に、Bluetooth の絶対音量の機能を無効にする。</string>
   <string name="bluetooth_disable_profile_message">次のプロフィールが無効になります:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>対象デバイス:&lt;br>&lt;b>%2$s&lt;/b></string>
   <string name="bluetooth_disable_profile_title">プロフィールを無効にしますか？</string>
   <string name="bluetooth_disconnect_a2dp_profile">%1$sはメディアの音声から切断されます。</string>
@@ -805,7 +807,6 @@
   <string name="clear_failed_dlg_text">アプリのデータを消去できませんでした。</string>
   <string name="clear_failed_dlg_title">データのクリア</string>
   <string name="clear_user_data_text">データを消去</string>
-  <string name="close_gesture">ジェスチャーを使用して閉じる</string>
   <string name="close_miui_optimization_title">MIUIの最適化をオフにする</string>
   <string name="close_miui_optimization_warning_message">この変更を適用するために端末を再起動します。注：この機能をオフにすると、ユーザーインターフェースのレイアウトや他の要素に大きな変化があります。</string>
   <string name="cloud_backup_section_title">Mi Cloudバックアップ</string>
@@ -862,6 +863,13 @@
   <string name="controls_label">コントロール</string>
   <string name="controls_subtitle">消費電力の調整</string>
   <string name="convenience_key_category_title">ショートカット</string>
+  <string name="convert_to_fbe_warning">"データ パーティションをファイルベースの暗号化に変換します。
+ 警告: この操作ではユーザーのデータがすべて削除されます。
+ この機能はアルファ版であり、正しく機能しないおそれがあります。
+ 続行するには [消去して変換] をクリックしてください。"</string>
+  <string name="convert_to_file_encryption">ファイル暗号化に変換する</string>
+  <string name="convert_to_file_encryption_done">ファイルは既に暗号化済みです</string>
+  <string name="convert_to_file_encryption_enabled">変換…</string>
   <string name="copyright_title">著作権</string>
   <string name="country_name">%s (system)</string>
   <string name="create">作成</string>
@@ -1074,6 +1082,8 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="delete_legacy_fingerprint">削除</string>
   <string name="delete_or_keep_legacy_passwords_confirm_msg">この指紋を削除しますか？</string>
   <string name="delete_saved_network">保存されたネットワークを削除</string>
+  <string name="demo_mode">デモモード</string>
+  <string name="demo_mode_summary">Display specific status bar icons for demo</string>
   <string name="deny">許可しない</string>
   <string name="details_subtitle">使用状況の詳細</string>
   <string name="details_title">使用状況の詳細</string>
@@ -1137,7 +1147,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="dialog_yes">はい</string>
   <string name="disableNetwork">disableNetwork</string>
   <string name="disable_overlays">HWオーバーレイを無効</string>
-  <string name="disable_overlays_summary">画面合成に常にGPUを使用する</string>
+  <string name="disable_overlays_summary">画面レンダリングに常にGPUを使用する</string>
   <string name="disable_power_key_long_press_under_keyguard">電源ボタンのメニューをオフにする</string>
   <string name="disable_service_message">[OK]をタップすると%1$sが停止します。</string>
   <string name="disable_service_title">%1$sを停止しますか？</string>
@@ -1284,7 +1294,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="enable_service_password_reason">%1$sをONにするとデータの暗号化に影響するため、パスワードの確認が必要となります。</string>
   <string name="enable_service_pattern_reason">%1$sをONにするとデータの暗号化に影響するため、パターンの確認が必要となります。</string>
   <string name="enable_service_pin_reason">%1$sをONにするとデータの暗号化に影響するため、PINの確認が必要となります。</string>
-  <string name="enable_service_title">%1$sを利用しますか？</string>
+  <string name="enable_service_title">サービスはこれらの操作を実行します:</string>
   <string name="enable_snapshot_screenlock">戻るボタンの長押しで写真を撮影</string>
   <string name="enable_terminal_summary">ローカルシェルアクセスを提供するターミナルアプリを有効にします</string>
   <string name="enable_terminal_title">ローカルターミナル</string>
@@ -1431,6 +1441,8 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="font_size_summary1">システムのテキストが小さすぎる場合、試してみてください</string>
   <string name="font_size_summary2">Lite mode.</string>
   <string name="forbidden_switch_apn_string">選択したAPN設定は現在のネットワークタイプと一致しません</string>
+  <string name="force_allow_on_external">外部ストレージへのアプリの書き込みを許可</string>
+  <string name="force_allow_on_external_summary">マニフェストの値に関係なく、すべてのアプリを外部ストレージに書き込めるようになります</string>
   <string name="force_hw_ui">GPUレンダリングを使用</string>
   <string name="force_hw_ui_summary">2D描画にGPUを常に使用する</string>
   <string name="force_msaa">4x MSAAを適用</string>
@@ -1511,7 +1523,6 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="google_backup_enable">バックアップをオンにする</string>
   <string name="google_backup_section_title">Googleバックアップとリセット</string>
   <string name="google_title">Google</string>
-  <string name="got_it">OK</string>
   <string name="gsm_to_wifi_connect_type_title">GSM to Wi-Fi</string>
   <string name="handy_mode">片手操作モード</string>
   <string name="handy_mode_enable">片手操作モード</string>
@@ -1548,8 +1559,6 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="heavy_weight_stop_description">このアプリを安全に停止できません。停止すると、現在の作業が一部失われる恐れがあります。</string>
   <string name="help_label">ヘルプとフィードバック</string>
   <string name="hidden_ssid_label">ステルスSSID:</string>
-  <string name="hide">非表示</string>
-  <string name="hide_screen_button">画面ボタンを非表示</string>
   <string name="high_performance_notif_summary">端末は高い負荷を掛けると熱くなる場合があります</string>
   <string name="high_performance_notif_title">パフォーマンスモードがオン</string>
   <string name="high_performance_title">ベンチマークテストを実行しているように見えます。最良の結果を得るためには電源管理を\"パフォーマンス\"に設定してください。</string>
@@ -1753,7 +1762,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="local_backup_password_summary_change">デスクトップのフルバックアップ用のパスワードを変更または削除する場合にタップします</string>
   <string name="local_backup_password_summary_none">デスクトップのフルバックアップは現在保護されていません</string>
   <string name="local_backup_password_title">PCバックアップパスワード</string>
-  <string name="local_backup_password_toast_confirmation_mismatch">新しいパスワードと確認用のパスワードが一致しません。</string>
+  <string name="local_backup_password_toast_confirmation_mismatch">パスワードが一致しません。</string>
   <string name="local_backup_password_toast_success">新しいバックアップパスワードが設定されました</string>
   <string name="local_backup_password_toast_validation_failure">バックアップパスワードの設定に失敗しました</string>
   <string name="local_backup_section_summary">システム設定、アカウント情報、アプリをバックアップ</string>
@@ -1824,8 +1833,10 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="lock_screen_notifications_interstitial_message">端末がロックされている場合、通知をどのように表示しますか？</string>
   <string name="lock_screen_notifications_interstitial_title">通知</string>
   <string name="lock_screen_notifications_summary_disable">通知をすべて表示しない</string>
-  <string name="lock_screen_notifications_summary_hide">プライベートな通知内容を非表示にする</string>
-  <string name="lock_screen_notifications_summary_show">すべての通知内容を表示する</string>
+  <string name="lock_screen_notifications_summary_hide">すべての通知を表示するが内容を非表示にする</string>
+  <string name="lock_screen_notifications_summary_hide_profile">プライベートな通知内容を非表示にする</string>
+  <string name="lock_screen_notifications_summary_show">すべての通知とその内容を表示する</string>
+  <string name="lock_screen_notifications_summary_show_profile">すべての通知内容を表示する</string>
   <string name="lock_screen_notifications_title">端末がロックされているとき</string>
   <string name="lock_screen_secure_after_timeout_immediately_summary">直ぐにパスワードが必要になります</string>
   <string name="lock_screen_secure_after_timeout_summary">パスワードの要求: %1$s</string>
@@ -1886,7 +1897,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="lockpassword_pin_no_sequential_digits">一連の数字を昇順や降順にしたり、繰り返したりすることはできません</string>
   <string name="lockpassword_pin_recently_used">最近使用したPINは使用できません。</string>
   <string name="lockpassword_pin_set_toast">PINが設定されました</string>
-  <string name="lockpassword_pin_too_long">PINは%d桁以下で指定してください。</string>
+  <string name="lockpassword_pin_too_long">PINは%d桁未満で指定してください。</string>
   <string name="lockpassword_pin_too_short">PINは%d桁以上にしてください。</string>
   <string name="lockpassword_press_continue">終了後[次へ]をタップ</string>
   <string name="lockpattern_change_lock_pattern_label">パターンの変更</string>
@@ -1918,13 +1929,14 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="lockpattern_settings_power_button_instantly_locks_summary">%1$sがロック解除を管理している場合を除く</string>
   <string name="lockpattern_settings_title">ロック解除パターン</string>
   <string name="lockpattern_too_many_failed_confirmation_attempts">誤った回数が多すぎます。%d秒後にもう一度お試しください。</string>
-  <string name="lockpattern_too_many_failed_confirmation_attempts_footer">%d秒後にもう一度お試しください。</string>
   <string name="lockpattern_too_many_failed_confirmation_attempts_header">誤った回数が多すぎます！</string>
   <string name="lockpattern_tutorial_cancel_label">キャンセル</string>
   <string name="lockpattern_tutorial_continue_label">次へ</string>
   <string name="lockscreen_glogin_checking_password">確認中…</string>
   <string name="lockscreen_glogin_password_hint">パスワード</string>
   <string name="lockscreen_glogin_submit_button">ログイン</string>
+  <string name="lockscreen_magazine">Wallpaper Carousel</string>
+  <string name="lockscreen_magazine_title">Wallpaper Carousel</string>
   <string name="login_account_dialog_message">Mi Accountでログインして、Mi Cloudとの同期をオンにします。</string>
   <string name="login_account_dialog_title">Mi Accountでログイン</string>
   <string name="login_action">ログイン</string>
@@ -1939,6 +1951,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="man_add_application">自動起動アプリを追加</string>
   <string name="manage_device_admin">端末管理者</string>
   <string name="manage_device_admin_summary">端末管理者を表示または無効にする</string>
+  <string name="manage_fakecell_settings">Protection from fake base stations</string>
   <string name="manage_fingerprint_text">指紋の管理</string>
   <string name="manage_mobile_plan_title">モバイルプラン</string>
   <string name="manage_notification_access_summary_zero">アプリは通知を読み取ることができません</string>
@@ -1995,6 +2008,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="master_clear_progress_title">消去中</string>
   <string name="master_clear_summary">携帯端末内のすべてのデータを消去する</string>
   <string name="master_clear_title">データの初期化</string>
+  <string name="max_aspect_settings_all_app_display_loading">読み込み中…</string>
   <string name="max_cpu10_info">"Deca-core Max "</string>
   <string name="max_cpu2_info">Dual-core Max</string>
   <string name="max_cpu4_info">"Quad-core Max "</string>
@@ -2156,6 +2170,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="music_dirac_mode_general_earbuds">General</string>
   <string name="music_dirac_mode_general_inear">General In-Ear</string>
   <string name="music_dirac_mode_headset">Mi Headphones</string>
+  <string name="music_dirac_mode_headset_comfort">Mi Comfort</string>
   <string name="music_dirac_mode_in_ear">Mi In-Ear</string>
   <string name="music_dirac_mode_in_ear_2013">Mi In-Ear (2013)</string>
   <string name="music_dirac_mode_in_ear_pro">Mi In-Ear Pro</string>
@@ -2266,6 +2281,8 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="no_updates_warning">お使いのシステムは最新です</string>
   <string name="no_updates_warning2">"リラックスして、更新情報があればお知らせします :)"</string>
   <string name="noise_suppression">周辺ノイズの低減</string>
+  <string name="normal">標準</string>
+  <string name="normal_info">すべての音量は正常です</string>
   <string name="normal_smartcover_title">不透明なフロントカバー</string>
   <string name="not_installed">未インストール</string>
   <string name="notes_privacy_password_role_instruction">プライベートなノートはここに保存されます。</string>
@@ -2322,9 +2339,9 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="open_miui_optimization_warning_message">この変更を適用するために端末を再起動します。</string>
   <string name="open_personal_assistant_dialog_btn_cancel">キャンセル</string>
   <string name="open_personal_assistant_dialog_btn_confirm">閉じる</string>
-  <string name="open_personal_assistant_dialog_desc">スマートアシスタントを使用したり、更新を受け取ることができません。今すぐオフにしますか？</string>
-  <string name="open_personal_assistant_dialog_title">スマートアシスタントをオフにする</string>
-  <string name="open_personal_assistant_title">スマートアシスタントをオンにする</string>
+  <string name="open_personal_assistant_dialog_desc">QuickCardを使用したり、更新を受け取ることができません。今すぐオフにしますか？</string>
+  <string name="open_personal_assistant_dialog_title">QuickCardをオフにする</string>
+  <string name="open_personal_assistant_title">QuickCardをオンにする</string>
   <string name="open_wifi_connect_summary">タップして詳細を表示</string>
   <string name="open_wifi_connect_title">%1$sに接続しました</string>
   <string name="opening_paragraph_delete_profile_unknown_company">この仕事用プロファイルを管理するアプリ:</string>
@@ -2448,6 +2465,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="pointer_location_summary">現在のタップデータをオーバーレイ表示する</string>
   <string name="pointer_settings_category">マウス/トラックパッド</string>
   <string name="pointer_speed">ポインタの速度</string>
+  <string name="popup_window">ポップアップウィンドウを許可</string>
   <string name="power_autorun_apps_empty">なし</string>
   <string name="power_autorun_empty">なし</string>
   <string name="power_bluetooth">Bluetooth</string>
@@ -2555,6 +2573,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="privacy_factory_reset_dlg_title">Back up your data</string>
   <string name="privacy_file">ファイル</string>
   <string name="privacy_gallery">写真</string>
+  <string name="privacy_header_text_less_than_half">このアプリのためのスペースが少なすぎます。セパレータをさらにドラッグします。</string>
   <string name="privacy_mms">メッセージ</string>
   <string name="privacy_mode_dialog_message">メッセージ、ノート、写真、設定、および着信を非表示にしますか？</string>
   <string name="privacy_mode_dialog_title">ゲストモード</string>
@@ -2770,6 +2789,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="resolver_settings_label">並べ替え</string>
   <string name="resource_ringtone_volume_mute">現在の着信音量はミュートされています</string>
   <string name="restr_pin_enter_admin_pin">管理者PINを入力</string>
+  <string name="restrict_max_aspect_ratio_title">最大アスペクト比の提案を無効にする</string>
   <string name="restriction_bluetooth_config_summary">Bluetoothのペア設定や設定の変更を許可する</string>
   <string name="restriction_bluetooth_config_title">Bluetooth</string>
   <string name="restriction_location_enable_summary">アプリに位置情報の使用を許可する</string>
@@ -2831,8 +2851,6 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="saved_wifi_delete">削除</string>
   <string name="scan_list_label">スキャン結果:</string>
   <string name="screen">画面</string>
-  <string name="screen_button">画面ボタン</string>
-  <string name="screen_button_tips">画面ボタンを非表示にするには下にスワイプ</string>
   <string name="screen_cells_config_title">ホーム画面のレイアウト</string>
   <string name="screen_color_and_optimize">色とコントラスト</string>
   <string name="screen_color_and_optimize_disabled">読書モードで色温度の調整はできません</string>
@@ -2848,6 +2866,8 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="screen_key_press">ナビゲーションボタンをタップ</string>
   <string name="screen_key_press_action">トリガ機能</string>
   <string name="screen_locking_sounds_title">画面ロック音</string>
+  <string name="screen_max_aspect_ratio_desc">アプリが全画面表示できるかどうか</string>
+  <string name="screen_max_aspect_ratio_title">最大アスペクト比の設定</string>
   <string name="screen_monochrome_mode_apps_loading">読み込み中…</string>
   <string name="screen_monochrome_mode_apps_title">モノクロモードを使用</string>
   <string name="screen_monochrome_mode_global_summary">すべてのアプリでモノクロモードを使用する</string>
@@ -3203,7 +3223,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="select_all">すべて選択</string>
   <string name="select_application">アプリを選択</string>
   <string name="select_device_admin_msg">デバイス管理者</string>
-  <string name="select_logd_size_dialog_title">各ログバッファのログサイズを選択</string>
+  <string name="select_logd_size_dialog_title">ログバッファのサイズを選択</string>
   <string name="select_logd_size_title">ログバッファのサイズ</string>
   <string name="select_sim_for_calls">通話に使用するSIMを選択してください</string>
   <string name="select_sim_for_data">データに使用するSIMを選択してください</string>
@@ -3253,7 +3273,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="show_connected_devices_summary">接続されたデバイスを表示する</string>
   <string name="show_connected_devices_title">接続されたデバイス</string>
   <string name="show_cpu_usage">CPU使用状況を表示</string>
-  <string name="show_cpu_usage_summary">現在のCPU使用状況をオーバーレイ表示する</string>
+  <string name="show_cpu_usage_summary">CPU使用状況をオーバーレイ表示する</string>
   <string name="show_dev_already">開発者向けオプションが既に有効です。</string>
   <string name="show_dev_on">これでデベロッパーになりました！</string>
   <string name="show_fc">強制終了したアプリ</string>
@@ -3279,7 +3299,14 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="shut_down_find_device_network_failure_content">「デバイスを探す」機能をOFFに出来ませんでした。お使いの携帯端末がインターネットに接続していることを確認してください。</string>
   <string name="shut_down_find_device_network_failure_title">ネットワークに接続出来ません</string>
   <string name="shuting_down_find_device">「デバイスを探す」機能をOFF...</string>
+  <string name="silent_duration">Duration</string>
+  <string name="silent_mode">マナーモード</string>
   <string name="silent_mode_title">マナーモード</string>
+  <string name="silent_off">オフにする</string>
+  <string name="silent_settings">マナー/DND</string>
+  <string name="silent_standard">マナー</string>
+  <string name="silent_time">Slience Duration</string>
+  <string name="silent_total">DND</string>
   <string name="sim_bad_pin">PINが正しくありません</string>
   <string name="sim_call_back_title">デフォルトのSIMからコールバック</string>
   <string name="sim_calls_always_use">このSIMを常に通話に使用する</string>
@@ -3401,8 +3428,9 @@ PINが正しくない可能性があります。"</string>
   <string name="status_bar_app_enable_keyguard">ロック画面</string>
   <string name="status_bar_app_enable_message">バッジ</string>
   <string name="status_bar_key_position_custom">ボタンの配置を変更</string>
-  <string name="status_bar_screen_button_desc">画面ボタンを下にスワイプで非表示にする</string>
+  <string name="status_bar_screen_button_force_immersive_desc">ボタンを表示するには画面の下から上に向かってスワイプします</string>
   <string name="status_bar_screen_button_key">画面ボタン</string>
+  <string name="status_bar_screen_button_key_force_immersive">画面ボタンを非表示</string>
   <string name="status_bar_screen_button_key_can_hide">画面ボタンは非表示にできます</string>
   <string name="status_bar_screen_key_back">戻るボタン</string>
   <string name="status_bar_screen_key_home">ホームボタン</string>
@@ -3441,6 +3469,8 @@ PINが正しくない可能性があります。"</string>
   <string name="status_bar_settings_style">通知とトグルの配置</string>
   <string name="status_bar_settings_toggle_collapse_after_clicked">タップ後に折り畳む</string>
   <string name="status_bar_settings_toggle_position">トグルの位置</string>
+  <string name="status_bar_settings_user_fold">通知フォルダ</string>
+  <string name="status_bar_settings_user_fold_summary">重要でない通知はすべて別のフォルダに表示されます</string>
   <string name="status_bar_style_list">結合表示</string>
   <string name="status_bar_style_page">分割表示</string>
   <string name="status_bt_address">Bluetoothアドレス</string>
@@ -3603,14 +3633,13 @@ PINが正しくない可能性があります。"</string>
   <string name="storageuse_settings_title">ストレージ使用状況</string>
   <string name="strict_mode">厳格モードを有効にする</string>
   <string name="strict_mode_summary">メインスレッドの処理が長引く場合は画面を点滅させる</string>
+  <string name="suggest_unrestrict_max_aspect_ratio_title">最大アスペクト比の提案を有効にする</string>
   <string name="sum_carrier_select">通信事業者を選択する</string>
   <string name="summary_divider_text">"、 "</string>
   <string name="supl_not_set">&lt;未設定></string>
   <string name="supplicant_state_label">申請者の状態:</string>
   <string name="sure_sync_now">今すぐアイテムを同期しますか？</string>
   <string name="suspend_gesture_enabled">画面をオフにするには電話を裏返す</string>
-  <string name="suspension_ball_enable">Quick ballのショートカット</string>
-  <string name="suspension_ball_enable_desc">ショートカットを使用してQuick ballのオン/オフを切り替える</string>
   <string name="suw_back_button_label">戻る</string>
   <string name="suw_more_button_label">その他</string>
   <string name="suw_next_button_label">次へ</string>
@@ -3683,6 +3712,7 @@ PINが正しくない可能性があります。"</string>
   <string name="time_zone_auto_stub">タイムゾーンを選択</string>
   <string name="timezone_settings">タイムゾーン</string>
   <string name="title_color_calibration">色補正プリセット</string>
+  <string name="title_convert_fbe">ファイルベースの暗号化に変換しています</string>
   <string name="title_font">フォント</string>
   <string name="title_font2">フォント</string>
   <string name="title_font_current">システムフォント</string>
@@ -3760,13 +3790,22 @@ PINが正しくない可能性があります。"</string>
   <string name="turn_off_common_password_confirm_msg">画面ロックも同様にオフになります</string>
   <string name="turn_off_keyguard_password_alert_title">オフにする</string>
   <string name="turn_off_keyguard_password_confirm_msg">パスワードの設定を行わないと、一部のセキュリティ機能が動作しません。</string>
+  <string name="turn_off_keyguard_password_wait_dialog">パスワードを閉じる</string>
   <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg">ロック画面のパスワードをオフにした後には、指紋認証でデバイスのロックを解除することはできません</string>
   <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg_delete">ロック画面のパスワードをオフにすると、記録された指紋認証が削除されます。指紋認証を使用してデバイスのロックを解除することはできません。</string>
   <string name="turn_off_radio">無線通信をOFF</string>
   <string name="turn_off_security_lock">ロックをOFF</string>
   <string name="turn_on_keyguard_password">ロック画面のパスワードをオンにする</string>
+  <string name="turn_on_keyguard_password_alert">"Remember your password. If you forget it, you won't be able to restore it."</string>
+  <string name="turn_on_keyguard_password_alert_choose">"Remember your password. If you forget it, you'll have to erase all data on your device to set a new one."</string>
+  <string name="turn_on_keyguard_password_alert_foget_cacel">後で</string>
+  <string name="turn_on_keyguard_password_alert_foget_ok">OK</string>
+  <string name="turn_on_keyguard_password_alert_foget_ok_time">OK(%d秒)</string>
+  <string name="turn_on_keyguard_password_alert_forget_content">"Remember your Lock screen password. If you forget it, you'll have to erase all data on your device, including photos and contacts, and then set a new one."</string>
+  <string name="turn_on_keyguard_password_alert_forget_title">"If you forget it, you won't be able to restore it."</string>
   <string name="turn_on_radio">無線通信をON</string>
   <string name="turn_on_security_lock">画面ロックを選択</string>
+  <string name="turn_update_keyguard_password_wait_dialog">パスワードの変更</string>
   <string name="under_keyguard">画面オフ</string>
   <string name="uninstall_all_users_text">すべてのユーザーからアンインストール</string>
   <string name="uninstall_dlg_msg">アンインストールするとアプリの全データが削除されます</string>
@@ -3829,6 +3868,7 @@ PINが正しくない可能性があります。"</string>
   <string name="unlock_set_unlock_summary">画面ロックを設定します</string>
   <string name="unlock_setup_wizard_fingerprint_details">画面ロックの設定を完了したら、[設定]&gt;[セキュリティ]で指紋を追加することもできます。</string>
   <string name="unmount_inform_text">SDカードのマウントが解除されます。</string>
+  <string name="unrestrict_max_aspect_ratio_title">最大アスペクト比をサポート</string>
   <string name="untitled_apn">無題</string>
   <string name="update_progress_for_updates">アップデート中... (%s)</string>
   <string name="upload_debug_log_summary">診断データには、ハードウェア、オペレーティングシステムやアプリケーションの使用状況に関する情報が含まれます。これらのデータはシステム内の問題を特定、分析するために使用され、個人を識別するために使用されることはありません。</string>

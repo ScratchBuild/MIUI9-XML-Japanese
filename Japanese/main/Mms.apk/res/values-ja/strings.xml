@@ -570,6 +570,8 @@
   <string name="sp_category_title_prefix">%s</string>
   <string name="sp_conversation_title">通知</string>
   <string name="sp_mark_as_read_menu_title">既読としてマーク</string>
+  <string name="sqlite_disk_full">データベースまたはディスクがフルです</string>
+  <string name="sqlite_low_memory">メモリ不足</string>
   <string name="status_failed">失敗</string>
   <string name="status_label">"ステータス: "</string>
   <string name="status_pending">保留</string>
@@ -639,11 +641,6 @@
   <string name="url_fraud_visit">&lt;u&gt;とにかくアクセスする&lt;/u&gt;</string>
   <string name="url_result_safe">このURLは安全です</string>
   <string name="url_scanning">URLを確認中...</string>
-  <string name="user_agreement1">追加のソフトウェアをインストールしたり、この製品をご使用される前に、慎重に適用される規約をお読みください。</string>
-  <string name="user_agreement2">利用規約</string>
-  <string name="user_agreement3">と</string>
-  <string name="user_agreement4">プライバシーポリシー</string>
-  <string name="user_agreement5">OKをタップすると、本利用規約とプライバシーポリシーに同意されたものとみなされます。</string>
   <string name="verification_code_icon_name">V</string>
   <string name="verification_code_list_title">認証コード</string>
   <string name="view">表示</string>

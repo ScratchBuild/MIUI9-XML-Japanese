@@ -37,7 +37,7 @@
   <string name="error_filename_too_long">"ファイル名が長すぎます。"</string>
   <string name="error_sdcard_access">"ストレージにアクセスできません"</string>
   <string name="error_sdcard_unmounted">"今すぐSDカードを挿入してください"</string>
-  <string name="export_to_note">Export to Notes</string>
+  <string name="export_to_note">"エクスポート"</string>
   <string name="head_set_tip_dialog_msg">Disconnect your earphones to be able to record sound with specific presets (e.g., Music, Voice).</string>
   <string name="head_set_tip_dialog_ok">OK</string>
   <string name="head_set_tip_dialog_title">"内蔵マイクを使用"</string>

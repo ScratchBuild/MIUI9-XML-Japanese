@@ -68,6 +68,7 @@ to be able to view them anytime"</string>
   <string name="delete_src_photo">"写真を削除する"</string>
   <string name="dir_switch_out_all_photos">Second space Gallery</string>
   <string name="disable">"オフにする"</string>
+  <string name="do_not_ask">"二度と表示しない"</string>
   <string name="dont_import">"後で"</string>
   <string name="downloading_space">"ダウンロード中…"</string>
   <string name="enable">"オンにする"</string>
@@ -89,8 +90,13 @@ to be able to view them anytime"</string>
   <string name="finger_print_of_use">"指紋認証を使用"</string>
   <string name="fingerprint_removal_failed">"指紋を削除できませんでした"</string>
   <string name="function_not_support">"この端末ではサポートされていません"</string>
+  <string name="gms_message">"デュアルアプリを作成するにはGoogleサービスを使用する必要があります。Googleサービスのデュアルアプリを作成しますか？"</string>
+  <string name="gms_open_button">"開く"</string>
+  <string name="gms_title">"Googleサービスのデュアルアプリ"</string>
   <string name="goToSecondSpacce">"Second spaceに移動</string>
   <string name="go_on_import">Keep importing</string>
+  <string name="gpg_message">"デュアルアプリを作成するにはGoogle Play ゲームを使用する必要があります。Goolge Play ゲームのデュアルアプリを作成しますか？"</string>
+  <string name="gpg_title">"Google Playゲームのデュアルアプリ"</string>
   <string name="guide_contact_sub_title_desc">"Contacts added to Second space will be private.
 Messages will only appear in Second space."</string>
   <string name="guide_contact_suc_sub_title_desc">Only private contacts and messages will be shown in Second space</string>
@@ -179,6 +185,8 @@ to enter Second space from Lock screen"</string>
   <string name="scanner_fingerprint_tips_desc">"Select existing fingerprint to enter Second space. You won't be able to use it in First space."</string>
   <string name="scanner_fingerprint_tips_title">Enter Second space using existing fingerprint</string>
   <string name="scanner_second_space_fingerprint">Scan Second space fingerprint</string>
+  <string name="sdcardfs_dialog_message">"Second spaceに切り替える前に開発者向けオプションから\"Mock SD card optimization\"をオフにしてください。"</string>
+  <string name="search_result_text">"アプリが見つかりませんでした"</string>
   <string name="secondSpace">Second space</string>
   <string name="second_owner_finger_print">Second space fingerprint</string>
   <string name="second_space_finger_printf_desc">Add fingerprint specifically used to enter Second space</string>

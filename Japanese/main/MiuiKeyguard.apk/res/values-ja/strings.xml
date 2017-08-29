@@ -19,12 +19,11 @@
   <string name="fingerprint_try_again_text">"再試行"</string>
   <string name="forget_password_string">"パスワードを忘れた場合"</string>
   <string name="incorrect_pincode">"PINコードが正しくありません"</string>
-  <string name="incorrect_pincode_remaining_attempts">"PINコードが正しくありません、残り%d回です"</string>
   <string name="incorrect_pukcode">"PUKコードが正しくありません"</string>
-  <string name="incorrect_pukcode_remaining_attempts">"PUKコードが正しくありません、残り%d回です"</string>
   <string name="input_password_after_boot_msg">"端末のロックを解除するには、パスワードを入力します"</string>
   <string name="input_password_after_boot_msg_can_not_switch_when_calling">"通話中にspaceを切り替えることはできません"</string>
   <string name="input_password_after_boot_msg_must_enter_owner_space">"デバイスを再起動した後、First spaceのパスワードを入力する必要があります"</string>
+  <string name="input_password_handle_sdcard_fs">进入分身前需要在开发者选项中关闭“模拟SD卡优化”</string>
   <string name="input_password_hint_text">"パスワードを入力"</string>
   <string name="input_pattern_hint_text">"ロック解除パターンを入力"</string>
   <string name="input_pin_code">"PINコードを入力"</string>
@@ -34,20 +33,11 @@
   <string name="invalid_sim_puk_hint">"PUKは8桁以上の数字にする必要があります"</string>
   <string name="keyguard_charging_info_battery_temperature_text">"電池温度"</string>
   <string name="keyguard_charging_info_battery_used_time_text">"電池使用時間"</string>
-  <string name="keyguard_charging_info_charging_full_need_hour_time__text">"フル充電まで%d時間"</string>
-  <string name="keyguard_charging_info_charging_full_need_min_time__text">"フル充電まで%d分"</string>
-  <string name="keyguard_charging_info_charging_full_need_time__text" formatted="false">"フル充電まで%d時間%d分"</string>
   <string name="keyguard_charging_info_charging_text">"充電中"</string>
   <string name="keyguard_charging_info_charging_voltage_text">"電圧"</string>
   <string name="keyguard_charging_info_click_to_detail">"詳細を表示"</string>
-  <string name="keyguard_charging_info_could_use_hour_time_text">"残り%d時間"</string>
-  <string name="keyguard_charging_info_could_use_min_time_text">"残り%d分"</string>
-  <string name="keyguard_charging_info_could_use_time_text" formatted="false">"残り%d時間%d分"</string>
   <string name="keyguard_charging_info_current_now_text">"リアルタイム監視"</string>
-  <string name="keyguard_charging_info_drained_hour_time_format">"%d時間"</string>
-  <string name="keyguard_charging_info_drained_min_time_format">"%d分"</string>
   <string name="keyguard_charging_info_drained_power_percent_text">Drained</string>
-  <string name="keyguard_charging_info_drained_time_format" formatted="false">"%d時間%d分"</string>
   <string name="keyguard_charging_info_finished_charging_text">"充電完了"</string>
   <string name="keyguard_charging_info_last_charge_time">M/d H:mm</string>
   <string name="keyguard_charging_info_last_charge_today_time">"今日 %s"</string>
@@ -80,16 +70,15 @@
   <string name="open_camera_hint_text">"左にスワイプでカメラを開く"</string>
   <string name="open_remote_center_hint_text">"右にスワイプで電話を開く"</string>
   <string name="phone_locked_foget_password">Forgot password?</string>
-  <string name="phone_locked_foget_password_content">"この端末に関連付けられたMi Accountを使用して i.mi.com にログインすることで、すべてのデータを消去することができます。これは、端末に保存されているすべての個人データが消去されます。その後、端末を再起動して連絡先、メッセージ、写真、その他のアイテムをMi Cloudから復元することができます。
-
-この端末であなたのMi Accountでログインしない限り、この操作を行うことはできません。それ以外の場合は、端末を再度フラッシュする必要があります。"</string>
-  <string name="phone_locked_foget_password_footer">"手順:
-i.mi.com にログインして“Find device”に移動したら、デバイスを選択して Wipe device をクリック。"</string>
-  <string name="phone_locked_foget_password_header">"パスワードを忘れた場合はどうすればよいですか？"</string>
+  <string name="phone_locked_foget_password_mehod_back">"戻る"</string>
+  <string name="phone_locked_foget_password_method">Forgot password?</string>
+  <string name="phone_locked_foget_password_method_content">&lt;Data&gt;You have to &amp;lt;font color=#a5220e&amp;gt;erase all data &amp;lt;/font&amp;gt; on your device, including photos and contacts, and then set a new Lock screen password.&lt;/Data&gt;</string>
+  <string name="phone_locked_foget_password_method_next">"次へ"</string>
   <string name="phone_locked_foget_password_ok">OK</string>
+  <string name="phone_locked_forget_password_suggesstion_one_content">&lt;Data&gt;Power off your device, press and hold the &amp;lt;font color=#a5220e&amp;gt;Power button &amp;lt;/font&amp;gt; and the &amp;lt;font color=#a5220e&amp;gt;Volume up button &amp;lt;/font&amp;gt;simultaneously until you see ml.&lt;/Data&gt;</string>
+  <string name="phone_locked_forget_password_suggesstion_two_content">&lt;Data&gt;Select &amp;lt;font color=#a5220e&amp;gt;\"Wipe &amp;amp;amp; Reset\"&amp;lt;/font&amp;gt; and wait until the device reboots.&lt;/Data&gt;</string>
+  <string name="phone_locked_forget_password_suggesstions_title">How to erase data?</string>
   <string name="phone_locked_string">"電話がロックされています"</string>
-  <string name="phone_locked_timeout_minutes_string">"%d分後にもう一度お試しください"</string>
-  <string name="phone_locked_timeout_seconds_string">"%d秒後にもう一度お試しください"</string>
   <string name="unlock_string">"ロックを解除"</string>
   <string name="unlocking_sim_card">"SIMカードのロックを解除中"</string>
   <string name="unlockscreen_low_battery">"充電器を接続してください"</string>

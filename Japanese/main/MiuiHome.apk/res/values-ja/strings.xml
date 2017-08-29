@@ -74,7 +74,6 @@
   <string name="failed_to_delete_temporary">"削除できません"</string>
   <string name="failed_to_drop">"移動できません"</string>
   <string name="failed_to_drop_widget_invalid">"ウィジェットが無効です"</string>
-  <string name="failed_to_drop_widget_nospace">"ホーム画面に空きスペースがありません"</string>
   <string name="failed_to_load_image">"画像を読み込めませんでした"</string>
   <string name="folder_name">"フォルダ"</string>
   <string name="frame_load_failed">"フレームが読み込めません"</string>
@@ -164,6 +163,7 @@
   <string name="mtzgadget_missing_text">"ウィジェットは利用できません"</string>
   <string name="multi_selecting_tips">"アプリのアイコンをここにドラッグ＆ドロップ"</string>
   <string name="no_detail_page">"詳細ページなし"</string>
+  <string name="no_space_toast">"空きスペースがありません"</string>
   <string name="normal_wallpaper">"壁紙"</string>
   <string name="notification_installed">"正常にインストールされました"</string>
   <string name="notification_open_button">"開く"</string>

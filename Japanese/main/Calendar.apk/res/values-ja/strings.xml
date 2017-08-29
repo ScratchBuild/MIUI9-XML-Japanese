@@ -47,8 +47,6 @@
   <string name="birthday_event_description_a_week_later">"1週間後"</string>
   <string name="birthday_event_description_day_after_tomorrow">"明後日は"</string>
   <string name="birthday_event_description_day_before_yesterday">"一昨日は"</string>
-  <string name="birthday_event_description_days_ago">%1$d days since</string>
-  <string name="birthday_event_description_days_later">%1$d days until</string>
   <string name="birthday_event_description_special">"%1$s %2$s's %3$s %4$s %5$s"</string>
   <string name="birthday_event_description_today">"今日は"</string>
   <string name="birthday_event_description_tomorrow">"明日は"</string>
@@ -146,7 +144,6 @@
   <string name="downloading_wallpaper">"壁紙をダウンロード中"</string>
   <string name="edit_date_calculate_days_backward_error_hint">"Can't calculate forwards"</string>
   <string name="edit_date_calculate_days_empty_hint">"日数を入力してください"</string>
-  <string name="edit_date_calculate_days_error_hint">"%1$d日までの日数を入力することができます"</string>
   <string name="edit_date_calculate_days_forward_error_hint">"Can't calculate backwards"</string>
   <string name="edit_event_all_day_label">"終日"</string>
   <string name="edit_event_anniversary_name_empty_hint">"記念日の名前を入力"</string>

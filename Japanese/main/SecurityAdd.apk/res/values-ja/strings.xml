@@ -46,6 +46,8 @@
   <string name="game_setting">"ゲームの設定"</string>
   <string name="gamebooster_network_dialog_message">"Game speed boosterのすべての機能を使用するため、セキュリティアプリにネットワーク接続を許可しますか？"</string>
   <string name="gamebooster_network_dialog_title">"一部の機能が利用できません"</string>
+  <string name="gb_alipays_can_not_complete">"支払いを完了できません。インストールを続行します。"</string>
+  <string name="gb_weixinpay_can_not_complete">"支払いを完了できません。インストールを続行します。"</string>
   <string name="get_sys_info">"情報を取得中…"</string>
   <string name="gs_anto_clean_memory_whitelist">"例外"</string>
   <string name="gs_app_back_self_start">Battery saver</string>

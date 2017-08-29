@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="status_bar_settings_disabled_header_title">
-        <item quantity="other">"%s個のアプリが通知を表示することができません"</item>
-        <item quantity="one">"1個のアプリが通知を表示することができません"</item>
+        <item quantity="other">"%d個のアプリが通知を表示することができません"</item>
+        <item quantity="one">"%d個のアプリが通知を表示することができません"</item>
     </plurals>
     <plurals name="status_bar_settings_enabled_header_title">
-        <item quantity="other">"%s個のアプリが通知を表示することができます"</item>
-        <item quantity="one">"1個のアプリが通知を表示することができます"</item>
+        <item quantity="other">"%d個のアプリが通知を表示することができます"</item>
+        <item quantity="one">"%d個のアプリが通知を表示することができます"</item>
     </plurals>
     <plurals name="settings_toggle_position_divider_page">
         <item quantity="other">"バーの上に配置した%1$d個のトグルが有効です"</item>
-        <item quantity="one">"バーの上に配置した1個のトグルが有効です"</item>
+        <item quantity="one">"バーの上に配置した%1$d個のトグルが有効です"</item>
     </plurals>
     <plurals name="show_dev_countdown">
         <item quantity="other">"デベロッパーになるまであと%1$dステップです。"</item>
@@ -94,8 +94,8 @@
         <item quantity="one">%d app are allowed to autostart</item>
     </plurals>
     <plurals name="lockpassword_pin_fixed_length">
-        <item quantity="other">PIN must be %d digits</item>
-        <item quantity="one">PIN must be %d digit</item>
+        <item quantity="other">PINは%d桁で指定してください</item>
+        <item quantity="one">PINは%d桁で指定してください</item>
     </plurals>
     <plurals name="wifi_share_count">
         <item quantity="other">Shared %d networks</item>
@@ -128,5 +128,25 @@
     <plurals name="auto_disable_screenbuttons_disabled_header_title">
         <item quantity="other">%d個のアプリで無効にしない</item>
         <item quantity="one">1個のアプリで無効にしない</item>
+    </plurals>
+    <plurals name="lockpassword_pin_too_short">
+        <item quantity="other">PINは%d桁以上にしてください</item>
+        <item quantity="one">PINは%d桁以上にしてください</item>
+    </plurals>
+    <plurals name="lockpassword_pin_too_long">
+        <item quantity="other">PINは%d桁未満で指定してください</item>
+        <item quantity="one">PINは%d桁未満で指定してください</item>
+    </plurals>
+    <plurals name="lockpattern_recording_incorrect_too_short">
+        <item quantity="other">少なくとも%dつの点を結んでください。</item>
+        <item quantity="one">少なくとも%dつの点を結んでください。</item>
+    </plurals>
+    <plurals name="lockpattern_too_many_failed_confirmation_attempts">
+        <item quantity="other">誤った回数が多すぎます。%d秒後にもう一度お試しください。</item>
+        <item quantity="one">誤った回数が多すぎます。%d秒後にもう一度お試しください。</item>
+    </plurals>
+    <plurals name="lockpattern_too_many_failed_confirmation_attempts_footer">
+        <item quantity="other">%d秒後にもう一度お試しください。</item>
+        <item quantity="one">%d秒後にもう一度お試しください。</item>
     </plurals>
 </resources>

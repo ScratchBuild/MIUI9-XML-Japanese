@@ -109,9 +109,6 @@
   <string name="cancel_running_download">"キャンセル"</string>
   <string name="change_download_quality">"ダウンロード品質を変更"</string>
   <string name="channel_list_fragment_title">"ラジオ"</string>
-  <string name="chinese_female">"女性アーティスト (中国)"</string>
-  <string name="chinese_group">"バンド (中国)"</string>
-  <string name="chinese_male">"男性アーティスト (中国)"</string>
   <string name="choose_download_quality">"ダウンロード品質を選択"</string>
   <string name="choose_stream_quality">"ストリーミング品質を選択"</string>
   <string name="click_modify">"歌詞を編集するにはタップ。"</string>
@@ -124,8 +121,6 @@
   <string name="cloud_loading_message">"曲を検索中…"</string>
   <string name="cloud_music">Songs in Mi Cloud</string>
   <string name="cloud_settings">"同期設定"</string>
-  <string name="cloud_space_full">No storage space left</string>
-  <string name="cloud_space_full_message">Not enough room in your Mi Cloud to add more songs. To get more space, upgrade your Mi Account.</string>
   <string name="cloud_state_cloud_space_full">Not enough Mi Cloud storage, paused backup</string>
   <string name="cloud_state_low_power">Connect charger to resume backup</string>
   <string name="cloud_state_network_data">"Couldn't find WLAN networks, paused backup"</string>
@@ -206,7 +201,6 @@ is mainly provided by Ultimate Inc."</string>
   <string name="disable_auto_payment_success_message">"自動更新をオフにしました。現在の購読が期限切れになった後、曲をダウンロードするには再度購読する必要があります。"</string>
   <string name="disallow_add_to_fm">"FMラジオに曲を追加できません"</string>
   <string name="disallow_add_to_personal_radio">"パーソナルラジオに曲を追加できません"</string>
-  <string name="do_not_remind_again">"二度と表示しない"</string>
   <string name="doc_filter">Docs</string>
   <string name="done">"完了"</string>
   <string name="download">"ダウンロード"</string>
@@ -302,9 +296,6 @@ is mainly provided by Ultimate Inc."</string>
   <string name="enable_auto_payment_success">"自動的に更新"</string>
   <string name="enable_auto_payment_success_message">自動更新をオンにしました。次の支払いは%sです。</string>
   <string name="enabled">Enabled</string>
-  <string name="english_female">"女性アーティスト (米国/欧州)"</string>
-  <string name="english_group">"バンド (米国/欧州)"</string>
-  <string name="english_male">"男性アーティスト (米国/欧州)"</string>
   <string name="enter_garbage_clean">"内部ストレージをクリーンアップ。"</string>
   <string name="eq_auto">Custom</string>
   <string name="eq_blues">Blues</string>
@@ -341,7 +332,6 @@ is mainly provided by Ultimate Inc."</string>
   <string name="favorites">"お気に入り"</string>
   <string name="favourite_music_left_half">To add songs to this playlist, tap the</string>
   <string name="favourite_music_right_half">"Favorite icon to the right of the song's title"</string>
-  <string name="female_artist">"女性アーティスト"</string>
   <string name="file_not_found">"ファイルが存在しません"</string>
   <string name="filter_by_duration">By length</string>
   <string name="filter_by_duration_format">"%2$d分%5$2d秒"</string>
@@ -399,7 +389,6 @@ is mainly provided by Ultimate Inc."</string>
   <string name="global_search_title_movie">Movie soundtracks</string>
   <string name="global_search_title_prenatal">Prenatal music</string>
   <string name="global_search_title_radar">Music recognition</string>
-  <string name="group_artist">Bands</string>
   <string name="handle_later">"後で"</string>
   <string name="higher_quality_music">High quality audio</string>
   <string name="higher_quality_music_summary">Stream and download higher bitrate files</string>
@@ -426,9 +415,6 @@ is mainly provided by Ultimate Inc."</string>
   <string name="is_scanning">"ストレージの確認中…"</string>
   <string name="is_scanning_support_online">"ストレージの確認中…
 (その間、オンラインで音楽をストリーミングできます)"</string>
-  <string name="japan_korea_female">"女性アーティスト (日本/韓国)"</string>
-  <string name="japan_korea_group">"バンド (日本/韓国)"</string>
-  <string name="japan_korea_male">"男性アーティスト (日本/韓国)"</string>
   <string name="keep_queued_download">Keep</string>
   <string name="ktv_playlist">KTV playlist</string>
   <string name="latest_song">"再生履歴 (%d)"</string>
@@ -460,7 +446,6 @@ is mainly provided by Ultimate Inc."</string>
   <string name="lyric_is_empty">"利用できる歌詞がありません"</string>
   <string name="lyric_open_other_connect">"モバイルデータを使用して歌詞をダウンロード"</string>
   <string name="lyric_setting">"歌詞設定"</string>
-  <string name="male_artist">"男性アーティスト"</string>
   <string name="manager_cloud_space">"Mi Cloudのストレージを管理する"</string>
   <string name="max_sleep_time">%d</string>
   <string name="media_filter">"メディア"</string>
@@ -568,7 +553,6 @@ is mainly provided by Ultimate Inc."</string>
   <string name="no_song_downloaded">"サーバーに接続できませんでした"</string>
   <string name="normal_quality">Good</string>
   <string name="not_login">"ログインしていません"</string>
-  <string name="not_now">"後で"</string>
   <string name="not_selected">"曲を選択"</string>
   <string name="notif_text_engine_off">"Xunlei acceleratorはオフです。"</string>
   <string name="notif_text_engine_on">Accelerating…</string>
@@ -826,8 +810,13 @@ is mainly provided by Ultimate Inc."</string>
   <string name="talkback_download">"ダウンロード"</string>
   <string name="talkback_favorite">Like this song</string>
   <string name="talkback_mode">Loop playlist</string>
+  <string name="talkback_mode_repeat_all">List loop mode</string>
+  <string name="talkback_mode_repeat_current">Single loop mode</string>
+  <string name="talkback_mode_repeat_shuffle">Random play mode</string>
   <string name="talkback_more">"その他のメニュー"</string>
   <string name="talkback_next">"次の曲"</string>
+  <string name="talkback_nowplaying_bar">Play Bar</string>
+  <string name="talkback_nowplaying_circle">Play Circle</string>
   <string name="talkback_play">"再生 / 停止"</string>
   <string name="talkback_pre">"前の曲"</string>
   <string name="talkback_progress">"プログレスバー"</string>
@@ -883,7 +872,6 @@ is mainly provided by Ultimate Inc."</string>
   <string name="upgrade">Upgrade:</string>
   <string name="upgrade_force">"We're discontinuing our current streaming service due to copyright issues. Update to the newest version of the Music app to listen to high quality music."</string>
   <string name="upgrade_immediate">"今すぐ更新"</string>
-  <string name="upgrade_membership">Get more space</string>
   <string name="upgrade_music">Update Music</string>
   <string name="upgrade_music_message">"更新準備が整いました。更新するため再起動します。"</string>
   <string name="upgrade_nobeta">"We're discontinuing our current streaming service while we resolve copyright issues. Sorry for the inconvenience :("</string>

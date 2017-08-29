@@ -83,7 +83,7 @@
         <item>"パフォーマンス優先モード"</item>
     </string-array>
     <string-array name="thermal_summaries">
-        <item>The current temperature control mode, the temperature of experience is preferred</item>
-        <item>The current performance mode, performance experience is preferred, temperatures could rise</item>
+        <item>Current default mode</item>
+        <item>Current performance mode</item>
     </string-array>
 </resources>

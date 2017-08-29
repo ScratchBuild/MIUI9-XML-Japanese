@@ -41,8 +41,11 @@
   <string name="backup_new">"新規:"</string>
   <string name="backup_progress">"バックアップ中…"</string>
   <string name="backup_report">"詳細を表示"</string>
+  <string name="backup_security_tips_message">Some apps may not be able to be backed up or restored.</string>
+  <string name="backup_security_tips_title">Backups may not work</string>
   <string name="backup_update">"更新"</string>
   <string name="batch_delete_backup_confirm">"選択したバックアップを削除しますか？"</string>
+  <string name="btn_got_it">OK</string>
   <string name="button_backup">"バックアップ"</string>
   <string name="button_cancel">"キャンセル"</string>
   <string name="button_continue">"続行"</string>
@@ -300,6 +303,8 @@ Wi-Fiホットスポットをオフにしないでください。
   <string name="trans_retry">"再試行"</string>
   <string name="trans_scan_invalid_qrcode">"QRコードが無効です"</string>
   <string name="trans_scan_qr_code_tips">Scan QR code on the new device</string>
+  <string name="trans_security_tips_message">"Some apps don't support Mi Mover."</string>
+  <string name="trans_security_tips_title">Mi Mover compatibility</string>
   <string name="trans_select_data">Select items to send</string>
   <string name="trans_select_data_no_space">"Not enough storage on the new device
 Select files again or clear %s of storage on the new device"</string>

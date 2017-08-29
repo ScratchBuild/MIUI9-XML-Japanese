@@ -14,6 +14,7 @@
   <string name="enable_find_device_success">"Find deviceはオンです"</string>
   <string name="find_device">Find device</string>
   <string name="find_device_crash">"Find Deviceが予期せず終了しました。"</string>
+  <string name="find_device_error_access_denied">"アクセスが拒否されました。"</string>
   <string name="find_device_error_account_sys_timeout">"Mi Accountに接続できませんでした。"</string>
   <string name="find_device_error_account_unknown_error">"Mi Accountエラー (%s)。"</string>
   <string name="find_device_error_network">ネットワークエラー。</string>
@@ -46,6 +47,10 @@ If you switch SIM cards, another SMS will be sent automatically to reactivate th
   <string name="phone_locked_account_phone">", 関連付けられた電話番号: %s"</string>
   <string name="stop_on_empty_captcha">"キャプチャは空白にできません"</string>
   <string name="stop_on_empty_password">"パスワードは空白にできません"</string>
+  <string name="sys_notification_async_open_failed_content">"タップして再試行、またはキャンセル。"</string>
+  <string name="sys_notification_async_open_failed_title">"Find deviceをオンにできませんでした"</string>
+  <string name="sys_notification_async_verify_content">"セキュリティポリシーが更新されたため、Find deviceを再度有効にする必要があります。"</string>
+  <string name="sys_notification_async_verify_title">"Find deviceを再度有効にする"</string>
   <string name="time_correction_failure">"時刻を修正できません。%s"</string>
   <string name="time_correction_success">"時刻を修正しました"</string>
   <string name="unlock">Activate</string>

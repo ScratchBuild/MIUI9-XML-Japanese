@@ -18,6 +18,11 @@
   <string name="app_list_title">"アプリを選択"</string>
   <string name="app_name">"バッテリーセーバー"</string>
   <string name="background">"アプリはバックグランドで実行されています"</string>
+  <string name="base_info">Base info</string>
+  <string name="cloud_addr_info">HideMode cloud info</string>
+  <string name="cloud_china_addr">Update china server data</string>
+  <string name="cloud_international_addr">Update international server data</string>
+  <string name="cloud_staging_addr">Update staging server data</string>
   <string name="config_description">"MIUI can identify apps with specific background processes (e.g., messaging and navigation apps, media players), and apply Battery saver in a way that won't influence important background activity."</string>
   <string name="config_mode_title">"バックグラウンド設定"</string>
   <string name="config_no_restrict_description">"バッテリーセーバーはアプリのアクティビティを制限しません"</string>
@@ -32,12 +37,18 @@
 バッテリーセーバーは重要なアプリを選択的に扱います。"</string>
   <string name="config_suggest_suffix_title">"MIUI Battery saver (推奨)"</string>
   <string name="config_suggest_title">MIUI Battery saver</string>
+  <string name="confirm">"確認"</string>
+  <string name="current_cloud_addr_is">The cloud control server address is:</string>
   <string name="disable_hide_mode">Disable MIUI Battery Saver</string>
   <string name="disable_hide_mode_warning">Disable MIUI Battery Saver may cause more power consumption</string>
   <string name="disabled">"オフ"</string>
   <string name="empty_title_apps_container_list">"アプリなし"</string>
   <string name="enable_hide_mode">Enable MIUI Battery Saver</string>
   <string name="error_filename_too_long">"入力したファイル名が長すぎます。"</string>
+  <string name="extreme_power_config_mode_category">Extreme Battery Saver</string>
+  <string name="extreme_power_config_mode_desc">Enable this function will disable sync, bluetooth, GPS, NFC, double tapping, button lights, wake lock screen for notifications, pluse notification light etc, and battery saver mode is set to be ultimate</string>
+  <string name="extreme_power_config_mode_title">Extreme Battery Saver Mode</string>
+  <string name="failure">failure</string>
   <string name="foreground_change">"アプリはフォアグラウンドで実行されています"</string>
   <string name="fragment_nonesys_listempty">"インストール済みアプリなし"</string>
   <string name="fragment_tab_title_nonsys">"インストール済みアプリ"</string>
@@ -50,6 +61,9 @@
   <string name="hide_system_app">"システムアプリを非表示"</string>
   <string name="high">"パフォーマンス"</string>
   <string name="hints_loading_text">"読み込み中…"</string>
+  <string name="important_warning">"警告"</string>
+  <string name="lasttime_applist_cloud">Applist last update：</string>
+  <string name="lasttime_feature_cloud">Function last update：</string>
   <string name="location_disable_description">"継続的なアクセスが制限されている間は、バックグラウンドのアプリは短時間だけ位置情報サービスにアクセスできます"</string>
   <string name="location_disable_title">"制限する"</string>
   <string name="location_enable_description">"アプリはバックグラウンドで位置情報サービスを使用できます"</string>
@@ -176,9 +190,13 @@
   <string name="sleep_config_enhance_description">"機械学習によるユーザーの睡眠時間を予測し、睡眠時間中にいくつかのバックグラウンドアプリをクリアしたり、NFC、KeyGauard通知、同期、Bluetooth、GPS、モバイルデータやWi-Fiなどの使用を制限する場合があります。"</string>
   <string name="sleep_config_enhance_title">Sleep saving modes</string>
   <string name="still">"写真"</string>
+  <string name="sucess">sucess</string>
   <string name="ui">Standard</string>
+  <string name="update_profile_failture_not_connect_wifi">Update failed, no Wifi connection</string>
+  <string name="update_profile_sucess">Update form server sucess</string>
   <string name="user_define_mode">"名前"</string>
   <string name="vip_feedback">Vip Feedback</string>
   <string name="vip_feedback_enable">Enable Vip Auto Feedback</string>
   <string name="warm_configure">"温度制御の設定"</string>
+  <string name="warm_performance_tip">In high load scenarios, the cell phone temperature is higher than the default mode</string>
 </resources>
