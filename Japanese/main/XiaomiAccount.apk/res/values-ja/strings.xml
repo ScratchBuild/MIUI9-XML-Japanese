@@ -244,7 +244,6 @@
   <string name="passport_forget_password_no_underline">"パスワードを忘れた場合"</string>
   <string name="passport_get_back_pwd">"アカウントのパスワードを取得"</string>
   <string name="passport_get_verify_code">"コードを取得"</string>
-  <string name="passport_getting_verify_code">"取得中"</string>
   <string name="passport_getting_activator_phone">Getting SIM info…</string>
   <string name="passport_getting_verify_code">Getting</string>
   <string name="passport_i_know">OK</string>
@@ -283,7 +282,7 @@
   <string name="passport_quick_login_dialog_title">"パスワードを確認"</string>
   <string name="passport_quick_login_step2_title">"2段階認証"</string>
   <string name="passport_quick_login_title">"パスワードを入力"</string>
-  <string name="passport_quick_register_notice">&lt;u&gt;"Don't have a Mi Account? Create one."&lt;/u&gt;</string>
+  <string name="passport_quick_register_notice">"Don't have a Mi Account? Create one."</string>
   <string name="passport_re_get_verify_code">"コードを再取得"</string>
   <string name="passport_re_register">"再登録"</string>
   <string name="passport_recycle_account_prompt">"これはあなたのMi Accountですか？"</string>
