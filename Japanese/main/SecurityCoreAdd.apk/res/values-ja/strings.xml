@@ -91,8 +91,8 @@ to be able to view them anytime"</string>
   <string name="fingerprint_removal_failed">"指紋を削除できませんでした"</string>
   <string name="function_not_support">"この端末ではサポートされていません"</string>
   <string name="gms_message">"デュアルアプリを作成するにはGoogleサービスを使用する必要があります。Googleサービスのデュアルアプリを作成しますか？"</string>
-  <string name="gms_open_button">"開く"</string>
-  <string name="gms_title">"Googleサービスのデュアルアプリ"</string>
+  <string name="gms_open_button">"オンにする"</string>
+  <string name="gms_title">"Googleサービスをオンにする"</string>
   <string name="goToSecondSpacce">"Second spaceに移動</string>
   <string name="go_on_import">Keep importing</string>
   <string name="gpg_message">"デュアルアプリを作成するにはGoogle Play ゲームを使用する必要があります。Goolge Play ゲームのデュアルアプリを作成しますか？"</string>

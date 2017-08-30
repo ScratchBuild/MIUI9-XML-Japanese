@@ -47,6 +47,7 @@
   <string name="chinese_day_8">初八</string>
   <string name="chinese_day_9">初九</string>
   <string name="chinese_day_elementary">初</string>
+  <string name="clearable_edittext_clear_description">"消去"</string>
   <string name="close">"閉じる"</string>
   <string name="copyright">"著作権"</string>
   <string name="date_picker_dialog_title">"日付をセット"</string>

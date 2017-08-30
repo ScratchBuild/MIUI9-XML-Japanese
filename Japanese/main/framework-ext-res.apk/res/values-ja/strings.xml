@@ -143,6 +143,9 @@
   <string name="status_bar_toggle_vibrate">Vibrate</string>
   <string name="status_bar_toggle_wifi">Wi-Fi</string>
   <string name="status_bar_toggle_wifi_ap">"ホットスポット"</string>
+  <string name="switch_brand_desc_tv">Security services provided by Graphite</string>
+  <string name="switch_desc_tv">"二つのスペースを。一つの端末で。"</string>
+  <string name="switching_tv">"切り替え中…"</string>
   <string name="translation_more">More</string>
   <string name="translation_query_error">"結果が見つかりませんでした"</string>
   <string name="translation_query_error_network">"情報を取得できませんでした。ネットワーク接続を確認してもう一度お試しください"</string>

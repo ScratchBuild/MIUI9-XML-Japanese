@@ -337,9 +337,9 @@
   <string name="mx_stranger_recommend_msg">"不明な番号からのMiメッセージをブロックするにはタップ"</string>
   <string name="mx_type_guide">"Miメッセージは無料で他のMIUIユーザーにメッセージを送ることができます。"</string>
   <string name="need_download">"同期中..."</string>
-  <string name="networking_allow_continue">OK</string>
-  <string name="networking_allow_desc">"スマートメッセージは無料のテキストと音声の送信、不明な番号の認識、スパムのフィルタリングなどができます。このサービスを使用するには、イエローページをオンにしてインターネットに接続する必要があります。"</string>
-  <string name="networking_allow_desc_without_mx">"スマートメッセージは無料のテキストと音声の送信、不明な番号の認識、スパムのフィルタリングなどができます。このサービスを使用するには、イエローページをオンにしてインターネットに接続する必要があります。"</string>
+  <string name="networking_allow_continue">許可する</string>
+  <string name="networking_allow_desc">Mi Messageが正常に動作するには、インターネットへの接続が必要です。無料のテキストや音声サービス、不明な番号の識別、スパムのフィルタリング、その他の機能を有効にするため、Mi Messageはイエローページを使用する必要があります。イエローページにインターネット接続、現在地情報の取得、連絡先の読み取りを許可しますか？</string>
+  <string name="networking_allow_desc_without_mx">Mi Messageが正常に動作するには、インターネットへの接続が必要です。不明な番号の識別、スパムのフィルタリング、その他の機能を有効にするため、Mi Messageはイエローページを使用する必要があります。イエローページにインターネット接続、現在地情報の取得、連絡先の読み取りを許可しますか？</string>
   <string name="networking_allow_title">注意</string>
   <string name="new_message">新規作成</string>
   <string name="new_message_arrived">新着メッセージがあります</string>

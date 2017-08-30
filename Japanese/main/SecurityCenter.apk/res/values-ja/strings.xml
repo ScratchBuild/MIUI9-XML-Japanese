@@ -15,6 +15,7 @@
   <string name="ac_firstUseApplock_title">"アプリを保護するためのパスワードを設定する"</string>
   <string name="ac_summaryOff">"オフにしました、アプリを開くのにパスワードは不要です"</string>
   <string name="ac_summaryOn">"オンにしました、アプリを開くにはパスワードが必要です"</string>
+  <string name="access_control_app_is_launching">"アプリを起動中"</string>
   <string name="access_control_failed_need_to_unlock_nofingerprint">"アプリを開くにはパスワードが必要です"</string>
   <string name="access_control_fingerprint_not_identified_msg">"指紋を読み取れませんでした。"</string>
   <string name="access_control_need_password">"%sが正常に追加されました"</string>
@@ -127,6 +128,7 @@
   <string name="app_manager_app_update">"更新"</string>
   <string name="app_manager_app_version_name">"バージョン:"</string>
   <string name="app_manager_appupdate_remind">"更新に関する通知"</string>
+  <string name="app_manager_back">"戻る"</string>
   <string name="app_manager_bipartition">"デュアルアプリ"</string>
   <string name="app_manager_card_permission_title">Permissions</string>
   <string name="app_manager_clear_data_dlg_message">"このアプリのすべてのデータが完全に削除されます。これにはすべてのファイル、設定、アカウント、データベースなどが含まれます。"</string>
@@ -300,6 +302,7 @@
   <string name="auto_task_operation_sync">"同期"</string>
   <string name="auto_task_operation_vibration">"バイブレーション"</string>
   <string name="auto_task_operation_wifi">"Wi-Fi"</string>
+  <string name="background_restrict_app_dialog_message">"このアプリのバックグラウンドネットワークアクセスを制限すると、メッセージの受信、コンテンツのダウンロード、その他の機能が正常に動作しなくなる可能性があります。とにかく制限しますか？"</string>
   <string name="background_traffic">"バックグラウンド %s"</string>
   <string name="backsound_set_hint">"不在メッセージを%sに設定しますか？"</string>
   <string name="battery_capacity_title">"電池容量"</string>
@@ -601,10 +604,10 @@
   <string name="examination_score_80_100">A few items can be optimized</string>
   <string name="examination_score_80_60">Some items can be optimized</string>
   <string name="examination_score_has_virus">Some suspicious apps were detected.</string>
-  <string name="exception_dialog_message">当前网络统计模块异常，可能导致无法正常统计手机流量消耗与超流量断网，重启可解决此问题，是否立即重启？</string>
-  <string name="exception_dialog_ok_button">立即重启</string>
-  <string name="exception_notify_message">网络统计模块异常，建议重启恢复</string>
-  <string name="exception_titile">网络助手异常</string>
+  <string name="exception_dialog_message">"エラーのためデータ使用量の統計を取得できませんでした。正確な統計情報がないとセキュリティアプリでデータの使用状況を監視できなくなります。この機能を復元するため再起動しますか？"</string>
+  <string name="exception_dialog_ok_button">"再起動"</string>
+  <string name="exception_notify_message">"エラーのためデータ使用量の統計を取得できませんでした。復元するため再起動します。"</string>
+  <string name="exception_titile">"エラーが発生しました"</string>
   <string name="exit">"終了"</string>
   <string name="finger_remind_message">Add your fingerprint first. Tap to open Settings.</string>
   <string name="fingerprint_identify_msg">Turn on Fingerprint unlock</string>
@@ -905,6 +908,8 @@ Carrier may charge you additional fees if you use mobile data connection again."
   <string name="menu_bl_remove">"ブロックを解除"</string>
   <string name="menu_bl_sms_log">"ブロックしたSMSを表示"</string>
   <string name="menu_call">"ダイヤル"</string>
+  <string name="menu_charge_bill">Top-up balance</string>
+  <string name="menu_charge_traffic">Buy data</string>
   <string name="menu_edit">"編集"</string>
   <string name="menu_item_about_content">Version %s</string>
   <string name="menu_item_about_summary">Version %s</string>
@@ -927,6 +932,7 @@ Carrier may charge you additional fees if you use mobile data connection again."
   <string name="menu_item_virus_install_monitor_title">"インストール前にスキャン"</string>
   <string name="menu_item_virus_lib_auto_update_summary">Updated on %s</string>
   <string name="menu_remove">"削除"</string>
+  <string name="menu_report">"エラーを報告"</string>
   <string name="menu_sms">"メッセージを送信"</string>
   <string name="menu_text_antispam">"ブロックリスト"</string>
   <string name="menu_text_antivirus">"セキュリティスキャン"</string>
@@ -1314,6 +1320,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="preferred_app_entries_messaging">"メッセージ"</string>
   <string name="preferred_app_entries_music">Music</string>
   <string name="privacy_declare_dialog_title">"利用規約"</string>
+  <string name="privacy_dialog_message">"インターネットに接続すると、データ使用状況の監視機能を改善するため、キャリア情報と共にこのメッセージが暗号化され、Xiaomiサーバにアップロードされます。"</string>
   <string name="privacy_mode_dialog_title">"ゲストモード"</string>
   <string name="privacy_prompt_tc_sms_report_message">"Your phone number and carrier details will be encrypted and uploaded to Mi's servers in order to update your data usage info."</string>
   <string name="privacy_prompt_traffic_adjust_message">"After you start the calibration, MIUI will connect to the network, encode your carrier's info, phone number, IMEI, and Mi Account, and upload these items to Mi servers. This is done in order to acquire the carrier's calibration template and learn if it's possible to purchase data in your location.
@@ -1464,6 +1471,8 @@ While calibrating, MIUI will send a text message to your carrier to receive the 
   <string name="sms_contact_block">Block SMS from contacts</string>
   <string name="sms_delete_hint">"この番号からブロックされたメッセージをすべて削除しますか？"</string>
   <string name="sms_delete_title">"メッセージを削除"</string>
+  <string name="sms_detail_fragment_title_bill">Phone balance</string>
+  <string name="sms_detail_fragment_title_traffic">Remaining data</string>
   <string name="sms_filter">Smart filter</string>
   <string name="sms_keywords">Keyword blocklist</string>
   <string name="sms_malicious_url">Block SMS with malicious URLs</string>
@@ -1929,7 +1938,7 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="wifi_optizition_tip">Turn on WLAN speed boost to make WLAN connection more stable. A small amount of mobile data will be used.</string>
   <string name="wifi_optizition_title">WLAN speed boost</string>
   <string name="wl_no_whitelist">"例外はありません。"</string>
-  <string name="wlan_booster">WLAN speed boost</string>
+  <string name="wlan_booster">WLAN optizition</string>
   <string name="wlan_change_protection_detail">"モバイルデータに接続しているときは、自動でWi-Fiに切り替えないようにする"</string>
   <string name="wlan_change_protection_title">"ネットワークの切り替え防止"</string>
   <string name="xunyou_pay_webview">Xunyou services</string>

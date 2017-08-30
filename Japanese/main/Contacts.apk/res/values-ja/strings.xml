@@ -22,6 +22,7 @@
   <string name="add_contact_dlg_message_fmt">\"%s\"を連絡先に追加しますか？</string>
   <string name="add_display_photo_entry">"プロフィール写真を追加"</string>
   <string name="add_field">"別の項目を追加"</string>
+  <string name="add_field_toast">"これ以上追加できる項目はありません。"</string>
   <string name="add_incall_show_entry">"動画を追加"</string>
   <string name="add_new_account">"新しいアカウントを追加"</string>
   <string name="add_new_entry_for_section">"新しく追加"</string>
@@ -712,7 +713,6 @@ To avoid frequent queries, we update balance info once a day."</string>
   <string name="multi_number_menu_message">"メッセージ"</string>
   <string name="multi_number_title">"グループ通話"</string>
   <string name="multipleContactDeleteConfirmation">"この連絡先を削除すると、複数のアカウントから情報が削除されます。"</string>
-  <string name="multipleContactDeleteConfirmationDetail">"\"%s\"を削除すると、複数のアカウントから情報が削除されます。"</string>
   <string name="my_phone_not_provider_bluetooth">いいえ</string>
   <string name="my_phone_provider_bluetooth">はい</string>
   <string name="nameLabelsGroup">名前</string>
@@ -965,7 +965,6 @@ To add a contact to your list of favorites:
   <string name="quit_dialog_confirm_message">"You haven't merged any contacts"</string>
   <string name="quit_dialog_confirm_title">"連絡先の統合をキャンセル"</string>
   <string name="readOnlyContactDeleteConfirmation">"この連絡先には、複数のアカウント情報が含まれています。読み取り専用アカウントの情報を連絡先リストで非表示にすることはできますが、削除はできません。"</string>
-  <string name="readOnlyContactDeleteConfirmationDetail">"\"%s\" contains info from multiple accounts. Any info that can't be deleted will be hidden from your contacts list."</string>
   <string name="readOnlyContactWarning">"読み取り専用アカウントの連絡先は削除できません。ただし、連絡先リストで非表示にすることができます。"</string>
   <string name="readingSimContacts">"SIMカードを読み込み中…"</string>
   <string name="reading_vcard_canceled_title">vCardデータの読み込みがキャンセルされました</string>

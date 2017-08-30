@@ -11,7 +11,7 @@
   <string name="alert_message_delete_note">"このノートを削除しますか？"</string>
   <string name="alert_message_edit_anyway">"このノートを編集した場合、内容の一部が失われる可能性があります。"</string>
   <string name="alert_message_restore">"このノートを開くことができませんでした。内容を編集するために復元します。"</string>
-  <string name="alert_title_delete">"ノートを削除しますか？"</string>
+  <string name="alert_title_delete">"ノートを削除"</string>
   <string name="alert_title_edit_anyway">"このノートにはサポートされていないコンテンツが含まれています"</string>
   <string name="alert_title_hidden_note">"非表示ノートのリマインダーを受信しました"</string>
   <string name="alert_title_restore">"ノートを復元"</string>
@@ -175,6 +175,7 @@
   <string name="toast_notes_unhidden">Unhidden successfully</string>
   <string name="toast_notes_unhidden_count">Unhid %1$s successfully</string>
   <string name="toast_reach_text_limit_attachment">"ノートが長すぎるため、新しい添付ファイルを追加できません"</string>
+  <string name="toast_reach_text_limit_checkbox">"ノートが長すぎるため、チェックボックスを追加できません"</string>
   <string name="toast_reach_text_limit_truncate">"このノートは長すぎます。いくつかのテキストは最後が切り取られています。"</string>
   <string name="toolbar_check_description">"チェックボックスを追加"</string>
   <string name="toolbar_delete_description">"ノートを削除"</string>

@@ -180,6 +180,7 @@
   <string name="contextmenu_dial_dot">"発信…"</string>
   <string name="contextmenu_download_image">"画像を保存"</string>
   <string name="contextmenu_download_image_as">"名前を付けて画像を保存"</string>
+  <string name="contextmenu_manually_block_ad">"広告としてマーク"</string>
   <string name="contextmenu_map">"地図"</string>
   <string name="contextmenu_openlink">"リンクを開く"</string>
   <string name="contextmenu_openlink_newwindow">"新しいタブで開く"</string>
@@ -561,8 +562,10 @@
   <string name="pref_accessibility_url_shortcut_enter_title">"簡易URL入力"</string>
   <string name="pref_adblock_counts">"%d個をブロック済み"</string>
   <string name="pref_adblock_title">Ad blocker</string>
+  <string name="pref_advert_null">"マークされていない広告は、ページ上でタップすることでラベル付けできます"</string>
   <string name="pref_auto_update_under_wifi">"Wi-Fi使用時にアップデート"</string>
   <string name="pref_automatic_matching_searchengines_title">"頻繁に使用する検索エンジンに切り替える"</string>
+  <string name="pref_cancel_screen">Cancel screen</string>
   <string name="pref_category_hint">"カテゴリー"</string>
   <string name="pref_check_security_url_summary">"ウェブサイトが安全かを確認するため、MiサーバーにURLを送信する"</string>
   <string name="pref_check_security_url_summary_international">Allow Browser to access the URLs of the websites you visit to receive more relevant recommendations.</string>
@@ -598,6 +601,7 @@
   <string name="pref_force_userscalable_summary">"サイトの拡大縮小設定を上書き"</string>
   <string name="pref_general_title">"全般"</string>
   <string name="pref_key_gesture_title">"ボタンとジェスチャー"</string>
+  <string name="pref_label_advert_manager">"ラベルした広告の管理"</string>
   <string name="pref_nav_mode_summary_pad">Pad</string>
   <string name="pref_nav_mode_summary_phone">Phone</string>
   <string name="pref_nav_mode_title">"ブラウザモード"</string>
@@ -900,11 +904,14 @@
   <string name="view_certificate">"証明書を表示"</string>
   <string name="view_document_downloaded_files">View downloaded files in Downloads</string>
   <string name="voice_check_network">"ネットワークの設定を確認してもう一度お試しください。"</string>
+  <string name="voice_close_description">"閉じる"</string>
   <string name="voice_connect_network">"ネットワークに接続できません"</string>
   <string name="voice_description">"音声検索"</string>
   <string name="voice_network_connection">"音声検索が正常に動作するには、インターネットへの接続が必要です。"</string>
   <string name="voice_search_permission">"音声検索が正常に動作するには、マイクへのアクセスが必要です。"</string>
   <string name="voice_semantic_analysis">Browser will be able to analyze semantics after you allow it to connect.</string>
+  <string name="voice_start_description">"開始"</string>
+  <string name="voice_stop_description">"停止"</string>
   <string name="voice_sub_title">"Don't know what to say? Try Open mi.com!"</string>
   <string name="voice_title">Say your command…</string>
   <string name="voice_title_distinguish">"処理中…"</string>

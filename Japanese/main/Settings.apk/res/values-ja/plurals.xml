@@ -86,28 +86,28 @@
         <item quantity="one">"過去%2$sに1個のアプリがメモリを使用しました"</item>
     </plurals>
     <plurals name="virus_scan_app_find_risk">
-        <item quantity="other">%d risks found</item>
-        <item quantity="one">%d risk found</item>
+        <item quantity="other">%d件のリスクが見つかりました</item>
+        <item quantity="one">%d件のリスクが見つかりました</item>
     </plurals>
     <plurals name="auto_startup_count">
-        <item quantity="other">%d apps are allowed to autostart</item>
-        <item quantity="one">%d app are allowed to autostart</item>
+        <item quantity="other">%d個のアプリが自動起動を許可されています</item>
+        <item quantity="one">%d個のアプリが自動起動を許可されています</item>
     </plurals>
     <plurals name="lockpassword_pin_fixed_length">
         <item quantity="other">PINは%d桁で指定してください</item>
         <item quantity="one">PINは%d桁で指定してください</item>
     </plurals>
     <plurals name="wifi_share_count">
-        <item quantity="other">Shared %d networks</item>
-        <item quantity="one">Shared %d network</item>
+        <item quantity="other">%d回線のネットワークを共有中</item>
+        <item quantity="one">%d回線のネットワークを共有中</item>
     </plurals>
     <plurals name="connected_devices_number">
         <item quantity="other">%d devices</item>
         <item quantity="one">%d device</item>
     </plurals>
     <plurals name="free_wifi_connected_count">
-        <item quantity="other">%1$d people connected</item>
-        <item quantity="one">%1$d people connected</item>
+        <item quantity="other">%1$sユーザーが接続</item>
+        <item quantity="one">%1$sユーザーが接続</item>
     </plurals>
     <plurals name="show_pho_countdown">
         <item quantity="other">"You're %1$d steps away from entering phone info."</item>

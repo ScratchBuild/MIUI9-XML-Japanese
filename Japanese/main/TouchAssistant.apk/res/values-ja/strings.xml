@@ -10,6 +10,7 @@
   <string name="enable_touch_assistant">"Quick ballを開く"</string>
   <string name="enabled_for_pad_hint">Work when \"Block navigation buttons in landscape\" is turned on</string>
   <string name="function_settings">"ショートカットの設定"</string>
+  <string name="handy_mode_default_to_close_whether_open">"片手モードはデフォルトでオフです。片手モードをオンにしますか？"</string>
   <string name="hide_touch_assistant">"自動的に非表示"</string>
   <string name="hide_touch_assistant_intro">"選択したアプリでQuick ballを非表示にする。"</string>
   <string name="hide_when_fullscreen">"フルスクリーン時は端へ移動"</string>
@@ -38,6 +39,7 @@
   <string name="nfc_all_mipay_card_not_in_use">"Mi Pay isn't activated"</string>
   <string name="nfc_trans_card_not_in_use">"Transport card isn't activated"</string>
   <string name="not_working">%s (Not working)</string>
+  <string name="open">"オンにする"</string>
   <string name="open_panel">"Quick ballを開く"</string>
   <string name="pay_entry_dialog_title_select">"開くアプリを選択"</string>
   <string name="pay_entry_dialog_title_setting">"アプリを設定"</string>
@@ -49,4 +51,5 @@
   <string name="restore_intro">"ショートカットやその順序などをデフォルト設定に復元します。お使いの端末上のアプリデータは影響を受けません。"</string>
   <string name="show_on_keyguard">"ロック画面に表示する"</string>
   <string name="theme_manager_not_supported">"テーママネージャーはサポートされていません。"</string>
+  <string name="three_seconds_auto_hide">"3秒間何も操作がされない場合は画面の端へ移動する"</string>
 </resources>

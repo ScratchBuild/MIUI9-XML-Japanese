@@ -102,6 +102,7 @@
   <string name="add_auto_startup_application">自動起動アプリを追加</string>
   <string name="add_device_admin">有効にする</string>
   <string name="add_device_admin_msg">デバイス管理者を有効にしますか？</string>
+  <string name="add_facerecoginition_text">顔データを追加</string>
   <string name="add_fingerprint_done_msg">指紋を使ってこのデバイスのロックを解除できるようになりました。</string>
   <string name="add_fingerprint_done_title">"You're ready to rock!"</string>
   <string name="add_fingerprint_failed_retry_text">"指紋を追加できませんでした。もう一度試してください。"</string>
@@ -316,7 +317,6 @@
   <string name="auto_restore_summary">アプリを再インストールする際に、バックアップした設定とデータを復元する</string>
   <string name="auto_restore_title">自動復元</string>
   <string name="auto_startup_application_manage">自動起動</string>
-  <string name="auto_startup_count">%d個のアプリが自動起動を許可されています</string>
   <string name="auto_upload_debug_log_summary">診断データには、ハードウェア、オペレーティングシステムやアプリケーションの使用状況に関する情報が含まれます。これらのデータはシステム内の問題を特定、分析するために使用され、個人を識別するために使用されることはありません。</string>
   <string name="auto_upload_debug_log_title">診断データを自動的に送信する</string>
   <string name="automatic_brightness">明るさを自動調整</string>
@@ -1102,7 +1102,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="device_available_memory">空きメモリ</string>
   <string name="device_battery">バッテリー</string>
   <string name="device_build_id">バージョン番号</string>
-  <string name="device_complete_parameters">Complete</string>
+  <string name="device_complete_parameters">すべてのスペック</string>
   <string name="device_cpu">CPU</string>
   <string name="device_cpu10_info">Deca-core</string>
   <string name="device_cpu2_info">Dual-core</string>
@@ -1369,6 +1369,8 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="external_data_size_label">SDカード</string>
   <string name="extreme_threats_summary">命や財産に関わる極めて重大な脅威への警報を受信する</string>
   <string name="extreme_threats_title">極めて重大な脅威</string>
+  <string name="face_unlock_disable">顔認証でのロック解除はオフです</string>
+  <string name="face_unlock_enable">顔認証でのロック解除はオンです</string>
   <string name="factory_reset_summary">内部ストレージからすべてのデータを消去します</string>
   <string name="failed_to_check_find_device_status_content">"find deviceのステータスを確認できませんでした。1〜2分待ってから再試行してください。"</string>
   <string name="failed_to_check_find_device_status_title">"ステータスを確認できませんでした。"</string>
@@ -1404,6 +1406,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="fingerprint_enable_keyguard_toggle_title">画面ロック</string>
   <string name="fingerprint_enroll_button_add">別の指紋を登録</string>
   <string name="fingerprint_enroll_button_next">次へ</string>
+  <string name="fingerprint_first_open_screen_password_face_tittle">生体認証 (使用する前にロック画面のパスワードを設定する)</string>
   <string name="fingerprint_first_open_screen_password_tittle">指紋 (使用する前にロック画面のパスワードを設定する)</string>
   <string name="fingerprint_for_keyguard_disabled">指紋認証はセキュリティ設定によって無効にされています。</string>
   <string name="fingerprint_identify_input_password_msg">パスワードを入力</string>
@@ -1417,6 +1420,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="fingerprint_lock_second">Second spaceのロックを解除</string>
   <string name="fingerprint_manage">指紋の管理</string>
   <string name="fingerprint_manage_category_title">指紋の管理</string>
+  <string name="fingerprint_manage_tittle">指紋</string>
   <string name="fingerprint_not_identified_msg">指紋を読み取れませんでした、パスワードを入力してください</string>
   <string name="fingerprint_not_recognized">認識されませんでした</string>
   <string name="fingerprint_removal_failed">指紋認証を削除できませんでした、再度試してください</string>
@@ -1445,6 +1449,10 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="force_allow_on_external_summary">マニフェストの値に関係なく、すべてのアプリを外部ストレージに書き込めるようになります</string>
   <string name="force_hw_ui">GPUレンダリングを使用</string>
   <string name="force_hw_ui_summary">2D描画にGPUを常に使用する</string>
+  <string name="force_immersive_compatibility_dont_hide">非表示にしない</string>
+  <string name="force_immersive_compatibility_hide">非表示にする</string>
+  <string name="force_immersive_compatibility_hint_message">画面ボタンを非表示にした場合、一部のアプリが正常に動作しなくなる可能性があります。</string>
+  <string name="force_immersive_compatibility_hint_title">互換性の問題</string>
   <string name="force_msaa">4x MSAAを適用</string>
   <string name="force_msaa_summary">OpenGL ES 2.0アプリで4x MSAAを有効にする</string>
   <string name="force_rtl_layout_all_locales">RTLレイアウト方向を使用</string>
@@ -1475,7 +1483,6 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="free_wifi_connect_summary">タップして%1$sへ接続</string>
   <string name="free_wifi_connect_title">利用可能なWi-Fi</string>
   <string name="free_wifi_connected">free Wi-Fiに接続</string>
-  <string name="free_wifi_connected_count">%1$sユーザーが接続</string>
   <string name="free_wifi_connected_time">Duration: %1$s</string>
   <string name="free_wifi_connecting">接続中…</string>
   <string name="free_wifi_login_again">もう一度ログイン</string>
@@ -1784,9 +1791,8 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="location_agps_pref_reset_type_title">優先リセットモード</string>
   <string name="location_agps_pref_si_title">優先モード</string>
   <string name="location_agps_register_network_type">Access network type</string>
-  <string name="location_agps_register_network_type_dialog_summary">ネットワークを選択する</string>
-  <string name="location_agps_register_network_type_dialog_title">ネットワークの選択</string>
-  <string name="location_agps_register_network_type_summary">A-GPS用のネットワークを選択します</string>
+  <string name="location_agps_register_network_type_dialog_title">アシストGPSを使用する</string>
+  <string name="location_agps_register_network_type_summary">ネットワークを選択</string>
   <string name="location_agps_reset_type">リセットタイプ</string>
   <string name="location_agps_reset_type_choose_dialog_title">レセットタイプ</string>
   <string name="location_agps_reset_type_summary">優先するリセットタイプを選択する</string>
@@ -1893,7 +1899,6 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="lockpassword_password_too_short">パスワードを%d文字以上で入力してください</string>
   <string name="lockpassword_pattern_set_toast">パターンが設定されました</string>
   <string name="lockpassword_pin_contains_non_digits">PINに使用できるのは数字0～9のみです。</string>
-  <string name="lockpassword_pin_fixed_length">PINは%d桁で指定してください</string>
   <string name="lockpassword_pin_no_sequential_digits">一連の数字を昇順や降順にしたり、繰り返したりすることはできません</string>
   <string name="lockpassword_pin_recently_used">最近使用したPINは使用できません。</string>
   <string name="lockpassword_pin_set_toast">PINが設定されました</string>
@@ -1951,6 +1956,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="man_add_application">自動起動アプリを追加</string>
   <string name="manage_device_admin">端末管理者</string>
   <string name="manage_device_admin_summary">端末管理者を表示または無効にする</string>
+  <string name="manage_facerecoginition_text">顔データの管理</string>
   <string name="manage_fakecell_settings">Protection from fake base stations</string>
   <string name="manage_fingerprint_text">指紋の管理</string>
   <string name="manage_mobile_plan_title">モバイルプラン</string>
@@ -2322,9 +2328,9 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="oem_unlock_enable">OEMロック解除</string>
   <string name="oem_unlock_enable_summary">ブートローダーによるロック解除を許可する</string>
   <string name="okay">OK</string>
-  <string name="oldman_mode_confirm_title">端末を再起動しますか？</string>
-  <string name="oldman_mode_confirm_will_normal_mode_text">Your phone will reboot to exit Lite mode.</string>
-  <string name="oldman_mode_confirm_will_oldman_mode_text">Your phone will reboot to enter Lite mode.</string>
+  <string name="oldman_mode_confirm_title">今すぐ再起動しますか？</string>
+  <string name="oldman_mode_confirm_will_normal_mode_text">Lite modeを終了するため端末を再起動します。</string>
+  <string name="oldman_mode_confirm_will_oldman_mode_text">Lite modeに切り替えるため端末を再起動します。</string>
   <string name="oldman_mode_enabled_name">Lite mode</string>
   <string name="oldman_mode_entry_name">Lite mode</string>
   <string name="oldman_mode_entry_title">Lite mode</string>
@@ -2558,7 +2564,6 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="print_service_security_warning_summary">ドキュメントは1つ以上のサーバーを経由してプリンタに送信されることがあります。</string>
   <string name="print_service_security_warning_title">%1$sを利用しますか？</string>
   <string name="print_settings">印刷</string>
-  <string name="print_settings_title">印刷サービス</string>
   <string name="priority_storage_app_settings">データは、%1$sに保存されます</string>
   <string name="priority_storage_settings_summary">SDカードが検出されない場合、自動的に端末の内部ストレージに保存されます。</string>
   <string name="priority_storage_summary">データを保存する場所を選択</string>
@@ -3116,7 +3121,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="search_status_bar_settings_style">Notifications &amp; toggles layout;toggles;toggle layout;separate toggles;combined;separate;combine</string>
   <string name="search_status_bar_settings_toggle_collapse_after_clicked">Collapse after touch;collapse;hide</string>
   <string name="search_status_sim">SIMの状態;SIM</string>
-  <string name="search_storage_settings">クリーナー;Clear cache;Cache</string>
+  <string name="search_storage_settings">ストレージ;メモリ</string>
   <string name="search_sync_settings">Sync;Auto;WLAN only</string>
   <string name="search_system_app_settings">システムアプリ</string>
   <string name="search_theme_settings_title">テーマ;Personalization;Personalize</string>
@@ -3792,7 +3797,7 @@ PINが正しくない可能性があります。"</string>
   <string name="turn_off_keyguard_password_confirm_msg">パスワードの設定を行わないと、一部のセキュリティ機能が動作しません。</string>
   <string name="turn_off_keyguard_password_wait_dialog">パスワードを閉じる</string>
   <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg">ロック画面のパスワードをオフにした後には、指紋認証でデバイスのロックを解除することはできません</string>
-  <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg_delete">ロック画面のパスワードをオフにすると、記録された指紋認証が削除されます。指紋認証を使用してデバイスのロックを解除することはできません。</string>
+  <string name="turn_off_keyguard_password_with_fingerprint_face_confirm_msg">ロック画面のパスワードをオフにすると、記録された指紋認証が削除されます。指紋認証を使用してデバイスのロックを解除することはできません。</string>
   <string name="turn_off_radio">無線通信をOFF</string>
   <string name="turn_off_security_lock">ロックをOFF</string>
   <string name="turn_on_keyguard_password">ロック画面のパスワードをオンにする</string>
@@ -4058,7 +4063,6 @@ PINが正しくない可能性があります。"</string>
   <string name="virtual_sim_title">データネットワークローミング</string>
   <string name="virus_scan">ウイルススキャン</string>
   <string name="virus_scan_app_continue">スキャンを続行</string>
-  <string name="virus_scan_app_find_risk">%d件のリスクが見つかりました</string>
   <string name="virus_scan_app_finish">スキャン完了しました</string>
   <string name="virus_scan_app_force_stop">スキャンを一時停止</string>
   <string name="virus_scan_app_is_stop_scan">スキャンを中止しますか？</string>
@@ -4447,7 +4451,6 @@ PINが正しくない可能性があります。"</string>
   <string name="wifi_share_connect">接続</string>
   <string name="wifi_share_connected_summary">他のユーザーによって共有されている公衆無線LANネットワークに接続しました。</string>
   <string name="wifi_share_connected_title">MIUI公衆無線LAN共有</string>
-  <string name="wifi_share_count">%d回線のネットワークを共有中</string>
   <string name="wifi_share_current_network">現在のネットワーク</string>
   <string name="wifi_share_know">OK</string>
   <string name="wifi_share_list_empty">共有しているネットワークは見つかりませんでした。</string>
