@@ -16,6 +16,9 @@
         <item quantity="other">スレッドには複数のメッセージが含まれています、とにかく削除しますか？</item>
         <item quantity="one">スレッドには複数のメッセージが含まれています、とにかく削除しますか？</item>
     </plurals>
+    <plurals name="confirm_delete_draft">
+        <item quantity="other">%1$d件の下書きを削除しますか？</item>
+    </plurals>
     <plurals name="contact_num_selected">
         <item quantity="other">Selected %d items</item>
         <item quantity="one">Selected %d item</item>
@@ -31,6 +34,10 @@
     <plurals name="conversation_folder_changed">
         <item quantity="other">フォルダを変更しました。</item>
         <item quantity="one">フォルダを変更しました。</item>
+    </plurals>
+    <plurals name="conversation_msg_header_count">
+        <item quantity="other">… %1$d persons</item>
+        <item quantity="one">… %1$d person</item>
     </plurals>
     <plurals name="conversation_muted">
         <item quantity="other">Ignored %1$d conversations.</item>

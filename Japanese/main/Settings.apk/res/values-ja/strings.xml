@@ -508,6 +508,7 @@
   <string name="bluetooth_device_context_pair_connect">ペアに設定して接続</string>
   <string name="bluetooth_device_context_unpair">ペアを解除</string>
   <string name="bluetooth_device_details">端末の設定</string>
+  <string name="bluetooth_device_misc_title">たまに使用するBluetooth端末</string>
   <string name="bluetooth_device_name">端末名</string>
   <string name="bluetooth_device_searchable">Discoverable</string>
   <string name="bluetooth_devices">Bluetooth端末</string>
@@ -701,6 +702,7 @@
   <string name="bssid_label">BSSID:</string>
   <string name="bt_hci_snoop_log">Bluetooth HCIスヌープログを有効にする</string>
   <string name="bt_hci_snoop_log_summary">Bluetooth HCIパケットをすべてファイルにキャプチャする</string>
+  <string name="bt_rarely_used_device_title">たまに使用する端末 (%d)</string>
   <string name="bt_trace_log">Bluetoothトレースログ</string>
   <string name="bt_trace_log_summary">Bluetoothトレースログ</string>
   <string name="bugreport_in_power">バグレポートのショートカット</string>
@@ -807,6 +809,7 @@
   <string name="clear_failed_dlg_text">アプリのデータを消去できませんでした。</string>
   <string name="clear_failed_dlg_title">データのクリア</string>
   <string name="clear_user_data_text">データを消去</string>
+  <string name="close_gesture">ジェスチャーを使用して閉じる</string>
   <string name="close_miui_optimization_title">MIUIの最適化をオフにする</string>
   <string name="close_miui_optimization_warning_message">この変更を適用するために端末を再起動します。注：この機能をオフにすると、ユーザーインターフェースのレイアウトや他の要素に大きな変化があります。</string>
   <string name="cloud_backup_section_title">Mi Cloudバックアップ</string>

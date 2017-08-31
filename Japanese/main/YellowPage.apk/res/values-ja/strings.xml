@@ -428,12 +428,14 @@ Total: RMB %3$s"</string>
   <string name="turn_off_hint_title">Caller IDをオフにしますか？</string>
   <string name="turn_off_phone_event_hint">"You won't be able to see flag info for unknown phone numbers."</string>
   <string name="turn_off_smart_antispam_hint">"You won't be able to see flag info for incoming calls from unknown phone numbers."</string>
+  <string name="turn_on_online_antispam_enable">"オンにする"</string>
+  <string name="turn_on_online_antispam_summary">"Caller IDをオンにして、不明な番号を識別します。"</string>
+  <string name="turn_on_online_antispam_title">"Caller IDをオンにする"</string>
   <string name="turn_on_phone_event_dialog_title">Caller IDのデータベースを更新</string>
   <string name="turn_on_phone_event_summary">Allow Yellow pages to receive and upload the service info of the verified service providers.</string>
   <string name="turn_on_phone_event_title">Receive service info</string>
   <string name="turn_on_smart_antispam_hint">Identify calls from unknown numbers</string>
-  <string name="turn_on_smart_antispam_summary_off">Upload and identify unknown phone numbers from call history and text messages</string>
-  <string name="turn_on_smart_antispam_summary_on">Upload and identify unknown phone numbers from call history and text messages</string>
+  <string name="turn_on_smart_antispam_summary">"通話履歴とテキストメッセージから不明な番号をアップロードして識別する"</string>
   <string name="turn_on_smart_antispam_title">Caller ID</string>
   <string name="turn_on_yellowpage_service_title">Caller IDをオンにする</string>
   <string name="uploads_disabled">"ファイルのアップロードが無効になっています"</string>

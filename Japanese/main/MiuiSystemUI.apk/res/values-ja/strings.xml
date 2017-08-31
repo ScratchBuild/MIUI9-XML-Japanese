@@ -118,6 +118,7 @@
   <string name="bluetooth_sap_profile_summary_use_for">SIMアクセスに使用</string> 
   <string name="bluetooth_tethered">Bluetoothテザリング中</string>
   <string name="call_status_dialing">"発信中"</string>
+  <string name="call_status_holding">"保留中"</string>
   <string name="call_status_ringing">"着信中"</string>
   <string name="camera_key_action_app_title">アプリケーションを開く</string>
   <string name="camera_key_action_category_title">カメラアプリが開いていない場合に使用</string>

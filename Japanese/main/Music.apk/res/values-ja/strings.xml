@@ -842,6 +842,8 @@ is mainly provided by Ultimate Inc."</string>
   <string name="toast_download_error_by_not_login">"Mi Accountにログインしてもう一度お試しください。"</string>
   <string name="toast_download_error_by_vip_required">Get Premium Song Pack to download this song.</string>
   <string name="toast_download_in_process">"ダウンロード中"</string>
+  <string name="toast_new_playlist_name_no_enter">"'Enter'キーが削除されました"</string>
+  <string name="toast_new_playlist_name_too_long">"プレイリスト名が長すぎます"</string>
   <string name="toast_normal_songs_for_download">"ダウンロード品質を標準に設定しました"</string>
   <string name="toast_normal_songs_for_stream">"ストリーミング品質を標準に設定しました"</string>
   <string name="toast_stream_normal">Now playing in Standard quality. Get Premium Song Pack to enjoy High quality streaming.</string>

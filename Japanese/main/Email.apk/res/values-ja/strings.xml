@@ -46,6 +46,9 @@
   <string name="account_settings_notify_summary">"メールの着信時に通知を送信"</string>
   <string name="account_settings_param">"アカウント設定"</string>
   <string name="account_settings_policies">"セキュリティポリシー"</string>
+  <string name="account_settings_preference_add_account">"メールボックスのアカウントを追加"</string>
+  <string name="account_settings_preference_head_icon">Head portrait switch</string>
+  <string name="account_settings_preference_notify">"通知"</string>
   <string name="account_settings_retry_label">"同期する"</string>
   <string name="account_settings_retry_summary">"アカウントを同期するにはこちらをタップします"</string>
   <string name="account_settings_ringtone">"着信音を選択"</string>
@@ -59,6 +62,7 @@
   <string name="account_settings_sync_email_summary">"このアカウントのメールを同期"</string>
   <string name="account_settings_unsupported_label">"未対応ポリシー"</string>
   <string name="account_settings_unsupported_summary">"なし"</string>
+  <string name="account_settings_user_usage">"アカウント設定"</string>
   <string name="account_settings_using_ringtone">"着信音"</string>
   <string name="account_settings_vibrate_when_label">"バイブレーション"</string>
   <string name="account_setup_account_type_instructions">"このアカウントの種類を選択します"</string>
@@ -116,6 +120,7 @@
   <string name="account_setup_incoming_server_label">"サーバー"</string>
   <string name="account_setup_incoming_username_label">"ユーザー名"</string>
   <string name="account_setup_need_password_verification">Your account has secondary password authentication. Authentication is required.</string>
+  <string name="account_setup_options_actionbar_title">"共通設定"</string>
   <string name="account_setup_options_mail_check_frequency_10min">"10分ごと"</string>
   <string name="account_setup_options_mail_check_frequency_12hour">"12時間ごと"</string>
   <string name="account_setup_options_mail_check_frequency_1hour">"1時間ごと"</string>
@@ -142,6 +147,8 @@
   <string name="account_setup_server_acc_manager_title">"アカウント"</string>
   <string name="account_setup_username_password_toast">"有効なメールアドレスとパスワードを入力してください。"</string>
   <string name="account_sync_off">"アカウントの同期はオフです。"</string>
+  <string name="account_sync_settings_settings">"アカウントの連絡先とカレンダーを同期"</string>
+  <string name="account_sync_settingstip_description">"同期設定"</string>
   <string name="account_waiting_for_folders_msg">"フォルダリストを読み込み中…"</string>
   <string name="actionbar_large_unread_count">"未読 %1$d+"</string>
   <string name="activity_folder_selection">"フォルダを選択"</string>
@@ -230,7 +237,7 @@
   <string name="bottom_bar_more_quickreply">"クイック返信"</string>
   <string name="bottom_bar_more_share">"共有"</string>
   <string name="bottom_bar_no_quickreply_toast">"クイック返信なし"</string>
-  <string name="calendar_remind_dialog_title">"リマインダー"</string>
+  <string name="calendar_remind_dialog_title">"後で通知"</string>
   <string name="calendar_remind_gridview_pick_date">"日付を選択"</string>
   <string name="cancel">"キャンセル"</string>
   <string name="cancel_action">"キャンセル"</string>
@@ -311,10 +318,14 @@
   <string name="contextmenu_send_mail">"メールを送信"</string>
   <string name="contextmenu_sharelink">"リンクを共有"</string>
   <string name="contextmenu_sms_dot">SMS…</string>
+  <string name="conversation_detail_hide">"隠す"</string>
+  <string name="conversation_detail_show">"詳細"</string>
   <string name="conversation_folder_moved">"%1$sに移動しました"</string>
   <string name="conversation_item_mark_read">"既読"</string>
   <string name="conversation_item_mark_unread">"未読"</string>
+  <string name="conversation_msg_header_collapsed_sent_to">"Sent to "</string>
   <string name="conversation_photo_welcome_text">"送信者の画像をタップして会話を選択します。"</string>
+  <string name="conversation_pull_ad_content">"効率的なメールマネージャ"</string>
   <string name="conversation_quick_button_approve">OK</string>
   <string name="conversation_quick_button_disapprove">"キャンセル"</string>
   <string name="conversation_quick_button_received">"受信済み"</string>
@@ -381,6 +392,7 @@
   <string name="due">Due</string>
   <string name="due_date_text">Final repayment</string>
   <string name="edit_quick_response_dialog">"クイック返信"</string>
+  <string name="edit_signature">"署名を編集"</string>
   <string name="elided_padding_token"> </string>
   <string name="email_address">"メールアドレス"</string>
   <string name="email_netease">NetEase Mail</string>
@@ -511,6 +523,7 @@
   <string name="login139">Sign in with China Mobile</string>
   <string name="login_failed_ticker">"%sでログインできませんでした。"</string>
   <string name="login_failed_title">"ログインできませんでした"</string>
+  <string name="login_support_tip_text">"一般的なメールボックスアカウントのログインをサポート"</string>
   <string name="long_press_to_select_tip">Touch &amp; hold to select one conversation, then touch to select more.</string>
   <string name="long_string">looooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooong</string>
   <string name="mail">"メール"</string>
@@ -520,6 +533,7 @@
   <string name="mail_header_network_not_available">ネットワークに接続できません。"</string>
   <string name="mailbox_list_account_selector_combined_view">"統合ビュー"</string>
   <string name="mailbox_name_display_ad">"広告"</string>
+  <string name="mailbox_name_display_add_account">"メールボックスのアカウントを追加"</string>
   <string name="mailbox_name_display_circular">"通知"</string>
   <string name="mailbox_name_display_drafts">"下書き"</string>
   <string name="mailbox_name_display_inbox">"受信トレイ"</string>
@@ -560,10 +574,10 @@
   <string name="meeting_when">"日時: %s"</string>
   <string name="meeting_where">"場所: %s"</string>
   <string name="menu_att_mgr">"添付ファイル"</string>
-  <string name="menu_att_mgr_order_mime">"種類順"</string>
-  <string name="menu_att_mgr_order_name">"名前順"</string>
-  <string name="menu_att_mgr_order_rev_date">"受信日時順"</string>
-  <string name="menu_att_mgr_order_size">"サイズ順"</string>
+  <string name="menu_att_mgr_order_mime">"種類"</string>
+  <string name="menu_att_mgr_order_name">"名前"</string>
+  <string name="menu_att_mgr_order_rev_date">"受信日時"</string>
+  <string name="menu_att_mgr_order_size">"ファイルサイズ"</string>
   <string name="menu_change_folders">"移動"</string>
   <string name="menu_compose">"作成"</string>
   <string name="menu_contact_edit">"編集"</string>
@@ -611,6 +625,7 @@
   <string name="network_unavailable">"ネットワークが利用できません"</string>
   <string name="new_incoming_messages_one">"%sからの新着メッセージ"</string>
   <string name="new_messages">"%1$d件の新着メッセージ"</string>
+  <string name="new_signature_has_saved">"新しい署名が保存されました"</string>
   <string name="next_action">"次へ"</string>
   <string name="no">"いいえ"</string>
   <string name="no_address_email">noaddressemail@123.com</string>
@@ -857,7 +872,7 @@ to receive reminders about payments and trips"</string>
   <string name="remove_folder">"%1$sから削除"</string>
   <string name="remove_star">Unstar</string>
   <string name="reply">"返信"</string>
-  <string name="reply_add_bodycontent">"クイック返信のテキストをメッセージ本文に追加しますか？"</string>
+  <string name="reply_add_bodycontent">"メッセージ本文を返信に追加しますか？"</string>
   <string name="reply_all">"全員に返信"</string>
   <string name="reply_attribution" formatted="false">On %s, %s wrote:</string>
   <string name="report_phishing">"フィッシングを報告"</string>
@@ -870,9 +885,11 @@ to receive reminders about payments and trips"</string>
   <string name="save_draft_failed">"下書きの保存に失敗しました"</string>
   <string name="save_power_summary">Set power saving time</string>
   <string name="save_power_title">Battery saver</string>
+  <string name="save_this_new_signature">"新しい署名を保存しますか？"</string>
   <string name="saved">Saved,  %s</string>
   <string name="saving">"保存中…"</string>
   <string name="sdcard_cannot_use">"SDカードは使用できません"</string>
+  <string name="search_bar_text">"メール、送信者を検索"</string>
   <string name="search_hint">"メールを検索"</string>
   <string name="search_result">"結果 "</string>
   <string name="search_tabs_name_all">"すべて"</string>
@@ -971,7 +988,8 @@ to receive reminders about payments and trips"</string>
   <string name="too_large_to_attach_additional">"File size can't exceed %1$s."</string>
   <string name="too_large_to_attach_multiple">"One or more files weren't attached. Size can't exceed %1$s."</string>
   <string name="too_large_to_attach_single">"Can't attach file larger than %1$s."</string>
-  <string name="topic_merge">Merge themes</string>
+  <string name="topic_merge">Email display</string>
+  <string name="topic_merge_summary">Mode Organized by thread</string>
   <string name="translation_loading">"読み込み中…"</string>
   <string name="translation_no_result">"何も見つかりませんでした"</string>
   <string name="translation_pronunciation_am">AmE</string>
@@ -998,6 +1016,7 @@ to receive reminders about payments and trips"</string>
   <string name="unsent_messages_in_outbox">%1$s unsent in %2$s</string>
   <string name="unzip_file_failed">"ファイルを解凍できませんでした"</string>
   <string name="update_date_format_templete">HH:mm aa, MMMM dd</string>
+  <string name="update_to_wps_mail">More advanced features, upgrade to WPS-mail</string>
   <string name="updated_at">Refreshed at %1$s</string>
   <string name="upload_log">"ログをアップロード"</string>
   <string name="upload_log_failed">"ログを送信できませんでした"</string>

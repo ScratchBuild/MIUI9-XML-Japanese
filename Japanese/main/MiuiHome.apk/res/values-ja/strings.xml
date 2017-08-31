@@ -54,6 +54,7 @@
   <string name="current_preview">"プレビュー"</string>
   <string name="current_wallpaper">Current</string>
   <string name="custom_wallpaper_picker">Browse</string>
+  <string name="default_screen_preview_title">"デフォルト画面の設定"</string>
   <string name="delete">"削除"</string>
   <string name="delete_screen">"画面を削除"</string>
   <string name="delete_wallpaper_message">"%1$d枚の壁紙を削除しますか？"</string>
@@ -148,6 +149,7 @@
   <string name="menu_add">"追加"</string>
   <string name="menu_back_desktop">"ホーム画面に戻る"</string>
   <string name="menu_customize">"設定"</string>
+  <string name="menu_default_screen_preview">"デフォルト画面の設定"</string>
   <string name="menu_edit">"ホーム画面を編集"</string>
   <string name="menu_exit_scene">"Mi Spaceを終了"</string>
   <string name="menu_item_add_item">"ホーム画面に設置"</string>

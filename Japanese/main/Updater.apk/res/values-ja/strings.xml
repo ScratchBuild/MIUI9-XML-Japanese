@@ -11,10 +11,14 @@
   <string name="btn_share">"共有"</string>
   <string name="btn_yes">"はい"</string>
   <string name="check_new_version">"確認"</string>
+  <string name="dialog_3g_desc">"モバイルデータ接続を使用してROMをダウンロードする場合には、データ使用量の制限にご注意ください。"</string>
+  <string name="dialog_3g_title">"警告"</string>
+  <string name="dialog_btn_3g">"とにかく続ける"</string>
+  <string name="dialog_btn_wifi">"Wi-Fiに切り替える"</string>
   <string name="download_done">"ダウンロードが完了しました"</string>
   <string name="download_fail">"ダウンロード中にエラーは発生しました"</string>
   <string name="download_fail_desc">"MD5チェックサムが一致しません…"</string>
-  <string name="downloading">"ダウンロード中…"</string>
+  <string name="downloading">"ダウンロード中:"</string>
   <string name="downloading_desc">"ダウンロードを実行中です、通知領域から状態を確認できます。"</string>
   <string name="install_desc">端末をリカバリーモードで再起動して選択したファイルをインストールします: &lt;b&gt;%1$s&lt;/b&gt;"
 データは消去されません。"</string>
