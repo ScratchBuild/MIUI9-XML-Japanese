@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_error">エラーが発生しました、アプリを終了しています…</string>
+  <string name="background_effect">背景の効果</string>
+  <string name="cancel">キャンセル</string>
+  <string name="fancy_color_tip">スイートスポットを調整するには写真をタップ</string>
+  <string name="fancycolor_title">背景の効果</string>
+  <string name="free_view_tip">3D効果をプレビューするには端末を傾けてください</string>
+  <string name="illegal_arguments_error">エラーが発生しました</string>
+  <string name="load_image_error">写真を読み込めませんでした</string>
+  <string name="loading_tip">読み込み中…</string>
+  <string name="m_fancy_color_effect_blackboard">Blackboard</string>
+  <string name="m_fancy_color_effect_monochrome">Monochrome</string>
+  <string name="m_fancy_color_effect_negative">Negative</string>
+  <string name="m_fancy_color_effect_normal">Normal</string>
+  <string name="m_fancy_color_effect_posterize">Posterize</string>
+  <string name="m_fancy_color_effect_radial_blur">Radial blur</string>
+  <string name="m_fancy_color_effect_silhouette">Silhouette</string>
+  <string name="m_fancy_color_effect_stroke">Strokes</string>
+  <string name="m_fancy_color_effect_whiteboard">Whiteboard</string>
+  <string name="multi_view">3Dビュー</string>
+  <string name="refocus">リフォーカス</string>
+  <string name="refocus_tip">リフォーカスするには写真をタップ</string>
+  <string name="save">保存</string>
+  <string name="save_dialog_message">変更を保存しますか？</string>
+  <string name="save_dialog_title">保存</string>
+  <string name="save_error">写真を保存できませんでした</string>
+  <string name="saving_image">写真を保存しています…</string>
+  <string name="saving_image_to_album">%1$sに写真を保存しています…</string>
+  <string name="wait_error">読み込み中…</string>
+</resources>
