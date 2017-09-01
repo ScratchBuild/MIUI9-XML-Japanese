@@ -22,11 +22,11 @@
   <string name="activate_history_success_overview">Activated SIM card successfully. Activation is triggered by \"%1$s\".</string>
   <string name="activate_history_title">"SIMカードの有効化"</string>
   <string name="activate_phone_cancel_notif_title">"SIMカードの有効化がキャンセルされました"</string>
-  <string name="activate_phone_cancel_notif_title_msim">"SIMカード %s の有効化がキャンセルされました"</string>
+  <string name="activate_phone_cancel_notif_title_msim">"SIMカード %d の有効化がキャンセルされました"</string>
   <string name="activate_phone_failed_notif_title">"SIMカードを有効にできません"</string>
-  <string name="activate_phone_failed_notif_title_msim">"SIMカード %s を有効にできません"</string>
+  <string name="activate_phone_failed_notif_title_msim">"SIMカード %d を有効にできません"</string>
   <string name="activate_phone_success_notif_title">"SIMカードが有効になりました"</string>
-  <string name="activate_phone_success_notif_title_msim">"SIMカード %s が有効になりました"</string>
+  <string name="activate_phone_success_notif_title_msim">"SIMカード %d が有効になりました"</string>
   <string name="activate_popup_confirm_all_gateway_failed_query_info">"再試行"</string>
   <string name="activate_popup_confirm_all_gateway_failed_send_sms">"再試行"</string>
   <string name="activate_popup_confirm_error_device_id">"再試行"</string>
@@ -102,10 +102,17 @@
   <string name="activate_status_desc_wait_for_sms_fail">"Couldn't receive activation SMS from server"</string>
   <string name="activate_status_desc_wait_for_sms_success">Received activation SMS from server</string>
   <string name="activate_status_title_activating">"SIMカードを有効にしています…"</string>
-  <string name="activate_status_title_activating_msim">"SIMカード %s を有効にしています…"</string>
+  <string name="activate_status_title_activating_msim">"SIMカード %d を有効にしています…"</string>
+  <string name="agree">"同意"</string>
   <string name="app_name">Xiaomi SIM Activate Service</string>
   <string name="explain_send_sms_permission_button">"確認"</string>
   <string name="explain_send_sms_permission_msg">To turn on %s, Xiaomi Service Framework will send SMS to verify your phone number. You will be charged for the regular SMS by the carrier.</string>
   <string name="explain_send_sms_permission_title">Verify your phone number</string>
-  <string name="sim_unactivated_title">"Your SIM card isn't activated"</string>
+  <string name="phone_get_processing">"取得中…"</string>
+  <string name="phone_get_text">"電話番号を取得するため%1$sに同意しますか？：%2$s"</string>
+  <string name="phone_get_title">"%1$sに同意して電話番号を取得してください"</string>
+  <string name="phone_verify_processing">"確認中…"</string>
+  <string name="phone_verify_text">"%1$sは電話番号を取得しません、あなたの電話番号が一致していることを確認してください。"</string>
+  <string name="phone_verify_title">"%1$sに同意して電話番号を確認してください"</string>
+  <string name="sim_unactivated_title">"SIMカードが有効になっていません"</string>
 </resources>

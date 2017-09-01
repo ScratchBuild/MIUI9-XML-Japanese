@@ -1297,7 +1297,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="enable_service_password_reason">%1$sをONにするとデータの暗号化に影響するため、パスワードの確認が必要となります。</string>
   <string name="enable_service_pattern_reason">%1$sをONにするとデータの暗号化に影響するため、パターンの確認が必要となります。</string>
   <string name="enable_service_pin_reason">%1$sをONにするとデータの暗号化に影響するため、PINの確認が必要となります。</string>
-  <string name="enable_service_title">サービスはこれらの操作を実行します:</string>
+  <string name="enable_service_title">%1$sを使用しますか？</string>
   <string name="enable_snapshot_screenlock">戻るボタンの長押しで写真を撮影</string>
   <string name="enable_terminal_summary">ローカルシェルアクセスを提供するターミナルアプリを有効にします</string>
   <string name="enable_terminal_title">ローカルターミナル</string>
@@ -1444,7 +1444,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="font_size_preview_text">Servez à ce monsieur une bière et des kiwis.</string>
   <string name="font_size_save">OK</string>
   <string name="font_size_small">Smaller</string>
-  <string name="font_size_summary">ホーム画面、通知領域、ダイヤラー、システムメニュー用のフォントサイズを変更します</string>
+  <string name="font_size_summary">画面上のテキストを小さくまたは大きくします。</string>
   <string name="font_size_summary1">システムのテキストが小さすぎる場合、試してみてください</string>
   <string name="font_size_summary2">Lite mode.</string>
   <string name="forbidden_switch_apn_string">選択したAPN設定は現在のネットワークタイプと一致しません</string>
@@ -1654,7 +1654,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="key_position_cat">ボタンの配置</string>
   <string name="key_settings">ボタン</string>
   <string name="key_settings_title">ボタン</string>
-  <string name="keyboard_and_input_methods_category">キーボード</string>
+  <string name="keyboard_and_input_methods_category">キーボードと入力方法</string>
   <string name="keyboard_layout_dialog_setup_button">キーボードレイアウトの設定</string>
   <string name="keyboard_layout_dialog_switch_hint">切り替えるにはCtrl+スペースを押します</string>
   <string name="keyboard_layout_dialog_title">キーボードレイアウトの選択</string>
@@ -1812,9 +1812,9 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="location_high_battery_use">電池使用量: 高</string>
   <string name="location_low_battery_use">電池使用量: 低</string>
   <string name="location_menu_scanning">スキャン</string>
-  <string name="location_mode_battery_saving_description">Wi‑Fiとモバイルネットワークで現在地を特定する</string>
+  <string name="location_mode_battery_saving_description">Wi‑FiやBluetooth、モバイルネットワークで現在地を特定する</string>
   <string name="location_mode_battery_saving_title">バッテリー節約</string>
-  <string name="location_mode_high_accuracy_description">GPS、Wi‑Fi、モバイルネットワークで現在地を特定する</string>
+  <string name="location_mode_high_accuracy_description">GPS、Wi‑Fi、Bluetooh、モバイルネットワークで現在地を特定する</string>
   <string name="location_mode_high_accuracy_title">高精度</string>
   <string name="location_mode_location_off_title">位置情報OFF</string>
   <string name="location_mode_screen_title">位置情報モード</string>
@@ -1880,9 +1880,9 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="lockpassword_confirm_workspace_password">"Work spaceのパスワードを確認"</string>
   <string name="lockpassword_confirm_your_lock_password_header">パスワードを確認</string>
   <string name="lockpassword_confirm_your_lock_pattern_header">解除パターンを確認</string>
-  <string name="lockpassword_confirm_your_password_generic">続行するには、パスワードを入力してください。</string>
+  <string name="lockpassword_confirm_your_password_generic">続行するには、パスワードを入力してください</string>
   <string name="lockpassword_confirm_your_password_header">パスワードを確認</string>
-  <string name="lockpassword_confirm_your_pattern_generic">続行するには、解除パターンを入力してください。</string>
+  <string name="lockpassword_confirm_your_pattern_generic">続行するには、解除パターンを入力してください</string>
   <string name="lockpassword_confirm_your_pattern_header">パターンの確認</string>
   <string name="lockpassword_confirm_your_pin_generic">続行するには、PINコードを入力してください。</string>
   <string name="lockpassword_confirm_your_pin_header">PINの確認</string>
@@ -2367,7 +2367,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="owner_info_settings_edit_text_hint">ロック画面に表示するテキストを入力します</string>
   <string name="owner_info_settings_status">%1$d / %2$d</string>
   <string name="owner_info_settings_summary">なし</string>
-  <string name="owner_info_settings_title">ロック画面の所有者情報</string>
+  <string name="owner_info_settings_title">ロック画面のメッセージ</string>
   <string name="owner_space">First space</string>
   <string name="packages_subtitle">含まれているパッケージ</string>
   <string name="page_layout_1">8月16日、日曜日</string>
