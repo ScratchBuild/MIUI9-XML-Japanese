@@ -65,6 +65,7 @@
   <string name="authorize_title">"認証"</string>
   <string name="bind_facebook">"Facebookアカウントに接続"</string>
   <string name="bind_qq">QQ</string>
+  <string name="bind_safe_phone_msg">"次回ログインのため安全な番号を追加する"</string>
   <string name="bind_settings">"アカウント"</string>
   <string name="bind_sina_weibo">"Sina Weiboアカウントに接続"</string>
   <string name="bind_sns_description">"%sでログイン"</string>
@@ -152,6 +153,7 @@
   <string name="logout_account">"ログアウト"</string>
   <string name="logout_failed">"ログアウトできません"</string>
   <string name="mi_account_identity_title">Verify your identity</string>
+  <string name="mi_vip_info">查看我的特权</string>
   <string name="mipay">"支払う"</string>
   <string name="mipay_balance">"残高"</string>
   <string name="mipay_bank_card">"銀行カード"</string>
@@ -255,6 +257,7 @@
   <string name="passport_input_password_hint">"パスワードを入力"</string>
   <string name="passport_input_phone_hint">"電話番号を入力"</string>
   <string name="passport_input_vcode_hint">"認証コードを入力"</string>
+  <string name="passport_instant_login">"ログイン"</string>
   <string name="passport_license_host_unreachable">"ネットワークに接続できません。 You can view this page at %s."</string>
   <string name="passport_loading">"読み込み中…"</string>
   <string name="passport_login">"ログイン"</string>
@@ -335,6 +338,8 @@
   <string name="passport_skip_setup_account_msg">"後から[設定]でMi Accountをセットアップすることができます。"</string>
   <string name="passport_skip_setup_account_title">"セットアップをスキップ"</string>
   <string name="passport_sms_send_success">Sent</string>
+  <string name="passport_sync_account_data">"アカウントデータの同期"</string>
+  <string name="passport_sync_account_data_failed_warning">"您的帐号数据有延迟,将只能使用小米ID登录。メールアドレス/電話番号でログインしている場合は、しばらくお待ちください"</string>
   <string name="passport_title_reg">"アカウントを作成"</string>
   <string name="passport_trust_device">Add this device to verified devices</string>
   <string name="passport_trying_read_verify_code_sms">"認証コードを取得中…"</string>
@@ -348,6 +353,9 @@
   <string name="passport_user_agreement_p2">" と "</string>
   <string name="passport_user_agreement_p3">"プライバシーポリシー"</string>
   <string name="passport_user_agreement_p4">"に同意する"</string>
+  <string name="passport_user_id_notice">您的小米ID是: %s</string>
+  <string name="passport_user_reg_region">"国/地域"</string>
+  <string name="passport_user_reg_region_warning">"You Won't be able to change your country/region once the account is created"</string>
   <string name="passport_vcode_notification_title">Your sign-in verification is incomplete</string>
   <string name="passport_vcode_prompt_long">"認証コードを入力"</string>
   <string name="passport_vcode_sms_send_prompt">"認証コードを%sに送信します"</string>
@@ -418,6 +426,6 @@
   <string name="verify_phone_prompt">Select phone number to verify</string>
   <string name="verify_phone_title">Verify phone number</string>
   <string name="vip_account_settings">"VIP設定"</string>
-  <string name="vip_more_info">More VIP info</string>
+  <string name="vip_settings_info">我的数据中心</string>
   <string name="xiao_mi_vip">Mi VIP</string>
 </resources>

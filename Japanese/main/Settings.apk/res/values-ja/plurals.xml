@@ -9,8 +9,8 @@
         <item quantity="one">"%d個のアプリが通知を表示することができます"</item>
     </plurals>
     <plurals name="settings_toggle_position_divider_page">
-        <item quantity="other">"バーの上に配置した%1$d個のトグルが有効です"</item>
-        <item quantity="one">"バーの上に配置した%1$d個のトグルが有効です"</item>
+        <item quantity="other">"通知領域に%1$d個のトグルが表示されます"</item>
+        <item quantity="one">"通知領域に%1$d個のトグルが表示されます"</item>
     </plurals>
     <plurals name="show_dev_countdown">
         <item quantity="other">"デベロッパーになるまであと%1$dステップです。"</item>

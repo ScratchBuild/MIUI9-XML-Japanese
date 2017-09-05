@@ -20,8 +20,8 @@
   <string name="auto_start_warning_deny">"拒否"</string>
   <string name="auto_start_warning_title">"%sの自動起動を許可しますか？"</string>
   <string name="button_text_cancel">"キャンセル"</string>
-  <string name="button_text_delete">"削除"</string>
-  <string name="button_text_delete_timer">"削除 (%d)"</string>
+  <string name="button_text_delete">"アンインストール"</string>
+  <string name="button_text_delete_timer">"アンインストール (%d)"</string>
   <string name="button_text_next_step">"次へ"</string>
   <string name="button_text_next_step_timer">"次へ (%d)"</string>
   <string name="call_record_or">" または "</string>
@@ -77,9 +77,9 @@
   <string name="miui_screen_ratio_hint_message">"このアプリは全画面表示で実行することができますが、正しく表示されない可能性があります。これは [設定] &gt; [高度な設定] &gt; [ボタン] から変更することができます。"</string>
   <string name="miui_screen_ratio_hint_ok">OK</string>
   <string name="miui_upgrading_notification_title">"システムを読み込み中、一部の機能が制限される場合があります"</string>
-  <string name="package_delete_confirm_step_1">"%sを削除しますか？"</string>
-  <string name="package_delete_confirm_step_2">"このアプリを削除すると、システムが不安定になる場合があります。"</string>
-  <string name="package_delete_confirm_step_3">"アプリを削除した後、このアプリを開くことはできません。"</string>
+  <string name="package_delete_confirm_step_1">"%sをアンインストールしますか？"</string>
+  <string name="package_delete_confirm_step_2">"このアプリをアンインストールすると、システムが不安定になる場合があります。"</string>
+  <string name="package_delete_confirm_step_3">"アプリをアンインストールした後、このアプリを開くことはできません。"</string>
   <string name="paste">"貼り付け"</string>
   <string name="perm_send_push_dspt">Allow Mi push messages</string>
   <string name="perm_send_push_lab">Send push message</string>
@@ -89,6 +89,7 @@
   <string name="reboot_info_auto_boot">"端末の電源は %s にオンになる予定です"</string>
   <string name="reboot_info_shutdown_alarm">"次のアラーム: %s"</string>
   <string name="reboot_progress">"再起動しています…"</string>
+  <string name="remain">残り: %s</string>
   <string name="replace">Replace</string>
   <string name="resource_select">"選択"</string>
   <string name="screen_button_notification_text">"オンにするには、ホームボタンと電源ボタンを同時に押してください。"</string>
@@ -119,6 +120,8 @@
   <string name="sim_added_reboot_title">"SIMカードはデバイスの再起動後、有効になります。"</string>
   <string name="softap_notifif_summary">%d connected</string>
   <string name="softap_notifif_title">Hotspot \"%s\" is on</string>
+  <string name="standard_description">"着信音と通知音を消音する"</string>
+  <string name="standard_title">"サイレント"</string>
   <string name="start_security_permission_verify_text">Verify permissions with your Mi Account</string>
   <string name="status_bar_toggle_auto_brightness">"画面の明るさ"</string>
   <string name="status_bar_toggle_battery_saver">Battery saver</string>
@@ -146,6 +149,8 @@
   <string name="switch_brand_desc_tv">Security services provided by Graphite</string>
   <string name="switch_desc_tv">"二つのスペースを。一つの端末で。"</string>
   <string name="switching_tv">"切り替え中…"</string>
+  <string name="total_description">"アラーム以外のすべてのアイテムについて消音とバイブレーションをオフにする"</string>
+  <string name="total_title">DND</string>
   <string name="translation_more">More</string>
   <string name="translation_query_error">"結果が見つかりませんでした"</string>
   <string name="translation_query_error_network">"情報を取得できませんでした。ネットワーク接続を確認してもう一度お試しください"</string>

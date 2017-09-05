@@ -47,11 +47,9 @@
         <item>"煙霧"</item>
     </string-array>
     <string-array name="editing_mode_entries">
-        <item>"テーマ"</item>
-        <item>"ウィジェット"</item>
         <item>"壁紙"</item>
-        <item>"エフェクト"</item>
-        <item>"レイアウト"</item>
+        <item>"ウィジェット"</item>
+        <item>"設定"</item>
     </string-array>
     <string-array name="quality_business_devices">
         <item>lithium</item>

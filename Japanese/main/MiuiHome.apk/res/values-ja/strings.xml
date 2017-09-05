@@ -54,7 +54,7 @@
   <string name="current_preview">"プレビュー"</string>
   <string name="current_wallpaper">Current</string>
   <string name="custom_wallpaper_picker">Browse</string>
-  <string name="default_screen_preview_title">"デフォルト画面の設定"</string>
+  <string name="default_screen_preview_title">"タップしてデフォルト画面を設定"</string>
   <string name="delete">"削除"</string>
   <string name="delete_screen">"画面を削除"</string>
   <string name="delete_wallpaper_message">"%1$d枚の壁紙を削除しますか？"</string>
@@ -147,18 +147,23 @@
   <string name="lock_screen_success_message">"ロック画面に適用しました"</string>
   <string name="lock_screen_wallpaper">"ロック画面の壁紙"</string>
   <string name="menu_add">"追加"</string>
+  <string name="menu_auto_fill">"空のセルを埋める"</string>
   <string name="menu_back_desktop">"ホーム画面に戻る"</string>
+  <string name="menu_cell_setting">"ホーム画面のレイアウト"</string>
   <string name="menu_customize">"設定"</string>
-  <string name="menu_default_screen_preview">"デフォルト画面の設定"</string>
+  <string name="menu_default_screen_preview">"デフォルト画面を設定"</string>
   <string name="menu_edit">"ホーム画面を編集"</string>
   <string name="menu_exit_scene">"Mi Spaceを終了"</string>
   <string name="menu_item_add_item">"ホーム画面に設置"</string>
   <string name="menu_launcher_setting">"ランチャーの設定"</string>
+  <string name="menu_lock">"ホーム画面のレイアウトをロック"</string>
+  <string name="menu_more">"その他"</string>
   <string name="menu_picktheme">"テーマを選択"</string>
   <string name="menu_reset_scene">"デフォルトのレイアウトにリセット"</string>
   <string name="menu_search">"検索"</string>
   <string name="menu_settings">"設定"</string>
   <string name="menu_sort">"アプリを並べ替え"</string>
+  <string name="menu_trans_effect">"切り替え効果"</string>
   <string name="menu_wallpaper">"壁紙"</string>
   <string name="menu_workspace_preview">"ホーム画面をプレビュー"</string>
   <string name="mi_wallpaper">MIUI Theme Store</string>
@@ -260,4 +265,5 @@
   <string name="widget_favorite_contacts_style">"サイズを変更"</string>
   <string name="widget_gadget_player">"音楽"</string>
   <string name="widget_global_search">"検索"</string>
+  <string name="widget_quick_function">"クイック機能"</string>
 </resources>

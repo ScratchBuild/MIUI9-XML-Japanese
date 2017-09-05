@@ -3798,7 +3798,7 @@ PINが正しくない可能性があります。"</string>
   <string name="turn_off_common_password_confirm_msg">画面ロックも同様にオフになります</string>
   <string name="turn_off_keyguard_password_alert_title">オフにする</string>
   <string name="turn_off_keyguard_password_confirm_msg">パスワードの設定を行わないと、一部のセキュリティ機能が動作しません。</string>
-  <string name="turn_off_keyguard_password_wait_dialog">パスワードを閉じる</string>
+  <string name="turn_off_keyguard_password_wait_dialog">パスワードをオフにしています…</string>
   <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg">ロック画面のパスワードをオフにした後には、指紋認証でデバイスのロックを解除することはできません</string>
   <string name="turn_off_keyguard_password_with_fingerprint_face_confirm_msg">ロック画面のパスワードをオフにすると、記録された指紋認証が削除されます。指紋認証を使用してデバイスのロックを解除することはできません。</string>
   <string name="turn_off_radio">無線通信をOFF</string>
@@ -3810,10 +3810,10 @@ PINが正しくない可能性があります。"</string>
   <string name="turn_on_keyguard_password_alert_foget_ok">OK</string>
   <string name="turn_on_keyguard_password_alert_foget_ok_time">OK(%d秒)</string>
   <string name="turn_on_keyguard_password_alert_forget_content">"Remember your Lock screen password. If you forget it, you'll have to erase all data on your device, including photos and contacts, and then set a new one."</string>
-  <string name="turn_on_keyguard_password_alert_forget_title">"If you forget it, you won't be able to restore it."</string>
+  <string name="turn_on_keyguard_password_alert_forget_title">パスワードを記憶する</string>
   <string name="turn_on_radio">無線通信をON</string>
   <string name="turn_on_security_lock">画面ロックを選択</string>
-  <string name="turn_update_keyguard_password_wait_dialog">パスワードの変更</string>
+  <string name="turn_update_keyguard_password_wait_dialog">パスワードを変更しています…</string>
   <string name="under_keyguard">画面オフ</string>
   <string name="uninstall_all_users_text">すべてのユーザーからアンインストール</string>
   <string name="uninstall_dlg_msg">アンインストールするとアプリの全データが削除されます</string>
