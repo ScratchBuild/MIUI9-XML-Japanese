@@ -384,11 +384,13 @@
   <string name="btn_text_stop">"停止"</string>
   <string name="button_text_accept">"許可"</string>
   <string name="button_text_accept_timer">"許可 (%d)"</string>
+  <string name="button_text_clear">"消去"</string>
   <string name="button_text_delete">"削除"</string>
   <string name="button_text_delete_from_virus_white_list">"削除"</string>
   <string name="button_text_deny">"拒否"</string>
   <string name="button_text_disconnect_now">"切断"</string>
   <string name="button_text_fix_now">"修復"</string>
+  <string name="button_text_forbid_now">"禁止"</string>
   <string name="button_text_ignore">"無視"</string>
   <string name="button_text_ignore_alert_title">"このアラートを無視しますか？"</string>
   <string name="button_text_known">OK</string>
@@ -714,6 +716,8 @@
   <string name="hints_handle_item_text_virus">"危険"</string>
   <string name="hints_input_roaming_daily_limit">"データ使用量の制限を入力"</string>
   <string name="hints_loading_text">"読み込み中…"</string>
+  <string name="hints_risk_descx_title">"説明:"</string>
+  <string name="hints_risk_name_title">"リスク:"</string>
   <string name="hints_scan_danger_result">Risk found, fix now</string>
   <string name="hints_scan_result_no_finish">"スキャンは完了していません。開始するにはタップ。"</string>
   <string name="hints_scan_result_phone_safe">Everything looks good</string>
@@ -721,7 +725,9 @@
   <string name="hints_scanning">"スキャン中…"</string>
   <string name="hints_scanning_text">"スキャン中…"</string>
   <string name="hints_virus_apk_list_item_summary">apk</string>
+  <string name="hints_virus_apk_summary">%s (apk)</string>
   <string name="hints_virus_app_list_item_summary">app</string>
+  <string name="hints_virus_app_summary">%s (app)</string>
   <string name="hot">Popular</string>
   <string name="hot_today">Popular today</string>
   <string name="i_know">OK</string>

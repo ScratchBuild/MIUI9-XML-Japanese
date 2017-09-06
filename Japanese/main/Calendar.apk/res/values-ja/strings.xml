@@ -13,6 +13,7 @@
   <string name="accounts">"アカウントと同期"</string>
   <string name="acct_not_synced">"このアカウントは同期されていないため、カレンダーが最新ではない可能性があります。"</string>
   <string name="acessibility_selected_marker_description">"選択した予定"</string>
+  <string name="action_bar_more_menu_view_description">"その他"</string>
   <string name="action_text_card_manager">"チャンネル"</string>
   <string name="action_text_today">"今日"</string>
   <string name="ad_card_connecting">"接続中"</string>
@@ -29,6 +30,7 @@
   <string name="add_anniversary">"記念日を追加"</string>
   <string name="add_countdown">"カウントダウンを追加"</string>
   <string name="add_event">"予定を追加"</string>
+  <string name="address">"住所"</string>
   <string name="agenda_month_empty_hint">"今日の予定はありません"</string>
   <string name="agenda_today">"今日: %1$s"</string>
   <string name="agenda_tomorrow">"明日: %1$s"</string>
@@ -37,12 +39,10 @@
   <string name="alarm_label">"閉じる"</string>
   <string name="alert_reminder_expired">"期限切れ"</string>
   <string name="alert_title">"カレンダーの通知"</string>
-  <string name="anniversary_card_title">"記念日"</string>
   <string name="anniversary_event_title">"[記念日]%1$s"</string>
   <string name="app_label">"カレンダー"</string>
+  <string name="app_name">common</string>
   <string name="birthday_calendar_display_name">"誕生日のリマインダー"</string>
-  <string name="birthday_card_other_day_title">"誕生日"</string>
-  <string name="birthday_card_title">"今日の誕生日"</string>
   <string name="birthday_event_description_a_week_ago">"1週間前"</string>
   <string name="birthday_event_description_a_week_later">"1週間後"</string>
   <string name="birthday_event_description_day_after_tomorrow">"明後日は"</string>
@@ -84,7 +84,6 @@
   <string name="chongsha">"幽霊"</string>
   <string name="copy_email">"メールアドレスをコピー"</string>
   <string name="copy_number">"電話番号をコピー"</string>
-  <string name="countdown_card_title">"カウントダウン"</string>
   <string name="countdown_event_title">"カウントダウン: %1$s"</string>
   <string name="countdown_notify_before_3_day_title">"カウントダウン: %1$sまであと3日"</string>
   <string name="countdown_notify_title">"カウントダウン: %1$s"</string>
@@ -98,14 +97,10 @@
   <string name="credit">"クレジットカード"</string>
   <string name="credit_card_date_label">"返済期日："</string>
   <string name="credit_card_number_label">"カード番号："</string>
-  <string name="credit_card_overdue">"有効期限切れ"</string>
-  <string name="credit_card_repayment_count">最后%1$s天</string>
-  <string name="credit_card_source">"SMSで返済をリマインダー"</string>
   <string name="credit_currency">元</string>
   <string name="credit_detail_amount_label">应还</string>
   <string name="credit_detail_sms_content">"SMSの本文"</string>
   <string name="credit_detail_today">今日：</string>
-  <string name="credit_event_card_title">"クレジットカードの支払い"</string>
   <string name="credit_event_delete_successfully">"クレジットカードの支払い予定が正常に削除されました"</string>
   <string name="credit_event_title">"クレジットカードの請求"</string>
   <string name="daily">"毎日"</string>
@@ -130,7 +125,6 @@
   <string name="delete_recurring_event_title">"%sを削除しますか？"</string>
   <string name="delete_this_event_title">"この予定を削除しますか？"</string>
   <string name="deleting_calendar">"解除中…"</string>
-  <string name="departure">"出発"</string>
   <string name="description_calendar">"システムアプリ/カレンダー"</string>
   <string name="description_calendar_edit_event">"システムアプリ/カレンダー/予定"</string>
   <string name="directory_searching_fmt">"%sを検索中…"</string>
@@ -188,7 +182,6 @@
   <string name="event_edit">"予定を編集"</string>
   <string name="event_info_descrip">"概要"</string>
   <string name="event_info_end">"終了"</string>
-  <string name="event_info_from">"開始"</string>
   <string name="event_info_jump_to_email">"メールに移動"</string>
   <string name="event_info_reminders_label">"通知"</string>
   <string name="event_info_reminders_label_1">"通知"</string>
@@ -308,6 +301,7 @@
   <string name="more_string">+%1$s</string>
   <string name="movie_event_title">"映画："</string>
   <string name="network_not_available">"ネットワークに接続できません"</string>
+  <string name="new_event_description">"新規"</string>
   <string name="new_event_dialog_label">"新しい予定"</string>
   <string name="new_event_dialog_option">"新しい予定"</string>
   <string name="no_contact_birthday_hint">"インポートする誕生日がありません"</string>
@@ -322,6 +316,7 @@
   <string name="online_reminder_header_text">"通知"</string>
   <string name="path_calendar_settings">"システムアプリ/カレンダー/設定"</string>
   <string name="pengzu">彭祖</string>
+  <string name="phone_num">"電話番号"</string>
   <string name="prefDialogTitle_vibrateWhen">"バイブレーション"</string>
   <string name="pref_error_no_ringtone_select">"デフォルトの通知音"</string>
   <string name="pref_reminder_time">"通知の時間"</string>
@@ -352,6 +347,7 @@
   <string name="recommend_card_close_hint">"似たような購読のおすすめを減らす"</string>
   <string name="refresh">"更新"</string>
   <string name="refreshing_hint">"更新中"</string>
+  <string name="reminder_overdue">"期限切れ"</string>
   <string name="repeat_activity_label">"繰り返し"</string>
   <string name="repeat_custom_activity_label">"カスタム"</string>
   <string name="repeat_custom_prompt">every %1$s on %2$s</string>
@@ -408,8 +404,6 @@
   <string name="setting_user_experience">"ユーザーエクスペリエンスプログラム"</string>
   <string name="settings_calendar">"カレンダー"</string>
   <string name="show_day_view">"日付を表示"</string>
-  <string name="show_newer_events">"タップして%1$sより後の予定を表示"</string>
-  <string name="show_older_events">"タップして%1$sより前の予定を表示"</string>
   <string name="sms_import_description">更好地管理与时间相关的短信事件</string>
   <string name="start_date_calculate">"計算"</string>
   <string name="subscribe_card">"今すぐ購読"</string>
@@ -442,9 +436,7 @@ You can also add reminders so you don't miss anything important."</string>
   <string name="timezone_label">"タイムゾーン"</string>
   <string name="today">"今日"</string>
   <string name="today_at_time_fmt">"今日の%s"</string>
-  <string name="today_flight_event">Flight</string>
   <string name="today_no_events">"予定なし"</string>
-  <string name="today_train_event">Train</string>
   <string name="tomorrow">"明日"</string>
   <string name="tomorrow_at_time_fmt">"明日の%s"</string>
   <string name="too_long_content">"内容が長すぎます"</string>
@@ -456,9 +448,6 @@ You can also add reminders so you don't miss anything important."</string>
   <string name="travel_eta_advice">%2$s minute drive to %1$s.</string>
   <string name="travel_ets_advice">Drive to %2$s before %1$s.</string>
   <string name="travel_event_add_successfully">"予定を作成しました"</string>
-  <string name="travel_event_add_unsuccessfully">"予定を作成できませんでした"</string>
-  <string name="travel_event_added">"予定を作成しました"</string>
-  <string name="travel_event_delete_successfully">"予定を削除しました"</string>
   <string name="travel_event_title_flight">Flight: %1$s-%2$s %3$s</string>
   <string name="travel_event_title_train">Train: %1$s-%2$s %3$s</string>
   <string name="travel_event_title_train_only_dep">Train: %1$s %2$s</string>

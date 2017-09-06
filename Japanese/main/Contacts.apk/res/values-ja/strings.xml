@@ -1082,6 +1082,7 @@ To add a contact to your list of favorites:
   <string name="sim_error_password_error">"入力したパスワードが間違っています"</string>
   <string name="sim_error_storage_full">"SIMカードの容量がいっぱいです"</string>
   <string name="sim_error_text_too_long">"名前が長すぎます"</string>
+  <string name="sim_export_error">"SIMカードの準備ができていません、後ほど再試行してください"</string>
   <string name="sim_export_loading">"SIMカードを読み取り中…"</string>
   <string name="sim_indexed_contact_not_exist">Position %1$d on SIM card is invalid. Position must be between %2$d and %3$d.</string>
   <string name="sim_no_contact">No contacts on SIM card</string>
@@ -1159,6 +1160,7 @@ To add a contact to your list of favorites:
   <string name="toast_for_saving_nickname">"ニックネームを保存しました"</string>
   <string name="toast_join_with_empty_contact">"別の連絡先と統合するにはまず連絡先の名前を入力してください。"</string>
   <string name="toast_making_personal_copy">"個人用コピーを作成しています..."</string>
+  <string name="toast_start_intent_failed">No app was found to handle</string>
   <string name="toast_text_copied">"テキストをコピーしました"</string>
   <string name="today">"今日"</string>
   <string name="tomorrow">"明日"</string>

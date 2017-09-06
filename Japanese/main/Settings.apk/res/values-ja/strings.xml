@@ -809,6 +809,7 @@
   <string name="clear_failed_dlg_text">アプリのデータを消去できませんでした。</string>
   <string name="clear_failed_dlg_title">データのクリア</string>
   <string name="clear_user_data_text">データを消去</string>
+  <string name="close_app">現在のアプリを閉じる</string>
   <string name="close_gesture">ジェスチャーを使用して閉じる</string>
   <string name="close_miui_optimization_title">MIUIの最適化をオフにする</string>
   <string name="close_miui_optimization_warning_message">この変更を適用するために端末を再起動します。注：この機能をオフにすると、ユーザーインターフェースのレイアウトや他の要素に大きな変化があります。</string>
@@ -865,7 +866,7 @@
   <string name="contributors_title">アライアンスパートナー</string>
   <string name="controls_label">コントロール</string>
   <string name="controls_subtitle">消費電力の調整</string>
-  <string name="convenience_key_category_title">ショートカット</string>
+  <string name="convenience_key_category_title">システム制御</string>
   <string name="convert_to_fbe_warning">"データ パーティションをファイルベースの暗号化に変換します。
  警告: この操作ではユーザーのデータがすべて削除されます。
  この機能はアルファ版であり、正しく機能しないおそれがあります。
@@ -1246,6 +1247,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="domain_urls_title">アプリリンク</string>
   <string name="done">完了</string>
   <string name="done_button">完了</string>
+  <string name="double_click_power_key">Double Click Power Key</string>
   <string name="download_current_rom">MIUIの最新版を取得する</string>
   <string name="downloading_description">ダウンロード中…</string>
   <string name="doze_summary">端末を取り上げたとき、または通知を受信したときにスリープ状態から復帰</string>
@@ -1530,6 +1532,8 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="global_change_warning">この設定はこの端末上のすべてのユーザーに影響します。</string>
   <string name="global_font_change_title">フォントサイズの変更</string>
   <string name="global_locale_change_title">言語の変更</string>
+  <string name="go_back_button_label">戻る</string>
+  <string name="go_to_sleep">スリープする</string>
   <string name="google_backup_enable">バックアップをオンにする</string>
   <string name="google_backup_section_title">Googleバックアップとリセット</string>
   <string name="google_title">Google</string>
@@ -1651,7 +1655,16 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="keep_screen_on">スリープモードにしない</string>
   <string name="keep_screen_on_summary">充電中に画面をスリープにしない</string>
   <string name="kernel_version">カーネルバージョン</string>
-  <string name="key_position_cat">ボタンの配置</string>
+  <string name="key_combination_power_back">電源ボタン + 戻るボタン</string>
+  <string name="key_combination_power_home">電源ボタン + ホームボタン</string>
+  <string name="key_combination_power_menu">電源ボタン + メニューボタン</string>
+  <string name="key_gesture_function_dialog_message">%1$s has been set to %2$s shortcuts ,whether replaced with %3$s</string>
+  <string name="key_gesture_function_dialog_negative">キャンセル</string>
+  <string name="key_gesture_function_dialog_positive">置き換え</string>
+  <string name="key_gesture_function_optional">Optional gestures and key</string>
+  <string name="key_gesture_function_preview">Gestures and key preview</string>
+  <string name="key_gesture_function_shortcut">Function shortcut</string>
+  <string name="key_none">なし</string>
   <string name="key_settings">ボタン</string>
   <string name="key_settings_title">ボタン</string>
   <string name="keyboard_and_input_methods_category">キーボードと入力方法</string>
@@ -1729,8 +1742,11 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="last_time_used_label">前回の使用</string>
   <string name="lattice_smartcover_title">格子のフロントカバー</string>
   <string name="launch_by_default">Open by default</string>
+  <string name="launch_camera">カメラを起動</string>
   <string name="launch_defaults_none">No defaults set</string>
   <string name="launch_defaults_some">Some defaults set</string>
+  <string name="launch_google_search">Google検索を起動</string>
+  <string name="launch_voice_assistant">音声アシスタントを起動</string>
   <string name="launcher_auto_fill_empty_title">空のセルを埋める</string>
   <string name="launcher_title">ホーム画面と履歴</string>
   <string name="launching_cit">Launching CIT</string>
@@ -1948,6 +1964,11 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="login_account_dialog_message">Mi Accountでログインして、Mi Cloudとの同期をオンにします。</string>
   <string name="login_account_dialog_title">Mi Accountでログイン</string>
   <string name="login_action">ログイン</string>
+  <string name="long_press_back_key">戻るボタンを長押し</string>
+  <string name="long_press_buttom_key">ロック時にボタンを長押し</string>
+  <string name="long_press_home_key">ホームボタンを長押し</string>
+  <string name="long_press_menu_key">メニューボタンを長押し</string>
+  <string name="long_press_menu_key_when_lock">ロック時にメニューボタンを長押し</string>
   <string name="long_press_volume_down">音量[－]ボタンを長押し</string>
   <string name="lte_ram_dump_off">LTE RAMダンプをオフにする</string>
   <string name="lte_ram_dump_on">LTE RAMダンプをオンにする</string>
@@ -2601,8 +2622,8 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="privacy_password_fingerprint_confirm_failed">"指紋を確認できませんでした"</string>
   <string name="privacy_password_fingerprint_confirm_succes">"指紋を確認しました"</string>
   <string name="privacy_password_fingerprint_dialog_error_title">"指紋を読み取れませんでした、再度試してください"</string>
-  <string name="privacy_password_fingerprint_dialog_message">Put your finger on the sensor</string>
-  <string name="privacy_password_fingerprint_dialog_title">Scan your fingerprint</string>
+  <string name="privacy_password_fingerprint_dialog_message">センサーに指を置いてください</string>
+  <string name="privacy_password_fingerprint_dialog_title">"指紋を読み取る"</string>
   <string name="privacy_password_login_and_add_account">ログインと追加</string>
   <string name="privacy_password_never_remind">二度と表示しない</string>
   <string name="privacy_password_not_add_account">後で</string>
@@ -2870,7 +2891,6 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="screen_key_long_press">ナビゲーションボタンを長押し</string>
   <string name="screen_key_long_press_action">トリガ機能</string>
   <string name="screen_key_long_press_timeout">長押し時間を設定</string>
-  <string name="screen_key_position">ナビゲーションボタン</string>
   <string name="screen_key_press">ナビゲーションボタンをタップ</string>
   <string name="screen_key_press_action">トリガ機能</string>
   <string name="screen_locking_sounds_title">画面ロック音</string>
@@ -2933,6 +2953,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="screen_resolution_switch">解像度の切り替え</string>
   <string name="screen_resolution_title">ディスプレイの解像度</string>
   <string name="screen_saturation">彩度</string>
+  <string name="screen_shot">スクリーンショットを取得</string>
   <string name="screen_timeout">スリープ</string>
   <string name="screen_timeout_summary">操作が行われない状態で%1$s経過後</string>
   <string name="screen_timeout_title">画面がOFFになったとき</string>
@@ -3292,6 +3313,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="show_hw_screen_updates_summary">GPUでの描画時にウィンドウ内の表示を点滅させる</string>
   <string name="show_magnifier_when_input">テキスト拡大鏡</string>
   <string name="show_mem_info_title">メモリの状態を表示</string>
+  <string name="show_menu">"メニューを表示"</string>
   <string name="show_non_rect_clip">非矩形クリップ操作をデバッグ</string>
   <string name="show_owner_info_on_lockscreen_label">ロック画面に所有者情報を表示</string>
   <string name="show_password">パスワードを表示する</string>
@@ -3716,6 +3738,7 @@ PINが正しくない可能性があります。"</string>
   <string name="tethering_help_button_text">ヘルプ</string>
   <string name="tethering_settings_not_available">このユーザーはテザリング設定を利用できません</string>
   <string name="theme_settings_title">テーマ</string>
+  <string name="three_gesture_down">Three Gesture Down</string>
   <string name="time_picker_title">時間</string>
   <string name="time_zone_auto_stub">タイムゾーンを選択</string>
   <string name="timezone_settings">タイムゾーン</string>
@@ -3813,6 +3836,7 @@ PINが正しくない可能性があります。"</string>
   <string name="turn_on_keyguard_password_alert_forget_title">パスワードを記憶する</string>
   <string name="turn_on_radio">無線通信をON</string>
   <string name="turn_on_security_lock">画面ロックを選択</string>
+  <string name="turn_on_torch">ライトを点灯</string>
   <string name="turn_update_keyguard_password_wait_dialog">パスワードを変更しています…</string>
   <string name="under_keyguard">画面オフ</string>
   <string name="uninstall_all_users_text">すべてのユーザーからアンインストール</string>
