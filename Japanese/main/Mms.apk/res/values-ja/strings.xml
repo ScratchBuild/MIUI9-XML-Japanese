@@ -7,6 +7,7 @@
   <string name="addBlackList">ブロックリストに追加</string>
   <string name="add_attachment">添付ファイルを追加</string>
   <string name="add_contact">vCard</string>
+  <string name="add_miui_contact">Mi Card</string>
   <string name="add_music">音楽を追加</string>
   <string name="add_number_to_sender">%sに番号を追加</string>
   <string name="add_picture">画像を追加</string>
@@ -390,8 +391,10 @@
   <string name="pref_show_sms_template_in_summary">SMSメッセージでワンタイムパスワードを自動的に認識</string>
   <string name="pref_show_sms_template_summary">Turn on to use the smart features of Mi Message, such as copying codes, checking balance, etc.</string>
   <string name="pref_smart_messages_settings">Smart messages</string>
+  <string name="pref_sms_storage_title">ストレージ</string>
   <string name="pref_sms_theme_title">テーマ設定</string>
   <string name="pref_summary_allow_si_sl_push">メッセージがウェブサイトからコンテンツをダウンロードするのを許可</string>
+  <string name="pref_summary_auto_delete">制限に達したら古いメッセージを削除する</string>
   <string name="pref_summary_delete_limit">"スレッドごとに%1$s件のメッセージ"</string>
   <string name="pref_summary_delivery_reports">送信したメッセージの配達状況を表示</string>
   <string name="pref_summary_delivery_ringtone">送信したメッセージのサウンド通知を受信</string>
@@ -409,6 +412,7 @@
   <string name="pref_system_title">システム</string>
   <string name="pref_title_about_smart_sms">Smart messages partnerについて</string>
   <string name="pref_title_allow_si_sl_push">WAPプッシュを許可(SI/SL)</string>
+  <string name="pref_title_auto_delete">古いメッセージを削除</string>
   <string name="pref_title_card_format">カード共有フォーマット</string>
   <string name="pref_title_delivery_reports">配達状況</string>
   <string name="pref_title_fwd_sender_info">転送者情報</string>
@@ -417,6 +421,8 @@
   <string name="pref_title_mms_auto_retrieval">MMSのコンテンツを自動で取得</string>
   <string name="pref_title_mms_delete">マルチメディアメッセージの制限件数</string>
   <string name="pref_title_mms_read_reports">開封確認レポート</string>
+  <string name="pref_title_mms_retrieval_during_international_roaming">国際ローミング時にMMSのコンテンツをダウンロードする</string>
+  <string name="pref_title_mms_retrieval_during_national_roaming">国内ローミング時にMMSのコンテンツをダウンロードする</string>
   <string name="pref_title_mms_retrieval_during_roaming">ローミング時にMMSのコンテンツを自動取得</string>
   <string name="pref_title_mms_validity_period">MMS期限切れ</string>
   <string name="pref_title_notification_body_enabled">ロック画面にメッセージを表示</string>

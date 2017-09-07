@@ -57,7 +57,7 @@
   <string name="can_not_use">"使用できません"</string>
   <string name="cancel">"キャンセル"</string>
   <string name="card_title_answering">"着信呼出"</string>
-  <string name="card_title_answering_fail">"呼出に応答できません、もう一度お試しください。"</string>
+  <string name="card_title_answering_time_out">"呼出に応答できません、もう一度お試しください。"</string>
   <string name="card_title_call_ended">"通話終了"</string>
   <string name="card_title_conf_call">"グループ通話"</string>
   <string name="card_title_dialing">"発信中"</string>
@@ -138,10 +138,6 @@
   <string name="ivr_menu_dialing_msg_no_mute">"選択したサービスに移動…[自動エラー修正が有効になっています]"</string>
   <string name="ivr_menu_list_sub_menu_count_format">Tap %s</string>
   <string name="ivr_menu_list_title">"音声メニュー"</string>
-  <string name="jeejen_answer_call_text">"応答"</string>
-  <string name="jeejen_end_call_text">"終了"</string>
-  <string name="jeejen_reject_call_text">"拒否"</string>
-  <string name="jeejen_toggle_dialpad_text">"ダイヤルパッド"</string>
   <string name="keep_wait_call_back">Keep waiting</string>
   <string name="livetalk_dial">Using Top-up package</string>
   <string name="livetalk_hangup">"電話を切る"</string>

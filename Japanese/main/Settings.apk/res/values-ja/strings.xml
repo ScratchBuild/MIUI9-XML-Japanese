@@ -705,6 +705,7 @@
   <string name="bt_rarely_used_device_title">たまに使用する端末 (%d)</string>
   <string name="bt_trace_log">Bluetoothトレースログ</string>
   <string name="bt_trace_log_summary">Bluetoothトレースログ</string>
+  <string name="bug_report_settings">フィードバック</string>
   <string name="bugreport_in_power">バグレポートのショートカット</string>
   <string name="bugreport_in_power_summary">電源メニューにバグレポートを取得するボタンを表示する</string>
   <string name="build_number">ビルド番号</string>
@@ -2352,15 +2353,6 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="oem_unlock_enable">OEMロック解除</string>
   <string name="oem_unlock_enable_summary">ブートローダーによるロック解除を許可する</string>
   <string name="okay">OK</string>
-  <string name="oldman_mode_confirm_title">今すぐ再起動しますか？</string>
-  <string name="oldman_mode_confirm_will_normal_mode_text">Lite modeを終了するため端末を再起動します。</string>
-  <string name="oldman_mode_confirm_will_oldman_mode_text">Lite modeに切り替えるため端末を再起動します。</string>
-  <string name="oldman_mode_enabled_name">Lite mode</string>
-  <string name="oldman_mode_entry_name">Lite mode</string>
-  <string name="oldman_mode_entry_title">Lite mode</string>
-  <string name="oldman_mode_settings_caption">Lite mode settings</string>
-  <string name="oldman_mode_summary">Use simplified Home screen and menus</string>
-  <string name="oldman_mode_summary_cta">Lite mode needs to connect to the internet and read your contacts, messages, and location info to work normally.</string>
   <string name="onekey_migrate">Mi Mover</string>
   <string name="online_resource_entry">オンラインリソース</string>
   <string name="only_one_home_message">ホームの設定は別のホームアプリをインストールするまで表示されません。</string>
@@ -3061,6 +3053,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="search_handy_mode">片手操作モード;片手モード;片手</string>
   <string name="search_hint">検索設定</string>
   <string name="search_home_key">ホーム;Home button;Home key</string>
+  <string name="search_input_hint">検索設定</string>
   <string name="search_key_settings_title">ボタン;キー</string>
   <string name="search_lab_functions_title">Beta features;Lab function</string>
   <string name="search_label">設定</string>
@@ -3435,6 +3428,7 @@ PINが正しくない可能性があります。"</string>
   <string name="spellchecker_language">言語</string>
   <string name="spellchecker_quick_settings">設定</string>
   <string name="spellchecker_security_warning">このスペルチェッカーを選択すると、入力する全文字列の収集をアプリ（%1$s）に許可することになります。これにはパスワードやクレジットカード番号などの個人情報も含まれます。このスペルチェッカーを使用しますか？</string>
+  <string name="spellchecker_switch_title">スペルチェッカーをオンにする</string>
   <string name="spellcheckers_settings_title">スペルチェック</string>
   <string name="ssid_label">SSID:</string>
   <string name="ssl_ca_cert_dialog_title">ネットワーク監視</string>
@@ -4339,6 +4333,7 @@ PINが正しくない可能性があります。"</string>
   <string name="wifi_hotspot_message">%1$sでは、オンラインでログインしないとネットワーク接続できません。</string>
   <string name="wifi_hotspot_title">ログインして接続しますか？</string>
   <string name="wifi_in_airplane_mode">機内モード</string>
+  <string name="wifi_info_reconnect">接続に失敗しました、もう一度お試しください</string>
   <string name="wifi_install_credentials">証明書のインストール</string>
   <string name="wifi_ip_address">IPアドレス</string>
   <string name="wifi_ip_settings">IP設定</string>
