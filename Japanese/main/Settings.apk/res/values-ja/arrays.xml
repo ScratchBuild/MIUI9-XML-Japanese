@@ -160,6 +160,16 @@
         <item>キャリア名を常に表示</item>
         <item>キャリア名を表示しない</item>
     </string-array>
+    <string-array name="check_importance_entries">
+        <item>推奨</item>
+        <item>重要</item>
+        <item>重要でない</item>
+    </string-array>
+    <string-array name="check_importance_summary">
+        <item>自動で判断を行い、重要でない通知はすべて別のフォルダに表示されます</item>
+        <item>通知は通知シェードに直接表示されます</item>
+        <item>すべての通知は別のフォルダに表示されます</item>
+    </string-array>
     <string-array name="timezone_filters">
         <item>アメリカ</item>
         <item>ヨーロッパ</item>

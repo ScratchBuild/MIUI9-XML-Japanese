@@ -789,6 +789,7 @@
   <string name="change_storage">ストレージの変更</string>
   <string name="charging_sounds_title">充電中の音</string>
   <string name="check_find_device_status_failure_confirm">OK</string>
+  <string name="check_importance">重要度を確認</string>
   <string name="check_update">アップデートをチェック</string>
   <string name="checkbox_notification_same_as_incoming_call">通知音にも着信音量を適用</string>
   <string name="checking_decryption">確認しています…</string>
@@ -3521,6 +3522,7 @@ PINが正しくない可能性があります。"</string>
   <string name="status_wifi_mac_address">Wi-Fi MACアドレス</string>
   <string name="status_wimax_mac_address">4G MACアドレス</string>
   <string name="status_write_success">書き込み完了</string>
+  <string name="statusbar_permission_desc">重要な通知に対してのみ、アクセス許可が利用可能です</string>
   <string name="storage_detail_apps">アプリ</string>
   <string name="storage_detail_audio">音声</string>
   <string name="storage_detail_cached">キャッシュデータ</string>
@@ -3833,6 +3835,7 @@ PINが正しくない可能性があります。"</string>
   <string name="turn_on_torch">ライトを点灯</string>
   <string name="turn_update_keyguard_password_wait_dialog">パスワードを変更しています…</string>
   <string name="under_keyguard">画面オフ</string>
+  <string name="unimportant">重要でない</string>
   <string name="uninstall_all_users_text">すべてのユーザーからアンインストール</string>
   <string name="uninstall_dlg_msg">アンインストールするとアプリの全データが削除されます</string>
   <string name="uninstall_dlg_title">今すぐアンインストールしますか？</string>
