@@ -635,6 +635,10 @@
         <item>White</item>
         <item>Violet</item>
     </string-array>
+    <string-array name="screen_key_position_action">
+        <item>左側にメニューボタン、右側に戻るボタン</item>
+        <item>左側に戻るボタン、右側にメニューボタン</item>
+    </string-array>
     <string-array name="screen_key_press_action">
         <item>最近使ったアプリを表示</item>
         <item>メニューを表示</item>

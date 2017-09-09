@@ -1667,6 +1667,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="key_gesture_function_preview">Gestures and key preview</string>
   <string name="key_gesture_function_shortcut">Function shortcut</string>
   <string name="key_none">なし</string>
+  <string name="key_position_cat">ボタンの配置</string>
   <string name="key_settings">ボタン</string>
   <string name="key_settings_title">ボタン</string>
   <string name="keyboard_and_input_methods_category">キーボードと入力方法</string>
@@ -2884,6 +2885,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="screen_key_long_press">ナビゲーションボタンを長押し</string>
   <string name="screen_key_long_press_action">トリガ機能</string>
   <string name="screen_key_long_press_timeout">長押し時間を設定</string>
+  <string name="screen_key_position">ナビゲーションボタン</string>
   <string name="screen_key_press">ナビゲーションボタンをタップ</string>
   <string name="screen_key_press_action">トリガ機能</string>
   <string name="screen_locking_sounds_title">画面ロック音</string>
