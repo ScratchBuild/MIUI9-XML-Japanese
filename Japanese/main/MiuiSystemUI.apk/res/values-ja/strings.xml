@@ -6,6 +6,7 @@
   <string name="accessibility_bluetooth_connected">Bluetoothが接続されました。</string>
   <string name="accessibility_bluetooth_disconnected">Bluetoothが切断されました。</string>
   <string name="accessibility_bluetooth_tether">Bluetoothテザリング。</string>
+  <string name="accessibility_brightness_slider">輝度調節スライダー</string>
   <string name="accessibility_camera_button">カメラ</string>
   <string name="accessibility_clear_all">すべての通知を削除する</string>
   <string name="accessibility_data_connection_3.5g">3.5G</string>
@@ -50,6 +51,8 @@
   <string name="accessibility_ringer_silent">マナーモード着信。</string>
   <string name="accessibility_ringer_vibrate">バイブレーション着信。</string>
   <string name="accessibility_search_light">検索</string>
+  <string name="accessibility_search_scanner">スキャナー</string>
+  <string name="accessibility_settings">設定</string>
   <string name="accessibility_tty_enabled">テレタイプライターが有効です。</string>
   <string name="accessibility_wifi_off">Wi-FiはOFFです。</string>
   <string name="accessibility_wifi_one_bar">Wi-Fi電波状態:レベル1</string>

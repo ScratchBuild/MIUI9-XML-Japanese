@@ -15,6 +15,8 @@
   <string name="dialog_3g_title">"警告"</string>
   <string name="dialog_btn_3g">"とにかく続ける"</string>
   <string name="dialog_btn_wifi">"Wi-Fiに切り替える"</string>
+  <string name="dialog_stop_desc">"実行中のダウンロードを停止してもよろしいですか？すべての進捗状況が失われ、再開することはできません。次にダウンロードしようとすると初めから開始されます。"</string>
+  <string name="dialog_stop_title">"ダウンロードを停止しますか？"</string>
   <string name="download_done">"ダウンロードが完了しました"</string>
   <string name="download_fail">"ダウンロード中にエラーは発生しました"</string>
   <string name="download_fail_desc">"MD5チェックサムが一致しません…"</string>

@@ -497,12 +497,13 @@ This feature encrypts and sends your device's ID to Mi's servers."</string>
   <string name="sub_sync_item_sms_title_wifi_only">"MMSの同期にWi-Fiのみ使用する"</string>
   <string name="success_upgraded_space">%s を追加しました</string>
   <string name="sync_dspt">同期</string>
-  <string name="sync_dspt_entrance_provision">"写真、連絡先、通話履歴やメッセージを複数の端末間で同期します。任意のブラウザで %s にアクセスすることで同期するものを確認できます。"</string>
+  <string name="sync_dspt_entrance_provision">"Mi Cloudは複数の端末間で写真や連絡先を同期するのに役立ちます。任意のブラウザで %s にアクセスすることで同期するものを確認できます。"</string>
   <string name="sync_dspt_entrance_provision_2">詳細</string>
   <string name="sync_dspt_entrance_provision_confirm_close">使用しない</string>
   <string name="sync_dspt_entrance_provision_confirm_content">"MIUIの内蔵アプリは、Mi Cloudが写真、連絡先、ノートなどをバックアップするために必要です。Mi Cloudは無料ですぐに使用できます。"</string>
   <string name="sync_dspt_entrance_provision_confirm_open">Mi Cloudを使用</string>
   <string name="sync_dspt_entrance_provision_confirm_title">"Mi Cloud使用しない？"</string>
+  <string name="sync_dspt_entrance_provision_network">"このアプリが正常に動作するには、インターネットへの接続が必要です。同期データはネットワークに接続され、Wi－Fiを開くことができます。"</string>
   <string name="sync_dspt_entrance_provision_skip">"この手順をスキップ"</string>
   <string name="sync_dspt_provision">"写真、連絡先、ノートなどを、同期したすべての端末や "</string>
   <string name="sync_dspt_provision2">i.mi.com</string>

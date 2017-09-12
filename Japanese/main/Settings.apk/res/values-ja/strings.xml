@@ -100,14 +100,17 @@
   <string name="adb_warning_title">USBデバッグを許可しますか？</string>
   <string name="add_account_label">アカウントを追加</string>
   <string name="add_auto_startup_application">自動起動アプリを追加</string>
+  <string name="add_back_fingerprint_instruction_msg">センサーに指を置いてください</string>
   <string name="add_device_admin">有効にする</string>
   <string name="add_device_admin_msg">デバイス管理者を有効にしますか？</string>
   <string name="add_facerecoginition_text">顔データを追加</string>
   <string name="add_fingerprint_done_msg">指紋を使ってこのデバイスのロックを解除できるようになりました。</string>
   <string name="add_fingerprint_done_title">"You're ready to rock!"</string>
+  <string name="add_fingerprint_edge_instruction_msg">センサーが指紋の端を記録できるように指を動かしてください。</string>
+  <string name="add_fingerprint_edge_instruction_title">指を少し動かす</string>
   <string name="add_fingerprint_failed_retry_text">"指紋を追加できませんでした。もう一度試してください。"</string>
   <string name="add_fingerprint_finished_button_text">完了</string>
-  <string name="add_fingerprint_instruction_msg">デバイスのロックを解除したり、指紋でのお支払いを確認します。</string>
+  <string name="add_fingerprint_instruction_msg">指紋センサーはお使いの端末のホームボタンに組み込まれています。</string>
   <string name="add_fingerprint_instruction_title">指紋を追加します</string>
   <string name="add_fingerprint_name_suggest_text">指紋の名前</string>
   <string name="add_fingerprint_put_finger_edge_msg">指紋のさまざまな部分を追加するため、少し指を移動し、再度センサーの上に当ててください。</string>
@@ -117,6 +120,7 @@
   <string name="add_fingerprint_success_msg">正常に追加されました</string>
   <string name="add_fingerprint_text">指紋認証を追加</string>
   <string name="add_fingerprint_toast_text">指をセンサーに当ててください。</string>
+  <string name="add_front_fingerprint_instruction_msg">指紋センサーはお使いの端末の背面にあります。</string>
   <string name="adding_profile_owner_warning">"次に進むと、ユーザーは管理者の管理対象となり、管理者は個人情報に加えて関連データも保存できるようになります。
 
 管理者は、ネットワークアクティビティや端末の位置情報など、このユーザーに関連付けられた設定、アクセス、アプリ、データを監視および管理できます。"</string>
@@ -3285,8 +3289,21 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="settings_safetylegal_title">安全に関する情報</string>
   <string name="settings_shortcut">設定をショートカットとする</string>
   <string name="settings_toggle_position_divider_list">バーの上に配置したトグルは有効です</string>
+  <string name="setup_add_fingerprint_failed_retry_text">指紋を追加できませんでした</string>
+  <string name="setup_choose_unlock_fingerprint_msg">指紋を追加する前に画面ロックを設定してください。</string>
+  <string name="setup_choose_unlock_mixed_password_color_normal">&lt;Data&gt;&amp;lt;font color=#000000&amp;gt;パスワード&amp;lt;/font&amp;gt;&lt;/Data&gt;</string>
+  <string name="setup_choose_unlock_mixed_password_color_pressed">&lt;Data&gt;&amp;lt;font color=#009dff&amp;gt;パスワード&amp;lt;/font&amp;gt;&lt;/Data&gt;</string>
+  <string name="setup_choose_unlock_mixpassword_title">パスワードを設定</string>
+  <string name="setup_choose_unlock_password_msg">4桁の数字を入力</string>
+  <string name="setup_choose_unlock_password_title">PINを設定</string>
+  <string name="setup_choose_unlock_pattern_color_normal">&lt;Data&gt;&amp;lt;font color=#000000&amp;gt;パターン&amp;lt;/font&amp;gt;&lt;/Data&gt;</string>
+  <string name="setup_choose_unlock_pattern_color_pressed">&lt;Data&gt;&amp;lt;font color=#009dff&amp;gt;パターン&amp;lt;/font&amp;gt;&lt;/Data&gt;</string>
+  <string name="setup_choose_unlock_pattern_title">ロック解除パターンを入力</string>
+  <string name="setup_choose_unlock_type_title">パスワードを設定</string>
   <string name="setup_fingerprint_enroll_finish_message">指紋センサーに触れるだけで端末を復帰させてロックを解除できます。</string>
   <string name="setup_fingerprint_enroll_finish_message_secondary">このアイコンが表示されている場合は指紋を利用できます。</string>
+  <string name="setup_password_back">戻る</string>
+  <string name="setup_password_confirm">OK</string>
   <string name="setup_wifi_nfc_tag">Wi-Fi NFCタグのセットアップ</string>
   <string name="setup_wizard_back_button_label">戻る</string>
   <string name="setup_wizard_next_button_label">次へ</string>
