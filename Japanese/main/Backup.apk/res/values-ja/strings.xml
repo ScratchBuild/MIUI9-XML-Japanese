@@ -163,6 +163,7 @@
   <string name="notif_trans_receiving_failed">"データを受信できませんでした"</string>
   <string name="notif_trans_sending_completed">"データの送信が完了しました"</string>
   <string name="notif_trans_sending_failed">"データを送信できませんでした"</string>
+  <string name="notif_trans_wait_for_reconnecting">"リモートデバイスが切断されました。再接続してください。"</string>
   <string name="page_loading">"読み込み中…"</string>
   <string name="progress_backup_hint">"バックアップ中…"</string>
   <string name="progress_restore_hint">"復元中…"</string>
@@ -170,6 +171,7 @@
   <string name="prompt_sending">"アップロード中…"</string>
   <string name="prompt_writing">"保存中…"</string>
   <string name="read_encrypt_fail">"暗号化されたバックアップを読み取れませんでした"</string>
+  <string name="reconnect">"再接続"</string>
   <string name="refresh">"更新"</string>
   <string name="remote_receive">"受信"</string>
   <string name="restore">"復元"</string>
@@ -257,6 +259,7 @@
   <string name="trans_calculating_base_size">"データサイズを計算中"</string>
   <string name="trans_cancel_confirm">"転送の処理中です、今すぐ停止しますか？"</string>
   <string name="trans_cancelling">"キャンセル中…"</string>
+  <string name="trans_connect_failed_device_incompatible">"デバイスの互換性がありません。進行中の転送をキャンセルしてもう一度お試しください。"</string>
   <string name="trans_connect_failed_message">"Couldn't connect, try again or reboot device. On the other device, go to Settings &gt; Additional Settings &gt; Mi Mover, tap [I'm a sender], or launch Mi Mover again after reboot."</string>
   <string name="trans_connect_failed_title">"接続できませんでした"</string>
   <string name="trans_connect_failed_toast">"接続できませんでした"</string>
@@ -267,6 +270,7 @@
   <string name="trans_detail_category_sysdata">"システムデータ"</string>
   <string name="trans_detail_category_userdata">"アプリ"</string>
   <string name="trans_device_disconnected">"デバイスが切断されました"</string>
+  <string name="trans_device_wait_for_reconnecting">"デバイスが切断されました。再接続してください。"</string>
   <string name="trans_generate_qr_code_failed">"QRコードを作成できませんでした"</string>
   <string name="trans_main_tutor">"連絡先、通話履歴、メッセージ、ホーム画面のレイアウト、アプリ、設定およびその他を、新しいデバイスへ移動します"</string>
   <string name="trans_my_device">My device</string>
@@ -281,6 +285,10 @@ Tap [I'm a recipient] to create a QR code"</string>
 2. Open the app and tap Start
 3. Scan the QR code with your old device"</string>
   <string name="trans_operate_old_phone_tips2">"Go to Settings &gt; Additional Settings &gt; Mi Mover, Tap [I'm a sender]"</string>
+  <string name="trans_operate_reconnect_new_tips">"Wait until new phone shows \"Device disconnected\".
+Then click [Reconnect] to create a QR code."</string>
+  <string name="trans_operate_reconnect_old_tips">"Wait until old phone shows \"Device disconnected\".
+Then click [Reconnect] to scan the QR code."</string>
   <string name="trans_please_waiting">"読み込み中…"</string>
   <string name="trans_progress_subdescript_br_receiver">Restoring %1$s, %2$s completed</string>
   <string name="trans_progress_subdescript_br_sender">Backing up %1$s, %2$s completed</string>

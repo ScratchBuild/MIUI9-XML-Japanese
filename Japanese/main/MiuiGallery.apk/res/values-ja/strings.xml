@@ -632,7 +632,7 @@ Take more photos of your friends!"</string>
   <string name="photo_editor_beautify">Beautify</string>
   <string name="photo_editor_beautify_auto">Auto</string>
   <string name="photo_editor_beauty_compare">Original</string>
-  <string name="photo_editor_crop_and_rotate">"切り抜きと回転"</string>
+  <string name="photo_editor_crop_and_rotate">"切り抜き"</string>
   <string name="photo_editor_crop_reset">"リセット"</string>
   <string name="photo_editor_doodle">"落書き"</string>
   <string name="photo_editor_filter">"フィルタ"</string>
@@ -944,8 +944,7 @@ Take more photos of your friends!"</string>
   <string name="video_editor_text_edit_input_open_hint">Enter title</string>
   <string name="video_editor_text_edit_start">Title</string>
   <string name="video_editor_text_input_empty_tips">"Looks like you haven't entered text yet"</string>
-  <string name="video_editor_text_none">None</string>
-  <string name="video_editor_text_preview_text">Text</string>
+  <string name="video_editor_text_preview_text">MI</string>
   <string name="video_editor_trim">Trim</string>
   <string name="video_editor_unsupport_audio_file">Unsupport audio file</string>
   <string name="video_err">"動画を再生できません"</string>

@@ -1031,7 +1031,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="notification_battery_consume_abnormal_title">"バッテリーの消耗が早すぎます"</string>
   <string name="notification_exit_power_save_mode">Turned off Battery saver</string>
   <string name="notification_exit_power_save_mode_subtitle">Battery %s charged.</string>
-  <string name="notification_item">Protect selected apps with App lock</string>
+  <string name="notification_item">"アプリロックでアプリを保護する"</string>
   <string name="notification_mask_summary">"ロック画面と通知シェードに通知の内容を表示しない"</string>
   <string name="notification_mask_title">"内容を非表示"</string>
   <string name="notification_subtitle">"オンにするにはタップ"</string>

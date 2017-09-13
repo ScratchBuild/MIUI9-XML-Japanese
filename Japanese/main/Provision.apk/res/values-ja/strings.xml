@@ -10,8 +10,7 @@
   <string name="congratulation_label">"You're ready to rock!​"</string>
   <string name="congratulation_title">"セットアップ完了"</string>
   <string name="content_description_complete">"完了"</string>
-  <string name="content_description_language_picker">"言語を選択"</string>
-  <string name="content_description_miui_version">MIUI 8</string>
+  <string name="content_description_miui_version">MIUI 9</string>
   <string name="content_description_start">"開始"</string>
   <string name="desc_fingerprint">Use your fingerprint to unlock your device, verify Mi Pay transactions, or to sign in to apps and services.</string>
   <string name="desc_international_fingerprint">Use your fingerprint to unlock your device, or to sign in to apps and services.</string>
@@ -25,7 +24,10 @@
   <string name="input_method_category">"メッセージやメモなどを書き込むために使用するデフォルトのキーボードを選択します。他のサードパーティ製キーボードを後からインストールすることもできます。"</string>
   <string name="input_method_setting">"キーボードを選択"</string>
   <string name="install_preinstall_app">"アプリを読み込み中…"</string>
+  <string name="item_fingerprint">"指紋"</string>
+  <string name="item_lock_screen_password">"パスワードロックのみ"</string>
   <string name="language_picker_other_languages_title">"その他の言語"</string>
+  <string name="language_settings">"言語設定"</string>
   <string name="locale_picker_title">"言語を選択"</string>
   <string name="miui_privacy_policy_no_network">"インターネットに接続していません。View the Privacy Policy at %s."</string>
   <string name="miui_terms_no_network">"インターネットに接続していません。View the Terms of Service at %s."</string>
@@ -61,7 +63,7 @@
   <string name="terms_of_use_label">"Your privacy is very important to us. Please read our Terms of Service and Privacy Policy to understand what information we collect, how we use it, and what choices are available to you.
 
 You must agree to our Terms of Service and Privacy Policy before you can use MIUI. During the activation, Mi services, Mi SIM activation services, Mi Cloud, Find device, Home screen modules, Game Service, MAB and MSA system components, Direct Service, Quick Card, statistic, MiSmartCards, and Mi Account components will connect to the internet and acquire your location."</string>
-  <string name="title_fingerprint">"指紋認証を追加"</string>
+  <string name="title_fingerprint">"モバイルパスワードを設定"</string>
   <string name="two_dimensional_code_scan">"QRコードをスキャン"</string>
   <string name="user_agreement">"利用規約"</string>
   <string name="user_strayed_warning">"このページは工場テスト用に設計されています。戻るボタンをタップすると終了します。"</string>
