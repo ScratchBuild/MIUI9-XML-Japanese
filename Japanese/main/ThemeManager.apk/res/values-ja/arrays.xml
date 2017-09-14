@@ -7,6 +7,34 @@
         <item>植物</item>
         <item>動物</item>
     </string-array>
+    <string-array name="wallpaper_settings_precust_global_cover_name">
+        <item>風景</item>
+        <item>動物</item>
+        <item>植物</item>
+        <item>Creative</item>
+        <item>生活</item>
+    </string-array>
+    <string-array name="wallpaper_settings_precust_india_cover_name">
+        <item>動物</item>
+        <item>Building</item>
+        <item>Creative</item>
+        <item>Cartoon</item>
+        <item>風景</item>
+    </string-array>
+    <string-array name="wallpaper_settings_precust_brazil_cover_name">
+        <item>風景</item>
+        <item>動物</item>
+        <item>Creative</item>
+        <item>植物</item>
+        <item>生活</item>
+    </string-array>
+    <string-array name="wallpaper_settings_precust_hong_kong_cover_name">
+        <item>風景</item>
+        <item>動物</item>
+        <item>Creative</item>
+        <item>植物</item>
+        <item>生活</item>
+    </string-array>
     <string-array name="disable_package_replacement">
         <item>disable package name</item>
     </string-array>

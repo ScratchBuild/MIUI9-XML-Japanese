@@ -551,6 +551,7 @@ is mainly provided by Ultimate Inc."</string>
   <string name="no_scanned_songs">"なし"</string>
   <string name="no_song">No songs</string>
   <string name="no_song_downloaded">"サーバーに接続できませんでした"</string>
+  <string name="no_system_cropper_find">"System doesn't have cropper for image"</string>
   <string name="normal_quality">Good</string>
   <string name="not_login">"ログインしていません"</string>
   <string name="not_selected">"曲を選択"</string>

@@ -13,9 +13,8 @@
   <string name="bugreport_dump_complete_notification_title">"バグレポートを作成"</string>
   <string name="bugreport_dump_start_notification_summary">"これには数分かかります。"</string>
   <string name="bugreport_dump_start_notification_title">"バグレポートを作成中…"</string>
-  <string name="bugreport_tool_log">"バグレポートを作成"</string>
-  <string name="bugreport_tool_log_toast">"ログを%sに保存しました"</string>
-  <string name="bugreport_tool_log_toast_generate_bugreport">"バグレポートを作成中 (数分かかります)"</string>
+  <string name="bugreport_tool_log_dumping_desc">"少しお待ちください"</string>
+  <string name="bugreport_tool_log_dumping_title">"バグレポートを作成中"</string>
   <string name="close_feedback_main">"非表示"</string>
   <string name="cta_cancel">"キャンセル"</string>
   <string name="cta_confirm">OK</string>
@@ -189,11 +188,10 @@
   <string name="mobile_data_note_dialog_content">Using mobile data to upload logs may generate additional fees.</string>
   <string name="mobile_data_note_dialog_content_with_file_size">Uploading logs using mobile data connection will require %sMB of data.</string>
   <string name="mobile_data_note_dialog_title">Data usage warning</string>
-  <string name="modem_tool_log">Capture modem logs</string>
-  <string name="modem_tool_log_start">"開始"</string>
-  <string name="modem_tool_log_start_toast">Saving modem log to %s</string>
-  <string name="modem_tool_log_stop">"停止"</string>
-  <string name="modem_tool_log_stop_toast">Stopped saving modem log to %s</string>
+  <string name="modem_tool_log_dumping_desc">"停止するにはアイコンをタップ"</string>
+  <string name="modem_tool_log_dumping_title">"モデムログのキャプチャ中"</string>
+  <string name="modem_tool_log_finish_desc">"%sにログを保存しました"</string>
+  <string name="modem_tool_log_finish_title">"モデムログをキャプチャしました"</string>
   <string name="module_communication">"コミュニケーション"</string>
   <string name="module_data">"ストレージとデュアルアプリ"</string>
   <string name="module_desktop">"ホーム画面と設定"</string>

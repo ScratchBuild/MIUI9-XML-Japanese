@@ -1752,7 +1752,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="launch_camera">カメラを起動</string>
   <string name="launch_defaults_none">No defaults set</string>
   <string name="launch_defaults_some">Some defaults set</string>
-  <string name="launch_google_search">Google検索を起動</string>
+  <string name="launch_google_search">Googleアシスタントを起動</string>
   <string name="launch_voice_assistant">音声アシスタントを起動</string>
   <string name="launcher_auto_fill_empty_title">空のセルを埋める</string>
   <string name="launcher_title">ホーム画面と履歴</string>

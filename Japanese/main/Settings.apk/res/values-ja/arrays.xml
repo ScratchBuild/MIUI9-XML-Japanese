@@ -747,13 +747,13 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>手動で接続する</item>
     </string-array>
     <string-array name="connect_mode_entries">
-        <item>compatible mode</item>
-        <item>high mode</item>
+        <item>互換</item>
+        <item>高速</item>
     </string-array>
     <string-array name="traffic_balance_entries">
-        <item>close</item>
-        <item>normal mode</item>
-        <item>extreme mode</item>
+        <item>オフ</item>
+        <item>標準</item>
+        <item>極限</item>
     </string-array>
     <string-array name="preferred_app_entries">
         <item>ランチャー</item>

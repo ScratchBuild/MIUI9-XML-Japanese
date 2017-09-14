@@ -124,12 +124,12 @@
   <string name="find_device_io_error">"ネットワークに接続できません"</string>
   <string name="find_device_locked_account_email" formatted="false">"%s、関連付けられたメールアドレス: %s"</string>
   <string name="find_device_locked_account_phone" formatted="false">"%s、関連付けられた電話番号: %s"</string>
-  <string name="find_device_message">The current device is locked, message: %1$s, contact phone: %2$s.</string>
+  <string name="find_device_message">端末はロックされています。 Message: %1$s. Call %2$s.</string>
   <string name="find_device_null_credential_error">"端末情報を取得できません、Xiaomiカスタマーサービスにお問い合わせください"</string>
   <string name="find_device_operation_failed_error">"サーバーエラーが発生しました、後ほど再試行してください"</string>
   <string name="find_device_operation_failed_error_unknown">"エラーが発生しました、後ほど再試行してください"</string>
-  <string name="find_device_owner_phone">The current device is locked, contact phone: %1$s.</string>
-  <string name="find_device_prompt_message">The current device is locked, message: %1$s.</string>
+  <string name="find_device_owner_phone">端末はロックされています。 Call %1$s.</string>
+  <string name="find_device_prompt_message">端末はロックされています。 Message: %1$s.</string>
   <string name="find_device_remote_exception">RPC error</string>
   <string name="find_device_request_error">"サーバーエラーが発生しました、後ほど再試行してください"</string>
   <string name="find_device_request_prepare_error">"ステータスを取得できません、後ほど再試行してください"</string>
@@ -338,8 +338,8 @@
   <string name="passport_skip_setup_account_msg">"後から[設定]でMi Accountをセットアップすることができます。"</string>
   <string name="passport_skip_setup_account_title">"セットアップをスキップ"</string>
   <string name="passport_sms_send_success">Sent</string>
-  <string name="passport_sync_account_data">"アカウントデータの同期"</string>
-  <string name="passport_sync_account_data_failed_warning">"您的帐号数据有延迟,将只能使用小米ID登录。メールアドレス/電話番号でログインしている場合は、しばらくお待ちください"</string>
+  <string name="passport_sync_account_data">"アカウント情報を同期しています…"</string>
+  <string name="passport_sync_account_data_failed_warning">"アカウント情報を同期をしています、Mi Account IDを使用してログインすることができます。電話番号またはメールアドレスでログインする場合は、同期が完了するまでお待ちください。"</string>
   <string name="passport_title_reg">"アカウントを作成"</string>
   <string name="passport_trust_device">Add this device to verified devices</string>
   <string name="passport_trying_read_verify_code_sms">"認証コードを取得中…"</string>
@@ -353,9 +353,9 @@
   <string name="passport_user_agreement_p2">" と "</string>
   <string name="passport_user_agreement_p3">"プライバシーポリシー"</string>
   <string name="passport_user_agreement_p4">"に同意する"</string>
-  <string name="passport_user_id_notice">您的小米ID是: %s</string>
+  <string name="passport_user_id_notice">Your Mi Account ID is %s.</string>
   <string name="passport_user_reg_region">"国/地域"</string>
-  <string name="passport_user_reg_region_warning">"You Won't be able to change your country/region once the account is created"</string>
+  <string name="passport_user_reg_region_warning">"You won't be able to change your country/region once the account is created."</string>
   <string name="passport_vcode_notification_title">Your sign-in verification is incomplete</string>
   <string name="passport_vcode_prompt_long">"認証コードを入力"</string>
   <string name="passport_vcode_sms_send_prompt">"認証コードを%sに送信します"</string>

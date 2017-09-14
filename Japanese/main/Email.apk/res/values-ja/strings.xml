@@ -7,7 +7,7 @@
   <string name="accessibility_guide_second">Then click the switch on the top right corner, click the \"Confirm\" to continue.</string>
   <string name="account_duplicate_dlg_message_fmt">"このユーザー名はアカウント「%s」で既に使用しています。"</string>
   <string name="account_duplicate_dlg_title">"重複するアカウント"</string>
-  <string name="account_failure">"アカウントの障害"</string>
+  <string name="account_failure">"セッションの期限切れ"</string>
   <string name="account_name_toast">"同じ名前のアカウントが既に存在します"</string>
   <string name="account_options_sync_title">"同期"</string>
   <string name="account_password_spaces_error">"このパスワードは1文字以上の空白文字で開始または終了しています。
@@ -71,6 +71,7 @@
   <string name="account_setup_autodiscover_dlg_authfail_message">"ユーザー名、パスワード、アカウントの設定が正しいか確認してください。"</string>
   <string name="account_setup_autodiscover_dlg_authfail_title">"アカウントセットアップに関する問題"</string>
   <string name="account_setup_basics_email_label">"メールアドレス"</string>
+  <string name="account_setup_basics_login_gmail_without_proxy">"現在のネットワーク接続を使用する"</string>
   <string name="account_setup_basics_manual_setup_action">"手動セットアップ"</string>
   <string name="account_setup_basics_password_label">"パスワード"</string>
   <string name="account_setup_basics_title">"アカウント設定"</string>
@@ -218,7 +219,7 @@
   <string name="auto_remind_text">Automatic reminders</string>
   <string name="auto_remind_unbind">"停止"</string>
   <string name="auto_sync_off">"自動同期はオフです。"</string>
-  <string name="automatic_remind_text">remind</string>
+  <string name="automatic_remind_text">"自動で通知する"</string>
   <string name="bank_card_detail">"クレジットカードの詳細"</string>
   <string name="bank_card_list_card_num_fmt">****%s</string>
   <string name="battery_saver">Battery saver</string>
@@ -241,7 +242,7 @@
   <string name="calendar_remind_gridview_pick_date">"日付を選択"</string>
   <string name="cancel">"キャンセル"</string>
   <string name="cancel_action">"キャンセル"</string>
-  <string name="cancel_pop3_attchemt_downloading">Cancellation of any attachment being downloaded is not available to a POP3 type of account.</string>
+  <string name="cancel_pop3_attchemt_downloading">"POP3アカウントで進行中のダウンロードはキャンセルできません"</string>
   <string name="cant_move_or_change_labels">移動できません。複数のアカウントを選択しています。</string>
   <string name="cc">Cc</string>
   <string name="cc_attribution">Cc: %1$s&lt;br></string>
@@ -250,7 +251,7 @@
   <string name="change_folders_selection_dialog_title">"フォルダを変更"</string>
   <string name="change_sync_settings">"同期設定を変更"</string>
   <string name="changepw_dialog_tips">"%sのパスワードを再入力"</string>
-  <string name="changepw_dialog_tips_please_clikc_btn">"%sの認証コードを確認してもう一度ログインしてください"</string>
+  <string name="changepw_dialog_tips_please_clikc_btn">"表示された%sの認証コードでもう一度ログインしてください。"</string>
   <string name="chat_item_msg_people_unit">"人"</string>
   <string name="chat_item_msg_user_etc">etc.</string>
   <string name="check_setup_data">"サーバー設定を確認しています…"</string>
@@ -659,8 +660,13 @@ Try a different inbox."</string>
   <string name="oauth_gmail_login_notify">Enter your Google Account username and password on the following sign-in page.</string>
   <string name="oauth_login_continue">"続行"</string>
   <string name="oauth_login_continue_qq">Get a passcode and sign in &gt;</string>
+  <string name="oauth_login_usr_proxy">"プロキシログイン"</string>
   <string name="ok">OK</string>
   <string name="okay_action">OK</string>
+  <string name="open_calendar_and_contacts_permission">"システム設定でカレンダーと連絡先のアクセス許可を有効にしてください"</string>
+  <string name="open_external_storage_and_calendar_permission">"システム設定で外部ストレージとカレンダーのアクセス許可を有効にしてください"</string>
+  <string name="open_external_storage_and_contacts_and_calendar_permission">"システム設定で外部ストレージとカレンダー、連絡先のアクセス許可を有効にしてください"</string>
+  <string name="open_external_storage_and_contacts_permission">"システム設定で外部ストレージと連絡先のアクセス許可を有効にしてください"</string>
   <string name="outbox_alert_button_no_resend">"送信しない"</string>
   <string name="outbox_alert_button_resend">"再送"</string>
   <string name="outbox_alert_certificate_error">"Contact your email system's administrator and update your certificate."</string>
@@ -960,6 +966,10 @@ to receive reminders about payments and trips"</string>
   <string name="str_select_none">"すべて選択を解除"</string>
   <string name="subject_and_snippet" formatted="false">%s — %s</string>
   <string name="subject_hint">"件名"</string>
+  <string name="sync_contacts_fail_per_content">"連絡先にアクセス許可を行うには、[適用]をタップしてください"</string>
+  <string name="sync_contacts_fail_per_title">"連絡先の同期に失敗しました"</string>
+  <string name="sync_contacts_fail_permission">"連絡先の同期に失敗しました、連絡先へのアクセス許可が有効になっていません。端末の[設定] - [権限の管理]を開いてください"</string>
+  <string name="sync_contacts_req_per_ignored">"連絡先を開けないため、連絡先の同期ができません"</string>
   <string name="sync_error">"同期できませんでした。"</string>
   <string name="sync_error_message">"お使いのデバイスには同期をするための十分な空き領域がありません。"</string>
   <string name="syncing_wait_restart">"タップして再試行"</string>
@@ -981,7 +991,7 @@ to receive reminders about payments and trips"</string>
   <string name="to_heading">"To: "</string>
   <string name="toast_bar_fail_synchronization">"ネットワークに接続できません"</string>
   <string name="toast_bar_insufficient_memory_space">"十分な空き領域がありません"</string>
-  <string name="toast_bar_invalid_account">"もう一度ログインする必要があります"</string>
+  <string name="toast_bar_invalid_account">"セッションが期限切れです、もう一度ログインしてください"</string>
   <string name="toast_bar_no_connection_network">"インターネットに接続していません"</string>
   <string name="toast_bar_open_gmail_synchronization">"Gmail用のプロキシサーバーを使用するにはタップ"</string>
   <string name="today_text">"今日"</string>
@@ -1008,8 +1018,8 @@ to receive reminders about payments and trips"</string>
     between the web, your other devices, and your %1$s."</string>
   <string name="turn_auto_sync_on_dialog_confirm_btn">"ONにする"</string>
   <string name="turn_auto_sync_on_dialog_title">"自動同期をONにしますか？"</string>
-  <string name="unbind_dialog_text">"分析を停止すると、リマインダーを受け取ることができなくなります。
-今すぐ停止しますか？"</string>
+  <string name="unbind_dialog_text">"この操作を行うとアプリはメールの分析を停止します。
+アカウントを削除しますか？"</string>
   <string name="undo">"元に戻す"</string>
   <string name="unknow">"不明"</string>
   <string name="unread_string">"未読のスレッド"</string>
