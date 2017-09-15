@@ -97,6 +97,7 @@
   <string name="permission_group_title_privacy_related">"プライバシー"</string>
   <string name="permission_group_title_settings_related">"設定"</string>
   <string name="permission_warning_template">"%1$sに%2$sを許可しますか？"</string>
+  <string name="permission_warning_template_ask">"%1$sに以下の権限を許可しますか？"</string>
   <string name="permisson_reject_notice_toast_text2">"doesn't have permission to %1$s."</string>
   <string name="screen_overlay_button">"設定を開く"</string>
   <string name="screen_overlay_message">"この権限設定を変更するには、まず[設定]&gt;[アプリ]から画面オーバーレイをOFFにします"</string>

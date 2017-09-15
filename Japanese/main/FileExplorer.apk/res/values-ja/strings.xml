@@ -123,7 +123,7 @@
   <string name="data_consumption_checkbox_hint">"二度と表示しない"</string>
   <string name="data_consumption_confirm">OK</string>
   <string name="data_consumption_message">"このアプリが正常に動作するには、インターネットへの接続が必要です。"</string>
-  <string name="data_consumption_message1">"動画とステッカーが正常に動作するには、Wi-Fiを使用してインターネットへの接続が必要です。"</string>
+  <string name="data_consumption_message1">"Explorerが正常に動作するには、Wi-Fiを使用してインターネットへの接続が必要です。"</string>
   <string name="data_consumption_title">"インターネット接続"</string>
   <string name="decompress_cancel">"キャンセル"</string>
   <string name="decompress_confirm">"解凍"</string>
@@ -478,7 +478,7 @@
   <string name="recommend_user">"おすすめのプロフィール"</string>
   <string name="remote_video_report_success">"Thank you for your feedback! We'll follow up as soon as possible."</string>
   <string name="rename_alert">"ファイルの拡張子を変更した場合、それを開くことができない場合があります。"</string>
-  <string name="rename_alert2">The file will be hidden.</string>
+  <string name="rename_alert2">"ファイルの拡張子を変更した場合、ファイルは非表示になります。"</string>
   <string name="rename_failed">"%1$sの名前を変更することはできません"</string>
   <string name="repair_done">"復元済み"</string>
   <string name="repair_error">"復元できませんでした"</string>
@@ -581,7 +581,7 @@
   <string name="shared_sticker_page_no_file">"ネットワークに接続できませんでした。ネットワーク接続を確認して、もう一度やり直してください。"</string>
   <string name="shared_sticker_str">Recent</string>
   <string name="shared_sticker_suffix">Sticker at %s</string>
-  <string name="shared_sticker_use_tip">"You can send the stickers you saved from Chats just like you send images.
+  <string name="shared_sticker_use_tip">"You can send the stickers you saved from chats just like you send images.
 (GIFs can be added to Custom in WeChat Stickers)."</string>
   <string name="shared_sticker_use_tip_title">"ステッカーの使用方法"</string>
   <string name="shared_str">Shared by %s</string>

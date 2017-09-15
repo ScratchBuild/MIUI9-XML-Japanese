@@ -842,6 +842,12 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>2時間</item>
         <item>8時間</item>
     </string-array>
+    <string-array name="vip_mode_text">
+        <item>From anyone</item>
+        <item>From contacts only</item>
+        <item>From starred contacts only</item>
+        <item>None</item>
+    </string-array>
     <string-array name="alarm_repeat_type">
         <item>毎日</item>
         <item>平日</item>

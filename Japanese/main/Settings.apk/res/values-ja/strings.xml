@@ -110,7 +110,7 @@
   <string name="add_fingerprint_edge_instruction_title">指を少し動かす</string>
   <string name="add_fingerprint_failed_retry_text">"指紋を追加できませんでした。もう一度試してください。"</string>
   <string name="add_fingerprint_finished_button_text">完了</string>
-  <string name="add_fingerprint_instruction_msg">指紋センサーはお使いの端末のホームボタンに組み込まれています。</string>
+  <string name="add_fingerprint_instruction_msg">"あなたの指紋を使って端末のロック解除や支払いを行います。"</string>
   <string name="add_fingerprint_instruction_title">指紋を追加します</string>
   <string name="add_fingerprint_name_suggest_text">指紋の名前</string>
   <string name="add_fingerprint_put_finger_edge_msg">指紋のさまざまな部分を追加するため、少し指を移動し、再度センサーの上に当ててください。</string>
@@ -121,6 +121,8 @@
   <string name="add_fingerprint_text">指紋認証を追加</string>
   <string name="add_fingerprint_toast_text">指をセンサーに当ててください。</string>
   <string name="add_front_fingerprint_instruction_msg">指紋センサーはお使いの端末の背面にあります。</string>
+  <string name="add_new">追加</string>
+  <string name="add_rule">ルールを追加</string>
   <string name="adding_profile_owner_warning">"次に進むと、ユーザーは管理者の管理対象となり、管理者は個人情報に加えて関連データも保存できるようになります。
 
 管理者は、ネットワークアクティビティや端末の位置情報など、このユーザーに関連付けられた設定、アクセス、アプリ、データを監視および管理できます。"</string>
@@ -142,6 +144,8 @@
   <string name="airplane_mode">機内モード</string>
   <string name="alarm_sound_dialog_title">アラーム音を選択</string>
   <string name="alarm_sound_title">アラーム音</string>
+  <string name="alarm_stop">Turn off Silent mode when alarm goes off</string>
+  <string name="alarm_stop_info">Silent mode will be turned off when alarm goes off</string>
   <string name="alarm_volume_option_title">アラームの音量</string>
   <string name="alarm_volume_title">アラーム</string>
   <string name="all_volume_title">音量</string>
@@ -281,6 +285,7 @@
   <string name="apps_with_restrictions_header">制限のあるアプリ</string>
   <string name="apps_with_restrictions_settings_button">アプリの設定を展開</string>
   <string name="ask_compatibility">起動時に確認する</string>
+  <string name="ask_for_delete">このルールを削除しますか？</string>
   <string name="assist_access_context_summary">画面コンテンツのテキストにアクセスすることをアシストアプリに許可します</string>
   <string name="assist_access_context_title">画面のテキストを使用</string>
   <string name="assist_access_screenshot_summary">画面の画像にアクセスすることをアシストアプリに許可します</string>
@@ -320,6 +325,8 @@
   <string name="auto_replace_summary">入力間違いを自動修正する</string>
   <string name="auto_restore_summary">アプリを再インストールする際に、バックアップした設定とデータを復元する</string>
   <string name="auto_restore_title">自動復元</string>
+  <string name="auto_rule">Timer</string>
+  <string name="auto_silent">Schedule turn on time</string>
   <string name="auto_startup_application_manage">自動起動</string>
   <string name="auto_upload_debug_log_summary">診断データには、ハードウェア、オペレーティングシステムやアプリケーションの使用状況に関する情報が含まれます。これらのデータはシステム内の問題を特定、分析するために使用され、個人を識別するために使用されることはありません。</string>
   <string name="auto_upload_debug_log_title">診断データを自動的に送信する</string>
@@ -336,6 +343,7 @@
   <string name="background_data_dialog_title">バックグラウンドを無効化</string>
   <string name="background_data_summary">アプリがデータをいつでも同期、送信、受信可能にする</string>
   <string name="background_process_stop_description">以前のアプリのプロセスです。再度必要になった場合に備えてまだ実行中です。通常は停止する必要はありません。</string>
+  <string name="backtouch_enable_title">Adjust volume on the back</string>
   <string name="backup_configure_account_title">バックアップアカウント</string>
   <string name="backup_data_summary">アプリのデータ、Wi-Fiパスワード、その他の設定をGoogleサーバーにバックアップする</string>
   <string name="backup_data_title">データのバックアップ</string>
@@ -819,6 +827,8 @@
   <string name="close_gesture">ジェスチャーを使用して閉じる</string>
   <string name="close_miui_optimization_title">MIUIの最適化をオフにする</string>
   <string name="close_miui_optimization_warning_message">この変更を適用するために端末を再起動します。注：この機能をオフにすると、ユーザーインターフェースのレイアウトや他の要素に大きな変化があります。</string>
+  <string name="close_sdcard_optimization_title">Turn off mock SD card optimization</string>
+  <string name="close_sdcard_optimization_warning_message">Your device will reboot to apply this change.</string>
   <string name="cloud_backup_section_title">Mi Cloudバックアップ</string>
   <string name="cloud_backup_settings_section_title">バックアップの設定</string>
   <string name="cloud_restore_section_summary">アプリ、ホーム画面のレイアウト、システム設定を復元する</string>
@@ -863,7 +873,7 @@
   <string name="confirm_privacy_password">プライバシー保護パスワードを入力</string>
   <string name="confirm_privacy_password_fingerprint">指紋を読み取るか、プライバシー保護パスワードを入力</string>
   <string name="confirm_reset_aaid">OK</string>
-  <string name="connect_mode">接続モード</string>
+  <string name="connect_mode">接続タイプ</string>
   <string name="connect_to_internet">ネットワークに接続</string>
   <string name="connected_via_passpoint">%1$s経由で接続しました</string>
   <string name="connected_via_wfa">Wi-Fiアシスタント経由で接続しました</string>
@@ -1093,7 +1103,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="delete_or_keep_legacy_passwords_confirm_msg">この指紋を削除しますか？</string>
   <string name="delete_saved_network">保存されたネットワークを削除</string>
   <string name="demo_mode">デモモード</string>
-  <string name="demo_mode_summary">Display specific status bar icons for demo</string>
+  <string name="demo_mode_summary">ステータスバーにデモアイコンを表示する</string>
   <string name="deny">許可しない</string>
   <string name="details_subtitle">使用状況の詳細</string>
   <string name="details_title">使用状況の詳細</string>
@@ -1253,7 +1263,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="domain_urls_title">アプリリンク</string>
   <string name="done">完了</string>
   <string name="done_button">完了</string>
-  <string name="double_click_power_key">Double Click Power Key</string>
+  <string name="double_click_power_key">電源ボタンを2回押す</string>
   <string name="download_current_rom">MIUIの最新版を取得する</string>
   <string name="downloading_description">ダウンロード中…</string>
   <string name="doze_summary">端末を取り上げたとき、または通知を受信したときにスリープ状態から復帰</string>
@@ -1285,6 +1295,9 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="edge_mode_photo_summary">カメラアプリを使用中は、エッジをタップするとシャッターをトリガーし、もう一度タップで写真を撮ります</string>
   <string name="edge_mode_screenshot">スクリーンショット</string>
   <string name="edge_mode_screenshot_summary">両方のエッジをダブルタップするとスクリーンショットを撮ります</string>
+  <string name="edge_touch_volume">エッジの音量を調整する</string>
+  <string name="edit_rule">ルールを編集</string>
+  <string name="edit_rules">編集</string>
   <string name="emergency_tone_alert">アラート</string>
   <string name="emergency_tone_silent">マナーモード</string>
   <string name="emergency_tone_summary">緊急通報時の動作を設定します</string>
@@ -1437,6 +1450,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="fingerprint_removal_failed">指紋認証を削除できませんでした、再度試してください</string>
   <string name="fingerprint_usage_category_title">指紋の用途</string>
   <string name="finish_application">強制停止</string>
+  <string name="finish_button">完了</string>
   <string name="finish_button_label">完了</string>
   <string name="firmware_version">Androidバージョン</string>
   <string name="floating_window_switch_label">フローティングウィンドウを有効にする</string>
@@ -1539,7 +1553,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="global_font_change_title">フォントサイズの変更</string>
   <string name="global_locale_change_title">言語の変更</string>
   <string name="go_back_button_label">戻る</string>
-  <string name="go_to_sleep">スリープする</string>
+  <string name="go_to_sleep">画面をオフにする</string>
   <string name="google_backup_enable">バックアップをオンにする</string>
   <string name="google_backup_section_title">Googleバックアップとリセット</string>
   <string name="google_title">Google</string>
@@ -1661,19 +1675,19 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="keep_screen_on">スリープモードにしない</string>
   <string name="keep_screen_on_summary">充電中に画面をスリープにしない</string>
   <string name="kernel_version">カーネルバージョン</string>
-  <string name="key_combination_power_back">電源ボタン + 戻るボタン</string>
-  <string name="key_combination_power_home">電源ボタン + ホームボタン</string>
-  <string name="key_combination_power_menu">電源ボタン + メニューボタン</string>
-  <string name="key_gesture_function_dialog_message">%1$s has been set to %2$s shortcuts ,whether replaced with %3$s</string>
+  <string name="key_combination_power_back">電源 + 戻る</string>
+  <string name="key_combination_power_home">電源 + ホーム</string>
+  <string name="key_combination_power_menu">電源 + メニュー</string>
+  <string name="key_gesture_function_dialog_message">%1$sは%2$sのショートカットです。%3$sで置き換えますか？</string>
   <string name="key_gesture_function_dialog_negative">キャンセル</string>
   <string name="key_gesture_function_dialog_positive">置き換え</string>
-  <string name="key_gesture_function_optional">Optional gestures and key</string>
-  <string name="key_gesture_function_preview">Gestures and key preview</string>
-  <string name="key_gesture_function_shortcut">Function shortcut</string>
+  <string name="key_gesture_function_optional">ボタンとジェスチャーのオプション</string>
+  <string name="key_gesture_function_preview">ボタンとジェスチャーのプレビュー</string>
+  <string name="key_gesture_function_shortcut">ショートカットの機能</string>
   <string name="key_none">なし</string>
   <string name="key_position_cat">ボタンの配置</string>
-  <string name="key_settings">ボタン</string>
-  <string name="key_settings_title">ボタン</string>
+  <string name="key_settings">ボタンとジェスチャーのショートカット</string>
+  <string name="key_settings_title">ボタンとジェスチャーのショートカット</string>
   <string name="keyboard_and_input_methods_category">キーボードと入力方法</string>
   <string name="keyboard_layout_dialog_setup_button">キーボードレイアウトの設定</string>
   <string name="keyboard_layout_dialog_switch_hint">切り替えるにはCtrl+スペースを押します</string>
@@ -2142,7 +2156,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="miui_lab_gallery_search_title">ギャラリー内の写真を検索</string>
   <string name="miui_lab_settings">MIUIラボ</string>
   <string name="miui_lab_slogan">Learn. Explore. Discover.</string>
-  <string name="miui_lab_taplus_desc">長押ししてショートカットを起動する</string>
+  <string name="miui_lab_taplus_desc">アイテムを長押ししてアクションをトリガーする</string>
   <string name="miui_lab_taplus_title">起動するアプリ</string>
   <string name="miui_screen_config_title">ホーム画面の設定</string>
   <string name="mms_breathing_light_color_title">メッセージLEDの色</string>
@@ -2157,6 +2171,8 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="mock_location_app">仮の現在地情報アプリを選択</string>
   <string name="mock_location_app_not_set">仮の現在地情報アプリが設定されていません</string>
   <string name="mock_location_app_set">仮の現在地情報アプリ: %1$s</string>
+  <string name="mode_disable">オフ</string>
+  <string name="mode_enable">オン</string>
   <string name="model_number">モデル番号</string>
   <string name="modify_instruction_password_settings">パスワードを設定</string>
   <string name="modify_privacy_password">パスワードを変更</string>
@@ -2316,10 +2332,10 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="no_update_found">MIUIのバージョンは最新版です</string>
   <string name="no_updates_found">MIUIのバージョンは最新版です</string>
   <string name="no_updates_warning">お使いのシステムは最新です</string>
-  <string name="no_updates_warning2">"リラックスして、更新情報があればお知らせします :)"</string>
+  <string name="no_updates_warning2">更新がいつ利用可能になるかをお知らせします。</string>
   <string name="noise_suppression">周辺ノイズの低減</string>
   <string name="normal">標準</string>
-  <string name="normal_info">すべての音量は正常です</string>
+  <string name="normal_info">すべての音は正常に動作します</string>
   <string name="normal_smartcover_title">不透明なフロントカバー</string>
   <string name="not_installed">未インストール</string>
   <string name="notes_privacy_password_role_instruction">プライベートなノートはここに保存されます。</string>
@@ -2370,6 +2386,8 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="open_personal_assistant_dialog_desc">QuickCardを使用したり、更新を受け取ることができません。今すぐオフにしますか？</string>
   <string name="open_personal_assistant_dialog_title">QuickCardをオフにする</string>
   <string name="open_personal_assistant_title">QuickCardをオンにする</string>
+  <string name="open_sdcard_optimization_title">Turn on mock SD card optimization</string>
+  <string name="open_sdcard_optimization_warning_message">Your device will reboot to apply this change.</string>
   <string name="open_wifi_connect_summary">タップして詳細を表示</string>
   <string name="open_wifi_connect_title">%1$sに接続しました</string>
   <string name="opening_paragraph_delete_profile_unknown_company">この仕事用プロファイルを管理するアプリ:</string>
@@ -2493,7 +2511,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="pointer_location_summary">現在のタップデータをオーバーレイ表示する</string>
   <string name="pointer_settings_category">マウス/トラックパッド</string>
   <string name="pointer_speed">ポインタの速度</string>
-  <string name="popup_window">ポップアップウィンドウを許可</string>
+  <string name="popup_window">フローティング通知を制限</string>
   <string name="power_autorun_apps_empty">なし</string>
   <string name="power_autorun_empty">なし</string>
   <string name="power_bluetooth">Bluetooth</string>
@@ -2786,6 +2804,8 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="remove_from_frequently_fragment">クイック設定から%sを削除しますか？</string>
   <string name="remove_managed_profile_label">仕事用プロファイルを削除</string>
   <string name="repeat">繰り返し</string>
+  <string name="repeat_call">繰り返しの着信について通知する</string>
+  <string name="repeat_call_info">マナーモードで15分以内に繰り返し着信があった場合、音による通知を許可する</string>
   <string name="repeat_title">繰り返し</string>
   <string name="reset_aaid">広告識別子をリセット</string>
   <string name="reset_app_preferences">アプリの設定をリセット</string>
@@ -2816,7 +2836,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="resolver_settings_label">並べ替え</string>
   <string name="resource_ringtone_volume_mute">現在の着信音量はミュートされています</string>
   <string name="restr_pin_enter_admin_pin">管理者PINを入力</string>
-  <string name="restrict_max_aspect_ratio_title">最大アスペクト比の提案を無効にする</string>
+  <string name="restrict_max_aspect_ratio_title">これらのアプリはフルスクリーンモードではうまく動作しません</string>
   <string name="restriction_bluetooth_config_summary">Bluetoothのペア設定や設定の変更を許可する</string>
   <string name="restriction_bluetooth_config_title">Bluetooth</string>
   <string name="restriction_location_enable_summary">アプリに位置情報の使用を許可する</string>
@@ -2893,8 +2913,8 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="screen_key_press">ナビゲーションボタンをタップ</string>
   <string name="screen_key_press_action">トリガ機能</string>
   <string name="screen_locking_sounds_title">画面ロック音</string>
-  <string name="screen_max_aspect_ratio_desc">アプリが全画面表示できるかどうか</string>
-  <string name="screen_max_aspect_ratio_title">最大アスペクト比の設定</string>
+  <string name="screen_max_aspect_ratio_desc">選択したアプリをフルスクリーンモードで許可する</string>
+  <string name="screen_max_aspect_ratio_title">フルスクリーンモード</string>
   <string name="screen_monochrome_mode_apps_loading">読み込み中…</string>
   <string name="screen_monochrome_mode_apps_title">モノクロモードを使用</string>
   <string name="screen_monochrome_mode_global_summary">すべてのアプリでモノクロモードを使用する</string>
@@ -2983,6 +3003,11 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="sd_mount_summary"/>
   <string name="sdcard_changes_instructions">USBケーブルの再接続時に変更が有効になります。</string>
   <string name="sdcard_format">SDカード内データを消去</string>
+  <string name="sdcard_optimization">Mock SD card optimization</string>
+  <string name="sdcard_optimization_cancel">キャンセル</string>
+  <string name="sdcard_optimization_close">オフにして再起動</string>
+  <string name="sdcard_optimization_open">オンにする</string>
+  <string name="sdcard_optimization_summary">Make your SD card much faster</string>
   <string name="sdcard_setting">SDカード</string>
   <string name="sdcard_settings_available_bytes_label">利用可能バイト数:</string>
   <string name="sdcard_settings_bad_removal_status">SDカードが使用中に取り外されました。</string>
@@ -3348,7 +3373,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="silent_off">オフにする</string>
   <string name="silent_settings">マナー/DND</string>
   <string name="silent_standard">マナー</string>
-  <string name="silent_time">Slience Duration</string>
+  <string name="silent_time">マナーモードの動作時間</string>
   <string name="silent_total">DND</string>
   <string name="sim_bad_pin">PINが正しくありません</string>
   <string name="sim_call_back_title">デフォルトのSIMからコールバック</string>
@@ -3462,6 +3487,8 @@ PINが正しくない可能性があります。"</string>
   <string name="ssl_ca_cert_warning_message">"第三者があなたのネットワークアクティビティ（メール、アプリ、保護されたウェブサイトなど）を監視できます。
 
 これは、信頼できる認証情報が端末にインストールされているためです。"</string>
+  <string name="standard_info">着信と通知は消音されます</string>
+  <string name="start_silent_mode">マナーモードをオンにする</string>
   <string name="starting_android">Androidを起動しています</string>
   <string name="status_awaiting_tap">書き込むにはタグをタップしてください...</string>
   <string name="status_awake_time">端末使用時間</string>
@@ -3678,7 +3705,7 @@ PINが正しくない可能性があります。"</string>
   <string name="storageuse_settings_title">ストレージ使用状況</string>
   <string name="strict_mode">厳格モードを有効にする</string>
   <string name="strict_mode_summary">メインスレッドの処理が長引く場合は画面を点滅させる</string>
-  <string name="suggest_unrestrict_max_aspect_ratio_title">最大アスペクト比の提案を有効にする</string>
+  <string name="suggest_unrestrict_max_aspect_ratio_title">これらのアプリはフルスクリーンモードで最適に動作します</string>
   <string name="sum_carrier_select">通信事業者を選択する</string>
   <string name="summary_divider_text">"、 "</string>
   <string name="supl_not_set">&lt;未設定></string>
@@ -3753,9 +3780,11 @@ PINが正しくない可能性があります。"</string>
   <string name="tethering_help_button_text">ヘルプ</string>
   <string name="tethering_settings_not_available">このユーザーはテザリング設定を利用できません</string>
   <string name="theme_settings_title">テーマ</string>
-  <string name="three_gesture_down">Three Gesture Down</string>
+  <string name="three_gesture_down">三本指で下にスライド</string>
   <string name="time_picker_title">時間</string>
   <string name="time_zone_auto_stub">タイムゾーンを選択</string>
+  <string name="timed_titlei">Timer %d</string>
+  <string name="timer_switch_settings_title">Scheduled power on and off</string>
   <string name="timezone_settings">タイムゾーン</string>
   <string name="title_color_calibration">色補正プリセット</string>
   <string name="title_convert_fbe">ファイルベースの暗号化に変換しています</string>
@@ -3771,6 +3800,7 @@ PINが正しくない可能性があります。"</string>
   <string name="title_system_resource">システムリソース</string>
   <string name="toast_lockscreen_glogin_empty_password">パスワードを入力</string>
   <string name="toast_need_login">Miアカウントにログインしてください</string>
+  <string name="total_info">Silence sounds and turn off vibration except for the alarms</string>
   <string name="total_memory">合計メモリ</string>
   <string name="total_size">合計容量： %s</string>
   <string name="total_size_label">合計</string>
@@ -3787,7 +3817,7 @@ PINが正しくない可能性があります。"</string>
   <string name="track_frame_time">GPUレンダリングのプロフィール作成</string>
   <string name="trackball_settings">トラックボール</string>
   <string name="trackball_wake_title">トラックボールでロック解除</string>
-  <string name="traffic_balance">Intelligent traffic strategy</string>
+  <string name="traffic_balance">Data usage mode</string>
   <string name="transition_animation_scale_title">トランジションアニメスケール</string>
   <string name="translation_contributors_summary"/>
   <string name="translation_contributors_title">翻訳に貢献してくれた人たち</string>
@@ -3916,7 +3946,7 @@ PINが正しくない可能性があります。"</string>
   <string name="unlock_set_unlock_summary">画面ロックを設定します</string>
   <string name="unlock_setup_wizard_fingerprint_details">画面ロックの設定を完了したら、[設定]&gt;[セキュリティ]で指紋を追加することもできます。</string>
   <string name="unmount_inform_text">SDカードのマウントが解除されます。</string>
-  <string name="unrestrict_max_aspect_ratio_title">最大アスペクト比をサポート</string>
+  <string name="unrestrict_max_aspect_ratio_title">これらのアプリはフルスクリーンモードに最適化されています</string>
   <string name="untitled_apn">無題</string>
   <string name="update_progress_for_updates">アップデート中... (%s)</string>
   <string name="upload_debug_log_summary">診断データには、ハードウェア、オペレーティングシステムやアプリケーションの使用状況に関する情報が含まれます。これらのデータはシステム内の問題を特定、分析するために使用され、個人を識別するために使用されることはありません。</string>
@@ -4097,6 +4127,7 @@ PINが正しくない可能性があります。"</string>
   <string name="vibrate_input_devices_summary">接続時に、バイブレーションをゲーム用コントローラにリダイレクトします。</string>
   <string name="vibrate_on_touch_title">タッチ操作バイブ</string>
   <string name="vibrate_when_ringing_title">着信時もバイブレーションON</string>
+  <string name="vip_list">すべての着信を許可</string>
   <string name="virtual_keyboard_category">仮想キーボード</string>
   <string name="virtual_sim_category_title">Miローミング</string>
   <string name="virtual_sim_description">信頼性の高い国際ローミングサービス</string>
@@ -4678,7 +4709,7 @@ PINが正しくない可能性があります。"</string>
   <string name="zen_mode_reminders">リマインダー</string>
   <string name="zen_mode_repeat_callers">同一発信者による再発信</string>
   <string name="zen_mode_repeat_callers_summary">同じ人が%d分以内に再度発信することを許可する</string>
-  <string name="zen_mode_rule_name">ルール名</string>
+  <string name="zen_mode_rule_name">名前</string>
   <string name="zen_mode_rule_name_hint">ルール名を入力</string>
   <string name="zen_mode_rule_name_warning">ルール名は既に使用されています</string>
   <string name="zen_mode_rule_not_found_text">ルールが見つかりません。</string>

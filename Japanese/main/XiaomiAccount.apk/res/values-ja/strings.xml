@@ -65,7 +65,7 @@
   <string name="authorize_title">"認証"</string>
   <string name="bind_facebook">"Facebookアカウントに接続"</string>
   <string name="bind_qq">QQ</string>
-  <string name="bind_safe_phone_msg">"次回ログインのため安全な番号を追加する"</string>
+  <string name="bind_safe_phone_msg">"次回ログインのため電話番号を追加する"</string>
   <string name="bind_settings">"アカウント"</string>
   <string name="bind_sina_weibo">"Sina Weiboアカウントに接続"</string>
   <string name="bind_sns_description">"%sでログイン"</string>
@@ -88,7 +88,7 @@
   <string name="confirm_phone_number_dialog_message">"認証コードは%sに送信されます。"</string>
   <string name="confirm_phone_number_dialog_title">"電話番号の確認"</string>
   <string name="confirm_unbind">"このアカウントを切断しますか？"</string>
-  <string name="confirm_unbundled_phone_dialog_message">The phone number %1$s is associated with %2$s Mi Account. It will no longer be associated with Mi Account %3$s if you continue. Continue?</string>
+  <string name="confirm_unbundled_phone_dialog_message">"電話番号 %1$s はMi Account %2$s に関連付けられています。続行するとMi Account %3$s に関連付けられなくなります。持続しますか？"</string>
   <string name="continue_action">"続行"</string>
   <string name="current_location_title">"現在地"</string>
   <string name="delete_action">"削除"</string>
@@ -153,7 +153,7 @@
   <string name="logout_account">"ログアウト"</string>
   <string name="logout_failed">"ログアウトできません"</string>
   <string name="mi_account_identity_title">Verify your identity</string>
-  <string name="mi_vip_info">查看我的特权</string>
+  <string name="mi_vip_info">"権限の表示"</string>
   <string name="mipay">"支払う"</string>
   <string name="mipay_balance">"残高"</string>
   <string name="mipay_bank_card">"銀行カード"</string>
@@ -209,6 +209,8 @@
 送信したメールのリンクをクリックしてください。"</string>
   <string name="passport_completed">"完了"</string>
   <string name="passport_confirm_recycle_account">"はい"</string>
+  <string name="passport_confirm_recycle_account_msg">%s &lt;font color=Red&gt;疑似&lt;/font&gt;是运营商回收后再次收买的号码，该号码下已有小米帐号，这个帐号是你的吗？</string>
+  <string name="passport_continue">"続行"</string>
   <string name="passport_copy_message_text_success">"正常にコピーされました"</string>
   <string name="passport_copy_message_vcode">"コードをコピー"</string>
   <string name="passport_delete_account">"ログアウト"</string>
@@ -266,10 +268,13 @@
   <string name="passport_login_instead_reg_with_email">"このメールアドレスを使用する"</string>
   <string name="passport_login_other_account">Another account</string>
   <string name="passport_login_prompt">One Mi Account. All Mi services.</string>
+  <string name="passport_login_recycle_account_no">"いいえ"</string>
+  <string name="passport_login_recycle_account_yes">"はい"</string>
   <string name="passport_login_title">"Mi Accountにログイン"</string>
   <string name="passport_login_using_other_ways">"<u>その他の方法でログイン</u>"</string>
   <string name="passport_message_dialog_title">SMS with verifying codes</string>
   <string name="passport_next">"次へ"</string>
+  <string name="passport_no">"いいえ"</string>
   <string name="passport_notification_title">"%1$sのログインエラー"</string>
   <string name="passport_password_phone_login">Sign in using Mi Account</string>
   <string name="passport_password_req_notice">"パスワードは8～16桁の文字列で、数字と文字の両方を含める必要があります(大文字と小文字は区別)。"</string>
@@ -294,6 +299,8 @@
   <string name="passport_reg_failed">"アカウントを登録できません"</string>
   <string name="passport_reg_new_account">Create account</string>
   <string name="passport_reg_prompt">"Mi Accountをお持ちでない？無料で作成できます。"</string>
+  <string name="passport_reg_recycle_account_no">"いいえ"</string>
+  <string name="passport_reg_recycle_account_yes">"はい"</string>
   <string name="passport_reg_success">"アカウントを作成しました"</string>
   <string name="passport_reg_success_summary">%1$s has been bound with your account. You can use it to sign in or to reset your password.</string>
   <string name="passport_reg_type_email">"メールアドレスを使用"</string>
@@ -332,6 +339,7 @@
   <string name="passport_send_vcode_failed">"Couldn't send code"</string>
   <string name="passport_sending_vcode">Sending code…</string>
   <string name="passport_set">Set</string>
+  <string name="passport_set_password_no_phone_msg">"アカウントを保護するために電話番号を追加してください。"</string>
   <string name="passport_setting">"設定中…"</string>
   <string name="passport_skip_login">"スキップ"</string>
   <string name="passport_skip_register">"登録をスキップ"</string>
@@ -426,6 +434,6 @@
   <string name="verify_phone_prompt">Select phone number to verify</string>
   <string name="verify_phone_title">Verify phone number</string>
   <string name="vip_account_settings">"VIP設定"</string>
-  <string name="vip_settings_info">我的数据中心</string>
+  <string name="vip_settings_info">"VIP設定"</string>
   <string name="xiao_mi_vip">Mi VIP</string>
 </resources>

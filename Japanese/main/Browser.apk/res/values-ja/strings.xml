@@ -180,7 +180,7 @@
   <string name="contextmenu_dial_dot">"発信…"</string>
   <string name="contextmenu_download_image">"画像を保存"</string>
   <string name="contextmenu_download_image_as">"名前を付けて画像を保存"</string>
-  <string name="contextmenu_manually_block_ad">"広告としてマーク"</string>
+  <string name="contextmenu_manually_block_ad">"広告としてラベル付け"</string>
   <string name="contextmenu_map">"地図"</string>
   <string name="contextmenu_openlink">"リンクを開く"</string>
   <string name="contextmenu_openlink_newwindow">"新しいタブで開く"</string>
@@ -438,7 +438,7 @@
   <string name="miuichromium_error_page_network_off">"Wi-Fiまたはモバイルデータをオンにする"</string>
   <string name="miuichromium_error_page_no_network">"ネットワークに接続できません"</string>
   <string name="miuichromium_error_page_problem_access_denied">Access to %s0 was denied</string>
-  <string name="miuichromium_error_page_problem_cache_miss">This page cant be loaded from the cache</string>
+  <string name="miuichromium_error_page_problem_cache_miss">"The cached version of this page can't be loaded"</string>
   <string name="miuichromium_error_page_problem_cannot_open_page">"ページを開くことができません"</string>
   <string name="miuichromium_error_page_problem_cannot_reach_site">"サイトに到達できません"</string>
   <string name="miuichromium_error_page_problem_connection_interrupted">"接続が中断されました"</string>
@@ -462,7 +462,7 @@
   <string name="miuichromium_error_page_reason_invalid_address">"。IPアドレスまたはポート番号が無効です"</string>
   <string name="miuichromium_error_page_reason_invalid_response">" because %s0 sent an invalid response"</string>
   <string name="miuichromium_error_page_reason_invalid_url">" because the URL is invalid"</string>
-  <string name="miuichromium_error_page_reason_moved_or_deleted">. It might be moved or deleted</string>
+  <string name="miuichromium_error_page_reason_moved_or_deleted">. It might have been moved or deleted</string>
   <string name="miuichromium_error_page_reason_name_collision">. This site on the intranet has the same URL as an external website</string>
   <string name="miuichromium_error_page_reason_name_not_resolved">". Couldn't find DNS address for %s0"</string>
   <string name="miuichromium_error_page_reason_network_changed">" due to a network change"</string>
@@ -562,10 +562,10 @@
   <string name="pref_accessibility_url_shortcut_enter_title">"簡易URL入力"</string>
   <string name="pref_adblock_counts">"%d個をブロック済み"</string>
   <string name="pref_adblock_title">Ad blocker</string>
-  <string name="pref_advert_null">"マークされていない広告は、ページ上でタップすることでラベル付けできます"</string>
+  <string name="pref_advert_null">"広告としてラベル付けされたアイテムはありません。ウェブページ上のアイテムを長押しすることでラベル付けすることができます。"</string>
   <string name="pref_auto_update_under_wifi">"Wi-Fi使用時にアップデート"</string>
   <string name="pref_automatic_matching_searchengines_title">"頻繁に使用する検索エンジンに切り替える"</string>
-  <string name="pref_cancel_screen">Cancel screen</string>
+  <string name="pref_cancel_screen">"ブロックを解除"</string>
   <string name="pref_category_hint">"カテゴリー"</string>
   <string name="pref_check_security_url_summary">"ウェブサイトが安全かを確認するため、MiサーバーにURLを送信する"</string>
   <string name="pref_check_security_url_summary_international">Allow Browser to access the URLs of the websites you visit to receive more relevant recommendations.</string>
@@ -601,7 +601,7 @@
   <string name="pref_force_userscalable_summary">"サイトの拡大縮小設定を上書き"</string>
   <string name="pref_general_title">"全般"</string>
   <string name="pref_key_gesture_title">"ボタンとジェスチャー"</string>
-  <string name="pref_label_advert_manager">"ラベルした広告の管理"</string>
+  <string name="pref_label_advert_manager">"ラベル付けした広告の管理"</string>
   <string name="pref_nav_mode_summary_pad">Pad</string>
   <string name="pref_nav_mode_summary_phone">Phone</string>
   <string name="pref_nav_mode_title">"ブラウザモード"</string>
