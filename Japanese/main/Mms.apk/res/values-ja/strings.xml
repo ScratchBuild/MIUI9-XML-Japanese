@@ -107,6 +107,7 @@
   <string name="context_menu_view_contact">連絡先を表示</string>
   <string name="context_menu_view_mms">MMSを表示</string>
   <string name="conversation">メッセージ</string>
+  <string name="conversation_listitem_avatar">アバター</string>
   <string name="conversation_style">吹き出し</string>
   <string name="converting_to_picture_message">MMSメッセージに変換中...</string>
   <string name="converting_to_text_message">SMSメッセージに変換中...</string>
@@ -155,6 +156,7 @@
   <string name="error_state">データの不整合</string>
   <string name="error_state_text">スレッドと受信者の状態に不整合があります。バグレポートをキャプチャしてhttp://go/droidanizerから送信してください。</string>
   <string name="error_timed_msg">時間が不正です</string>
+  <string name="ex_type_guide">情報</string>
   <string name="ex_type_mx">Miメッセージ</string>
   <string name="ex_type_sms">SMS/MMS</string>
   <string name="exceed_message_size_limitation">メッセージサイズの上限に達しました。</string>
@@ -360,6 +362,7 @@
   <string name="notification_multiple_title">新着メッセージ</string>
   <string name="number_add_hint">電話番号を入力</string>
   <string name="open_audio_record_panel">"オーディオ録音パネルを開く"</string>
+  <string name="open_edit_sms_panel">SMSの編集パネルを開く</string>
   <string name="open_url_with_web">このURLをブラウザで開きますか？</string>
   <string name="over_max_mms_size">MMSが大きすぎます。</string>
   <string name="overwrite_edited_content">"今編集した内容が上書きされます。"</string>

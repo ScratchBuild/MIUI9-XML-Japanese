@@ -47,6 +47,8 @@
   <string name="operation_delete">削除</string>
   <string name="operation_send">送信</string>
   <string name="quit_recording">スクリーンレコーダーを終了</string>
+  <string name="recording_failure">録画に失敗しました、スクリーンレコーダーを再起動してください</string>
+  <string name="recording_max_size">動画サイズの上限に達したため、録画を停止して自動保存されました。録画を続行するには別の記録として録画を開始することができます。</string>
   <string name="resolution">解像度</string>
   <string name="resolution_summary">高解像度にすると動画がより鮮明に見えます</string>
   <string name="screen_orientation">画面の向き</string>
@@ -61,8 +63,10 @@
   <string name="sound_source">音源</string>
   <string name="sound_source_summary">システムサウンドまたはマイク</string>
   <string name="start">開始</string>
+  <string name="start_recording">録画を開始</string>
   <string name="stop_by_second_space">スペースを切り替えると画面録画は停止します</string>
   <string name="stop_record_while_locking">終了するには画面をロック</string>
   <string name="stop_record_while_locking_summary">画面がロックされたら録画を終了して動画の保存を行う</string>
+  <string name="stop_recording">録画を終了</string>
   <string name="timer_format">%s</string>
 </resources>

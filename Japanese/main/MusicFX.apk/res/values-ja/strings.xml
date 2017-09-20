@@ -5,6 +5,7 @@
   <string name="ci_extreme">"FXブースター"</string>
   <string name="eq_dialog_title">"イコライザー"</string>
   <string name="headset_plug">"これらの効果はヘッドホンで聴いてください。"</string>
+  <string name="new_app_name">AudioEffect</string>
   <string name="no_effects">"効果は利用できません。"</string>
   <string name="picker_title">"サウンド効果コントロールパネル"</string>
   <string name="setup">"セットアップ"</string>
