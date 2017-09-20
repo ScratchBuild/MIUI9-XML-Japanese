@@ -843,10 +843,10 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>8時間</item>
     </string-array>
     <string-array name="vip_mode_text">
-        <item>From anyone</item>
-        <item>From contacts only</item>
-        <item>From starred contacts only</item>
-        <item>None</item>
+        <item>誰からでも</item>
+        <item>連絡先からのみ</item>
+        <item>スター付きの連絡先からのみ</item>
+        <item>なし</item>
     </string-array>
     <string-array name="alarm_repeat_type">
         <item>毎日</item>
@@ -857,5 +857,19 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>毎日</item>
         <item>平日</item>
         <item>カスタム</item>
+    </string-array>
+    <string-array name="privacy_password_function_specfication_names">
+        <item>メッセージ</item>
+        <item>写真</item>
+        <item>ファイル</item>
+        <item>ノート</item>
+    </string-array>
+    <string-array name="standard_configuration_version_description_primary">
+        <item>CPU</item>
+        <item>バッテリー容量</item>
+        <item>背面カメラ</item>
+        <item>画面サイズ</item>
+        <item>解像度</item>
+        <item>Androidバージョン</item>
     </string-array>
 </resources>

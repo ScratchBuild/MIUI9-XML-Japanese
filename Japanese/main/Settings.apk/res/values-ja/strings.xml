@@ -1800,7 +1800,6 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="lift_to_wake_title">指を離してスリープ状態から復帰</string>
   <string name="line_breaking_summary">段落、改行を最適化</string>
   <string name="line_breaking_title">テキストの最適化</string>
-  <string name="link_speed">%1$d Mbps</string>
   <string name="link_speed_label">接続速度:</string>
   <string name="loading_notification_apps">アプリを読み込んでいます...</string>
   <string name="local_auto_backup_off">オフ</string>
@@ -1820,11 +1819,6 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="location_agps_apn_choose_dialog_title">APNタイプ</string>
   <string name="location_agps_apn_summary">優先するAPNタイプを選択する</string>
   <string name="location_agps_apn_type">APNタイプ</string>
-  <string name="location_agps_def_location_mode">MSB</string>
-  <string name="location_agps_def_network_mode">HOME</string>
-  <string name="location_agps_def_reset_type">HOT</string>
-  <string name="location_agps_def_supl_host">221.176.0.55</string>
-  <string name="location_agps_def_supl_port">7275</string>
   <string name="location_agps_params_settings_title">A-GPS設定</string>
   <string name="location_agps_pref_apn_title">優先APN</string>
   <string name="location_agps_pref_network_title">優先ネットワーク</string>
@@ -1994,7 +1988,6 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="lte_ram_dump_off">LTE RAMダンプをオフにする</string>
   <string name="lte_ram_dump_on">LTE RAMダンプをオンにする</string>
   <string name="macaddr_label">MAC addr:</string>
-  <string name="mah">%d mAh</string>
   <string name="main_netcheck_summary">Test connection for networking issues</string>
   <string name="main_running_process_description">使用中のメインプロセスです。</string>
   <string name="make_sure_cancel_update">アップデートを中止しますか？</string>
@@ -2110,7 +2103,6 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="memory_title">空き容量: %1$s\u0009\u0009合計容量: %2$s</string>
   <string name="memory_usage">メモリ使用量</string>
   <string name="memory_usage_apps">アプリのメモリ使用状況</string>
-  <string name="memory_use_running_format">%1$s/%2$s</string>
   <string name="memory_use_summary">過去3時間の平均メモリ使用量: %1$s</string>
   <string name="menu_cancel">破棄</string>
   <string name="menu_check">Experience</string>
@@ -2141,7 +2133,6 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="mi_shopping_mall">Mi Store</string>
   <string name="misc_files">その他のファイル</string>
   <string name="misc_files_selected_count">選択済み: %1$d/%2$d件</string>
-  <string name="misc_files_selected_count_bytes">%1$s/%2$s</string>
   <string name="miui_allow_alarm">アラーム</string>
   <string name="miui_allow_light">通知LED</string>
   <string name="miui_allow_music">メディア</string>
@@ -2298,7 +2289,6 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="nfc_how_it_works_got_it">OK</string>
   <string name="nfc_how_it_works_title">端末機器でのお支払い</string>
   <string name="nfc_more_title">その他...</string>
-  <string name="nfc_payment_app_and_desc">%1$s - %2$s</string>
   <string name="nfc_payment_favor_open">別の決済アプリが起動されている場合を除く</string>
   <string name="nfc_payment_how_it_works">仕組み</string>
   <string name="nfc_payment_no_apps">店舗でスマートフォンを使用して決済</string>
@@ -2310,7 +2300,6 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="nfc_se_wallet_title">既定のウォレット</string>
   <string name="night_mode_auto">自動</string>
   <string name="night_mode_no">ライト</string>
-  <string name="night_mode_summary">%s</string>
   <string name="night_mode_title">テーマ</string>
   <string name="night_mode_yes">ダーク</string>
   <string name="no">いいえ</string>
@@ -2365,8 +2354,6 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="notifications_no_peeking">重要な通知をポップアップしない</string>
   <string name="notifications_priority">優先</string>
   <string name="notifications_sensitive">プライベートな内容の非表示</string>
-  <string name="notifications_three_items">%1$s/%2$s/%3$s</string>
-  <string name="notifications_two_items">%1$s/%2$s</string>
   <string name="now">今すぐ再起動</string>
   <string name="nsd_quick_toggle_summary">別の端末上のアプリにこの端末上のアプリを検出することを許可する</string>
   <string name="nsd_quick_toggle_title">ネットワークサービスの検出</string>
@@ -2402,7 +2389,6 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="overlay_display_devices_title">2次画面シミュレート</string>
   <string name="overlay_settings">他のアプリの上に重ねて描画</string>
   <string name="owner_info_settings_edit_text_hint">ロック画面に表示するテキストを入力します</string>
-  <string name="owner_info_settings_status">%1$d / %2$d</string>
   <string name="owner_info_settings_summary">なし</string>
   <string name="owner_info_settings_title">ロック画面のメッセージ</string>
   <string name="owner_space">First space</string>
@@ -2632,7 +2618,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="privacy_password_bind_account">Mi Accountを追加</string>
   <string name="privacy_password_bind_account_immediate">追加</string>
   <string name="privacy_password_confirm_SecondSpace_Password">Second spaceのパスワードを確認</string>
-  <string name="privacy_password_confirm_use_finger">Unlock with fingerprint</string>
+  <string name="privacy_password_confirm_use_finger">指紋でロック解除</string>
   <string name="privacy_password_enter_privacy">プライバシー保護パスワードを入力</string>
   <string name="privacy_password_exit_account_info">ログアウトするとアカウントが自動的に削除されます</string>
   <string name="privacy_password_fingerprint_confirm_failed">"指紋を確認できませんでした"</string>
@@ -2656,7 +2642,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="privacy_password_transparent_tiltle"/>
   <string name="privacy_password_use_finger_dialog_mess">プライバシー保護パスワードであなたの指紋を使用することもできます。</string>
   <string name="privacy_password_use_finger_dialog_open">設定</string>
-  <string name="privacy_password_use_finger_dialog_title">Fingerprint unlock</string>
+  <string name="privacy_password_use_finger_dialog_title">指紋ロック解除</string>
   <string name="privacy_password_use_finger_success">オンにしました</string>
   <string name="privacy_password_visible_pattern">パターンを表示</string>
   <string name="privacy_protect_title">プライバシーの保護</string>
@@ -2670,7 +2656,6 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="private_sms_recording_intro_header">ロック解除パターンを入力:</string>
   <string name="private_sms_reset_by_account">パスワードをリセットするには、Miアカウントにログインしてください</string>
   <string name="process_dex2oat_label">アプリの最適化</string>
-  <string name="process_format">%1$s (%2$d)</string>
   <string name="process_kernel_label">Android OS</string>
   <string name="process_mediaserver_label">メディアサーバー</string>
   <string name="process_provider_in_use_description">%1$sプロバイダは使用中です。</string>
@@ -3286,11 +3271,9 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="select_usb_configuration_title">USB設定の選択</string>
   <string name="selinux_status">SELinuxのステータス</string>
   <string name="service_background_processes">%1$s空き</string>
-  <string name="service_client_name">%1$s</string>
   <string name="service_foreground_processes">%1$s使用中</string>
   <string name="service_manage">設定</string>
   <string name="service_manage_description">%1$s: 現在使用中です。管理するには[設定]をタップしてください。</string>
-  <string name="service_process_name">%1$s</string>
   <string name="service_restarting">再起動中</string>
   <string name="service_started_by_app">アプリによって起動されたサービス。</string>
   <string name="service_stop">停止</string>
@@ -3432,7 +3415,6 @@ PINが正しくない可能性があります。"</string>
   <string name="sim_reenter_new">新しいPINを再入力</string>
   <string name="sim_select_card">SIMカードを選択</string>
   <string name="sim_selection_required_pref">選択してください</string>
-  <string name="sim_settings_summary">%1$s - %2$s</string>
   <string name="sim_settings_title">SIMカード</string>
   <string name="sim_setup_wizard_title">SIMカード</string>
   <string name="sim_signal_strength">%1$d dBm %2$d asu</string>
@@ -3732,7 +3714,6 @@ PINが正しくない可能性があります。"</string>
   <string name="sync_gmail">Gmail</string>
   <string name="sync_in_progress">同期しています…</string>
   <string name="sync_is_failing">現在同期で問題が発生しています。しばらくお待ちください。</string>
-  <string name="sync_item_title">%s</string>
   <string name="sync_menu_sync_cancel">同期をキャンセル</string>
   <string name="sync_menu_sync_now">今すぐ同期</string>
   <string name="sync_now">同期</string>
@@ -4713,7 +4694,6 @@ PINが正しくない可能性があります。"</string>
   <string name="zen_mode_rule_name_hint">ルール名を入力</string>
   <string name="zen_mode_rule_name_warning">ルール名は既に使用されています</string>
   <string name="zen_mode_rule_not_found_text">ルールが見つかりません。</string>
-  <string name="zen_mode_rule_summary_combination">%1$s / %2$s</string>
   <string name="zen_mode_rule_type">ルールの種類</string>
   <string name="zen_mode_rule_type_unknown">不明</string>
   <string name="zen_mode_schedule_rule_days">曜日</string>
