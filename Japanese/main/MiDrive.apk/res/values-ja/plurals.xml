@@ -140,4 +140,12 @@
         <item quantity="other">"%1$d個のファイルが転送されていません。"</item>
         <item quantity="one">"%1$d個のファイルが転送されていません。"</item>
     </plurals>
+    <plurals name="delete_folders">
+        <item quantity="other">"%1$d個のフォルダを削除しますか？"</item>
+        <item quantity="one">"このフォルダを削除しますか？"</item>
+    </plurals>
+    <plurals name="delete_files">
+        <item quantity="other">"%1$d個のファイルを削除しますか？"</item>
+        <item quantity="one">"このファイルを削除しますか？"</item>
+    </plurals>
 </resources>

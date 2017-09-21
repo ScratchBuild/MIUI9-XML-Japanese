@@ -132,7 +132,7 @@
   <string name="online_precust_peach_blossom">Peach blossom</string>
   <string name="online_search_hint">"オンラインリソースを検索"</string>
   <string name="present_local_themes">"ダウンロード済み"</string>
-  <string name="present_online_themes">"さらにテーマを無料で入手"</string>
+  <string name="present_online_themes">"オンラインテーマを入手"</string>
   <string name="provision_loading_tips">"読み込み中…"</string>
   <string name="provision_second_title">Select one of the several default themes</string>
   <string name="provision_title">"テーマを選択"</string>

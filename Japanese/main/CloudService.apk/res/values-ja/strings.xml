@@ -57,6 +57,8 @@ Last backed up on %2$s"</string>
   <string name="cloud_storage_is_full">Full</string>
   <string name="cloudservice_new_sync">"Mi Cloudと%sを同期"</string>
   <string name="cmcc_micloud_dspt">"Mi Cloudを使用することで、データの同期、端末の検索、友だちとの共有が行えます。"</string>
+  <string name="confirm_delete">"削除"</string>
+  <string name="confirm_save">"保持"</string>
   <string name="connect_network">Wi－Fiに接続するか、SIMカードを挿入</string>
   <string name="connect_wlan">Wi-Fiに接続</string>
   <string name="contact">連絡先</string>
@@ -468,6 +470,7 @@ This feature encrypts and sends your device's ID to Mi's servers."</string>
   <string name="search_finddevice_pref_desc">Turn on/off Find Device</string>
   <string name="search_finddevice_pref_key_words">finddevice, find device</string>
   <string name="search_finddevice_pref_path">Mi Account/Mi Cloud/Find device</string>
+  <string name="secret_photo">"非表示の写真"</string>
   <string name="setting">設定</string>
   <string name="settings_backup_title">"システム設定をバックアップ"</string>
   <string name="share_cancel">共有をキャンセルしました</string>
@@ -547,9 +550,10 @@ This feature encrypts and sends your device's ID to Mi's servers."</string>
   <string name="virtual_sim_desc">Turn on Mi SIM to locate device without a SIM card</string>
   <string name="voip_choose_sim">Choose phone number to activate Mi Voice</string>
   <string name="wipe_data_dialog_button_check_sync">Check if synced</string>
-  <string name="wipe_data_dialog_msg">"%s weren't synced and will stay on your phone."</string>
+  <string name="wipe_data_dialog_msg">"Some items (%s) aren't synced. They will be saved on your device and won't be deleted."</string>
   <string name="wipe_data_dialog_msg_and_on">, and some other items</string>
   <string name="wipe_data_dialog_msg_separator">, </string>
-  <string name="wipe_data_dialog_title">"一部のアイテムが同期されていません"</string>
+  <string name="wipe_data_dialog_title">"アイテムは同期されません"</string>
+  <string name="wipe_secret_photo_dialog_title">"非表示の写真は同期されません"</string>
   <string name="xiaomi_cloud_service">Mi Cloud</string>
 </resources>
