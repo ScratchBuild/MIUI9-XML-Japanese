@@ -69,18 +69,18 @@
         <item>MSN:</item>
     </string-array>
     <string-array name="signature_normal_string_array_next">
-        <item>Address:</item>
-        <item>Tel:</item>
-        <item>Name:</item>
-        <item>Email:</item>
-        <item>Mobile:</item>
+        <item>住所:</item>
+        <item>電話:</item>
+        <item>名前:</item>
+        <item>メール:</item>
+        <item>携帯:</item>
         <item>WeChat:</item>
-        <item>Fax:</item>
-        <item>Postal Code:</item>
+        <item>FAX:</item>
+        <item>郵便番号:</item>
     </string-array>
     <string-array name="signature_special_string_array">
-        <item>Disclaimer:</item>
-        <item>Email Disclaimer</item>
+        <item>免責事項:</item>
+        <item>メールアプリの免責事項</item>
         <item>Sent via WPSMail</item>
         <item>Sent from</item>
         <item>Sent with</item>
@@ -96,7 +96,7 @@
         <item>Sent from</item>
         <item>From</item>
         <item>This email</item>
-        <item>Disclaimer</item>
-        <item>Email Disclaimer</item>
+        <item>免責事項</item>
+        <item>メールアプリの免責事項</item>
     </string-array>
 </resources>

@@ -259,7 +259,7 @@
   <string name="group_name_shop_info">"情報"</string>
   <string name="group_name_shop_recommendation">Nearby</string>
   <string name="hms_no_subject_view">(件名なし)</string>
-  <string name="hms_notification">Messages</string>
+  <string name="hms_notification">"メッセージ"</string>
   <string name="homepage_barcode_prompt">Scan to open home page</string>
   <string name="locating_fail">現在地を取得できません</string>
   <string name="login_before_use">初めにログインする必要があります</string>

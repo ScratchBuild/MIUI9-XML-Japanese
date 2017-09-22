@@ -107,7 +107,7 @@ The object shouldn't be further than 2 meters."</string>
   <string name="face_beauty_intelligent_level_1">Low</string>
   <string name="face_beauty_intelligent_level_2">Medium</string>
   <string name="face_beauty_intelligent_level_3">High</string>
-  <string name="face_beauty_smart">Smart</string>
+  <string name="face_beauty_smart">"スマート"</string>
   <string name="face_score_info">"点数: %.1f"</string>
   <string name="groupshot_mode_use_hint">"Camera will take multiple photos
 and then create a shot where everyone looks best."</string>
@@ -361,7 +361,7 @@ and brings out the people in the front."</string>
   <string name="pref_simple_hdr_entry_on">On</string>
   <string name="pref_skin_beautify_color_title">Tone</string>
   <string name="pref_skin_beautify_eye_title">Eyes</string>
-  <string name="pref_skin_beautify_intelligent_title">Smart</string>
+  <string name="pref_skin_beautify_intelligent_title">"スマート"</string>
   <string name="pref_skin_beautify_slim_title">Slim</string>
   <string name="pref_skin_beautify_smooth_title">Skin</string>
   <string name="pref_video_captrue_ability_title">Image capture while recording</string>
@@ -369,9 +369,9 @@ and brings out the people in the front."</string>
   <string name="pref_video_focusmode_entry_continuous">CAF</string>
   <string name="pref_video_focusmode_title">Focus mode</string>
   <string name="pref_video_quality_title">"動画品質"</string>
-  <string name="pref_video_speed_entry_fast">Fast</string>
-  <string name="pref_video_speed_entry_normal">Standard</string>
-  <string name="pref_video_speed_entry_slow">Slow</string>
+  <string name="pref_video_speed_entry_fast">"高速"</string>
+  <string name="pref_video_speed_entry_normal">"標準"</string>
+  <string name="pref_video_speed_entry_slow">"低速"</string>
   <string name="pref_video_speed_fast_title">Time-lapse</string>
   <string name="pref_video_speed_slow_title">Slow-motion</string>
   <string name="pref_video_speed_title">Video capture speed</string>

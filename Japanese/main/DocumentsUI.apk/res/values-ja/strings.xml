@@ -72,9 +72,9 @@
   <string name="no_results">該当するものは %1$s にありません</string>
   <string name="notification_copy_files_converted_title">一部のファイルが変換されました</string>
   <string name="notification_touch_for_details">タップすると詳細が表示されます</string>
-  <string name="open_external_dialog_request">Grant &lt;b&gt;^1&lt;/b&gt; access to &lt;i&gt;^2&lt;/i&gt; directory on &lt;i&gt;^3&lt;/i&gt;?</string>
-  <string name="open_external_dialog_request_primary_volume">Grant &lt;b&gt;^1&lt;/b&gt; access to &lt;i&gt;^2&lt;/i&gt; directory?</string>
-  <string name="open_external_dialog_root_request">Grant &lt;b&gt;^1&lt;/b&gt; access to your data, including photos and videos, on &lt;i&gt;^2&lt;/i&gt;?</string>
+  <string name="open_external_dialog_request"><b>^1</b>アプリに <i>^3</i>の <i>^2</i> ディレクトリへのアクセスを許可しますか？</string>
+  <string name="open_external_dialog_request_primary_volume"><b>^1</b>アプリに <i>^2</i> ディレクトリへのアクセスを許可しますか？</string>
+  <string name="open_external_dialog_root_request"><i>^2</i>の写真や動画などのデータへのアクセスを<b>^1</b>アプリに許可しますか？</string>
   <string name="query_error">現在、コンテンツを読み込むことができません</string>
   <string name="rename_error">ドキュメントの名前を変更できませんでした</string>
   <string name="root_available_bytes">空き容量: %1$s</string>

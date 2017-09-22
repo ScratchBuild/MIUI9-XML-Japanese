@@ -33,8 +33,8 @@
   <string name="backup_failed">"バックアップできませんでした"</string>
   <string name="backup_file_error">"バックアップできませんでした"</string>
   <string name="backup_finished">"バックアップが完了しました"</string>
-  <string name="backup_hint">Keep your device powered on</string>
-  <string name="backup_hint_onpad">Keep your device powered on</string>
+  <string name="backup_hint">"端末の電源を切らないでください"</string>
+  <string name="backup_hint_onpad">"端末の電源を切らないでください"</string>
   <string name="backup_is_running">Backing up device</string>
   <string name="backup_items_app_tailer">" アプリのデータファイル"</string>
   <string name="backup_items_sysdata_tailer">" システムのデータファイル、"</string>
@@ -190,7 +190,7 @@
   <string name="restore_telephony_hit">"復元すると電話アプリが再起動します。"</string>
   <string name="retry">"再試行"</string>
   <string name="reverse_all">"すべて消去"</string>
-  <string name="router_backup_hint">Keep your device powered on</string>
+  <string name="router_backup_hint">"端末の電源を切らないでください"</string>
   <string name="sc_bad_request">"無効なリクエスト"</string>
   <string name="sc_internal_server_error">"内部サーバーエラー"</string>
   <string name="sc_network_unavailable">"ネットワーク接続を確認して、もう一度やり直してください。"</string>
@@ -313,7 +313,7 @@ Wi-Fiホットスポットをオフにしないでください。
   <string name="trans_scan_qr_code_tips">Scan QR code on the new device</string>
   <string name="trans_security_tips_message">"Some apps don't support Mi Mover."</string>
   <string name="trans_security_tips_title">Mi Mover compatibility</string>
-  <string name="trans_select_data">Select items to send</string>
+  <string name="trans_select_data">"送信するアイテムを選択"</string>
   <string name="trans_select_data_no_space">"Not enough storage on the new device
 Select files again or clear %s of storage on the new device"</string>
   <string name="trans_select_data_tips">"Select items to transfer
@@ -341,7 +341,7 @@ Waiting for the transfer…"</string>
   <string name="trans_waiting_ensurance">"Make sure the old device is on
 and Mi Mover is on"</string>
   <string name="trans_waiting_for_sender">Waiting for the old device to connect…</string>
-  <string name="unit_piece">" items"</string>
+  <string name="unit_piece">" アイテム"</string>
   <string name="unknown_hint">"不明"</string>
   <string name="user_notice_declaration_ignore">"次回から表示しない"</string>
   <string name="user_notice_message">"いくつかの機能が正常に動作するには、インターネットへの接続が必要です。"</string>

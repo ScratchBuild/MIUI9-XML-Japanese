@@ -105,7 +105,7 @@
   <string name="recover_from_micloud">Mi Cloudのバックアップから復元</string>
   <string name="recover_home_settings">ホーム画面の設定を復元</string>
   <string name="recover_miui_settings">システムの設定を復元</string>
-  <string name="recover_settings_description">Keep your device powered on</string>
+  <string name="recover_settings_description">端末の電源を切らないでください</string>
   <string name="recovering">復元中 %s</string>
   <string name="remove_task_in_process">削除中…</string>
   <string name="remove_task_unfinished">削除が完了していません</string>

@@ -363,7 +363,7 @@
   <string name="js_dialog_title_default">JavaScript</string>
   <string name="js_disable_confirm_message">"JavaScriptを無効にすると、いくつかのwebサイトが正しく表示されない可能性があります。"</string>
   <string name="js_disable_confirm_title">"JavaScriptを無効にしますか？"</string>
-  <string name="keep_queued_download">Keep</string>
+  <string name="keep_queued_download">"保持"</string>
   <string name="last_month">"先月"</string>
   <string name="license_activity_title">"システムのWebViewライセンス"</string>
   <string name="loading_tips">"下に引っ張って更新"</string>
@@ -437,7 +437,7 @@
   <string name="miuichromium_error_page_network_hijack">"現在のネットワークは安全ではありません"</string>
   <string name="miuichromium_error_page_network_off">"Wi-Fiまたはモバイルデータをオンにする"</string>
   <string name="miuichromium_error_page_no_network">"ネットワークに接続できません"</string>
-  <string name="miuichromium_error_page_problem_access_denied">Access to %s0 was denied</string>
+  <string name="miuichromium_error_page_problem_access_denied">"%s0へのアクセスが拒否されました"</string>
   <string name="miuichromium_error_page_problem_cache_miss">"The cached version of this page can't be loaded"</string>
   <string name="miuichromium_error_page_problem_cannot_open_page">"ページを開くことができません"</string>
   <string name="miuichromium_error_page_problem_cannot_reach_site">"サイトに到達できません"</string>
@@ -770,7 +770,7 @@
   <string name="skip_current_version">"このバージョンをスキップ"</string>
   <string name="snapshot">Local</string>
   <string name="snapshot_failed">"ページを保存できませんでした"</string>
-  <string name="snapshot_successed">Open Bookmarks/History-&gt;LOCAL to view page</string>
+  <string name="snapshot_successed">"保存したページを表示するには ブックマーク/履歴-&gt;LOCAL を開いてください"</string>
   <string name="ssl_bad_clock_date_settings">"日付を設定"</string>
   <string name="ssl_bad_clock_warning" formatted="false">"端末の日付と時刻(%s2)が正しくないため、%s1へのプライベート接続を確立できません。"</string>
   <string name="ssl_certificate">"セキュリティ証明書"</string>

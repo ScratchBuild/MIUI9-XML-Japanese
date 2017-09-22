@@ -160,7 +160,7 @@
   <string name="add_attachment">"添付ファイルを追加"</string>
   <string name="add_calendar">Remind</string>
   <string name="add_label">"フォルダを追加"</string>
-  <string name="add_pre_message_attachments">Add the attachments of pre-message?</string>
+  <string name="add_pre_message_attachments">"下書きに添付ファイルを追加しますか？"</string>
   <string name="add_pre_message_attachments_no">"追加しない"</string>
   <string name="add_pre_message_attachments_yes">"追加する"</string>
   <string name="add_star">Star</string>

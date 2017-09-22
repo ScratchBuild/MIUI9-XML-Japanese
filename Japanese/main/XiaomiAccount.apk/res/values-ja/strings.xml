@@ -99,7 +99,7 @@
   <string name="delete_device">"デバイスを削除"</string>
   <string name="delete_device_btn">"削除"</string>
   <string name="delete_device_failed">"デバイスを削除できませんでした"</string>
-  <string name="delete_device_notice">"After device is removed, it will be signed out of your Mi Account automatically. You won't be able use this device to access the photos, messages, or other content stored in your account."</string>
+  <string name="delete_device_notice">"デバイスを削除すると自動的にMi Accountからログアウトされます。このデバイスを使用してアカウントに保存された写真、メッセージ、その他のコンテンツにはアクセスが出来なくなります。"</string>
   <string name="device_delete_loading">"読み込み中…"</string>
   <string name="device_delete_success_message">"この端末でログインしていない場合は、すぐにパスワードを変更してください。"</string>
   <string name="device_delete_success_title">"ログアウト"</string>
@@ -187,9 +187,9 @@
   <string name="passport_account_name">Account: %1$s</string>
   <string name="passport_account_not_activated">"Account hasn't been activated"</string>
   <string name="passport_account_not_actived">"Your account hasn't been activated"</string>
-  <string name="passport_account_set_password">Set password</string>
-  <string name="passport_account_set_password_prompt">Set the password for your account to sign in next time.</string>
-  <string name="passport_account_set_password_title">Set password</string>
+  <string name="passport_account_set_password">"パスワードを設定"</string>
+  <string name="passport_account_set_password_prompt">"次回以降ログインするためのパスワードを設定してください。"</string>
+  <string name="passport_account_set_password_title">"パスワードを設定"</string>
   <string name="passport_active_email_visit">Check your inbox at %s</string>
   <string name="passport_activing_account">"有効にしています…"</string>
   <string name="passport_adding_account">Adding account…</string>
@@ -218,7 +218,7 @@
   <string name="passport_email">"メールアドレス"</string>
   <string name="passport_email_or_id_hint_text">"メールアドレスまたはMi Account ID"</string>
   <string name="passport_email_reg_success_summary">%1$s has been bound with your account. You can use it to sign in or to reset your password.</string>
-  <string name="passport_error_auth_fail">Session expired, sign in again later</string>
+  <string name="passport_error_auth_fail">"セッションが期限切れです、もう一度ログインしてください"</string>
   <string name="passport_error_device_id">"デバイスIDを取得できません"</string>
   <string name="passport_error_dup_email">"入力したメールアドレスは既に別のアカウントに関連付けられています。"</string>
   <string name="passport_error_email">"入力したメールアドレスは無効です"</string>
