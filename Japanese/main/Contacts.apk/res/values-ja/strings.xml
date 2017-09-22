@@ -566,11 +566,6 @@ To avoid frequent queries, we update balance info once a day."</string>
   <string name="list_filter_customize">Customize</string>
   <string name="list_filter_phones">All contacts with phone numbers</string>
   <string name="list_filter_single">"連絡先"</string>
-  <string name="live_talk_switch_on_toast">Turned on Top-up package successfully</string>
-  <string name="livetalk_charge">Top up</string>
-  <string name="livetalk_left">"残り"</string>
-  <string name="livetalk_switch_on">"オンにする"</string>
-  <string name="livetalk_title">Top-up package</string>
   <string name="loading_accounts">"読み込み中…"</string>
   <string name="loading_group_members">"読み込み中…"</string>
   <string name="loading_groups">"読み込み中…"</string>
