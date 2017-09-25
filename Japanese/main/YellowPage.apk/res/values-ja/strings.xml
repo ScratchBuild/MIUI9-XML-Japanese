@@ -152,7 +152,6 @@
   <string name="express_order_failed">Failed</string>
   <string name="express_order_ongoing">Ordering…</string>
   <string name="express_order_result">Result</string>
-  <string name="express_order_state">%1$s / %2$s</string>
   <string name="express_order_state_accepted">Accepted</string>
   <string name="express_order_state_allograph">Signed</string>
   <string name="express_order_state_cancelled">"キャンセルしました"</string>

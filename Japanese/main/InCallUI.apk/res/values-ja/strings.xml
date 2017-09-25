@@ -3,7 +3,6 @@
   <string name="accept_modify_call_request_prompt">Accept modify call request?</string>
   <string name="antispam_local_marked">Local marked</string>
   <string name="antispam_marked_count">Reported by %1$d MIUI users</string>
-  <string name="antispam_marked_title">%1$s</string>
   <string name="antispam_notification_title">"不明な番号"</string>
   <string name="antispam_provider">Identified by %s</string>
   <string name="callFailed_cb_enabled">"通話制限中は発信できません"</string>

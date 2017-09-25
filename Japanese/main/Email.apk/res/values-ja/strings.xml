@@ -464,7 +464,6 @@
   <string name="folder_trash_name_en2">"削除済みメッセージ"</string>
   <string name="folder_trash_name_en3">"[Gmail]/ゴミ箱"</string>
   <string name="formatted_email_address">&lt;%1$s></string>
-  <string name="formatted_subject">%1$s %2$s</string>
   <string name="forward">"転送"</string>
   <string name="forward_attachment">"転送"</string>
   <string name="forward_attribution">---------- Forwarded message ----------&lt;br>From: %1$s&lt;br>Date: %2$s&lt;br>Subject: %3$s&lt;br>To: %4$s&lt;br></string>
@@ -947,7 +946,6 @@ to receive reminders about payments and trips"</string>
   <string name="signature">"%s"</string>
   <string name="silent_ringtone">マナーモード</string>
   <string name="single_new_message_notification_big_text">"%1$s %2$s"</string>
-  <string name="single_new_message_notification_title">%1$s: %2$s</string>
   <string name="sms_tip">Authentication fails, check whether the antivirus software to intercept SMS</string>
   <string name="smtp_password_error">"送信メールサーバーのパスワードが正しくありません"</string>
   <string name="sort_attachment">"並べ替え"</string>

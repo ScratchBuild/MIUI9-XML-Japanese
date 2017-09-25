@@ -422,7 +422,6 @@ is mainly provided by Ultimate Inc."</string>
   <string name="list_detail_title">"詳細"</string>
   <string name="list_item_play_FM_radio">"FMラジオを再生するにはタップ"</string>
   <string name="list_item_play_all_tracks">"すべて再生"</string>
-  <string name="listview_index_of_total">%1$d/%2$d</string>
   <string name="load_shuffle">"読み込み中…"</string>
   <string name="loadercontainer_loading">"読み込み中…"</string>
   <string name="loading_hint">"読み込み中…"</string>

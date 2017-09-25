@@ -463,7 +463,6 @@ To avoid frequent queries, we update balance info once a day."</string>
   <string name="force_touch_new_contact">"新しい連絡先"</string>
   <string name="foundTooManyContacts">%d件以上見つかりました。</string>
   <string name="frequentList">"よく使う連絡先"</string>
-  <string name="from_account_format">%1$s</string>
   <string name="full_name">名前</string>
   <string name="gallery">"ギャラリー"</string>
   <string name="generic_no_account_prompt">"携帯端末を紛失したときにも連絡先を保護するため、オンラインサービスと同期させます。"</string>
@@ -535,7 +534,6 @@ To avoid frequent queries, we update balance info once a day."</string>
   <string name="import_weibo_fetch_followers">"連絡先を読み込み中…"</string>
   <string name="import_weibo_notification_title_done">"%s件の連絡先を更新しました"</string>
   <string name="import_weibo_progress_name">Matching \"%1$s\"…</string>
-  <string name="import_weibo_progress_percent">%1$d%%</string>
   <string name="importing_sim_contacts_miui">"SIMカードから連絡先をインポート中…"</string>
   <string name="importing_sim_contacts_miui_prepare">"連絡先を準備中…"</string>
   <string name="importing_vcard_canceled_title">%s のインポートがキャンセルされました</string>
@@ -1084,7 +1082,6 @@ To add a contact to your list of favorites:
   <string name="sim_unloaded">"SIMカードが挿入されていません"</string>
   <string name="sina_weibo">Sina Weibo</string>
   <string name="single_group_list_empty">No group members</string>
-  <string name="smart_group_action_bar_title">%1$s: %2$s (%3$s)</string>
   <string name="smart_group_company_label">"会社"</string>
   <string name="smart_group_company_unavailable">"会社情報なし"</string>
   <string name="smart_group_frequency_1">"過去1ヶ月以内"</string>
@@ -1216,7 +1213,6 @@ To add a contact to your list of favorites:
   <string name="voip_audio_description">VoIP call</string>
   <string name="voip_video_description">VoIP video call</string>
   <string name="websiteLabelsGroup">ウェブサイト</string>
-  <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
   <string name="wipe_data">"データを消去"</string>
   <string name="yellowPageNavigationIconLabel">"イエローページ"</string>
   <string name="yellowPageNavigationLabel">"イエローページ"</string>

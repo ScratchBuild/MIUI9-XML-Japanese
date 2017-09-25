@@ -9,7 +9,6 @@
   <string name="cancelling_notification_title_template">"%1$sをキャンセルしています"</string>
   <string name="choose_print_service">"印刷サービスの選択"</string>
   <string name="collapse_handle">"折りたたみハンドル"</string>
-  <string name="current_page_template">"%1$d/%2$d"</string>
   <string name="expand_handle">"展開ハンドル"</string>
   <string name="failed_notification_title_template">"プリンタエラー: %1$s"</string>
   <string name="generating_print_job">"印刷ジョブを生成しています"</string>

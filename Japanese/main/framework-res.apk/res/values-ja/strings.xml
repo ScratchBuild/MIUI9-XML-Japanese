@@ -630,7 +630,6 @@ To unpin, press and hold Home and the Power button at the same time."</string>
   <string name="needPuk">SIMカードはPUKでロックされています。ロックを解除するにはPUKコードを入力してください。</string>
   <string name="needPuk2">SIMカードのロック解除のためPUK2を入力します。</string>
   <string name="network_available_sign_in">ネットワークにログインしてください</string>
-  <string name="network_available_sign_in_detailed">%1$s</string>
   <string name="new_app_action">%1$sを起動</string>
   <string name="new_app_description">古いアプリを保存せずに停止します。</string>
   <string name="next_button_label">次へ</string>
@@ -1261,6 +1260,5 @@ To unpin, press and hold Home and the Power button at the same time."</string>
   <string name="zen_mode_feature_name">通知を非表示</string>
   <string name="zen_mode_forever">ユーザーがOFFにするまで</string>
   <string name="zen_mode_forever_dnd">[通知を非表示]をOFFにするまで</string>
-  <string name="zen_mode_rule_name_combination">%1$s/%2$s</string>
   <string name="zen_mode_until">%1$sまで</string>
 </resources>

@@ -181,7 +181,6 @@
   <string name="file_size">"サイズ:"</string>
   <string name="file_title">"名前:"</string>
   <string name="file_width_height">"サイズ:"</string>
-  <string name="flatshow_page_no">%1$d</string>
   <string name="force_touch_new_message_title">新規メッセージ</string>
   <string name="forward_from">"転送元:"</string>
   <string name="forward_prefix">"Fwd: "</string>
@@ -535,7 +534,6 @@
   <string name="send_signature_confirm_dialog_title">メッセージを送信</string>
   <string name="send_sms">SMSで送信</string>
   <string name="send_to">To:</string>
-  <string name="send_to_index_contact">%1$s/%2$s</string>
   <string name="sent_at_time">"送信日時: %1s"</string>
   <string name="sent_label">"送信: "</string>
   <string name="service_message_not_found">メッセージの有効期限が切れているか、利用できません</string>

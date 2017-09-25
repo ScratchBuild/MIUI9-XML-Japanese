@@ -400,7 +400,6 @@
   <string name="operation_share">"共有"</string>
   <string name="operation_show_sys">"隠しファイルを表示"</string>
   <string name="operation_unfavorite">"お気に入りから削除"</string>
-  <string name="origin_name">%1$s: </string>
   <string name="original_user_desc">Upload original videos regularly to gain the Creator status</string>
   <string name="original_user_qq_group">Join Talent team QQ group</string>
   <string name="original_user_register">• &lt;font color=#fc7050&gt;%1$s&lt;/font&gt; joined the community</string>
@@ -767,7 +766,6 @@
   <string name="video_topic_hint">"ユーザーやトピックを検索"</string>
   <string name="video_upload_btn">"次へ"</string>
   <string name="video_upload_btn_hint">MP4 videos should be 3s~10min long</string>
-  <string name="video_upload_item_title">%1$s (%2$s)</string>
   <string name="video_upload_kuaishou_hint">"より多くのファンを獲得するために、KuaiShouに動画をアップロード。"</string>
   <string name="video_upload_retry_confirm">"再試行"</string>
   <string name="video_upload_retry_message">"アップロードできませんでした、再試行しますか？"</string>

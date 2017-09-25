@@ -231,7 +231,6 @@
   <string name="packaging_dialog_content">"レポートを作成中…"</string>
   <string name="permission_granted">%1$s permission granted</string>
   <string name="pic_not_exist">"この画像は存在しません"</string>
-  <string name="pic_view_format">%1$s/%2$s</string>
   <string name="plus_one_submit_dialog_content">"フィードバックはエラーログと共にXiaomiのサーバーに送信されます。"</string>
   <string name="plus_one_submit_dialog_not_show_again">"設定を保存"</string>
   <string name="post_miui_bbs_failed">"フォーラムに投稿できませんでした"</string>

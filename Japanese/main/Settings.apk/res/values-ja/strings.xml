@@ -742,7 +742,6 @@
   <string name="calendar_sound_title">カレンダー音</string>
   <string name="call_manager_enable_summary">このサービスを使って通話方法を管理することを許可します。</string>
   <string name="call_manager_enable_title">通話マネージャを有効にする</string>
-  <string name="call_manager_summary">%1$s</string>
   <string name="call_manager_title">通話マネージャ</string>
   <string name="call_settings_primary_user_only">First space用の通話設定を変更する</string>
   <string name="call_settings_summary">ボイスメール、着信転送、発信者番号など</string>
@@ -1206,7 +1205,6 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="dndm_auto_button_title">夜間モードを時間で管理する</string>
   <string name="dndm_auto_setting_group">スケジュール</string>
   <string name="dndm_auto_time_setting">時間設定</string>
-  <string name="dndm_auto_time_setting_summary">%1$s-%2$s</string>
   <string name="dndm_auto_time_turn_off">終了時間</string>
   <string name="dndm_auto_time_turn_off_title">自動的に夜間モードをオフにする</string>
   <string name="dndm_auto_time_turn_on">開始時間</string>
@@ -1536,7 +1534,6 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="gadget_picker_title">ガジェットを選択</string>
   <string name="gadget_state_off">OFF</string>
   <string name="gadget_state_on">ON</string>
-  <string name="gadget_state_template">%1$s %2$s</string>
   <string name="gadget_state_turning_off">OFFにしています</string>
   <string name="gadget_state_turning_on">ONにしています</string>
   <string name="gadget_sync">同期</string>
@@ -4706,7 +4703,6 @@ PINが正しくない可能性があります。"</string>
   <string name="zen_mode_summary_alarms_only_by_time">%1$sまでアラームのみに変更します</string>
   <string name="zen_mode_summary_alarms_only_indefinite">期限なしで、アラームのみに変更します</string>
   <string name="zen_mode_summary_always">常に割り込みに変更します</string>
-  <string name="zen_mode_summary_combination">%1$s: %2$s</string>
   <string name="zen_mode_when">自動的にON</string>
   <string name="zen_mode_when_every_night">毎日の夜間</string>
   <string name="zen_mode_when_never">設定しない</string>

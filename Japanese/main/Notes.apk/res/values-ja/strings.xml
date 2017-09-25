@@ -92,7 +92,6 @@
   <string name="menu_title_select_folder">"フォルダを選択"</string>
   <string name="menu_unmark_privacy">"非表示を解除"</string>
   <string name="menu_unstick">"ピン留めを解除"</string>
-  <string name="micloud_state_total_count">%1$s</string>
   <string name="not_now">"後で"</string>
   <string name="note_alert_expired">"期限切れ"</string>
   <string name="note_description_content">The Notes app is a great tool for recording your ideas. It has built-in reminders and syncs your items to Mi Cloud so you can access them anywhere, anytime. Make sure you can do without these features before you delete the app.</string>

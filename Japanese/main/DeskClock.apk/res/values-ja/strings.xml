@@ -108,7 +108,6 @@
   <string name="shutdown_alarm_enable_summary">Alarm will ring after powered off</string>
   <string name="shutdown_alarm_title">Shutdown alarm</string>
   <string name="silent_alarm_summary">"マナーモード"</string>
-  <string name="skip_alarm_date_format">%1$s (%2$s)</string>
   <string name="skip_alarm_once_hint">"%sを一度だけオフにする"</string>
   <string name="slider_text">"上にスワイプでオフ"</string>
   <string name="snooze_confirm_cancel">"アラームを閉じる"</string>

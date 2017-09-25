@@ -277,7 +277,6 @@
   <string name="nav_guide_message">ソフトボタンの表示/非表示をジェスチャーで使用。</string>
   <string name="nav_guide_ok">設定する</string>
   <string name="nav_guide_title">ソフトボタンの非表示</string>
-  <string name="network_speed_suffix">%1$s%2$s</string>
   <string name="no_multi_window_app">分割画面をサポートするアプリはありません</string>
   <string name="no_notification_tips">通知はありません。</string>
   <string name="no_weather_description">天気情報を取得する ></string>
@@ -486,7 +485,6 @@ EEEE"</string>
   <string name="vpn_text_long">%s に接続しました。タップして詳細を確認します。</string>
   <string name="vpn_title">VPN有効化</string>
   <string name="vpn_title_long">%s でVPNに接続中です</string>
-  <string name="weather_description_no_aqi">%1$s ></string>
   <string name="weather_publish_time">%1$s 更新</string>
   <string name="wifi_aggressive_handover">Wi-Fiを強制的にモバイル接続に切り替える</string>
   <string name="wifi_aggressive_handover_summary">有効にすると、Wi-Fiの電波強度が弱い場合は強制的にモバイルデータ接続に切り替わるようになります</string>

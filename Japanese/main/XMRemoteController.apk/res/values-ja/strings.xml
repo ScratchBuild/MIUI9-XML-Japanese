@@ -118,7 +118,6 @@
   <string name="bind_stb_dlg">Pair set-top box to switch channels</string>
   <string name="bind_stb_dlg_2">Add set-top box first</string>
   <string name="bind_stb_dlg_agree">Pair</string>
-  <string name="brand_device">%1$s %2$s</string>
   <string name="brand_search_box_hint">"メーカーを選択"</string>
   <string name="brand_title_all">"すべて"</string>
   <string name="brand_title_hot">Popular</string>
@@ -376,7 +375,6 @@
   <string name="hot_videos">Popular</string>
   <string name="hour">"時間"</string>
   <string name="humidity">"湿度:"</string>
-  <string name="humidity_frame">%1$d%%</string>
   <string name="increase">Up</string>
   <string name="input_complete">OK</string>
   <string name="input_dialogue_cancel_button">"キャンセル"</string>
@@ -472,7 +470,6 @@
   <string name="match_data">Pairing info</string>
   <string name="match_data_error_tips">"情報を取得できませんでした
 続行するには戻る"</string>
-  <string name="match_dataset_frame">%1$d/%2$d</string>
   <string name="match_direction_default">Do direction buttons work?</string>
   <string name="match_dvd_intro_pause">Release when DVD playback pauses</string>
   <string name="match_dvd_intro_play">Release when DVD starts playing</string>
@@ -865,8 +862,6 @@ directly from your Lock screen"</string>
   <string name="save_share_title">Save the remote on this device?</string>
   <string name="scaning">"検索中…"</string>
   <string name="scanning_milink">"デバイスの検索中…"</string>
-  <string name="scene_name_frame">%1$s %2$s%3$s</string>
-  <string name="scene_name_frame_short">%1$s%2$s</string>
   <string name="screen_shot_button_title">Interception of the TV screen</string>
   <string name="screen_shot_delete">"削除"</string>
   <string name="screen_shot_delete_warning">Are you sure you want to delete it?</string>
@@ -1010,7 +1005,6 @@ directly from your Lock screen"</string>
   <string name="start_match">Pair</string>
   <string name="status_bar_notification_info_overflow">999+</string>
   <string name="stb">Set-top box</string>
-  <string name="stb_detail_title_frame">%1$s - %2$d</string>
   <string name="stb_power">STB on/off</string>
   <string name="steps">Attempt #%d</string>
   <string name="stop_auto_tune">Stop auto tune</string>
@@ -1034,7 +1028,6 @@ directly from your Lock screen"</string>
   <string name="third_app_launch_failed">App failed to start</string>
   <string name="third_party_video">"その他の動画"</string>
   <string name="time_error">Looks like the time is wrong</string>
-  <string name="time_interval_in_sec">%1$d</string>
   <string name="timer">"タイマー"</string>
   <string name="timer_turn_off">Schedule turn off time</string>
   <string name="timer_turn_on">Schedule turn on time</string>
