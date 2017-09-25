@@ -90,7 +90,7 @@
   <string name="reboot_info_shutdown_alarm">"次のアラーム: %s"</string>
   <string name="reboot_progress">"再起動しています…"</string>
   <string name="remain">残り: %s</string>
-  <string name="replace">Replace</string>
+  <string name="replace">"置き換え"</string>
   <string name="resource_select">"選択"</string>
   <string name="screen_button_notification_text">"オンにするには、ホームボタンと電源ボタンを同時に押してください。"</string>
   <string name="screen_button_notification_title">"ナビゲーションボタンは現在オフです"</string>
@@ -149,7 +149,7 @@
   <string name="switching_tv">"切り替え中…"</string>
   <string name="total_description">"アラーム以外のすべてのアイテムについて消音とバイブレーションをオフにする"</string>
   <string name="total_title">DND</string>
-  <string name="translation_more">More</string>
+  <string name="translation_more">"その他"</string>
   <string name="translation_query_error">"結果が見つかりませんでした"</string>
   <string name="translation_query_error_network">"情報を取得できませんでした。ネットワーク接続を確認してもう一度お試しください"</string>
   <string name="turn_off">"オフにする"</string>

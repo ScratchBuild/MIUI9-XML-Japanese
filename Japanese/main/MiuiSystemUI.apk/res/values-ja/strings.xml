@@ -245,7 +245,6 @@
 付属の充電器を使用してください。"</string>
   <string name="label_view">表示</string>
   <string name="list_delimeter">", "</string>
-  <string name="lland">L Land</string>
   <string name="loading_desktop">"読み込み中…"</string>
   <string name="local_backup_password_summary_change">デスクトップのフルバックアップ用のパスワードを変更または削除する場合にタップします</string>
   <string name="local_backup_password_summary_none">デスクトップのフルバックアップは現在保護されていません</string>
@@ -271,7 +270,6 @@
   <string name="media_projection_action_text">今すぐ開始</string>
   <string name="media_projection_dialog_text">%sで、画面に表示されているコンテンツのキャプチャを開始します。</string>
   <string name="media_projection_remember_text">"再度表示しない"</string>
-  <string name="mland">Marshmallow Land</string>
   <string name="mount_storage">はい</string>
   <string name="nav_guide_cancel">無視</string>
   <string name="nav_guide_message">ソフトボタンの表示/非表示をジェスチャーで使用。</string>
@@ -502,5 +500,5 @@ EEEE"</string>
   <string name="wifi_security_none">なし</string>
   <string name="wifi_verbose_logging">Wi-Fi詳細ログの有効化</string>
   <string name="wifi_verbose_logging_summary">Wi-Fiログレベルを上げて、Wi-Fi選択ツールでSSID RSSIごとに表示します</string>
-  <string name="window_animation_scale_title">Window animation scale</string>
+  <string name="window_animation_scale_title">ウィンドウアニメスケール</string>
 </resources>

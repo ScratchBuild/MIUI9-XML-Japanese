@@ -148,7 +148,7 @@
   <string name="network_not_available">"ネットワークに接続できませんでした"</string>
   <string name="network_unavailable">"ネットワークに接続できませんでした。"</string>
   <string name="night_not_disturb_settings_summary">"23:00から7:00の間はアラートを鳴らさない"</string>
-  <string name="night_not_disturb_settings_title">"Don't disturb at night"</string>
+  <string name="night_not_disturb_settings_title">"夜間モード"</string>
   <string name="no_network_btn">"再試行"</string>
   <string name="no_vote_ratio">Against %1$s%%</string>
   <string name="open">"開く"</string>
@@ -188,7 +188,6 @@
   <string name="some_where_on_earth">"地球上のどこか"</string>
   <string name="sunrise">"日の出"</string>
   <string name="sunset">"日の入"</string>
-  <string name="temperature_unit">%1$s°</string>
   <string name="title_share_link">"URLを共有"</string>
   <string name="traffic_control_daty_after_tomorrow_numbers">"明後日: %1$s"</string>
   <string name="traffic_control_today_numbers">"今日: %1$s"</string>
@@ -197,9 +196,9 @@
   <string name="unit">"単位"</string>
   <string name="unit_temperature">"気温の単位"</string>
   <string name="unit_wind">"風速の単位"</string>
-  <string name="update_night_setting_summary_text">Update weather info between 23:00 and 07:00</string>
-  <string name="update_night_setting_title_text">Update at night automatically</string>
-  <string name="update_setting_title_text">Update weather info</string>
+  <string name="update_night_setting_summary_text">"23:00から07:00の間に天気情報を更新する"</string>
+  <string name="update_night_setting_title_text">"夜間に自動的に更新"</string>
+  <string name="update_setting_title_text">"天気情報を更新"</string>
   <string name="view_forecast_item_yesterday">"昨日"</string>
   <string name="view_indexes_item_today">"今日"</string>
   <string name="view_indexes_item_tommorrow">"明日"</string>

@@ -127,8 +127,6 @@
   <string name="my_gifts_received">"受取済み"</string>
   <string name="no_data">"ネットワークに接続できません"</string>
   <string name="online_no_network">"ネットワークに接続できません"</string>
-  <string name="online_precust_asphalt">Asphalt</string>
-  <string name="online_precust_peach_blossom">Peach blossom</string>
   <string name="online_search_hint">"オンラインリソースを検索"</string>
   <string name="present_local_themes">"ダウンロード済み"</string>
   <string name="present_online_themes">"オンラインテーマを入手"</string>
