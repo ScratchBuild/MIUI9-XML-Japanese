@@ -28,7 +28,7 @@
   <string name="face_data_manage_unlock_title">"顔データを使用してロックを解除"</string>
   <string name="face_data_suggesstion_first">"顔データを使用したロックの解除は、ロック画面のパスワードを使用する場合よりも安全性が低くなります。あなたに似た人によって端末のロックが解除される可能性があります。"</string>
   <string name="face_data_suggesstion_second">"顔のすべての部分が覆われずにはっきりと見えていることを確認してください。端末の画面にもあなたの顔がよく映っているはずです。"</string>
-  <string name="face_unlock_adjust_distance">"顔と端末との間の距離が最適であることを確認してください。"</string>
+  <string name="face_unlock_adjust_distance">"顔と画面との間の距離が最適であることを確認してください。"</string>
   <string name="face_unlock_be_on_the_screen">"顔の前で端末を静止してください"</string>
   <string name="face_unlock_by_notification_screen_on_msg">"着信通知で画面が点灯するたびに、顔データを使用して端末のロックを解除することができます。これにより、電池の消耗が早くなる可能性があります。"</string>
   <string name="face_unlock_by_notification_screen_on_title">"画面の点灯時に顔認証でのロック解除を許可"</string>
@@ -67,7 +67,7 @@
   <string name="input_password_after_boot_msg">"端末のロックを解除するには、パスワードを入力します"</string>
   <string name="input_password_after_boot_msg_can_not_switch_when_calling">"通話中にspaceを切り替えることはできません"</string>
   <string name="input_password_after_boot_msg_must_enter_owner_space">"デバイスを再起動した後、First spaceのパスワードを入力する必要があります"</string>
-  <string name="input_password_handle_sdcard_fs">"Second spaceに切り替える前に \"Emulated SD card optimization\" をオフにしてください。"</string>
+  <string name="input_password_handle_sdcard_fs">"Second spaceに切り替える前に \"Mock SD card optimization\" をオフにしてください。"</string>
   <string name="input_password_hint_text">"パスワードを入力"</string>
   <string name="input_pattern_hint_text">"ロック解除パターンを入力"</string>
   <string name="input_pin_code">"PINコードを入力"</string>
@@ -116,7 +116,7 @@
   <string name="phone_locked_foget_password_method_content">&lt;Data&gt;You have to &amp;lt;font color=#a5220e&amp;gt;erase all data &amp;lt;/font&amp;gt; on your device, including photos and contacts, and then set a new Lock screen password.&lt;/Data&gt;</string>
   <string name="phone_locked_foget_password_method_next">"次へ"</string>
   <string name="phone_locked_foget_password_ok">OK</string>
-  <string name="phone_locked_forget_password_suggesstion_one_content">&lt;Data&gt;Power off your device, press and hold the &amp;lt;font color=#a5220e&amp;gt;Power button &amp;lt;/font&amp;gt; and the &amp;lt;font color=#a5220e&amp;gt;Volume up button &amp;lt;/font&amp;gt;simultaneously until you see the Mi logo.&lt;/Data&gt;</string>
+  <string name="phone_locked_forget_password_suggesstion_one_content">&lt;Data&gt;Power off your device, press and hold the &amp;lt;font color=#a5220e&amp;gt;Power button&amp;lt;/font&amp;gt; and the &amp;lt;font color=#a5220e&amp;gt;Volume up button&amp;lt;/font&amp;gt; simultaneously until you see the Mi logo.&lt;/Data&gt;</string>
   <string name="phone_locked_forget_password_suggesstion_two_content">&lt;Data&gt;Select &amp;lt;font color=#a5220e&amp;gt;\"Wipe &amp;amp;amp; Reset\"&amp;lt;/font&amp;gt; and wait until the device reboots.&lt;/Data&gt;</string>
   <string name="phone_locked_forget_password_suggesstions_title">How to erase data?</string>
   <string name="phone_locked_string">"電話がロックされています"</string>

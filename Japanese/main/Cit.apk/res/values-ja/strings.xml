@@ -208,6 +208,8 @@ GPSを起動するには画面をタッチ…"</string>
 5.The photo you took should be displayed below. Tap Delete to complete the test."</string>
   <string name="cit_main_camera_check_title">リアカメラ</string>
   <string name="cit_name">ハードウェアテスト</string>
+  <string name="cit_nfc_check_summary">カードを端末の背面に置いてください</string>
+  <string name="cit_nfc_check_title">NFCテスト</string>
   <string name="cit_not_available">このテスト項目はこのバージョンのMIUIでは実行できません。</string>
   <string name="cit_notificationlight">Notification light</string>
   <string name="cit_notificationlight_off">Notification light off</string>
@@ -381,6 +383,7 @@ After you place \"music.mp3\" in the SD card's directory, tap the display to pla
   <string name="mic1_spk_loop">Mic speak Loop</string>
   <string name="mic1test">MIC1</string>
   <string name="micphone_test">MIC＆ SPK</string>
+  <string name="nfc_disable_tip">NFCの機能をオンにしてください</string>
   <string name="remove_headset_and_starttest">Please remove headset and press start to test</string>
   <string name="speak_from_mic">Speaking to the MIC, the speaker playback. Judge whether there is sound.</string>
   <string name="start">開始</string>

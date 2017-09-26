@@ -477,7 +477,8 @@ To avoid frequent queries, we update balance info once a day."</string>
   <string name="group_delete_success_toast">"グループを削除しました"</string>
   <string name="group_detail_label_placeholder"> </string>
   <string name="group_edit_field_hint_text">"グループ名"</string>
-  <string name="group_member_remove_toast">"グループから削除しました"</string>
+  <string name="group_member_remove_fail_toast">"グループから削除できませんでした"</string>
+  <string name="group_member_remove_success_toast">"グループから削除しました"</string>
   <string name="group_name">My groups</string>
   <string name="group_name_hint">"グループの名前"</string>
   <string name="group_read_only">"この端末では編集できません。"</string>
@@ -1163,12 +1164,13 @@ To add a contact to your list of favorites:
   <string name="type_outgoing">"発信履歴"</string>
   <string name="type_voicemail">ボイスメール</string>
   <string name="unable_get_device_id">"IMEIを取得できません"</string>
-  <string name="unfold_all">unfold all</string>
+  <string name="unfold_all">"すべての通話を展開する"</string>
   <string name="unknow_phone_number_call_failed">"不明な番号に発信できません"</string>
   <string name="unknow_phone_number_mms_failed">"不明な番号にメッセージを送信できません"</string>
   <string name="unknown">"通知不可能"</string>
   <string name="unknown_contact_name">"不明な連絡先"</string>
-  <string name="unknown_details_new_contact">New contact</string>
+  <string name="unknown_details_add_to_contact">Existing</string>
+  <string name="unknown_details_new_contact">New</string>
   <string name="update_sim_contact_photo_toast">"SIMの連絡先にプロフィール写真を設定できません"</string>
   <string name="upgrade_in_progress">"連絡先リストを更新しています。"</string>
   <string name="upgrade_out_of_memory">"連絡先を更新中です。

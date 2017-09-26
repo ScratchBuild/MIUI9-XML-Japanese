@@ -327,12 +327,12 @@
   <string name="recents_drag_hint_message">アイテムをここにドラッグ</string>
   <string name="recents_empty_message">最近のタスクはありません</string>
   <string name="recents_empty_message_dismissed_all">すべてのアイテムを削除しました</string>
-  <string name="recents_empty_message_multi_window">アプリを開くにはホーム画面に戻ってください</string>
+  <string name="recents_empty_message_multi_window">ホーム画面からアプリを開く</string>
   <string name="recents_exit_multi_window_mode">終了</string>
   <string name="recents_incompatible_app_message">このアプリは分割画面をサポートしていません</string>
-  <string name="recents_launch_disabled_message">セーフモードで%sは停止しました。</string>
+  <string name="recents_launch_disabled_message">セーフモードで%sを起動できません</string>
   <string name="recents_launch_error_message">%sを開始できません。</string>
-  <string name="recents_lock_to_app_button_label">画面固定</string>
+  <string name="recents_lock_to_app_button_label">ピン留め</string>
   <string name="recents_multi_window_mode">分割画面</string>
   <string name="recents_multistack_add_stack_dialog_split_custom">カスタム</string>
   <string name="recents_multistack_add_stack_dialog_split_horizontal">横に分割</string>

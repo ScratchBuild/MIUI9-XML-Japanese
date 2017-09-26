@@ -460,8 +460,8 @@
   <string name="bind_xiaomi_account_dialog_summery">Mi Account %s を追加しようとしています。パスワードを忘れた場合、それをリセットするにはこのアカウントを使用することができます。</string>
   <string name="bind_xiaomi_account_success">Mi Accountが正常に追加されました</string>
   <string name="biometric_weak_improve_matching_title">Improve face matching</string>
-  <string name="biometric_weak_liveliness_summary">Require eye blink while unlocking</string>
-  <string name="biometric_weak_liveliness_title">Liveness check</string>
+  <string name="biometric_weak_liveliness_summary">ロックを解除するにはまばたきが必要です</string>
+  <string name="biometric_weak_liveliness_title">Real person check</string>
   <string name="block_list_connected_devices">接続済みデバイス</string>
   <string name="block_list_diaglog_cancle">キャンセル</string>
   <string name="block_list_diaglog_ok">OK</string>
@@ -800,7 +800,7 @@
   <string name="change_storage">ストレージの変更</string>
   <string name="charging_sounds_title">充電中の音</string>
   <string name="check_find_device_status_failure_confirm">OK</string>
-  <string name="check_importance">重要度を確認</string>
+  <string name="check_importance">重要としてマークしますか？</string>
   <string name="check_update">アップデートをチェック</string>
   <string name="checkbox_notification_same_as_incoming_call">通知音にも着信音量を適用</string>
   <string name="checking_decryption">確認しています…</string>
@@ -1377,8 +1377,8 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="erase_optional">コンテンツ</string>
   <string name="erase_personal_data">個人データ</string>
   <string name="erase_personal_data_description">Miアカウント情報、アプリデータ、システム設定を削除します</string>
-  <string name="erase_sd_data">SDカードをフォーマット</string>
-  <string name="erase_sd_data_description">フォーマットを行うと、SDカード上のすべてのファイルとデータが消去されます</string>
+  <string name="erase_sd_data">疑似SDカードをフォーマット</string>
+  <string name="erase_sd_data_description">フォーマットを行うと、SDカード上のすべてのデータが消去されます</string>
   <string name="erase_sure">個人データ</string>
   <string name="error_apn_empty">APNは必ず指定してください。</string>
   <string name="error_mcc_not3">MCC欄は3桁で指定してください。</string>
@@ -1428,8 +1428,8 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="fingerprint_enable_keyguard_toggle_title">画面ロック</string>
   <string name="fingerprint_enroll_button_add">別の指紋を登録</string>
   <string name="fingerprint_enroll_button_next">次へ</string>
-  <string name="fingerprint_first_open_screen_password_face_tittle">生体認証 (使用する前にロック画面のパスワードを設定する)</string>
-  <string name="fingerprint_first_open_screen_password_tittle">指紋 (使用する前にロック画面のパスワードを設定する)</string>
+  <string name="fingerprint_first_open_screen_password_face_tittle">顔 (初めにロック画面のパスワードを設定する)</string>
+  <string name="fingerprint_first_open_screen_password_tittle">指紋 (初めにロック画面のパスワードを設定する)</string>
   <string name="fingerprint_for_keyguard_disabled">指紋認証はセキュリティ設定によって無効にされています。</string>
   <string name="fingerprint_identify_input_password_msg">パスワードを入力</string>
   <string name="fingerprint_identify_msg">指紋を読み取り中…</string>
@@ -2601,7 +2601,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="privacy_factory_reset_dlg_title">Back up your data</string>
   <string name="privacy_file">ファイル</string>
   <string name="privacy_gallery">写真</string>
-  <string name="privacy_header_text_less_than_half">このアプリのためのスペースが少なすぎます。セパレータをさらにドラッグします。</string>
+  <string name="privacy_header_text_less_than_half">小さすぎます。セパレータをもう少しドラッグします。</string>
   <string name="privacy_mms">メッセージ</string>
   <string name="privacy_mode_dialog_message">メッセージ、ノート、写真、設定、および着信を非表示にしますか？</string>
   <string name="privacy_mode_dialog_title">ゲストモード</string>
@@ -3296,13 +3296,12 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="settings_toggle_position_divider_list">バーの上に配置したトグルは有効です</string>
   <string name="setup_add_fingerprint_failed_retry_text">指紋を追加できませんでした</string>
   <string name="setup_choose_unlock_fingerprint_msg">指紋を追加する前に画面ロックを設定してください。</string>
-  <string name="setup_choose_unlock_mixed_password_color_normal">&lt;Data&gt;&amp;lt;font color=#000000&amp;gt;パスワード&amp;lt;/font&amp;gt;&lt;/Data&gt;</string>
-  <string name="setup_choose_unlock_mixed_password_color_pressed">&lt;Data&gt;&amp;lt;font color=#009dff&amp;gt;パスワード&amp;lt;/font&amp;gt;&lt;/Data&gt;</string>
+  <string name="setup_choose_unlock_mixed_password">パスワード</string>
   <string name="setup_choose_unlock_mixpassword_title">パスワードを設定</string>
+  <string name="setup_choose_unlock_password">PIN</string>
   <string name="setup_choose_unlock_password_msg">4桁の数字を入力</string>
   <string name="setup_choose_unlock_password_title">PINを設定</string>
-  <string name="setup_choose_unlock_pattern_color_normal">&lt;Data&gt;&amp;lt;font color=#000000&amp;gt;パターン&amp;lt;/font&amp;gt;&lt;/Data&gt;</string>
-  <string name="setup_choose_unlock_pattern_color_pressed">&lt;Data&gt;&amp;lt;font color=#009dff&amp;gt;パターン&amp;lt;/font&amp;gt;&lt;/Data&gt;</string>
+  <string name="setup_choose_unlock_pattern">Pattern</string>
   <string name="setup_choose_unlock_pattern_title">ロック解除パターンを入力</string>
   <string name="setup_choose_unlock_type_title">パスワードを設定</string>
   <string name="setup_fingerprint_enroll_finish_message">指紋センサーに触れるだけで端末を復帰させてロックを解除できます。</string>
@@ -3547,7 +3546,7 @@ PINが正しくない可能性があります。"</string>
   <string name="status_wifi_mac_address">Wi-Fi MACアドレス</string>
   <string name="status_wimax_mac_address">4G MACアドレス</string>
   <string name="status_write_success">書き込み完了</string>
-  <string name="statusbar_permission_desc">重要な通知に対してのみ、アクセス許可が利用可能です</string>
+  <string name="statusbar_permission_desc">次のアクセス許可は、重要な通知に対してのみ有効です。</string>
   <string name="storage_detail_apps">アプリ</string>
   <string name="storage_detail_audio">音声</string>
   <string name="storage_detail_cached">キャッシュデータ</string>
@@ -3899,8 +3898,8 @@ PINが正しくない可能性があります。"</string>
   <string name="unlock_disable_lock_title">画面ロックをOFFにする</string>
   <string name="unlock_set_enter_system">画面ロックをスキップ</string>
   <string name="unlock_set_enter_system_summary">画面スリープ復帰から直接ホーム画面に移動</string>
-  <string name="unlock_set_unlock_biometric_weak_summary">低セキュリティ、実験的</string>
-  <string name="unlock_set_unlock_biometric_weak_title">Face Unlock</string>
+  <string name="unlock_set_unlock_biometric_weak_summary">セキュリティの低い実験的な機能です</string>
+  <string name="unlock_set_unlock_biometric_weak_title">Face unlock</string>
   <string name="unlock_set_unlock_disabled_summary">管理者、暗号化ポリシー、または認証情報により無効</string>
   <string name="unlock_set_unlock_launch_picker_change_summary">パターン、PIN、パスワードセキュリティを変更または無効にする</string>
   <string name="unlock_set_unlock_launch_picker_change_title">ロック解除方法を変更する</string>

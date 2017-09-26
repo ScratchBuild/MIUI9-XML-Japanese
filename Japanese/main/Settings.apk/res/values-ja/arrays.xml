@@ -166,9 +166,9 @@
         <item>重要でない</item>
     </string-array>
     <string-array name="check_importance_summary">
-        <item>自動で判断を行い、重要でない通知はすべて別のフォルダに表示されます</item>
-        <item>通知は通知シェードに直接表示されます</item>
-        <item>すべての通知は別のフォルダに表示されます</item>
+        <item>MIUIがどの通知を直接表示するのかを判断します</item>
+        <item>通知は通知シェードに表示されます</item>
+        <item>通知は別のフォルダに表示されます</item>
     </string-array>
     <string-array name="timezone_filters">
         <item>アメリカ</item>
