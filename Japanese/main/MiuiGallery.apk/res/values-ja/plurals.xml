@@ -184,4 +184,20 @@
         <item quantity="other">%1$d枚の新しい写真が見つかりました</item>
         <item quantity="one">新しい写真が見つかりました</item>
     </plurals>
+    <plurals name="search_feedback_done_mark_false_positive">
+        <item quantity="other">\"%2$s\"から%1$d枚の写真を削除しました。</item>
+        <item quantity="one">\"%2$s\"から%1$d枚の写真を削除しました。</item>
+    </plurals>
+    <plurals name="search_feedback_done_mark_and_contribute_false_positive">
+        <item quantity="other">\"%2$s\"から%1$d枚の写真を削除し、データベースに追加しました。</item>
+        <item quantity="one">\"%2$s\"から%1$d枚の写真を削除し、データベースに追加しました。</item>
+    </plurals>
+    <plurals name="search_feedback_done_mark_false_negative">
+        <item quantity="other">\"%2$s\"に%1$d枚の写真を追加しました。</item>
+        <item quantity="one">\"%2$s\"に%1$d枚の写真を追加しました。</item>
+    </plurals>
+    <plurals name="search_feedback_done_mark_and_contribute_false_negative">
+        <item quantity="other">\"%2$s\"とデータベースに%1$d枚の写真を追加しました。</item>
+        <item quantity="one">\"%2$s\"とデータベースに%1$d枚の写真を追加しました。</item>
+    </plurals>
 </resources>

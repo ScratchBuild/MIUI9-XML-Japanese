@@ -407,6 +407,7 @@ Total: RMB %3$s"</string>
   <string name="search_keywords_express">express;shunfeng;shentong;debang;kuaidi;danhao;</string>
   <string name="search_title_express">Query or send express</string>
   <string name="select_package_before_buy">パッケージを選択</string>
+  <string name="send_shortcut_already_exists">ホーム画面に既に設置済みです</string>
   <string name="send_shortcut_failed">送信できませんでした</string>
   <string name="send_shortcut_success">ホーム画面に設置しました</string>
   <string name="sending_shortcut">送信中…</string>
