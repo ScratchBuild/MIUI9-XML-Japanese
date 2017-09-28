@@ -38,7 +38,7 @@
   <string name="call_extension_conference_mode">"グループ通話モード"</string>
   <string name="call_record_wait_label">"待機中"</string>
   <string name="call_recording_deny_permission_msg">"録音の権限が拒否されました、録音できません。"</string>
-  <string name="call_recording_error_low_storage">"SDカードに十分な空き領域がありません。"</string>
+  <string name="call_recording_error_low_storage">"ストレージに十分な空き領域がありません。"</string>
   <string name="call_recording_error_privacy">"ゲストモード中に録音することはできません"</string>
   <string name="call_recording_error_sd_access">"SDカードにアクセスできません"</string>
   <string name="call_recording_error_sd_unmounted">"録音を停止: SDカードが取り外されました。"</string>
@@ -141,7 +141,6 @@
   <string name="livetalk_dial">Using Top-up package</string>
   <string name="livetalk_hangup">"電話を切る"</string>
   <string name="manageConferenceLabel">"グループ通話オプション"</string>
-  <string name="miprofile_stranger_card">"不明"</string>
   <string name="modify_call_failure_str">"Modify Call request failed"</string>
   <string name="modify_call_option_title">"どの種類で通話しますか？"</string>
   <string name="modify_call_option_voice">"音声のみ"</string>

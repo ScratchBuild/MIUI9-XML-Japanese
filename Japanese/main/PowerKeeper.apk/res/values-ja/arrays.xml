@@ -32,7 +32,7 @@
     <string-array name="action_param_translate">
         <item>"なし"</item>
         <item>"デフォルト"</item>
-        <item>"写真"</item>
+        <item>"画像"</item>
         <item>"動画"</item>
         <item>"バッテリーセーバー"</item>
         <item>"バランス"</item>
@@ -67,12 +67,12 @@
         <item>Waking device frequently</item>
     </string-array>
     <string-array name="power_checker_recent_group_titles">
-        <item>Kernel WakeLock</item>
-        <item>WakeLock</item>
-        <item>WIFI scan</item>
-        <item>GPS</item>
-        <item>CPU</item>
-        <item>Wake Up</item>
+        <item>Blocking deep sleep mode</item>
+        <item>Blocking sleep mode</item>
+        <item>Wi-Fiを検索</item>
+        <item>GPSを使用</item>
+        <item>CPUを占有</item>
+        <item>デバイスを頻繁に起動</item>
     </string-array>
     <string-array name="invisible_app_groups">
         <item>selected</item>
@@ -80,10 +80,10 @@
     </string-array>
     <string-array name="thermal_entries">
         <item>"温度制御モード(デフォルト)"</item>
-        <item>"パフォーマンス優先モード"</item>
+        <item>"パフォーマンスモード"</item>
     </string-array>
     <string-array name="thermal_summaries">
-        <item>Current default mode</item>
-        <item>Current performance mode</item>
+        <item>"現在は温度制御モードです"</item>
+        <item>"現在はパフォーマンスモードです"</item>
     </string-array>
 </resources>

@@ -39,15 +39,16 @@
         <item>HDCPチェックを常に使用する</item>
     </string-array>
     <string-array name="select_logd_size_summaries">
-        <item>64K/ログバッファ</item>
-        <item>256K/ログバッファ</item>
-        <item>1M/ログバッファ</item>
-        <item>4M/ログバッファ</item>
-        <item>16M/ログバッファ</item>
+        <item>オフ</item>
+        <item>64KB/ログバッファ</item>
+        <item>256KB/ログバッファ</item>
+        <item>1MB/ログバッファ</item>
+        <item>4MB/ログバッファ</item>
+        <item>16MB/ログバッファ</item>
     </string-array>
     <string-array name="window_animation_scale_entries">
         <item>アニメーションオフ</item>
-        <item>アニメーションスケール.5x</item>
+        <item>アニメーションスケール0.5x</item>
         <item>アニメーションスケール1x</item>
         <item>アニメーションスケール1.5x</item>
         <item>アニメーションスケール2x</item>
@@ -56,7 +57,7 @@
     </string-array>
     <string-array name="transition_animation_scale_entries">
         <item>アニメーションオフ</item>
-        <item>アニメーションスケール.5x</item>
+        <item>アニメーションスケール0.5x</item>
         <item>アニメーションスケール1x</item>
         <item>アニメーションスケール1.5x</item>
         <item>アニメーションスケール2x</item>
@@ -65,7 +66,7 @@
     </string-array>
     <string-array name="animator_duration_scale_entries">
         <item>アニメーションオフ</item>
-        <item>アニメーションスケール.5x</item>
+        <item>アニメーションスケール0.5x</item>
         <item>アニメーションスケール1x</item>
         <item>アニメーションスケール1.5x</item>
         <item>アニメーションスケール2x</item>

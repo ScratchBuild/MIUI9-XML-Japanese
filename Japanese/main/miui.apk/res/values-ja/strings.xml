@@ -6,7 +6,7 @@
   <string name="action_mode_select_all">"すべて選択"</string>
   <string name="action_mode_title_empty">"アイテムを選択"</string>
   <string name="actionbar_button_up_description">"戻る"</string>
-  <string name="actionbar_immersion_button_more_description">more</string>
+  <string name="actionbar_immersion_button_more_description">"その他"</string>
   <string name="activate">有効化</string>
   <string name="activate_fail_notification_title">同期を再度有効にする</string>
   <string name="activating">"有効にしています…"</string>

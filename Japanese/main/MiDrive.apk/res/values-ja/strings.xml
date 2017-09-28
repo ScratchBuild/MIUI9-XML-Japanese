@@ -98,6 +98,8 @@
   <string name="quota_info">"Mi Drive: %1$s 空き, %2$s 合計"</string>
   <string name="rename_alert">"このファイルの拡張子を変更した場合、それを開くことができなくなる場合があります。"</string>
   <string name="rename_failed">"同じ名前のファイルが既に存在します。"</string>
+  <string name="request_permission_msg">"Mi Driveが正常に動作するには、アカウント情報へのアクセスを許可してください。"</string>
+  <string name="request_permission_title">"権限のリクエスト"</string>
   <string name="sd_full">"SDカードがいっぱいです。"</string>
   <string name="sd_invalid">"SDカードが破損しています。"</string>
   <string name="send_to_midrive_failed">"このファイルタイプはサポートされていません。"</string>
@@ -117,6 +119,8 @@
   <string name="wait_wifi">"Wi-Fi接続を待っています"</string>
   <string name="waiting">"待機中"</string>
   <string name="wangpan_root_path">My drive</string>
+  <string name="xiaomi_drive_description_content">"Mi Driveではファイルをオンラインに保存して端末のストレージを解放することができます。Mi Driveの使用を停止しますか？"</string>
+  <string name="xiaomi_drive_description_title">"Mi Driveについて"</string>
   <string name="year_month_day_format">MMM dd, yyyy</string>
   <string name="yesterday">"昨日"</string>
 </resources>

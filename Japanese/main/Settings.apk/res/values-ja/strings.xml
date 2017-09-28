@@ -2136,6 +2136,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="miui_allow_music">メディア</string>
   <string name="miui_allow_vibrate">バイブレーション</string>
   <string name="miui_data_usage_menu_metered">モバイルホットスポット</string>
+  <string name="miui_enable_service_title">サービスは次の操作を実行します:</string>
   <string name="miui_experience_optimization">MIUIの最適化をオンにする</string>
   <string name="miui_lab_feature_applied">適用しました</string>
   <string name="miui_lab_feature_off">オフ</string>
@@ -3756,7 +3757,24 @@ PINが正しくない可能性があります。"</string>
   <string name="tether_settings_title_wifi">ポータブルアクセスポイント</string>
   <string name="tether_share_qrcode_title">QRコードを共有</string>
   <string name="tethering_help_button_text">ヘルプ</string>
+  <string name="tethering_help_dialog_text"><b&>USBテザリング</b>"
+ You can tether your Android device to your computer with a USB cable, to share your device's Internet connection with your computer. 
+
+1.USB tethering works with Windows Vista, Windows 7, Windows 8, Windows 8.1 and Linux. 
+
+2.If your device has an SD card or USB storage, you can't mount it on your computer when USB tethered. 
+
+ "<b>ポータブルWi-Fiアクセスポイント</b>"
+ You can turn your Android device into a portable WLAN hotspot, to share your Android device's Internet connection with one or more computers or other devices. 
+
+1.When your device is serving as a WLAN hotspot, you can't use your device's applications to access the Internet via its WLAN connection (but of course you remain connected to the Internet via your mobile data network). 
+
+2.You configure the hotspot with the WLAN hotspot settings."</string>
+  <string name="tethering_help_dialog_title">ヘルプ</string>
+  <string name="tethering_no_sim_alert_title">SIMカードがありません</string>
+  <string name="tethering_no_sim_card_text">Wi-FiアクセスポイントまたはUSBテザリングを使用して他の端末とインターネット接続を共有するには、SIMカードを挿入してください。</string>
   <string name="tethering_settings_not_available">このユーザーはテザリング設定を利用できません</string>
+  <string name="tethering_settings_summary">USBまたはWi-Fiアクセスポイント経由で端末のモバイルデータ接続を共有する</string>
   <string name="theme_settings_title">テーマ</string>
   <string name="three_gesture_down">三本指で下にスライド</string>
   <string name="time_picker_title">時間</string>
