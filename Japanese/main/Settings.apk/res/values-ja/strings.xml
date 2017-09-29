@@ -3757,14 +3757,14 @@ PINが正しくない可能性があります。"</string>
   <string name="tether_settings_title_wifi">ポータブルアクセスポイント</string>
   <string name="tether_share_qrcode_title">QRコードを共有</string>
   <string name="tethering_help_button_text">ヘルプ</string>
-  <string name="tethering_help_dialog_text"><b&>USBテザリング</b>"
+  <string name="tethering_help_dialog_text">"<b>USBテザリング</b>
  You can tether your Android device to your computer with a USB cable, to share your device's Internet connection with your computer. 
 
 1.USB tethering works with Windows Vista, Windows 7, Windows 8, Windows 8.1 and Linux. 
 
 2.If your device has an SD card or USB storage, you can't mount it on your computer when USB tethered. 
 
- "<b>ポータブルWi-Fiアクセスポイント</b>"
+ <b>ポータブルWi-Fiアクセスポイント</b>
  You can turn your Android device into a portable WLAN hotspot, to share your Android device's Internet connection with one or more computers or other devices. 
 
 1.When your device is serving as a WLAN hotspot, you can't use your device's applications to access the Internet via its WLAN connection (but of course you remain connected to the Internet via your mobile data network). 
