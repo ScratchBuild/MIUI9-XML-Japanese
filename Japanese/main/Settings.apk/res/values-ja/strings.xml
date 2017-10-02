@@ -157,7 +157,7 @@
   <string name="allow_mock_location">擬似ロケーションを許可</string>
   <string name="allow_mock_location_summary">擬似ロケーションを許可する</string>
   <string name="allow_overlay_description">この権限により、アプリは使用中の他のアプリの上に重ねて表示できるようになります。これにより、他のアプリのインターフェースを使用する際に邪魔になったり、他のアプリに表示されていると思われるものが変更されたりする場合があります。</string>
-  <string name="always">Always</string>
+  <string name="always">常に</string>
   <string name="always_allow_bind_appwidgets_text">このアプリによるウィジェットの作成とデータへのアクセスを許可しました。</string>
   <string name="always_running">"常に実行（%s）"</string>
   <string name="amber_alerts_summary">児童誘拐についての速報を受信する</string>
@@ -727,8 +727,8 @@
   <string name="build_number">ビルド番号</string>
   <string name="builtin_keyboard_settings_summary">物理キーボードの設定</string>
   <string name="builtin_keyboard_settings_title">物理キーボード</string>
-  <string name="button_confirm_convert_fbe">Wipe and convert</string>
-  <string name="button_convert_fbe">Wipe and convert…</string>
+  <string name="button_confirm_convert_fbe">消去して変換</string>
+  <string name="button_convert_fbe">消去して変換…</string>
   <string name="button_disconnect_network">ネットワークから切断</string>
   <string name="button_light_timeout">ライトの点灯時間</string>
   <string name="button_text_accept">受け入れる</string>
@@ -804,7 +804,7 @@
   <string name="change_password">画面ロックの変更</string>
   <string name="change_security_lock">ロック解除する他の方法を試す</string>
   <string name="change_storage">ストレージの変更</string>
-  <string name="charge_length_format">%1$s ago</string>
+  <string name="charge_length_format">%1$s前</string>
   <string name="charging_sounds_title">充電中の音</string>
   <string name="check_find_device_status_failure_confirm">OK</string>
   <string name="check_importance">重要としてマークしますか？</string>
@@ -1086,7 +1086,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="date_time_set_timezone">タイムゾーンの選択</string>
   <string name="date_time_set_timezone_title">タイムゾーン</string>
   <string name="date_time_settings">日付と時刻</string>
-  <string name="day_of_week">Day of the week</string>
+  <string name="day_of_week">曜日</string>
   <string name="debug_app">デバッグアプリを選択</string>
   <string name="debug_app_not_set">デバッグアプリケーションが設定されていません</string>
   <string name="debug_app_set">デバッグアプリケーション: %1$s</string>
@@ -1108,7 +1108,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="delete_fingerprint_text">指紋認証を削除</string>
   <string name="delete_legacy_fingerprint">削除</string>
   <string name="delete_or_keep_legacy_passwords_confirm_msg">この指紋を削除しますか？</string>
-  <string name="delete_rule">Remove rules</string>
+  <string name="delete_rule">ルールを削除</string>
   <string name="delete_saved_network">保存されたネットワークを削除</string>
   <string name="demo_mode">デモモード</string>
   <string name="demo_mode_summary">ステータスバーにデモアイコンを表示する</string>
@@ -1118,7 +1118,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="dev_settings_warning_message">これらの設定は開発専用に設計されています。そのため端末や端末上のアプリが故障したり正常に動作しなくなったりする恐れがあります。</string>
   <string name="dev_settings_warning_title">開発用の設定を許可しますか？</string>
   <string name="development_enable">開発者向けオプション</string>
-  <string name="development_settings_enable">Enable developer options</string>
+  <string name="development_settings_enable">開発者向けオプションの有効化</string>
   <string name="development_settings_not_available">デベロッパー向けオプションはこのユーザーには表示されません</string>
   <string name="development_settings_summary">アプリ開発オプションを設定する</string>
   <string name="development_settings_title">開発者向けオプション</string>
@@ -1183,10 +1183,10 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="disable_text">無効にする</string>
   <string name="disabled">無効</string>
   <string name="disabled_because_no_backup_security">使用するには、まず画面ロックを設定してください</string>
-  <string name="disabled_by_admin">Disabled by administrator</string>
-  <string name="disabled_by_admin_summary_text">Controlled by admin</string>
-  <string name="disabled_by_administrator_summary">Disabled by administrator</string>
-  <string name="disabled_by_policy_title">Action not allowed</string>
+  <string name="disabled_by_admin">管理者によって無効にされています</string>
+  <string name="disabled_by_admin_summary_text">管理者により管理されています</string>
+  <string name="disabled_by_administrator_summary">管理者によって無効にされています</string>
+  <string name="disabled_by_policy_title">操作が許可されていません</string>
   <string name="disconnect">切断</string>
   <string name="display_auto_rotate_rotate">画面のコンテンツを回転させる</string>
   <string name="display_auto_rotate_stay_in_current">現在の向きを維持する</string>
@@ -1321,8 +1321,8 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="enable_adb_summary">USB接続時はデバッグモードにする</string>
   <string name="enable_compatibility">アプリを拡大/縮小</string>
   <string name="enable_drive_mode">ドライブモード</string>
-  <string name="enable_freeform_support">Enable freeform windows</string>
-  <string name="enable_freeform_support_summary">Enable support for experimental freeform windows.</string>
+  <string name="enable_freeform_support">フリーフォーム ウィンドウの有効化</string>
+  <string name="enable_freeform_support_summary">外部のフリーフォーム ウィンドウのサポートを有効にします。</string>
   <string name="enable_mobile_data_when_opening_hotspot">モバイルデータもオンにしますか？</string>
   <string name="enable_multi_window">マルチウィンドウモード</string>
   <string name="enable_multi_window_summary">複数のアクティビティを同時に画面上に表示する</string>
@@ -1337,8 +1337,8 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="enable_terminal_summary">ローカルシェルアクセスを提供するターミナルアプリを有効にします</string>
   <string name="enable_terminal_title">ローカルターミナル</string>
   <string name="enable_text">有効にする</string>
-  <string name="enable_webview_multiprocess">Multiprocess WebView</string>
-  <string name="enable_webview_multiprocess_desc">Run WebView renderers separately</string>
+  <string name="enable_webview_multiprocess">複数プロセス WebView を有効化</string>
+  <string name="enable_webview_multiprocess_desc">別個のプロセスで WebView レンダラを実行します。</string>
   <string name="enable_wifi_display">ワイヤレスディスプレイ</string>
   <string name="enalbe_identify_iPhone">AP identification</string>
   <string name="encrypt_dont_require_password">必須としない</string>
@@ -1606,7 +1606,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="header_category_wireless_networks">無線とネットワーク</string>
   <string name="header_data_and_synchronization">データと同期</string>
   <string name="heavy_weight_stop_description">このアプリを安全に停止できません。停止すると、現在の作業が一部失われる恐れがあります。</string>
-  <string name="help_feedback_label">Help &amp; feedback</string>
+  <string name="help_feedback_label">ヘルプとフィードバック</string>
   <string name="help_label">ヘルプとフィードバック</string>
   <string name="hidden_ssid_label">ステルスSSID:</string>
   <string name="high_performance_notif_summary">端末は高い負荷を掛けると熱くなる場合があります</string>
@@ -1621,8 +1621,8 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="high_power_prompt_title">電池の最適化を無視</string>
   <string name="high_power_system">電池の最適化の利用不可</string>
   <string name="history_details_title">履歴の詳細</string>
-  <string name="home">Settings Home</string>
-  <string name="home_app">Home app</string>
+  <string name="home">ホームの設定</string>
+  <string name="home_app">ホームアプリ</string>
   <string name="home_app_uninstall_button">このアプリをアンインストール</string>
   <string name="home_key">ホーム</string>
   <string name="home_settings">ホーム</string>
@@ -2381,7 +2381,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="oem_radio_info_label">OEM固有の情報/設定</string>
   <string name="oem_unlock_enable">OEMロック解除</string>
   <string name="oem_unlock_enable_summary">ブートローダーによるロック解除を許可する</string>
-  <string name="ok_rules">Finish</string>
+  <string name="ok_rules">完了</string>
   <string name="okay">OK</string>
   <string name="onekey_migrate">Mi Mover</string>
   <string name="online_resource_entry">オンラインリソース</string>
@@ -2510,8 +2510,8 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="pico_not_installed">未インストール</string>
   <string name="pico_voice_summary_female">女性</string>
   <string name="pico_voice_summary_male">男性</string>
-  <string name="picture_color_mode">Picture color mode</string>
-  <string name="picture_color_mode_desc">Use sRGB</string>
+  <string name="picture_color_mode">画像の色モード</string>
+  <string name="picture_color_mode_desc">sRGBを使用</string>
   <string name="pin_failed">SIM PIN操作に失敗しました。</string>
   <string name="ping_test_label">pingテストの実行</string>
   <string name="please_select_phase2">フェーズ2認証</string>
@@ -2546,8 +2546,8 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="power_optimize">バッテリーセーバー</string>
   <string name="power_overcounted">過剰算出</string>
   <string name="power_phone">通話</string>
-  <string name="power_remaining_duration_only">Approx. %1$s left</string>
-  <string name="power_remaining_duration_only_short">%1$s left</string>
+  <string name="power_remaining_duration_only">あと約 %1$s</string>
+  <string name="power_remaining_duration_only_short">あと%1$s</string>
   <string name="power_screen">画面</string>
   <string name="power_settings_title">システムパフォーマンス</string>
   <string name="power_unaccounted">その他</string>
@@ -2807,7 +2807,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="recompute_size">サイズを再計算中…</string>
   <string name="regulatory_info_text"/>
   <string name="regulatory_information">規制情報</string>
-  <string name="remaining_length_format">%1$s left</string>
+  <string name="remaining_length_format">あと %1$s</string>
   <string name="remove_account_failed">この変更は管理者によって許可されていません</string>
   <string name="remove_account_label">アカウントを削除</string>
   <string name="remove_continue">アンインストール</string>
@@ -2879,7 +2879,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
 
 この設定はこの端末上のすべてのユーザーに影響します。"</string>
   <string name="rssi_label">RSSI:</string>
-  <string name="rule_name">Name</string>
+  <string name="rule_name">名前</string>
   <string name="running_frequency">頻度</string>
   <string name="running_process_item_removed_user_label">削除済みのユーザー</string>
   <string name="running_process_item_user_label">ユーザー: %1$s</string>
@@ -2992,27 +2992,27 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="screen_timeout">スリープ</string>
   <string name="screen_timeout_summary">操作が行われない状態で%1$s経過後</string>
   <string name="screen_timeout_title">画面がOFFになったとき</string>
-  <string name="screen_zoom_conversation_message_1">Hi Pete!</string>
-  <string name="screen_zoom_conversation_message_2">Hey, want to grab coffee and catch up today?</string>
-  <string name="screen_zoom_conversation_message_3">Sounds great. I know of a good place not too far from here.</string>
-  <string name="screen_zoom_conversation_message_4">Perfect!</string>
-  <string name="screen_zoom_conversation_timestamp_1">Tue 6:00PM</string>
-  <string name="screen_zoom_conversation_timestamp_2">Tue 6:01PM</string>
-  <string name="screen_zoom_conversation_timestamp_3">Tue 6:02PM</string>
-  <string name="screen_zoom_conversation_timestamp_4">Tue 6:03PM</string>
-  <string name="screen_zoom_keywords">display density, screen zoom, scale, scaling</string>
-  <string name="screen_zoom_make_larger_desc">Make larger</string>
-  <string name="screen_zoom_make_smaller_desc">Make smaller</string>
-  <string name="screen_zoom_preview_title">Preview</string>
-  <string name="screen_zoom_short_summary">Make items on screen larger or smaller</string>
-  <string name="screen_zoom_summary">Make the items on your screen smaller or larger. Some apps on your screen may change position.</string>
-  <string name="screen_zoom_summary_custom">Custom (%d)</string>
-  <string name="screen_zoom_summary_default">Default</string>
-  <string name="screen_zoom_summary_extremely_large">Largest</string>
-  <string name="screen_zoom_summary_large">Large</string>
-  <string name="screen_zoom_summary_small">Small</string>
-  <string name="screen_zoom_summary_very_large">Larger</string>
-  <string name="screen_zoom_title">Display size</string>
+  <string name="screen_zoom_conversation_message_1">一郎さん、こんにちは。</string>
+  <string name="screen_zoom_conversation_message_2">お茶でも飲みながら最近あった話などしませんか？</string>
+  <string name="screen_zoom_conversation_message_3">いいですね。そう遠くないところにいい店があるんですよ。</string>
+  <string name="screen_zoom_conversation_message_4">それはいい。</string>
+  <string name="screen_zoom_conversation_timestamp_1">火 6:00PM</string>
+  <string name="screen_zoom_conversation_timestamp_2">火 6:01PM</string>
+  <string name="screen_zoom_conversation_timestamp_3">火 6:02PM</string>
+  <string name="screen_zoom_conversation_timestamp_4">火 6:03PM</string>
+  <string name="screen_zoom_keywords">表示間隔、画面のズーム、スケール、拡大縮小</string>
+  <string name="screen_zoom_make_larger_desc">拡大</string>
+  <string name="screen_zoom_make_smaller_desc">縮小</string>
+  <string name="screen_zoom_preview_title">プレビュー</string>
+  <string name="screen_zoom_short_summary">画面上のアイテムのサイズを変更します</string>
+  <string name="screen_zoom_summary">画面上のアイテムのサイズを変更します。画面上のアプリの位置が変わることがあります。</string>
+  <string name="screen_zoom_summary_custom">カスタム（%d）</string>
+  <string name="screen_zoom_summary_default">デフォルト</string>
+  <string name="screen_zoom_summary_extremely_large">最大</string>
+  <string name="screen_zoom_summary_large">大</string>
+  <string name="screen_zoom_summary_small">小</string>
+  <string name="screen_zoom_summary_very_large">特大</string>
+  <string name="screen_zoom_title">表示サイズ</string>
   <string name="screensaver_settings_button">設定</string>
   <string name="screensaver_settings_disabled_prompt">携帯端末のホルダー装着時やスリープ時の動作を管理するにはスクリーンセーバーをONにします。</string>
   <string name="screensaver_settings_dream_start">今すぐ起動</string>
@@ -3138,7 +3138,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="search_manage_notification_access_title">通知アクセス;Notifications;Notification permissions</string>
   <string name="search_master_clear_title">ファクトリーリセット</string>
   <string name="search_menu">検索設定</string>
-  <string name="search_menu_title">Search</string>
+  <string name="search_menu_title">検索</string>
   <string name="search_micloud">Sync;Mi Cloud;Cloud sync;Sync with Mi Cloud</string>
   <string name="search_music_audio_effect_optimize">オーディオ設定;Sound settings</string>
   <string name="search_music_equalizer">Equalizer</string>
@@ -3521,7 +3521,7 @@ PINが正しくない可能性があります。"</string>
   <string name="ssl_ca_cert_warning_message">"第三者があなたのネットワークアクティビティ（メール、アプリ、保護されたウェブサイトなど）を監視できます。
 
 これは、信頼できる認証情報が端末にインストールされているためです。"</string>
-  <string name="standard">Silent</string>
+  <string name="standard">マナー</string>
   <string name="standard_info">着信と通知は消音されます</string>
   <string name="start_silent_mode">マナーモードをオンにする</string>
   <string name="starting_android">Androidを起動しています</string>
@@ -3907,8 +3907,8 @@ PINが正しくない可能性があります。"</string>
   <string name="tts_notif_engine_install_title">音声合成エンジンインストール完了</string>
   <string name="tts_play_example_summary">音声合成の短いサンプルを再生する</string>
   <string name="tts_play_example_title">サンプルを再生</string>
-  <string name="tts_reset_speech_pitch_summary">Reset the pitch at which the text is spoken to default.</string>
-  <string name="tts_reset_speech_pitch_title">Reset speech pitch</string>
+  <string name="tts_reset_speech_rate_summary">テキストの読み上げ速度を通常の速度にリセットします。</string>
+  <string name="tts_reset_speech_rate_title">読み上げ速度のリセット</string>
   <string name="tts_settings">テキスト読み上げの設定</string>
   <string name="tts_settings_changed_demo">設定が変更されました。これがサンプル音です。</string>
   <string name="tts_settings_title">テキスト読み上げの出力</string>
