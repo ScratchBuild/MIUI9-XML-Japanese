@@ -1162,7 +1162,6 @@ To unpin, press and hold Home and the Power button at the same time."</string>
   <string name="sms_short_code_remember_undo_instruction">これは後から[設定] &gt; [アプリ]で変更できます。</string>
   <string name="smv_application">アプリ「%1$s」（プロセス「%2$s」）でStrictModeポリシー違反がありました。</string>
   <string name="smv_process">プロセス%1$sでStrictModeポリシー違反がありました。</string>
-  <string name="ssl_ca_cert_noti_by_administrator">By your work profile administrator</string>
   <string name="ssl_ca_cert_noti_by_administrator">仕事用プロファイルの管理者によって監視される場合があります</string>
   <string name="ssl_ca_cert_noti_by_unknown">不明な第三者</string>
   <string name="ssl_ca_cert_noti_managed">%sによって監視される場合があります</string>
