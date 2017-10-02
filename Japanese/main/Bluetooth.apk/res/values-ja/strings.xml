@@ -65,6 +65,7 @@
   <string name="inbound_history_title">"外部からの転送"</string>
   <string name="inbound_noti_title">"Bluetooth共有: 受信したファイル"</string>
   <string name="incoming_file_confirm_Notification_caption">"このファイルを受信しますか？"</string>
+  <string name="incoming_file_confirm_Notification_content">%1$sさんが%2$sを送信できるようになりました</string>
   <string name="incoming_file_confirm_Notification_title">"Bluetooth共有: ファイル着信"</string>
   <string name="incoming_file_confirm_cancel">"拒否"</string>
   <string name="incoming_file_confirm_content">"着信ファイルを受信しますか？"</string>

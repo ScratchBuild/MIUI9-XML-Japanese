@@ -16,6 +16,10 @@
         <item quantity="other">"デベロッパーになるまであと%1$dステップです。"</item>
         <item quantity="one">"デベロッパーになるまであと%1$dステップです。"</item>
     </plurals>
+    <plurals name="dlg_remove_locales_title">
+        <item quantity="other">"選択した言語を削除しますか？"</item>
+        <item quantity="one">"選択した言語を削除しますか？"</item>
+    </plurals>
     <plurals name="security_settings_fingerprint_preference_summary">
         <item quantity="other">"%1$d個の指紋を登録済み"</item>
         <item quantity="one">"%1$d個の指紋を登録済み"</item>

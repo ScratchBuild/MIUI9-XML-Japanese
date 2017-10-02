@@ -24,6 +24,8 @@
   <string name="one_cacrt">"CA証明書1件"</string>
   <string name="one_usercrt">"ユーザー証明書1件"</string>
   <string name="one_userkey">"ユーザーキー1個"</string>
+  <string name="one_wapi_ascrt">"WAPI AS証明書1件"</string>
+  <string name="one_wapi_usercrt">"WAPIユーザー証明書1件"</string>
   <string name="only_primary_user_allowed">"証明書をインストールできるのはこの端末の所有者だけです。"</string>
   <string name="p12_description">"PKCS12キーストアでの証明書。"</string>
   <string name="password_empty_error">"パスワードを入力してください。"</string>

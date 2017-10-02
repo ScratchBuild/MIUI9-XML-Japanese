@@ -83,9 +83,13 @@
 
 このプロセスを終了しますか？</string>
   <string name="anr_title"/>
+  <string name="app_info">App info</string>
   <string name="app_not_found">この操作を行うアプリが見つかりません</string>
   <string name="app_running_notification_text">タップすると詳細が表示されるか、アプリが停止します。</string>
   <string name="app_running_notification_title">%1$sを実行しています</string>
+  <string name="app_upgrading_toast">%1$s is upgrading…</string>
+  <string name="audit_safemode_notification">Factory reset to use this device without restrictions</string>
+  <string name="audit_safemode_notification_details">Touch to learn more.</string>
   <string name="autofill_address_summary_separator">"、 "</string>
   <string name="autofill_address_type_same_as_re">same as</string>
   <string name="autofill_address_type_use_my_re">use my</string>
@@ -113,10 +117,16 @@
   <string name="beforeOneMonthDurationPast">1か月前</string>
   <string name="bluetooth_a2dp_audio_route_name">Bluetooth音声</string>
   <string name="bugreport_message">現在の端末の状態に関する情報が収集され、その内容がメールで送信されます。バグレポートが開始してから送信可能な状態となるまでには多少の時間がかかりますのでご了承ください。</string>
+  <string name="bugreport_option_full_summary">Use this option for minimal system interference when your device is unresponsive or too slow, or when you need all report sections. Does not allow you to enter more details or take additional screenshots.</string>
+  <string name="bugreport_option_full_title">Full report</string>
+  <string name="bugreport_option_interactive_summary">Use this under most circumstances. It allows you to track progress of the report, enter more details about the problem, and take screenshots. It might omit some less-used sections that take a long time to report.</string>
+  <string name="bugreport_option_interactive_title">Interactive report</string>
   <string name="bugreport_status" formatted="false">%s (%s)</string>
   <string name="bugreport_title">バグレポートを取得</string>
   <string name="cancel">キャンセル</string>
   <string name="candidates_style"><u>候補</u></string>
+  <string name="capability_desc_canControlMagnification">"Control the display's zoom level and positioning."</string>
+  <string name="capability_desc_canPerformGestures">Can tap, swipe, pinch, and perform other gestures.</string>
   <string name="capability_desc_canRequestEnhancedWebAccessibility">スクリプトをインストールしてアプリコンテンツにアクセスしやすくできます。</string>
   <string name="capability_desc_canRequestFilterKeyEvents">クレジットカードの番号やパスワードなどの個人データが含まれます。</string>
   <string name="capability_desc_canRequestTouchExploration">タップしたアイテムが読み上げられ、ジェスチャーで画面のガイドを利用できます。</string>
@@ -125,10 +135,17 @@
   <string name="capability_title_canRequestFilterKeyEvents">入力テキストの監視</string>
   <string name="capability_title_canRequestTouchExploration">タッチガイドの有効化</string>
   <string name="capability_title_canRetrieveWindowContent">ウィンドウコンテンツの取得</string>
+  <string name="capability_title_canControlMagnification">Control display magnification</string>
+  <string name="capability_title_canPerformGestures">Perform gestures</string>
   <string name="capital_off">OFF</string>
   <string name="capital_on">ON</string>
   <string name="car_mode_disable_notification_message">タップすると運転モードを終了します</string>
   <string name="car_mode_disable_notification_title">運転モード中</string>
+  <string name="carrier_app_dialog_button">GET THE APP</string>
+  <string name="carrier_app_dialog_message">"To get your new SIM working properly, you'll need to install and open an app from your carrier."</string>
+  <string name="carrier_app_dialog_not_now">NOT NOW</string>
+  <string name="carrier_app_notification_text">Tap to set it up</string>
+  <string name="carrier_app_notification_title">New SIM inserted</string>
   <string name="cfTemplateForwardedTime">{0}:{1} ({2}秒後)</string>
   <string name="cfTemplateNotForwarded">{0}:転送できません</string>
   <string name="cfTemplateRegistered">{0}:転送できません</string>
@@ -138,8 +155,10 @@
   <string name="choose_account_label">アカウントの選択</string>
   <string name="chooser_wallpaper">壁紙を変更</string>
   <string name="clearDefaultHintMsg">[システム設定]&gt;[アプリ]&gt;[ダウンロード済み]でデフォルト設定をクリアします。</string>
+  <string name="close_button_text">Close</string>
   <string name="common_name">共通名:</string>
   <string name="condition_provider_service_binding_label">コンディションプロバイダ</string>
+  <string name="conference_call">Conference Call</string>
   <string name="configure_input_methods">キーボードの選択</string>
   <string name="contentServiceSync">同期</string>
   <string name="contentServiceSyncNotificationTitle">同期</string>
@@ -148,9 +167,13 @@
   <string name="continue_to_enable_accessibility">ユーザー補助機能を有効にするには2本の指で押し続けてください。</string>
   <string name="copy">コピー</string>
   <string name="copyUrl">URLをコピー</string>
+  <string name="country_selection_title">Region preference</string>
   <string name="create_contact_using">%sを使って
 連絡先を新規登録</string>
   <string name="cut">切り取り</string>
+  <string name="data_saver_description">To help reduce data usage, Data Saver prevents some apps from sending or receiving data in the background. An app you’re currently using can access data, but may do so less frequently. This may mean, for example, that images don’t display until you tap them.</string>
+  <string name="data_saver_enable_button">Turn on</string>
+  <string name="data_saver_enable_title">Turn on Data Saver?</string>
   <string name="data_usage_3g_limit_snoozed_title">2G～3Gデータの上限を超えました</string>
   <string name="data_usage_3g_limit_title">2G～3Gデータの上限に達しました</string>
   <string name="data_usage_4g_limit_snoozed_title">4Gデータの上限を超えました</string>
@@ -183,7 +206,14 @@
   <string name="delete">削除</string>
   <string name="deleteText">削除</string>
   <string name="deleted_key">%1$sを削除しました</string>
+  <string name="demo_restarting_message">Resetting device…</string>
+  <string name="demo_starting_message">Starting demo…</string>
+  <string name="demo_user_inactivity_timeout_countdown">You’ll lose any changes and the demo will start again in %1$s seconds…</string>
+  <string name="demo_user_inactivity_timeout_left_button">Cancel</string>
+  <string name="demo_user_inactivity_timeout_right_button">Reset now</string>
+  <string name="demo_user_inactivity_timeout_title">Reset device?</string>
   <string name="deny">拒否</string>
+  <string name="deny_button">Deny</string>
   <string name="description_target_unlock_tablet">ロック解除するにはスワイプします。</string>
   <string name="dial_number_using">%sを使って
 発信</string>
@@ -234,6 +264,8 @@
   <string name="eventTypeBirthday">誕生日</string>
   <string name="eventTypeCustom">カスタム</string>
   <string name="eventTypeOther">その他</string>
+  <string name="expand_action_accessibility">toggle expansion</string>
+  <string name="expand_button_content_description">Expand button</string>
   <string name="expires_on">有効期限:</string>
   <string name="ext_media_badremoval_notification_message">データの喪失を防ぐため%sを取り外す前にマウントを解除してください。</string>
   <string name="ext_media_badremoval_notification_title">%sが不適切に取り外されました</string>
@@ -306,6 +338,7 @@
   <string name="gadget_host_error_inflating">ウィジェットを追加できませんでした。</string>
   <string name="global_action_assist">サポート</string>
   <string name="global_action_bug_report">バグレポート</string>
+  <string name="global_action_emergency">Emergency</string>
   <string name="global_action_lock">画面ロック</string>
   <string name="global_action_lockdown">今すぐロック</string>
   <string name="global_action_power_off">電源を切る</string>
@@ -379,6 +412,8 @@
   <string name="immersive_cling_description">終了するには、上部から下にスワイプします。</string>
   <string name="immersive_cling_positive">OK</string>
   <string name="immersive_cling_title">全画面表示</string>
+  <string name="importance_from_person">This is important because of the people involved.</string>
+  <string name="importance_from_user">You set the importance of these notifications.</string>
   <string name="inputMethod">入力方法</string>
   <string name="input_method_binding_label">入力方法</string>
   <string name="invalidPin">4～8桁の数字のPINを入力してください。</string>
@@ -475,6 +510,9 @@
   <string name="kg_wrong_password">パスワードが正しくありません</string>
   <string name="kg_wrong_pattern">パターンが正しくありません</string>
   <string name="kg_wrong_pin">PINが正しくありません</string>
+  <string name="language_picker_section_all">All languages</string>
+  <string name="language_picker_section_suggested">Suggested</string>
+  <string name="language_selection_title">Add a language</string>
   <string name="last_month">先月</string>
   <string name="launchBrowserDefault">ブラウザを起動しますか？</string>
   <string name="launch_warning_original">%1$sが最初に起動していました。</string>
@@ -482,6 +520,7 @@
   <string name="launch_warning_title">アプリのリダイレクト</string>
   <string name="list_delimeter">"、 "</string>
   <string name="loading">読み込んでいます...</string>
+  <string name="locale_search_menu">検索</string>
   <string name="lock_pattern_view_aspect">square</string>
   <string name="lock_to_app_description">"Screen pinning locks the display in a single view.
 
@@ -566,6 +605,7 @@ To unpin, press and hold Home and the Power button at the same time."</string>
   <string name="low_memory">端末のストレージに空き領域がありません。ファイルを削除して空き領域を確保してください。</string>
   <string name="managed_profile_label">仕事用</string>
   <string name="managed_profile_label_badge">仕事の%1$s</string>
+  <string name="maximize_button_text">Maximize</string>
   <string name="me">自分</string>
   <string name="media_route_button_content_description">キャスト</string>
   <string name="media_route_chooser_extended_settings">設定</string>
@@ -630,8 +670,14 @@ To unpin, press and hold Home and the Power button at the same time."</string>
   <string name="needPuk">SIMカードはPUKでロックされています。ロックを解除するにはPUKコードを入力してください。</string>
   <string name="needPuk2">SIMカードのロック解除のためPUK2を入力します。</string>
   <string name="network_available_sign_in">ネットワークにログインしてください</string>
+  <string name="network_switch_metered">Switched to %1$s</string>
+  <string name="network_switch_metered_detail">Device uses %1$s when %2$s has no Internet access. Charges may apply.</string>
+  <string name="network_switch_metered_toast">Switched from %1$s to %2$s</string>
+  <string name="network_switch_type_name_unknown">an unknown network type</string>
   <string name="new_app_action">%1$sを起動</string>
   <string name="new_app_description">古いアプリを保存せずに停止します。</string>
+  <string name="new_sms_notification_content">Open SMS app to view</string>
+  <string name="new_sms_notification_title">You have new messages</string>
   <string name="next_button_label">次へ</string>
   <string name="no">キャンセル</string>
   <string name="noApplications">この操作を実行できるアプリはありません。</string>
@@ -640,7 +686,8 @@ To unpin, press and hold Home and the Power button at the same time."</string>
   <string name="no_permissions">権限の許可は必要ありません</string>
   <string name="no_recent_tasks">最近使ったアプリはありません。</string>
   <string name="noon">正午</string>
-  <string name="notification_inbox_ellipsis">…</string>
+  <string name="notification_hidden_by_policy_text">Contents hidden by policy</string>
+  <string name="notification_hidden_text">Contents hidden</string>
   <string name="notification_listener_binding_label">通知リスナー</string>
   <string name="notification_title">%1$sのログインエラー</string>
   <string name="notification_work_profile_content_description">仕事用プロファイル</string>
@@ -659,6 +706,7 @@ To unpin, press and hold Home and the Power button at the same time."</string>
   <string name="orgTypeWork">勤務先</string>
   <string name="org_name">組織:</string>
   <string name="org_unit">組織単位:</string>
+  <string name="other_permissions">other permissions</string>
   <string name="owner_name">所有者</string>
   <string name="package_deleted_device_owner">管理者によって削除されました</string>
   <string name="package_installed_device_owner">管理者によってインストールされました</string>
@@ -950,6 +998,8 @@ To unpin, press and hold Home and the Power button at the same time."</string>
   <string name="preposition_for_year">%s年</string>
   <string name="print_service_installed_message">有効にするにはタップしてください</string>
   <string name="print_service_installed_title">「%s」サービスがインストールされました</string>
+  <string name="profile_encrypted_detail">Work profile locked</string>
+  <string name="profile_encrypted_message">Tap to unlock work profile</string>
   <string name="progress_erasing">USBストレージ内のデータを消去中...</string>
   <string name="quick_contacts_not_available">この連絡先を表示するアプリが見つかりません。</string>
   <string name="reason_service_unavailable">印刷サービスが有効ではありません</string>
@@ -965,6 +1015,8 @@ To unpin, press and hold Home and the Power button at the same time."</string>
   <string name="reboot_to_update_reboot">再起動しています…</string>
   <string name="reboot_to_update_title">Androidシステムアップデート</string>
   <string name="recent_tasks_title">新着</string>
+  <string name="redo">Redo</string>
+  <string name="region_picker_section_all">All regions</string>
   <string name="relationTypeAssistant">アシスタント</string>
   <string name="relationTypeBrother">兄弟</string>
   <string name="relationTypeChild">子ども</string>
@@ -984,6 +1036,8 @@ To unpin, press and hold Home and the Power button at the same time."</string>
   <string name="replace">置換...</string>
   <string name="report">レポート</string>
   <string name="reset">リセット</string>
+  <string name="reset_retail_demo_mode_text">Tap to reset device</string>
+  <string name="reset_retail_demo_mode_title">Reset device?</string>
   <string name="restr_pin_confirm_pin">新しいPINの確認</string>
   <string name="restr_pin_create_pin">制限を変更するためのPINを作成してください</string>
   <string name="restr_pin_enter_admin_pin">管理者PINを入力</string>
@@ -1028,6 +1082,7 @@ To unpin, press and hold Home and the Power button at the same time."</string>
   <string name="screen_lock">画面をロック</string>
   <string name="search_go">検索</string>
   <string name="search_hint">検索…</string>
+  <string name="search_language_hint">Type language name</string>
   <string name="searchview_description_clear">検索キーワードを削除</string>
   <string name="searchview_description_query">検索キーワード</string>
   <string name="searchview_description_search">検索</string>
@@ -1067,8 +1122,12 @@ To unpin, press and hold Home and the Power button at the same time."</string>
   <string name="sha256_fingerprint">SHA-256指紋:</string>
   <string name="share">共有</string>
   <string name="share_action_provider_share_with">共有</string>
+  <string name="share_remote_bugreport_action">SHARE</string>
+  <string name="share_remote_bugreport_notification_message_finished">Your IT admin requested a bug report to help troubleshoot this device. Apps and data may be shared.</string>
+  <string name="share_remote_bugreport_notification_title">Share bug report?</string>
   <string name="shareactionprovider_share_with">共有</string>
   <string name="shareactionprovider_share_with_application">%sと共有</string>
+  <string name="sharing_remote_bugreport_notification_title">Sharing bug report…</string>
   <string name="show_ime">スクリーンキーボードを表示する</string>
   <string name="shutdown_confirm">携帯電話の電源を切ります。</string>
   <string name="shutdown_confirm_question">シャットダウンしますか？</string>
@@ -1103,6 +1162,7 @@ To unpin, press and hold Home and the Power button at the same time."</string>
   <string name="sms_short_code_remember_undo_instruction">これは後から[設定] &gt; [アプリ]で変更できます。</string>
   <string name="smv_application">アプリ「%1$s」（プロセス「%2$s」）でStrictModeポリシー違反がありました。</string>
   <string name="smv_process">プロセス%1$sでStrictModeポリシー違反がありました。</string>
+  <string name="ssl_ca_cert_noti_by_administrator">By your work profile administrator</string>
   <string name="ssl_ca_cert_noti_by_administrator">仕事用プロファイルの管理者によって監視される場合があります</string>
   <string name="ssl_ca_cert_noti_by_unknown">不明な第三者</string>
   <string name="ssl_ca_cert_noti_managed">%sによって監視される場合があります</string>
@@ -1150,7 +1210,11 @@ To unpin, press and hold Home and the Power button at the same time."</string>
   <string name="turn_off_radio">ワイヤレス接続をOFFにする</string>
   <string name="turn_on_radio">ワイヤレス接続をONにする</string>
   <string name="tutorial_double_tap_to_zoom_message_short">ダブルタップでズームコントロール</string>
+  <string name="undo">Undo</string>
   <string name="unknownName">不明</string>
+  <string name="unpin_target">Unpin</string>
+  <string name="unsupported_display_size_message">%1$s does not support the current Display size setting and may behave unexpectedly.</string>
+  <string name="unsupported_display_size_show">Always show</string>
   <string name="untitled">&lt;新規&gt;</string>
   <string name="upload_file">ファイルを選択</string>
   <string name="usb_accessory_notification_title">USBアクセサリを接続しました</string>
@@ -1160,6 +1224,8 @@ To unpin, press and hold Home and the Power button at the same time."</string>
   <string name="usb_midi_peripheral_manufacturer_name">Android</string>
   <string name="usb_midi_peripheral_name">Android USB周辺機器ポート</string>
   <string name="usb_midi_peripheral_product_name">USB周辺機器ポート</string>
+  <string name="usb_mtp_launch_notification_description">Tap to view files</string>
+  <string name="usb_mtp_launch_notification_title">Connected to %1$s</string>
   <string name="usb_mtp_notification_title">USBをファイル転送に使用</string>
   <string name="usb_notification_message">タップしてその他のオプションを表示</string>
   <string name="usb_ptp_notification_title">USBを写真転送に使用</string>
@@ -1177,6 +1243,12 @@ To unpin, press and hold Home and the Power button at the same time."</string>
   <string name="usb_storage_stop_title">USBストレージを使用中</string>
   <string name="usb_storage_title">USB接続</string>
   <string name="use_a_different_app">別のアプリの使用</string>
+  <string name="user_creation_account_exists">Allow %1$s to create a new User with %2$s ?</string>
+  <string name="user_creation_adding">Allow %1$s to create a new User with %2$s (a User with this account already exists) ?</string>
+  <string name="user_encrypted_detail">User data locked</string>
+  <string name="user_encrypted_message">Tap to unlock</string>
+  <string name="user_encrypted_title">Some functionality may be limited</string>
+  <string name="user_logging_out_message">Logging out %1$s…</string>
   <string name="user_owner_label">個人用</string>
   <string name="user_switched">現在のユーザーは%1$sです。</string>
   <string name="user_switching_message">%1$sに切り替えています…</string>
@@ -1198,6 +1270,7 @@ To unpin, press and hold Home and the Power button at the same time."</string>
   <string name="vpn_lockdown_config">タップして設定してください</string>
   <string name="vpn_lockdown_connected">VPNに常時接続しました</string>
   <string name="vpn_lockdown_connecting">VPNに常時接続しています…</string>
+  <string name="vpn_lockdown_disconnected">Always-on VPN disconnected</string>
   <string name="vpn_lockdown_error">常時接続VPNのエラー</string>
   <string name="vpn_text">タップしてネットワークを管理します。</string>
   <string name="vpn_text_long">%sに接続しました。ネットワークを管理するにはタップしてください。</string>
@@ -1246,6 +1319,9 @@ To unpin, press and hold Home and the Power button at the same time."</string>
   <string name="wifi_watchdog_network_disabled">Wi-Fiに接続できませんでした</string>
   <string name="wifi_watchdog_network_disabled_detailed">" はインターネット接続に問題があります。"</string>
   <string name="wireless_display_route_description">ワイヤレスディスプレイ</string>
+  <string name="work_mode_off_message">Allow work profile to function, including apps, background sync, and related features.</string>
+  <string name="work_mode_off_title">Work mode is OFF</string>
+  <string name="work_mode_turn_on">Turn on</string>
   <string name="work_profile_deleted">仕事用プロファイルが削除されました</string>
   <string name="work_profile_deleted_description">管理アプリがないため仕事用プロファイルが削除されました。</string>
   <string name="work_profile_deleted_description_dpm_wipe">お使いの仕事用プロファイルはこの端末で使用できなくなりました</string>
