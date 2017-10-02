@@ -31,6 +31,8 @@
   <string name="menu_title_current_version_log">What is new?</string>
   <string name="menu_title_pick_rom_file">"更新パッケージを選択"</string>
   <string name="menu_title_recovery">"リカバリーモードで再起動"</string>
+  <string name="message_checkbox">"Xiaomi.euチームからのメッセージを表示しない"</string>
+  <string name="message_title">NOTE!</string>
   <string name="new_version">"更新が利用可能"</string>
   <string name="no_info">"更新情報がありません。"</string>
   <string name="no_network">"ネットワークに接続できません。"</string>

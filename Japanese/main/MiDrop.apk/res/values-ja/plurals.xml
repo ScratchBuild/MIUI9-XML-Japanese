@@ -49,8 +49,8 @@
         <item quantity="one">%1$s個のファイルを受信中…</item>
     </plurals>
     <plurals name="notif_receive_cancel">
-        <item quantity="other">%1$d個のファイルが転送されていません</item>
-        <item quantity="one">%1$d個のファイルが転送されていません</item>
+        <item quantity="other">%1$sからの転送がキャンセルされました</item>
+        <item quantity="one">%1$sからの転送がキャンセルされました</item>
     </plurals>
     <plurals name="notif_receive_success">
         <item quantity="other">%1$sからファイルを受信しました</item>

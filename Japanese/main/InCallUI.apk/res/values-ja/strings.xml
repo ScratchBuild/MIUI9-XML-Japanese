@@ -63,7 +63,7 @@
   <string name="card_title_hanging_up">"通話終了"</string>
   <string name="card_title_hanging_up_fail">"通話を終了できません、もう一度お試しください。"</string>
   <string name="card_title_hanging_up_restart">"通話を終了できません。端末を再起動します。"</string>
-  <string name="card_title_hanging_up_weak_signal">"モバイルネットワークの信号が微弱。通話を終了します。"</string>
+  <string name="card_title_hanging_up_weak_signal">"モバイルネットワークの信号が微弱。通話を終了します…"</string>
   <string name="card_title_in_call">"着信"</string>
   <string name="card_title_in_call_short">"着信"</string>
   <string name="card_title_in_video">"ビデオ "</string>
@@ -203,7 +203,7 @@
   <string name="picking_participant">"連絡先の情報を取得中…"</string>
   <string name="private_num">"非通知"</string>
   <string name="remind_unlock_message">"お使いの端末はロックされています。\"%s\"は端末をロック解除した後に利用可能です。今すぐロック解除しますか？"</string>
-  <string name="respond_via_sms_custom_message">"カスタム返信を作成..."</string>
+  <string name="respond_via_sms_custom_message">"カスタムメッセージ"</string>
   <string name="select_audio_dialog_title">"応答モードを選択"</string>
   <string name="select_one_sim_title">"SIM %1$dのみ使用できます"</string>
   <string name="select_sim_hint">"SIM %1$d を使用中のため、SIM %2$d を使用できません。"</string>

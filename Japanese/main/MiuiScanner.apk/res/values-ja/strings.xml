@@ -6,7 +6,7 @@
   <string name="action_search">検索</string>
   <string name="address">住所:</string>
   <string name="allow_check_website_security">Show website security check notifications</string>
-  <string name="app_description_content">Scanner provide QR code scan, scan to translate, scan to solve questions, business card recognition. Please make sure you already acknowledged function and service provided by this app.</string>
+  <string name="app_description_content">"スキャナではQRコード、ドキュメント、名刺などをスキャンできます。アプリをアンインストールする前に、これらの機能を使用していないことを確認してください。"</string>
   <string name="app_description_title">スキャナーについて</string>
   <string name="app_details">アプリ:</string>
   <string name="app_name">スキャナー</string>
@@ -44,7 +44,7 @@
   <string name="document_ocr_result_title">Document photo</string>
   <string name="document_ocr_tip_msg">読み取り中…</string>
   <string name="document_recognize_fail_tip">"ドキュメントを読み取れませんでした"</string>
-  <string name="document_recognize_null_tip">"ドキュメントの読み取り結果は空です"</string>
+  <string name="document_recognize_null_tip">"ドキュメントを修復できませんでした"</string>
   <string name="document_rectify">調整</string>
   <string name="document_rectify_tip_msg">調整中…</string>
   <string name="document_save_succeed_tip">%1$sにドキュメントを保存しました</string>
@@ -57,7 +57,7 @@
   <string name="error_cannot_connect_camera">カメラに接続できません</string>
   <string name="error_day_limit">Too many attempts within 1 day</string>
   <string name="error_empty_result">"結果が見つかりませんでした"</string>
-  <string name="error_get_image">"画像を取得できません"</string>
+  <string name="error_get_image">"画像を取得できませんでした"</string>
   <string name="error_hour_limit">Too many attempts within 1 hour</string>
   <string name="error_image_error">写真を認識できません</string>
   <string name="error_invalid_request">認証エラー</string>

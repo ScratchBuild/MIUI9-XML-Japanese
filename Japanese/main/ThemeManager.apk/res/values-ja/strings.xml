@@ -127,7 +127,16 @@
   <string name="my_gifts_received">"受取済み"</string>
   <string name="no_data">"ネットワークに接続できません"</string>
   <string name="online_no_network">"ネットワークに接続できません"</string>
+  <string name="online_precust_animal">"動物"</string>
+  <string name="online_precust_building">"建物"</string>
+  <string name="online_precust_cartoon">Cartoon</string>
+  <string name="online_precust_creative">Creative</string>
+  <string name="online_precust_entertainment">Entertainment</string>
+  <string name="online_precust_lifestyle">生活</string>
   <string name="online_search_hint">"オンラインリソースを検索"</string>
+  <string name="online_precust_plant">植物</string>
+  <string name="online_precust_scenery">風景</string>
+  <string name="online_precust_starry_sky">星空</string>
   <string name="present_local_themes">"ダウンロード済み"</string>
   <string name="present_online_themes">"オンラインテーマを入手"</string>
   <string name="provision_loading_tips">"読み込み中…"</string>
@@ -137,6 +146,7 @@
   <string name="purchased_list_current">Optimized themes</string>
   <string name="purchased_list_legacy">"従来のテーマ"</string>
   <string name="recently_used">Recently used</string>
+  <string name="region_not_support">"ご利用の地域ではテーマがサポートされていません。"</string>
   <string name="reload">"再試行"</string>
   <string name="resource_account_abnormal_state">"アカウントエラー。1～2分待ってから再試行してください。"</string>
   <string name="resource_account_fail_to_add">"アカウントが追加できません"</string>

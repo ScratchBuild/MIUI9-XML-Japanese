@@ -921,8 +921,8 @@ To add a contact to your list of favorites:
   <string name="preference_phone">"電話"</string>
   <string name="preference_phone_more_title">"通話設定"</string>
   <string name="preference_remove_duplicate">"重複する連絡先を統合"</string>
-  <string name="preference_show_yellowpage_tab_description">Close the YellowPage tab, the YellowPage function will not work properly</string>
-  <string name="preference_show_yellowpage_tab_title">Show the YellowPage entry</string>
+  <string name="preference_show_yellowpage_tab_description">"この機能をオフにすると、イエローページが正常に動作しない場合があります。"</string>
+  <string name="preference_show_yellowpage_tab_title">"イエローページを表示"</string>
   <string name="preference_simple_mode_description">Display photos and other contact info in list view</string>
   <string name="preference_simple_mode_title">Display photos and info</string>
   <string name="preference_smart_group_company_summary">Group by company</string>
@@ -1044,7 +1044,7 @@ To add a contact to your list of favorites:
   <string name="service_provider">"ディレクトリ"</string>
   <string name="service_provider_detail">"ディレクトリの詳細"</string>
   <string name="set_data_package">"初めにデータプランを設定"</string>
-  <string name="set_photo_failed_msg">"Couldn't assign picture."</string>
+  <string name="set_photo_failed_msg">"写真を割り当てることができませんでした"</string>
   <string name="share_error">"この連絡先は共有することができません"</string>
   <string name="share_over_limit">"Can't share over 1000 contacts"</string>
   <string name="share_via">"連絡先の共有ツール"</string>
@@ -1153,7 +1153,7 @@ To add a contact to your list of favorites:
   <string name="toast_for_saving_nickname">"ニックネームを保存しました"</string>
   <string name="toast_join_with_empty_contact">"別の連絡先と統合するにはまず連絡先の名前を入力してください。"</string>
   <string name="toast_making_personal_copy">"個人用コピーを作成しています..."</string>
-  <string name="toast_start_intent_failed">No app was found to handle</string>
+  <string name="toast_start_intent_failed">"この操作を処理するアプリが見つかりませんでした"</string>
   <string name="toast_text_copied">"テキストをコピーしました"</string>
   <string name="today">"今日"</string>
   <string name="tomorrow">"明日"</string>
@@ -1164,7 +1164,7 @@ To add a contact to your list of favorites:
   <string name="type_outgoing">"発信履歴"</string>
   <string name="type_voicemail">ボイスメール</string>
   <string name="unable_get_device_id">"IMEIを取得できません"</string>
-  <string name="unfold_all">"すべての通話を展開する"</string>
+  <string name="unfold_all">"すべて表示"</string>
   <string name="unknow_phone_number_call_failed">"不明な番号に発信できません"</string>
   <string name="unknow_phone_number_mms_failed">"不明な番号にメッセージを送信できません"</string>
   <string name="unknown">"通知不可能"</string>

@@ -85,6 +85,7 @@
   <string name="antivirus_choose_engine_title">Definitions</string>
   <string name="antivirus_longtime_no_update">Looks like your virus definitions are old. Regular updates help to get better scanning results. Allow Security to connect to the internet and update virus definitions?</string>
   <string name="antivirus_longtime_no_update1">Looks like your virus definitions are old. Regular updates help to get better scanning results. Update definitions and try again.</string>
+  <string name="antivirus_main_activity_back">"セキュリティスキャンに戻る"</string>
   <string name="antivirus_monitor_btn_text_clean_risk">"危険なアプリを削除"</string>
   <string name="antivirus_monitor_btn_text_clean_virus">"ウイルスを削除"</string>
   <string name="antivirus_monitor_clean_tips">"削除したアイテム: %s"</string>
@@ -489,7 +490,7 @@
   <string name="cpu_usage_app_bg_restrict_full">"バックグラウンドアクティビティを制限する"</string>
   <string name="cpu_usage_app_bg_restrict_no_limit">"制限しない"</string>
   <string name="cpu_usage_app_bg_restrict_partly">After %s</string>
-  <string name="cpu_usage_app_bg_restrict_partly_short">After%s</string>
+  <string name="cpu_usage_app_bg_restrict_partly_short">After %s</string>
   <string name="cpu_usage_app_bg_restrict_title">Background settings</string>
   <string name="cpu_usage_app_tip_can_not_restrict_system_app">"システムサービスを制限することはできません"</string>
   <string name="cpu_usage_app_uninstalled_toast">This app is uninstalled</string>
@@ -506,6 +507,8 @@
   <string name="daily_limit_network_available_body">"データ使用量の統計を表示するにはタップ。"</string>
   <string name="daily_limit_over_message">"You've exceeded your daily data limit."</string>
   <string name="daily_pkg_traffic">Peak data limit</string>
+  <string name="data_booster_desc">Deactivate other SIM slots to keep the connection stable</string>
+  <string name="data_booster_title">Stabilize data connection</string>
   <string name="data_network_blocked_notification_title">"インターネット接続なし"</string>
   <string name="data_usage_correction_timeout_title">"データ使用量の同期がタイムアウトしました"</string>
   <string name="data_usage_disabled_dialog">"You've reached your plan's data usage limit. If you go over your limit, your carrier may charge you additional fees."</string>
@@ -665,6 +668,7 @@
   <string name="fw_blocked">"ブロックリスト"</string>
   <string name="fw_blocked_count">"Blocked "</string>
   <string name="fw_blocked_join">" と "</string>
+  <string name="game_anti_disturb_msg">Game DND</string>
   <string name="game_booster">Game speed booster</string>
   <string name="game_booster_intro">"Game speed boosterについて"</string>
   <string name="game_booster_title">Boost</string>
@@ -676,6 +680,7 @@
   <string name="game_net_text2">"ネットワーク遅延を低減するためバックグラウンドのダウンロード速度を制限し、ゲームの接続速度を高める"</string>
   <string name="game_net_title">"接続速度を最適化"</string>
   <string name="game_setting">"ゲームの設定"</string>
+  <string name="gamebooster_main_activity_back">Back Game Speed Booster</string>
   <string name="gamebooster_network_dialog_message">"Game speed boosterのすべての機能を使用するため、セキュリティアプリにネットワーク接続を許可しますか？"</string>
   <string name="gamebooster_network_dialog_title">"一部の機能が利用できません"</string>
   <string name="gateway_exception_summary">"ルーターを確認してもう一度お試しください。"</string>
@@ -1093,7 +1098,7 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
   <string name="om_settings_lock_app">Lock apps</string>
   <string name="om_settings_lock_app_manage">Lock apps</string>
   <string name="om_settings_memocy_occupy_too_large_summary">Notify when cache size is too big</string>
-  <string name="om_settings_memory_clean_lock_screen">Clear cache when screen off</string>
+  <string name="om_settings_memory_clean_lock_screen">Clear cache when device is locked</string>
   <string name="om_settings_memory_occupy_notify">High cache size</string>
   <string name="om_settings_memory_occupy_notify_never">Never</string>
   <string name="om_settings_notify_manage">Notifications</string>
@@ -1952,4 +1957,5 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="wlan_change_protection_detail">"モバイルデータに接続しているときは、自動でWi-Fiに切り替えないようにする"</string>
   <string name="wlan_change_protection_title">"ネットワークの切り替え防止"</string>
   <string name="xunyou_pay_webview">Xunyou services</string>
+  <string name="xunyou_server_expired">The session expired.</string>
 </resources>

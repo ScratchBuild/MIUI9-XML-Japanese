@@ -30,8 +30,8 @@
   <string name="cancel_receive_confirm">"キャンセル"</string>
   <string name="cancel_receive_stop">Keep receiving</string>
   <string name="cancel_stop">Keep sending</string>
-  <string name="description_content">MiDrop provide to transfer files. Make sure you can do without these features before you uninstall the app.</string>
-  <string name="description_title">"MiDropについて"</string>
+  <string name="description_content">"Mi Dropでは近くの端末とファイルの送受信を行うことができます。アプリをアンインストールする前に、これらの機能を使用していないことを確認してください。"</string>
+  <string name="description_title">"Mi Dropについて"</string>
   <string name="file_not_support">"このファイルタイプはサポートされていません。"</string>
   <string name="help">"ヘルプ"</string>
   <string name="i_know">OK</string>
@@ -65,7 +65,7 @@
   <string name="receiver_transfer_interrupt">"転送が中断されました、転送中はWi-Fiホットスポットをオフにしないでください。"</string>
   <string name="request_permission_msg">"MiDropには%sが必要です、権限を許可してください"</string>
   <string name="request_permission_title">"権限のリクエスト"</string>
-  <string name="runtime_permission_ungranted">"Mi Dropが正常に動作するには、アクセス許可が必要です。"</string>
+  <string name="runtime_permission_ungranted">"Mi Dropには%sのアクセス権限が必要です。許可しますか？"</string>
   <string name="send_file_time_format_m">m:s</string>
   <string name="send_file_time_format_s">s</string>
   <string name="sender_cancel">"送信しない"</string>

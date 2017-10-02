@@ -572,7 +572,7 @@ Take more photos of your friends!"</string>
   <string name="ok">OK</string>
   <string name="onekey_auto">Auto</string>
   <string name="onekey_food">Food</string>
-  <string name="onekey_none">None</string>
+  <string name="onekey_none">Original</string>
   <string name="onekey_portrait">Portrait</string>
   <string name="onekey_scene">Landscape</string>
   <string name="open">"オンにする"</string>
@@ -644,7 +644,7 @@ Take more photos of your friends!"</string>
   <string name="photo_editor_navigator_cancel">"キャンセル"</string>
   <string name="photo_editor_navigator_download_network_metered_msg">"%sをダウンロードするには約4MBのモバイルデータが必要です。今すぐダウンロードしますか？"</string>
   <string name="photo_editor_navigator_download_network_metered_title">"データ使用の警告"</string>
-  <string name="photo_editor_navigator_export">"完了"</string>
+  <string name="photo_editor_navigator_export">"保存"</string>
   <string name="photo_editor_navigator_module_download_failed">"%sをダウンロードできませんでした"</string>
   <string name="photo_editor_navigator_module_download_now">"ダウンロード"</string>
   <string name="photo_editor_navigator_module_download_success">"正常にダウンロードされました"</string>
@@ -973,7 +973,7 @@ Take more photos of your friends!"</string>
   <string name="video_editor_text_edit_input_open_hint">Enter title</string>
   <string name="video_editor_text_edit_start">Title</string>
   <string name="video_editor_text_input_empty_tips">"Looks like you haven't entered text yet"</string>
-  <string name="video_editor_text_preview_text">MI</string>
+  <string name="video_editor_text_preview_text">Aa</string>
   <string name="video_editor_trim">Trim</string>
   <string name="video_editor_unsupport_audio_file">Unsupport audio file</string>
   <string name="video_err">"動画を再生できません"</string>
