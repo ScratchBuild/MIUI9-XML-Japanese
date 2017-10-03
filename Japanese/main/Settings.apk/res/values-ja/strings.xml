@@ -468,7 +468,7 @@
   <string name="block_list_connected_devices">接続済みデバイス</string>
   <string name="block_list_diaglog_cancle">キャンセル</string>
   <string name="block_list_diaglog_ok">OK</string>
-  <string name="block_list_dialog_content">This action will disconnect “%s” from this device and add it to blocklist</string>
+  <string name="block_list_dialog_content">この操作は\"%s\"をこのデバイスから切断してブロックリストに追加します</string>
   <string name="block_list_dialog_title">今すぐ切断しますか？</string>
   <string name="block_list_mtk_dialog_content">この操作は\"%s\"をこのデバイスから切断します</string>
   <string name="block_list_no_device">ブロックリストに接続されたデバイスはありません</string>
@@ -833,8 +833,8 @@
   <string name="close_gesture">ジェスチャーを使用して閉じる</string>
   <string name="close_miui_optimization_title">MIUIの最適化をオフにする</string>
   <string name="close_miui_optimization_warning_message">この変更を適用するために端末を再起動します。注：この機能をオフにすると、ユーザーインターフェースのレイアウトや他の要素に大きな変化があります。</string>
-  <string name="close_sdcard_optimization_title">Turn off mock SD card optimization</string>
-  <string name="close_sdcard_optimization_warning_message">Your device will reboot to apply this change.</string>
+  <string name="close_sdcard_optimization_title">疑似SDカードの最適化をオフにする</string>
+  <string name="close_sdcard_optimization_warning_message">この変更を適用するために端末を再起動します。</string>
   <string name="cloud_backup_section_title">Mi Cloudバックアップ</string>
   <string name="cloud_backup_settings_section_title">バックアップの設定</string>
   <string name="cloud_restore_section_summary">アプリ、ホーム画面のレイアウト、システム設定を復元する</string>
@@ -2394,8 +2394,8 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="open_personal_assistant_dialog_desc">QuickCardを使用したり、更新を受け取ることができません。今すぐオフにしますか？</string>
   <string name="open_personal_assistant_dialog_title">QuickCardをオフにする</string>
   <string name="open_personal_assistant_title">QuickCardをオンにする</string>
-  <string name="open_sdcard_optimization_title">Turn on mock SD card optimization</string>
-  <string name="open_sdcard_optimization_warning_message">Your device will reboot to apply this change.</string>
+  <string name="open_sdcard_optimization_title">疑似SDカードの最適化をオンにする</string>
+  <string name="open_sdcard_optimization_warning_message">この変更を適用するために端末を再起動します。</string>
   <string name="open_wifi_connect_summary">タップして詳細を表示</string>
   <string name="open_wifi_connect_title">%1$sに接続しました</string>
   <string name="opening_paragraph_delete_profile_unknown_company">この仕事用プロファイルを管理するアプリ:</string>
@@ -2528,7 +2528,6 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="power_cell">セルスタンバイ</string>
   <string name="power_center">電源</string>
   <string name="power_charge_remaining">充電されるまで%1$s</string>
-  <string name="power_charging">%1$d%% - %2$s</string>
   <string name="power_charging_duration">%1$d%% - フル充電まで%2$s</string>
   <string name="power_charging_duration_ac">%1$d%% - フル充電まで%2$s（AC経由）</string>
   <string name="power_charging_duration_usb">%1$d%% - フル充電まで%2$s（USB経由）</string>
@@ -2595,8 +2594,6 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="print_failed_state_title_template">プリンタエラー: %1$s</string>
   <string name="print_feature_state_off">OFF</string>
   <string name="print_feature_state_on">ON</string>
-  <string name="print_job_summary">"%1$s
-%2$s"</string>
   <string name="print_menu_item_add_printer">プリンタを追加</string>
   <string name="print_menu_item_add_printers">プリンタを追加</string>
   <string name="print_menu_item_add_service">サービスを追加</string>
@@ -2799,11 +2796,11 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="recent_location_requests_summary">位置情報にアクセスを要求しているアプリを表示</string>
   <string name="recent_location_requests_title">位置情報アクセス</string>
   <string name="recents_config_title">履歴</string>
-  <string name="recommend_item_1">Phone case</string>
-  <string name="recommend_item_2">Mi Band</string>
-  <string name="recommend_item_3">Power bank</string>
-  <string name="recommend_item_4">Earphones</string>
-  <string name="recommend_item_title">Recommendations</string>
+  <string name="recommend_item_1">スマートフォンケース</string>
+  <string name="recommend_item_2">スマートバンド(Mi Band)</string>
+  <string name="recommend_item_3">モバイルバッテリー(Power bank)</string>
+  <string name="recommend_item_4">イヤホン</string>
+  <string name="recommend_item_title">おすすめ</string>
   <string name="recompute_size">サイズを再計算中…</string>
   <string name="regulatory_info_text"/>
   <string name="regulatory_information">規制情報</string>
@@ -2980,13 +2977,13 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="screen_pinning_unlock_pattern">画面固定の解除前にロック解除パターンを要求</string>
   <string name="screen_pinning_unlock_pin">画面固定の解除前にPINを要求</string>
   <string name="screen_resolution_confirm">再起動</string>
-  <string name="screen_resolution_dialog_title">Switch resolution</string>
-  <string name="screen_resolution_high_format">High (%1$s)</string>
-  <string name="screen_resolution_normal_format">Normal (%1$s)</string>
+  <string name="screen_resolution_dialog_title">解像度を変更する</string>
+  <string name="screen_resolution_high_format">高 (%1$s)</string>
+  <string name="screen_resolution_normal_format">標準 (%1$s)</string>
   <string name="screen_resolution_summary">画面の解像度を下げると電池の寿命とシステムの速度を上げることができますが、画質が低下する場合があります。この変更を適用するために再起動する必要があります。</string>
-  <string name="screen_resolution_switch">解像度の切り替え</string>
+  <string name="screen_resolution_switch">適用</string>
   <string name="screen_resolution_title">ディスプレイの解像度</string>
-  <string name="screen_resolution_ultrahigh_format">Ultrahigh (%1$s)</string>
+  <string name="screen_resolution_ultrahigh_format">超高 (%1$s)</string>
   <string name="screen_saturation">彩度</string>
   <string name="screen_shot">スクリーンショットを取得</string>
   <string name="screen_timeout">スリープ</string>
@@ -3040,7 +3037,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="sd_mount_summary"/>
   <string name="sdcard_changes_instructions">USBケーブルの再接続時に変更が有効になります。</string>
   <string name="sdcard_format">SDカード内データを消去</string>
-  <string name="sdcard_optimization">Mock SD card optimization</string>
+  <string name="sdcard_optimization">疑似SDカードの最適化</string>
   <string name="sdcard_optimization_cancel">キャンセル</string>
   <string name="sdcard_optimization_close">オフにして再起動</string>
   <string name="sdcard_optimization_open">オンにする</string>
@@ -3528,7 +3525,6 @@ PINが正しくない可能性があります。"</string>
   <string name="status_awaiting_tap">書き込むにはタグをタップしてください...</string>
   <string name="status_awake_time">端末使用時間</string>
   <string name="status_bar_and_notification_bar">通知領域とステータスバー</string>
-  <string name="status_bar_app_des_separator">, </string>
   <string name="status_bar_app_disable_notification">通知を非表示</string>
   <string name="status_bar_app_enable_floating">フローティング通知</string>
   <string name="status_bar_app_enable_keyguard">ロック画面</string>
@@ -3813,18 +3809,16 @@ PINが正しくない可能性があります。"</string>
   <string name="tether_share_qrcode_title">QRコードを共有</string>
   <string name="tethering_help_button_text">ヘルプ</string>
   <string name="tethering_help_dialog_text">"<b>USBテザリング</b>
- You can tether your Android device to your computer with a USB cable, to share your device\'s Internet connection with your computer. 
+Android端末をUSBケーブルでコンピューターにつなぐことで、端末のインターネット接続をコンピューターと共有することができます。
 
-1.USB tethering works with Windows Vista, Windows 7, Windows 8, Windows 8.1 and Linux. 
-
-2.If your device has an SD card or USB storage, you can\'t mount it on your computer when USB tethered. 
+1.USBテザリングはWindows Vista、Windows 7、Windows 8、Windows 8.1およびLinuxで動作します。
+2.端末にSDカードまたはUSBストレージがある場合、USBテザリングを使用中はコンピューターにマウントすることはできません。
 
  <b>ポータブルWi-Fiアクセスポイント</b>
- You can turn your Android device into a portable WLAN hotspot, to share your Android device\'s Internet connection with one or more computers or other devices. 
+ポータブルWi-Fiアクセスポイントをオンにすることで、端末のインターネット接続を複数のコンピューターまたは他の端末と共有することができます。
 
-1.When your device is serving as a WLAN hotspot, you can\'t use your device\'s applications to access the Internet via its WLAN connection (but of course you remain connected to the Internet via your mobile data network). 
-
-2.You configure the hotspot with the WLAN hotspot settings."</string>
+1.Wi-Fiアクセスポイントが機能している場合、お使いの端末上のアプリはWi-Fi経由でインターネットにアクセスすることはできません(ただし端末はモバイルネットワーク経由でインターネットに接続したままです)。
+2.[Wi-Fiアクセスポイント設定]でアクセスポイントの設定ができます。"</string>
   <string name="tethering_help_dialog_title">ヘルプ</string>
   <string name="tethering_no_sim_alert_title">SIMカードがありません</string>
   <string name="tethering_no_sim_card_text">Wi-FiアクセスポイントまたはUSBテザリングを使用して他の端末とインターネット接続を共有するには、SIMカードを挿入してください。</string>
@@ -4520,7 +4514,6 @@ PINが正しくない可能性があります。"</string>
   <string name="wifi_scan_always_confirm_deny">許可しない</string>
   <string name="wifi_scan_always_turnoff_message">この機能をOFFにするには、オーバーフローメニューの[詳細設定]にアクセスします。</string>
   <string name="wifi_scan_always_turnon_message">"現在地情報の精度向上やその他の目的で、%1$sではWi-FiがOFFのときでもネットワークスキャンをオンにすることを要求しています。
-
 スキャンを必要とするすべてのアプリでスキャンを許可しますか？"</string>
   <string name="wifi_scan_notify_remember_choice">次回から表示しない</string>
   <string name="wifi_scan_notify_text">位置情報の精度を向上させるため、Wi-FiがOFFの場合でもシステムのアプリやサービスはWi‑Fiネットワークをスキャンできます。この設定は、LINK_BEGINスキャンの設定LINK_ENDで変更できます。</string>

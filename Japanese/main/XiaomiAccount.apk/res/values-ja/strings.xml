@@ -118,7 +118,7 @@
   <string name="find_device_activate_account">Activate account</string>
   <string name="find_device_bad_response_error">"サーバーエラーが発生しました、後ほど再試行してください"</string>
   <string name="find_device_display_id">Unlock number: %s</string>
-  <string name="find_device_error_password_not_confirmed">"Can't turn off Find device. Enter your Mi Account password again."</string>
+  <string name="find_device_error_password_not_confirmed">"Find deviceをオフにできません。もう一度Mi Accountのパスワードを入力してください。"</string>
   <string name="find_device_error_password_recently_changed">"You've changed your password within last 3 days. Can't turn off Find device now due to security reasons."</string>
   <string name="find_device_interrupted">"アクションが中断されました、後ほど再試行してください"</string>
   <string name="find_device_io_error">"ネットワークに接続できません"</string>
@@ -233,7 +233,7 @@
   <string name="passport_error_invalid_phone_num">"無効な電話番号"</string>
   <string name="passport_error_login">"ログインできません"</string>
   <string name="passport_error_network">"ネットワークに接続できません"</string>
-  <string name="passport_error_no_password_user">"You haven't set the password yet. Sign in with SMS."</string>
+  <string name="passport_error_no_password_user">"まだパスワードを設定していません。SMSでログインしてください。"</string>
   <string name="passport_error_phone_error">"無効な電話番号"</string>
   <string name="passport_error_server">"サーバーエラー"</string>
   <string name="passport_error_sim_not_ready">"SIMカードが見つかりません"</string>
