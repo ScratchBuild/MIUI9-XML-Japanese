@@ -10,7 +10,7 @@
   <string name="Settings_title_network_assistants">"データ使用の設定"</string>
   <string name="Settings_title_power_center">"バッテリーの設定"</string>
   <string name="about_autostart">"自動起動について"</string>
-  <string name="ac_enter_applock">Enter App lock</string>
+  <string name="ac_enter_applock">"アプリロックに切り替える"</string>
   <string name="ac_firstUseApplock_subTitle">"システムレベルのより優れたセキュリティツールを使用する"</string>
   <string name="ac_firstUseApplock_title">"アプリを保護するためのパスワードを設定する"</string>
   <string name="ac_summaryOff">"オフにしました、アプリを開くのにパスワードは不要です"</string>
@@ -96,7 +96,7 @@
   <string name="antivirus_privacy_dialog_cloudscan">"アプリ名と詳細をアップロード"</string>
   <string name="antivirus_privacy_dialog_cloudscan_description">"オンラインのウイルス定義を使用して、アプリ名と詳細をアップロードしてスキャンします。"</string>
   <string name="antivirus_privacy_dialog_ok">OK</string>
-  <string name="antivirus_privacy_dialog_summary">"This feature encrypts and uploads your device's ID to Avast, AVL and Tencent's servers (%s)."</string>
+  <string name="antivirus_privacy_dialog_summary">"この機能は暗号化した端末のIDをAvast、AVL、Tencentのサーバー(%s)にアップロードします。"</string>
   <string name="antivirus_privacy_dialog_summary_link">"プライバシーポリシーを表示"</string>
   <string name="antivirus_privacy_dialog_title">"プライバシーポリシー"</string>
   <string name="antivirus_sec_network_unavailable">"セキュリティアプリはインターネット接続を制限されているため更新できません。セキュリティにインターネット接続を許可しますか？"</string>
@@ -122,7 +122,7 @@
   <string name="app_manager_app_info_label">"アプリ情報"</string>
   <string name="app_manager_app_info_name">"アプリ名"</string>
   <string name="app_manager_app_info_pkg">"パッケージ名"</string>
-  <string name="app_manager_app_lock">App lock</string>
+  <string name="app_manager_app_lock">"アプリロック"</string>
   <string name="app_manager_app_power">"バッテリー使用量: "</string>
   <string name="app_manager_app_storage">"ストレージ: "</string>
   <string name="app_manager_app_traffic">"データ使用量: "</string>
@@ -137,8 +137,8 @@
   <string name="app_manager_clear_failed_dlg_message">"アプリのデータを削除できませんでした。"</string>
   <string name="app_manager_clear_failed_dlg_title">"データを削除"</string>
   <string name="app_manager_copy_pkg_to_clip">"クリップボードにコピーしました"</string>
-  <string name="app_manager_default_close_summary">No defaults set.</string>
-  <string name="app_manager_default_open">Open by default</string>
+  <string name="app_manager_default_close_summary">"既定の設定なし。"</string>
+  <string name="app_manager_default_open">"既定で開く"</string>
   <string name="app_manager_default_open_summary">You’ve chosen to launch this app by default for some actions.</string>
   <string name="app_manager_default_open_title">"設定を消去"</string>
   <string name="app_manager_details_electric_title">"バッテリー"</string>
@@ -211,7 +211,7 @@
   <string name="app_not_installed_toast">"アプリはお使いの端末にインストールされていません。"</string>
   <string name="app_usage_never">"使用していない"</string>
   <string name="app_usage_recently">"最近使用された"</string>
-  <string name="app_version">Version</string>
+  <string name="app_version">"バージョン"</string>
   <string name="app_wifi">"Wi-Fi"</string>
   <string name="application_item_already_permission">"許可された"</string>
   <string name="application_item_disable">"制限された"</string>
@@ -219,9 +219,9 @@
   <string name="applock_add_account_info">Add your Mi Account to be able to reset your password in case you forget it.</string>
   <string name="applock_add_account_setting">"アカウントとプライバシー"</string>
   <string name="applock_bind_account_title">Forgot password</string>
-  <string name="applock_close_dialog_summary">Apps will no longer be protected and your password will be deleted after you turn off App lock.</string>
+  <string name="applock_close_dialog_summary">"アプリロックをオフにすると、アプリは保護されなくなりパスワードも削除されます。"</string>
   <string name="applock_close_dialog_title">"アプリロックをオンにしますか？"</string>
-  <string name="applock_exit_account_info">Account will be removed automatically when you sign out</string>
+  <string name="applock_exit_account_info">"ログアウトするとアカウントは自動的に削除されます"</string>
   <string name="applock_header_text_less_than_half">"小さすぎます。もう少しドラッグしてください。"</string>
   <string name="applock_login_and_add_account">"ログインと追加"</string>
   <string name="applock_not_add_account">"後で"</string>
@@ -420,7 +420,7 @@
   <string name="cancel">"キャンセル"</string>
   <string name="cancel_button">"キャンセル"</string>
   <string name="card_main_applock_action">"オンにする"</string>
-  <string name="card_main_applock_summary">Protect private items with App lock</string>
+  <string name="card_main_applock_summary">"アプリロックでプライベートなアイテムを保護する"</string>
   <string name="card_main_applock_title">"アプリロック"</string>
   <string name="card_main_deepclean_action">"消去"</string>
   <string name="card_main_deepclean_qq_title">QQ cleaner</string>
@@ -1634,7 +1634,7 @@ While calibrating, MIUI will send a text message to your carrier to receive the 
   <string name="still_retain_btn">Keep</string>
   <string name="suggest_app_tolock">Suggestions</string>
   <string name="suggest_scan_again">Complete the scan to avoid security risks.</string>
-  <string name="summary_app_lock_disable">Protect your data with App lock</string>
+  <string name="summary_app_lock_disable">"アプリロックでデータを保護する"</string>
   <string name="summary_auto_update">MIUI will select the most suitable time to download and install updates.</string>
   <string name="summary_cleaner_cloudscan">Upload and compare folder names with online definitions</string>
   <string name="summary_cloud_account">Get the most out of your Mi device</string>

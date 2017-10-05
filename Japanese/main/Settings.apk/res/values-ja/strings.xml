@@ -1780,9 +1780,9 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="last_synced">最終同期日時: %1$s</string>
   <string name="last_time_used_label">前回の使用</string>
   <string name="lattice_smartcover_title">格子のフロントカバー</string>
-  <string name="launch_by_default">Open by default</string>
+  <string name="launch_by_default">既定で開く</string>
   <string name="launch_camera">カメラを起動</string>
-  <string name="launch_defaults_none">No defaults set</string>
+  <string name="launch_defaults_none">既定の設定なし</string>
   <string name="launch_defaults_some">Some defaults set</string>
   <string name="launch_google_search">Googleアシスタントを起動</string>
   <string name="launch_recents">履歴を起動</string>

@@ -632,7 +632,7 @@ is mainly provided by Ultimate Inc."</string>
   <string name="please_download_first">"この曲を着信音として設定するには、この曲をダウンロードする必要があります"</string>
   <string name="please_search_or_select">"検索またはフィールドを選択"</string>
   <string name="please_select_song">"初めに曲を選択してください"</string>
-  <string name="power_save_mode_dialog_msg">Battery saver is on. Start downloading now?</string>
+  <string name="power_save_mode_dialog_msg">"バッテリーセーバーがオンになっています。今すぐダウンロードを開始しますか？"</string>
   <string name="pref_download_settings_title">"ダウンロードサイズ制限"</string>
   <string name="pref_summary_any_bytes_popup">"ファイルのダウンロード時は常にWi-Fi接続を待機"</string>
   <string name="pref_summary_enable_max_bytes_popup">"ファイルのダウンロードにモバイルデータを使用する時はポップアップ通知を表示"</string>
@@ -762,7 +762,7 @@ is mainly provided by Ultimate Inc."</string>
   <string name="similar_songs">Similar songs</string>
   <string name="sleep_mode">"スリープタイマー"</string>
   <string name="sleep_mode_canceled">Sleep mode turned off</string>
-  <string name="sleep_mode_summary">Stop player after a certain time</string>
+  <string name="sleep_mode_summary">"一定時間後にプレーヤーを停止する"</string>
   <string name="sleep_mode_title">"スリープタイマー"</string>
   <string name="song_exist_in_playlist">This song is already in the playlist</string>
   <string name="song_is_empty">Song name can not be empty.</string>
@@ -824,8 +824,8 @@ is mainly provided by Ultimate Inc."</string>
   <string name="talkback_search">"検索"</string>
   <string name="talkback_share">"共有"</string>
   <string name="task_already_exist">"タスクが既に存在します"</string>
-  <string name="ticket_summary">Buy tickets for shows, concerts, plays, and other events</string>
-  <string name="ticket_title">Show tickets</string>
+  <string name="ticket_summary">"ショー、コンサート、演劇、その他イベントのチケットを購入する"</string>
+  <string name="ticket_title">"チケットを表示"</string>
   <string name="time_to_upgrade">Update Mi Music</string>
   <string name="title_online_artist">Trending artists</string>
   <string name="title_online_billboard">"チャート"</string>

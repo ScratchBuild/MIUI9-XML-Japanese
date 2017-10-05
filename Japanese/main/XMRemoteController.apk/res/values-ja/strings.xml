@@ -470,7 +470,7 @@
   <string name="match_data">Pairing info</string>
   <string name="match_data_error_tips">"情報を取得できませんでした
 続行するには戻る"</string>
-  <string name="match_direction_default">Do direction buttons work?</string>
+  <string name="match_direction_default">"方向ボタンは動作しますか？"</string>
   <string name="match_dvd_intro_pause">Release when DVD playback pauses</string>
   <string name="match_dvd_intro_play">Release when DVD starts playing</string>
   <string name="match_dvd_intro_stop">Release when DVD playback stops</string>
@@ -505,20 +505,20 @@ Then answer the question"</string>
   <string name="match_stb_seletion_des">Choose your location</string>
   <string name="match_succuss">"設定が完了しました"</string>
   <string name="match_tip_eject">Does the eject button work?</string>
-  <string name="match_tip_exit">Does the exit button work?</string>
-  <string name="match_tip_ff">Does the fast forward button work?</string>
-  <string name="match_tip_guide">Do the navigation buttons work?</string>
-  <string name="match_tip_home">Does the home button work?</string>
+  <string name="match_tip_exit">"終了ボタンは動作しますか？"</string>
+  <string name="match_tip_ff">"早送りボタンは動作しますか？"</string>
+  <string name="match_tip_guide">"ナビゲーションボタンは動作しますか？"</string>
+  <string name="match_tip_home">"ホームボタンは動作しますか？"</string>
   <string name="match_tip_menu">"メニューボタンは動作しますか？"</string>
   <string name="match_tip_mute">Does the mute button work?</string>
-  <string name="match_tip_ok">Does the button work?</string>
+  <string name="match_tip_ok">"ボタンは動作しますか？"</string>
   <string name="match_tip_pause">Does the pause button work?</string>
-  <string name="match_tip_play">Does the play button work?</string>
+  <string name="match_tip_play">"再生ボタンは動作しますか？"</string>
   <string name="match_tip_power">Does device turn on/off?</string>
   <string name="match_tip_power_off">Has the device turned off?</string>
   <string name="match_tip_power_on">Has the device turned on?</string>
-  <string name="match_tip_rew">Does the rewind button work?</string>
-  <string name="match_tip_stop">Does the stop button work?</string>
+  <string name="match_tip_rew">"巻戻しボタンは動作しますか？"</string>
+  <string name="match_tip_stop">"停止ボタンは動作しますか？"</string>
   <string name="match_tip_tvav">Does input source change?</string>
   <string name="match_top_tips">"デバイスが応答するまで若干の時間が必要です、
 アクションの後に少しお待ちください。"</string>
