@@ -123,7 +123,7 @@
   <string name="baby_nick_name">"ニックネーム"</string>
   <string name="baby_sexy">"性別"</string>
   <string name="baby_suffix">"の赤ちゃん"</string>
-  <string name="backup_automatically_summary">Back up photos and videos from all devices to Mi Cloud. Thus, you can conveniently browse, sort, edit, and share photos and videos on all your devices.</string>
+  <string name="backup_automatically_summary">"写真や動画をすべての端末からMi Cloudにバックアップします。これにより、すべての端末で写真や動画を簡単に参照、編集、共有することができます。"</string>
   <string name="backup_automatically_title">"自動的にバックアップ"</string>
   <string name="backup_battery_low_desc">You can still choose to continue backing up items</string>
   <string name="backup_battery_low_title">Backup paused due to low battery</string>
@@ -500,7 +500,7 @@ Take more photos of your friends!"</string>
   <string name="invite_tip">"赤ちゃんの写真を共有する"</string>
   <string name="is">"はい"</string>
   <string name="is_higher_definition">HD preview</string>
-  <string name="kick_owner_user_positive_button_text">Remove</string>
+  <string name="kick_owner_user_positive_button_text">"削除"</string>
   <string name="kick_owner_user_title">Remove this person?</string>
   <string name="kick_sharer">Remove shared viewer</string>
   <string name="kick_sharer_failed">"Couldn't remove this person"</string>
@@ -668,7 +668,7 @@ Take more photos of your friends!"</string>
   <string name="picker_full_format">You can select up to %d photos</string>
   <string name="picker_image_need_download">"%d of the selected photos aren't on device. Download using mobile data?"</string>
   <string name="picker_image_will_download">"%d of the selected photos aren't on device. They will be downloaded."</string>
-  <string name="picker_no_network_message">Connect to the network to download</string>
+  <string name="picker_no_network_message">"ダウンロードするにはネットワークに接続してください"</string>
   <string name="picker_origin_need_download">"%1$d of the selected photos (%2$dMB) aren't on device. Download using mobile data?"</string>
   <string name="picker_title_format">Select %1$d to %2$d photos</string>
   <string name="picker_title_selection_format">Selected photos: %d</string>
@@ -731,7 +731,7 @@ Take more photos of your friends!"</string>
   <string name="rename_from_contact">Name from contacts</string>
   <string name="request_qr_code_failed">"QRコードを取得できませんでした"</string>
   <string name="request_sms_url_failed">"情報を取得できませんでした"</string>
-  <string name="request_sms_url_msg">Requesting info…</string>
+  <string name="request_sms_url_msg">"情報を取得中…"</string>
   <string name="request_sms_url_title">"ヒント"</string>
   <string name="retry_to_create_album">"再試行"</string>
   <string name="retry_to_request_qr_code">"再試行"</string>

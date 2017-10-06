@@ -164,12 +164,12 @@ You can also download them separately."</string>
   <string name="passwordProtect">"パスワード"</string>
   <string name="please_diff_finger_print">"Make sure different fingerprints are used in First space and Second space.
 Otherwise you may not be able to enter Second space from Lock screen."</string>
-  <string name="privacyContactsSummary">Show private items in Second space</string>
-  <string name="privacyContactsTitle">Private messages and contacts</string>
+  <string name="privacyContactsSummary">"Second spaceにプライベートなアイテムを表示する"</string>
+  <string name="privacyContactsTitle">"プライベートなメッセージと連絡先"</string>
   <string name="privacy_password_fingerprint_dialog_message">"センサーに指を置いてください"</string>
   <string name="privacy_password_fingerprint_dialog_title">"指紋を読み取る"</string>
   <string name="private_sms_show_sub_title">"メッセージのデータは二つのスペースで共有されます"</string>
-  <string name="private_sms_show_title">Private messages are shown in Second space</string>
+  <string name="private_sms_show_title">"Second spaceにプライベートなメッセージが表示されます"</string>
   <string name="private_space_setting">"管理"</string>
   <string name="public_app">Both spaces</string>
   <string name="removeSuccess">"削除が完了しました"</string>
@@ -177,9 +177,9 @@ Otherwise you may not be able to enter Second space from Lock screen."</string>
   <string name="removingSpace">"削除中…"</string>
   <string name="repeat_scanner_fingerprint">Add again</string>
   <string name="reset_passwd_success">Password was reset successfully</string>
-  <string name="restore_normal_show">"Don't show private messages"</string>
+  <string name="restore_normal_show">"プライベートなメッセージを表示しない"</string>
   <string name="restore_show_desc">"Don't show private messages in Second space. They will still be available in First space."</string>
-  <string name="restore_show_toast">Not showing private messages</string>
+  <string name="restore_show_toast">"プライベートなメッセージを表示しない"</string>
   <string name="retain_src_file">"ファイルを保持する"</string>
   <string name="retain_src_photo">"写真を保持する"</string>
   <string name="same_qr_code_create_space">Create another one</string>
@@ -194,7 +194,7 @@ to enter Second space from Lock screen"</string>
   <string name="scanner_fingerprint_tips_desc">"Select existing fingerprint to enter Second space. You won't be able to use it in First space."</string>
   <string name="scanner_fingerprint_tips_title">Enter Second space using existing fingerprint</string>
   <string name="scanner_second_space_fingerprint">Scan Second space fingerprint</string>
-  <string name="sdcardfs_dialog_message">"Second spaceに切り替える前に開発者向けオプションから\"Mock SD card optimization\"をオフにしてください。"</string>
+  <string name="sdcardfs_dialog_message">"Second spaceに切り替える前に開発者向けオプションから\"疑似SDカードの最適化\"をオフにしてください。"</string>
   <string name="search_result_text">"アプリが見つかりませんでした"</string>
   <string name="secondSpace">Second space</string>
   <string name="second_owner_finger_print">Second space fingerprint</string>
@@ -228,14 +228,14 @@ to enter Second space from Lock screen"</string>
   <string name="settings_switch_shortcut_title">"切り替え用のショートカット"</string>
   <string name="show_decktop_quick_switch_icon">"ホーム画面のショートカット"</string>
   <string name="show_decktop_quick_switch_icon_detail">"First spaceのホーム画面上にスペースを切り替えるショートカットを表示する"</string>
-  <string name="show_normal_content">"Don't show private items"</string>
+  <string name="show_normal_content">"プライベートなアイテムを表示しない"</string>
   <string name="show_noti_from_owner">"他のスペースからの通知"</string>
   <string name="show_noti_from_owner_detail">"もう一方のスペース宛てに通知があった場合に、現在のスペースでも通知を受け取る"</string>
   <string name="show_noti_quick_switch_icon">"通知シェードのショートカット"</string>
   <string name="show_noti_quick_switch_icon_detail">"通知シェードにスペースを切り替えるショートカットを表示する"</string>
-  <string name="show_private_content">Show private items</string>
-  <string name="show_private_msg">Show private messages</string>
-  <string name="show_private_msg_summary">Show private messages​ in Second space</string>
+  <string name="show_private_content">"プライベートなアイテムを表示する"</string>
+  <string name="show_private_msg">"プライベートなメッセージを表示する"</string>
+  <string name="show_private_msg_summary">"Second spaceにプライベートなメッセージを表示する"</string>
   <string name="skip">"スキップ"</string>
   <string name="spaceSetting">"設定"</string>
   <string name="space_deleted">"このスペースは削除されました"</string>
