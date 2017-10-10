@@ -132,7 +132,7 @@
   <string name="app_manager_back">"戻る"</string>
   <string name="app_manager_bipartition">"デュアルアプリ"</string>
   <string name="app_manager_card_permission_title">Permissions</string>
-  <string name="app_manager_clear_cache">"キャッシュを消去"/string>
+  <string name="app_manager_clear_cache">"キャッシュを消去"</string>
   <string name="app_manager_clear_data_dlg_message">"このアプリのすべてのデータが完全に削除されます。これにはすべてのファイル、設定、アカウント、データベースなどが含まれます。"</string>
   <string name="app_manager_clear_data_dlg_title">"アプリのデータを削除しますか？"</string>
   <string name="app_manager_clear_failed_dlg_message">"アプリのデータを削除できませんでした。"</string>
