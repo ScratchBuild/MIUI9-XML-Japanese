@@ -83,6 +83,8 @@
   <string name="new_group_name">Custom mode</string>
   <string name="no_applications">Empty</string>
   <string name="none">"プロセスなし"</string>
+  <string name="nonui_mode_config_description">"端末がポケットの中に入っているときは、通知を受信しても画面を点灯させず、通知ライト、指紋認証、タッチ操作をオフにします。"</string>
+  <string name="nonui_mode_config_title">"ポケットモード"</string>
   <string name="normal">Default mode</string>
   <string name="operation_create_group">"名前"</string>
   <string name="operation_create_group_message">"新しいグループ名を入力"</string>

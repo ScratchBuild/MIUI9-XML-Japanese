@@ -132,6 +132,7 @@
   <string name="app_manager_back">"戻る"</string>
   <string name="app_manager_bipartition">"デュアルアプリ"</string>
   <string name="app_manager_card_permission_title">Permissions</string>
+  <string name="app_manager_clear_cache">"キャッシュを消去"/string>
   <string name="app_manager_clear_data_dlg_message">"このアプリのすべてのデータが完全に削除されます。これにはすべてのファイル、設定、アカウント、データベースなどが含まれます。"</string>
   <string name="app_manager_clear_data_dlg_title">"アプリのデータを削除しますか？"</string>
   <string name="app_manager_clear_failed_dlg_message">"アプリのデータを削除できませんでした。"</string>
@@ -143,15 +144,24 @@
   <string name="app_manager_default_open_title">"設定を消去"</string>
   <string name="app_manager_details_electric_title">"バッテリー"</string>
   <string name="app_manager_details_storage_title">"ストレージ"</string>
-  <string name="app_manager_details_traffic_title">"今月のデータ使用量"</string>
+  <string name="app_manager_details_traffic_title">"データ使用量"</string>
   <string name="app_manager_disable">"許可しない"</string>
+  <string name="app_manager_disable_dlg_text">"このアプリを無効にすると、他のアプリが正常に動作しなくなる可能性があります。"</string>
+  <string name="app_manager_disable_dlg_title">"内蔵アプリを無効にしますか？"</string>
+  <string name="app_manager_disable_text">"無効にする"</string>
+  <string name="app_manager_disabled">"無効"</string>
   <string name="app_manager_dlg_cancel">"キャンセル"</string>
   <string name="app_manager_dlg_ok">OK</string>
+  <string name="app_manager_enable_text">"有効にする"</string>
+  <string name="app_manager_enabled">"有効"</string>
   <string name="app_manager_factory_reset">"アップデートのアンインストール"</string>
   <string name="app_manager_factory_reset_dlg_msg">"このAndroidシステムアプリへのすべてのアップデートはアンインストールされます。"</string>
   <string name="app_manager_factory_reset_dlg_title">"アップデートをアンインストールしますか？"</string>
   <string name="app_manager_force_stop_dlg_text">"アプリを強制停止すると、アプリが正常に機能しないことがあります。"</string>
   <string name="app_manager_force_stop_dlg_title">"強制停止しますか？"</string>
+  <string name="app_manager_globel_other_perm_title">"その他のアクセス許可"</string>
+  <string name="app_manager_globel_perm_summary">"位置情報、ストレージ、通話、メッセージ、連絡先に関するアクセス許可を管理します。"</string>
+  <string name="app_manager_globel_perm_title">"アプリのアクセス許可"</string>
   <string name="app_manager_have_not_consume">None</string>
   <string name="app_manager_hide_system_server">"システムサービスを非表示"</string>
   <string name="app_manager_instruction">Instruction</string>
@@ -181,6 +191,17 @@
   <string name="app_manager_reduce_wakepath_dialog">Minimize chain start</string>
   <string name="app_manager_reduce_wakepath_summary">Restricting autostart will minimize chain start. Restrict autostart for %s?</string>
   <string name="app_manager_reject_count_over">"ブロックを 100000+ 回行いました"</string>
+  <string name="app_manager_reset_app_preferences">"アプリの設定をリセット"</string>
+  <string name="app_manager_reset_app_preferences_button">"アプリをリセット"</string>
+  <string name="app_manager_reset_app_preferences_desc">"この操作により、次の設定がすべてリセットされます:
+
+"<li>無効化されているアプリ</li>"
+"<li>無効化されているアプリの通知</li>"
+"<li>特定の操作で使用するデフォルトのアプリ</li>"
+"<li>アプリのバックグラウンドデータの制限</li>"
+
+アプリのデータが失われることはありません。"</string>
+  <string name="app_manager_reset_app_preferences_title">"アプリの設定をリセットしますか？"</string>
   <string name="app_manager_show_all_apps">"すべてのアプリを表示"</string>
   <string name="app_manager_show_detail_infos">"すべて表示"</string>
   <string name="app_manager_sort">"並べ替え"</string>
@@ -194,6 +215,8 @@
   <string name="app_manager_stop_wp_dialog_uninstall">"アンインストール"</string>
   <string name="app_manager_system_mobile_disable">Turn off data</string>
   <string name="app_manager_title">"アプリを管理"</string>
+  <string name="app_manager_uninstall_protected_dlg_msg">"システムアプリをアンインストールすると、一部のMIUIコンポーネントが正常に動作しなくなる可能性があります。 とにかくアンインストールしますか？"</string>
+  <string name="app_manager_uninstall_protected_dlg_title">"システムアプリをアンインストール"</string>
   <string name="app_manager_uninstall_with_xspace_app_dlg_msg">"対応するデュアルアプリはアプリのデータと一緒に削除されます。"</string>
   <string name="app_manager_uninstall_xspace_app_dlg_msg">"デュアルアプリをアンインストールするとアプリの全データが削除されます。"</string>
   <string name="app_manager_uninstall_xspace_app_dlg_title">"デュアルアプリをアンインストールしますか？"</string>
@@ -1436,6 +1459,7 @@ While calibrating, MIUI will send a text message to your carrier to receive the 
   <string name="save_energy_title">"バッテリーを最適化"</string>
   <string name="sc_allow_network_dialog_message">"このアプリが正常に動作するには、インターネットへの接続が必要です。"</string>
   <string name="sc_allow_network_dialog_tiltle">"この機能は使用できません"</string>
+  <string name="sc_system_risk_fix_info_xspace">"デュアルアプリではリスクを修復できません、元のアプリに切り替えて修復してください。"</string>
   <string name="scan_installed_games">"インストール済みゲームの確認中…"</string>
   <string name="scan_status_risk">"危険"</string>
   <string name="scan_status_safe">"安全"</string>

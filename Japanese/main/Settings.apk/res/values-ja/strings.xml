@@ -135,7 +135,7 @@
   <string name="advanced_apps">詳細設定</string>
   <string name="advanced_section_header">詳細設定</string>
   <string name="advanced_security_title">詳細設定</string>
-  <string name="advanced_settings">詳細設定</string>
+  <string name="advanced_settings">その他の設定</string>
   <string name="advanced_settings_summary">詳細設定オプションを有効にする</string>
   <string name="agps_roaming">ローミング時のA-GPS</string>
   <string name="agps_roaming_dia">ローミング時にA-GPSを使用するとモバイルデータ使用量が増加します。データ通信プランの限度を超過すると、ご契約中の通信キャリアに追加料金を請求される場合があります。</string>
@@ -276,7 +276,7 @@
   <string name="application_permissions">アプリのアクセス許可</string>
   <string name="application_restrictions">アプリとコンテンツの許可</string>
   <string name="application_size_label">アプリ</string>
-  <string name="applications_settings">アプリ</string>
+  <string name="applications_settings">ユーザーアプリ</string>
   <string name="applications_settings_header">アプリの設定</string>
   <string name="applications_settings_summary">アプリの管理やクイック起動ショートカットのセットアップ</string>
   <string name="apply_fingerprint_to_category_title">指紋認証の適用</string>
@@ -1188,11 +1188,11 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="disabled_by_administrator_summary">管理者によって無効にされています</string>
   <string name="disabled_by_policy_title">操作が許可されていません</string>
   <string name="disconnect">切断</string>
-  <string name="display_auto_rotate_rotate">画面のコンテンツを回転させる</string>
-  <string name="display_auto_rotate_stay_in_current">現在の向きを維持する</string>
-  <string name="display_auto_rotate_stay_in_landscape">横向きのままにする</string>
-  <string name="display_auto_rotate_stay_in_portrait">縦向きのままにする</string>
-  <string name="display_auto_rotate_title">端末が回転したとき</string>
+  <string name="display_auto_rotate_rotate">オン</string>
+  <string name="display_auto_rotate_stay_in_current">オフ</string>
+  <string name="display_auto_rotate_stay_in_landscape">横向きで固定</string>
+  <string name="display_auto_rotate_stay_in_portrait">縦向きで固定</string>
+  <string name="display_auto_rotate_title">画面の内容を回転</string>
   <string name="display_font_size_label">フォントサイズ:</string>
   <string name="display_label">画面</string>
   <string name="display_order_text">並べ替え:</string>
@@ -1295,7 +1295,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="drive_mode_sms_report">メッセージ</string>
   <string name="drive_mode_title">ドライブモード</string>
   <string name="drive_mode_voice_report">テキスト読み上げ出力</string>
-  <string name="dtmf_tone_enable_title">ダイヤルパッドのタッチ操作音</string>
+  <string name="dtmf_tone_enable_title">ダイヤルパッドの操作音</string>
   <string name="edge_mode_back">戻る</string>
   <string name="edge_mode_back_summary">戻るにはお使いの端末のエッジをダブルタップします</string>
   <string name="edge_mode_clean">システムキャッシュをクリアする</string>
@@ -1482,7 +1482,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="font_size_preview_text">Servez à ce monsieur une bière et des kiwis.</string>
   <string name="font_size_save">OK</string>
   <string name="font_size_small">Smaller</string>
-  <string name="font_size_summary">画面上のテキストを小さくまたは大きくします。</string>
+  <string name="font_size_summary">ホーム画面、通知領域、ダイヤラー、およびシステムメニューのテキストサイズを変更します。</string>
   <string name="font_size_summary1">システムのテキストが小さすぎる場合、試してみてください</string>
   <string name="font_size_summary2">Lite mode.</string>
   <string name="forbidden_switch_apn_string">選択したAPN設定は現在のネットワークタイプと一致しません</string>
@@ -1603,7 +1603,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="header_category_device">端末</string>
   <string name="header_category_personal">ユーザー設定</string>
   <string name="header_category_system">システム</string>
-  <string name="header_category_wireless_networks">無線とネットワーク</string>
+  <string name="header_category_wireless_networks">ネットワーク</string>
   <string name="header_data_and_synchronization">データと同期</string>
   <string name="heavy_weight_stop_description">このアプリを安全に停止できません。停止すると、現在の作業が一部失われる恐れがあります。</string>
   <string name="help_feedback_label">ヘルプとフィードバック</string>
@@ -1649,7 +1649,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="incoming_call_breathing_light_freq_title">着信LEDを点滅させる</string>
   <string name="incoming_call_volume_title">着信音</string>
   <string name="information_dialog_button_text">取り込みました</string>
-  <string name="input_method">入力方法</string>
+  <string name="input_method">キーボード</string>
   <string name="input_method_selector">入力方法選択オプション</string>
   <string name="input_method_selector_always_hide_title">常に非表示</string>
   <string name="input_method_selector_always_show_title">常に表示</string>
@@ -1706,7 +1706,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="key_position_cat">ボタンの配置</string>
   <string name="key_settings">ボタンとジェスチャーのショートカット</string>
   <string name="key_settings_title">ボタンとジェスチャーのショートカット</string>
-  <string name="keyboard_and_input_methods_category">キーボードと入力方法</string>
+  <string name="keyboard_and_input_methods_category">キーボード</string>
   <string name="keyboard_layout_dialog_setup_button">キーボードレイアウトの設定</string>
   <string name="keyboard_layout_dialog_switch_hint">切り替えるにはCtrl+スペースを押します</string>
   <string name="keyboard_layout_dialog_title">キーボードレイアウトの選択</string>
@@ -1833,8 +1833,8 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="local_backup_section_summary">システム設定、アカウント情報、アプリをバックアップ</string>
   <string name="local_backup_section_title">ローカルバックアップ</string>
   <string name="locale_settings">地域</string>
-  <string name="location_access_summary">ユーザーの許可をリクエストしたアプリに位置情報の使用を許可する</string>
-  <string name="location_access_title">位置情報にアクセス</string>
+  <string name="location_access_summary">アプリはユーザーの位置情報を取得することができます</string>
+  <string name="location_access_title">位置情報アクセス</string>
   <string name="location_agps_apn_choose_dialog_title">APNタイプ</string>
   <string name="location_agps_apn_summary">優先するAPNタイプを選択する</string>
   <string name="location_agps_apn_type">APNタイプ</string>
@@ -1862,9 +1862,9 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="location_high_battery_use">電池使用量: 高</string>
   <string name="location_low_battery_use">電池使用量: 低</string>
   <string name="location_menu_scanning">スキャン</string>
-  <string name="location_mode_battery_saving_description">Wi‑FiやBluetooth、モバイルネットワークで現在地を特定する</string>
+  <string name="location_mode_battery_saving_description">Wi‑Fiやモバイルネットワークで現在地を特定する</string>
   <string name="location_mode_battery_saving_title">バッテリー節約</string>
-  <string name="location_mode_high_accuracy_description">GPS、Wi‑Fi、Bluetooh、モバイルネットワークで現在地を特定する</string>
+  <string name="location_mode_high_accuracy_description">GPS、Wi‑Fi、モバイルネットワークで現在地を特定する</string>
   <string name="location_mode_high_accuracy_title">高精度</string>
   <string name="location_mode_location_off_title">位置情報OFF</string>
   <string name="location_mode_screen_title">位置情報モード</string>
@@ -1913,15 +1913,15 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="lock_settings_title">端末のセキュリティ</string>
   <string name="lock_settings_with_fingerprint">画面ロックと指紋認証</string>
   <string name="lock_setup">設定が完了しました。</string>
-  <string name="lock_sounds_enable_title">画面ロックの音</string>
+  <string name="lock_sounds_enable_title">画面ロック時の音</string>
   <string name="lockpassword_cancel_label">キャンセル</string>
   <string name="lockpassword_choose_for_second_user">Second space用のパスワードを設定</string>
-  <string name="lockpassword_choose_lock_generic_header">ロック解除方法の選択</string>
-  <string name="lockpassword_choose_your_password_header">パスワードを選択</string>
+  <string name="lockpassword_choose_lock_generic_header">画面ロックの選択</string>
+  <string name="lockpassword_choose_your_password_header">パスワードを設定</string>
   <string name="lockpassword_choose_your_password_second_space">"Second space用
  のパスワードを設定する"</string>
-  <string name="lockpassword_choose_your_pattern_header">パターンの選択</string>
-  <string name="lockpassword_choose_your_pin_header">PINを選択</string>
+  <string name="lockpassword_choose_your_pattern_header">パターンを設定</string>
+  <string name="lockpassword_choose_your_pin_header">PINを設定</string>
   <string name="lockpassword_choose_your_pin_header_second_space">"Second space用
  のPINを設定する"</string>
   <string name="lockpassword_confirm_for_second_user">Second spaceのパスワードを確認</string>
@@ -1930,9 +1930,9 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="lockpassword_confirm_workspace_password">"Work spaceのパスワードを確認"</string>
   <string name="lockpassword_confirm_your_lock_password_header">パスワードを確認</string>
   <string name="lockpassword_confirm_your_lock_pattern_header">解除パターンを確認</string>
-  <string name="lockpassword_confirm_your_password_generic">続行するには、パスワードを入力してください</string>
+  <string name="lockpassword_confirm_your_password_generic">続行するには、パスワードを入力してください。</string>
   <string name="lockpassword_confirm_your_password_header">パスワードを確認</string>
-  <string name="lockpassword_confirm_your_pattern_generic">続行するには、解除パターンを入力してください</string>
+  <string name="lockpassword_confirm_your_pattern_generic">続行するには、解除パターンを入力してください。</string>
   <string name="lockpassword_confirm_your_pattern_header">パターンの確認</string>
   <string name="lockpassword_confirm_your_pin_generic">続行するには、PINコードを入力してください。</string>
   <string name="lockpassword_confirm_your_pin_header">PINの確認</string>
@@ -1951,7 +1951,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="lockpassword_password_too_long">パスワードは%d文字未満で指定してください。</string>
   <string name="lockpassword_password_too_short">パスワードを%d文字以上で入力してください</string>
   <string name="lockpassword_pattern_set_toast">パターンが設定されました</string>
-  <string name="lockpassword_pin_contains_non_digits">PINに使用できるのは数字0～9のみです。</string>
+  <string name="lockpassword_pin_contains_non_digits">PINに使用できるのは数字のみです。</string>
   <string name="lockpassword_pin_no_sequential_digits">一連の数字を昇順や降順にしたり、繰り返したりすることはできません</string>
   <string name="lockpassword_pin_recently_used">最近使用したPINは使用できません。</string>
   <string name="lockpassword_pin_set_toast">PINが設定されました</string>
@@ -1978,7 +1978,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="lockpattern_retry_button_text">消去</string>
   <string name="lockpattern_settings_change_lock_pattern">パターンの変更</string>
   <string name="lockpattern_settings_choose_lock_pattern">ロック解除パターン設定</string>
-  <string name="lockpattern_settings_enable_power_button_instantly_locks">電源ボタンですぐにロックする</string>
+  <string name="lockpattern_settings_enable_power_button_instantly_locks">電源ボタンで画面ロック</string>
   <string name="lockpattern_settings_enable_summary">画面ロックを解除するにはパターンの入力が必要</string>
   <string name="lockpattern_settings_enable_tactile_feedback_title">タッチ操作バイブ</string>
   <string name="lockpattern_settings_enable_title">パターン入力が必要</string>
@@ -2139,7 +2139,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="menu_proc_stats_type_background">バックグラウンド</string>
   <string name="menu_proc_stats_type_cached">キャッシュ</string>
   <string name="menu_proc_stats_type_foreground">フォアグラウンド</string>
-  <string name="menu_restore">初期設定にリセット</string>
+  <string name="menu_restore">リセット</string>
   <string name="menu_save">保存</string>
   <string name="menu_share">共有</string>
   <string name="menu_show_percentage">割合を表示</string>
@@ -2555,7 +2555,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="power_usage_list_summary">前回のフル充電から使用</string>
   <string name="power_usage_not_available">電池使用量データがありません。</string>
   <string name="power_usage_summary">電池の使用状況</string>
-  <string name="power_usage_summary_title">電池</string>
+  <string name="power_usage_summary_title">電池とパフォーマンス</string>
   <string name="power_wifi">Wi-Fi</string>
   <string name="pre_installed_application">プリインストールアプリ</string>
   <string name="pref_button_light">ボタンのライト</string>
@@ -2716,8 +2716,8 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="proxy_error_invalid_host">入力したホスト名は無効です。</string>
   <string name="proxy_error_invalid_port">入力したポートは無効です。</string>
   <string name="proxy_exclusionlist_label">プロキシを不使用</string>
-  <string name="proxy_hostname_label">プロキシのホスト名</string>
-  <string name="proxy_port_label">プロキシポート</string>
+  <string name="proxy_hostname_label">ホスト名</string>
+  <string name="proxy_port_label">ポート</string>
   <string name="proxy_settings_label">プロキシ設定</string>
   <string name="proxy_settings_title">プロキシ</string>
   <string name="proxy_url_title">"PAC URL: "</string>
@@ -2988,7 +2988,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="screen_shot">スクリーンショットを取得</string>
   <string name="screen_timeout">スリープ</string>
   <string name="screen_timeout_summary">操作が行われない状態で%1$s経過後</string>
-  <string name="screen_timeout_title">画面がOFFになったとき</string>
+  <string name="screen_timeout_title">スリープモード</string>
   <string name="screen_zoom_conversation_message_1">一郎さん、こんにちは。</string>
   <string name="screen_zoom_conversation_message_2">お茶でも飲みながら最近あった話などしませんか？</string>
   <string name="screen_zoom_conversation_message_3">いいですね。そう遠くないところにいい店があるんですよ。</string>
@@ -3322,7 +3322,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="selinux_status">SELinuxのステータス</string>
   <string name="service_background_processes">%1$s空き</string>
   <string name="service_foreground_processes">%1$s使用中</string>
-  <string name="service_manage">設定</string>
+  <string name="service_manage">セットアップ</string>
   <string name="service_manage_description">%1$s: 現在使用中です。管理するには[設定]をタップしてください。</string>
   <string name="service_restarting">再起動中</string>
   <string name="service_started_by_app">アプリによって起動されたサービス。</string>
@@ -3407,7 +3407,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="silent_standard">マナー</string>
   <string name="silent_time">マナーモードの動作時間</string>
   <string name="silent_total">DND</string>
-  <string name="sim_bad_pin">PINが正しくありません</string>
+  <string name="sim_bad_pin">PINは4～8桁の数字である必要があります</string>
   <string name="sim_call_back_title">デフォルトのSIMからコールバック</string>
   <string name="sim_calls_always_use">このSIMを常に通話に使用する</string>
   <string name="sim_calls_ask_first_prefs_title">その都度確認</string>
@@ -3441,9 +3441,9 @@ PINが正しくない可能性があります。"</string>
 PINが正しくない可能性があります。"</string>
   <string name="sim_lock_off">端末使用時にPIN入力が必要になります</string>
   <string name="sim_lock_on">端末使用時にPIN入力が必要になります</string>
-  <string name="sim_lock_settings">SIMカードロック設定</string>
-  <string name="sim_lock_settings_category">SIMカードロック設定</string>
-  <string name="sim_lock_settings_title">SIMカードロック</string>
+  <string name="sim_lock_settings">SIMロック設定</string>
+  <string name="sim_lock_settings_category">SIMロックのセットアップ</string>
+  <string name="sim_lock_settings_title">SIMロック</string>
   <string name="sim_management_title">SIMカードとモバイルネットワーク</string>
   <string name="sim_management_title_cr_kolbi">SIMカードとモバイルネットワーク</string>
   <string name="sim_multi_sims_summary">モバイルデータに使用するSIMを選択してください。</string>
@@ -3825,6 +3825,7 @@ Android端末をUSBケーブルでコンピューターにつなぐことで、�
   <string name="tethering_settings_not_available">このユーザーはテザリング設定を利用できません</string>
   <string name="tethering_settings_summary">USBまたはWi-Fiアクセスポイント経由で端末のモバイルデータ接続を共有する</string>
   <string name="theme_settings_title">テーマ</string>
+  <string name="thememanager_not_found">"Couldn't open Themes. Make sure the app is installed."</string>
   <string name="three_gesture_down">三本指で下にスライド</string>
   <string name="time_picker_title">時間</string>
   <string name="time_zone_auto_stub">タイムゾーンを選択</string>
@@ -3946,7 +3947,7 @@ Android端末をUSBケーブルでコンピューターにつなぐことで、�
   <string name="unknown_app">不明なアプリ</string>
   <string name="unlock_change_lock_password_title">ロック解除パスワードの変更</string>
   <string name="unlock_change_lock_pattern_title">ロック解除パターンの変更</string>
-  <string name="unlock_change_lock_pin_title">ロック解除PINの変更</string>
+  <string name="unlock_change_lock_pin_title">PINの変更</string>
   <string name="unlock_disable_frp_warning_content_password">パスワードがないと、端末保護機能は利用できません。</string>
   <string name="unlock_disable_frp_warning_content_password_fingerprint">"パスワードがないと、端末保護機能は利用できません。
 
@@ -3972,7 +3973,7 @@ Android端末をUSBケーブルでコンピューターにつなぐことで、�
   <string name="unlock_set_unlock_biometric_weak_summary">セキュリティの低い実験的な機能です</string>
   <string name="unlock_set_unlock_biometric_weak_title">Face unlock</string>
   <string name="unlock_set_unlock_disabled_summary">管理者、暗号化ポリシー、または認証情報により無効</string>
-  <string name="unlock_set_unlock_launch_picker_change_summary">パターン、PIN、パスワードセキュリティを変更または無効にする</string>
+  <string name="unlock_set_unlock_launch_picker_change_summary">パターン、PIN、パスワードを変更または無効にする</string>
   <string name="unlock_set_unlock_launch_picker_change_title">ロック解除方法を変更する</string>
   <string name="unlock_set_unlock_launch_picker_enable_summary">画面をロックする方法を選択する</string>
   <string name="unlock_set_unlock_launch_picker_title">画面ロック</string>
@@ -4246,10 +4247,10 @@ Android端末をUSBケーブルでコンピューターにつなぐことで、�
   <string name="vpn_configure">VPN設定</string>
   <string name="vpn_connect">接続</string>
   <string name="vpn_connect_to">%sに接続</string>
-  <string name="vpn_create">VPNプロフィールの追加</string>
+  <string name="vpn_create">VPNの追加</string>
   <string name="vpn_disconnect">接続を解除</string>
   <string name="vpn_disconnect_confirm">このVPNの接続を解除します。</string>
-  <string name="vpn_dns_servers">DNSサーバー（例: 8.8.8.8）</string>
+  <string name="vpn_dns_servers">DNSサーバー</string>
   <string name="vpn_dns_servers_hint">例: 8.8.8.8</string>
   <string name="vpn_done">終了</string>
   <string name="vpn_edit">VPNプロフィールの編集</string>
@@ -4278,7 +4279,7 @@ Android端末をUSBケーブルでコンピューターにつなぐことで、�
   <string name="vpn_off">Off</string>
   <string name="vpn_on">On</string>
   <string name="vpn_password">パスワード</string>
-  <string name="vpn_routes">転送ルート（例: 10.0.0.0/8）</string>
+  <string name="vpn_routes">転送ルート</string>
   <string name="vpn_routes_hint">例: 10.0.0.0/8</string>
   <string name="vpn_safe">セキュリティ</string>
   <string name="vpn_save">保存</string>

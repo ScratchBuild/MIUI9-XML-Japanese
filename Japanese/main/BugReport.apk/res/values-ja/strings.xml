@@ -21,6 +21,9 @@
   <string name="cta_dialog_content">"このアプリが正常に動作するには、インターネットへの接続が必要です。"</string>
   <string name="cta_dialog_title">"インターネット接続"</string>
   <string name="cta_not_show_again">"次回から表示しない"</string>
+  <string name="customer_service_apply">"カスタマーサービスの申し込み"</string>
+  <string name="customer_service_complain">"カスタマーサービスに関する苦情"</string>
+  <string name="customer_service_station">"サービス拠点"</string>
   <string name="description">"問題の説明"</string>
   <string name="dialog_ask_delete">"削除"</string>
   <string name="dialog_ask_quit">"終了"</string>
