@@ -287,14 +287,6 @@
         <item>Transparent</item>
         <item>White background</item>
     </string-array>
-    <string-array name="aqi_level_desc">
-        <item>空气优</item>
-        <item>空气良</item>
-        <item>轻度污染</item>
-        <item>中度污染</item>
-        <item>重度污染</item>
-        <item>严重污染</item>
-    </string-array>
     <string-array name="aqi_level_simple_desc">
         <item>优</item>
         <item>良</item>
