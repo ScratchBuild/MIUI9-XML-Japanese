@@ -3347,7 +3347,6 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="settings_safetylegal_title">安全に関する情報</string>
   <string name="settings_shortcut">設定をショートカットとする</string>
   <string name="settings_toggle_position_divider_list">バーの上に配置したトグルは有効です</string>
-  <string name="setup_add_fingerprint_failed_retry_text">指紋を追加できませんでした</string>
   <string name="setup_choose_unlock_fingerprint_msg">指紋を追加する前に画面ロックを設定してください。</string>
   <string name="setup_choose_unlock_mixed_password">パスワード</string>
   <string name="setup_choose_unlock_mixpassword_title">パスワードを設定</string>
