@@ -13,7 +13,7 @@
   <string name="alter_message_abandon_title">"変更を破棄しますか？"</string>
   <string name="alter_message_delete">"削除しますか？"</string>
   <string name="alter_message_switch_mode">"モードを切り替えますか？"</string>
-  <string name="alter_message_switch_mode_message">When you switch modes, your previous settings will no longer apply to this app.</string>
+  <string name="alter_message_switch_mode_message">"モードの切り替えを行うと、以前の設定はこのアプリに適用されなくなります。"</string>
   <string name="app_invisible_title">"非表示アプリ"</string>
   <string name="app_list_title">"アプリを選択"</string>
   <string name="app_name">"バッテリーセーバー"</string>
@@ -63,8 +63,8 @@
   <string name="hints_loading_text">"読み込み中…"</string>
   <string name="important_warning">"警告"</string>
   <string name="invalid_size_value">"パッケージサイズを取得できませんでした。"</string>
-  <string name="lasttime_applist_cloud">App list updated:</string>
-  <string name="lasttime_feature_cloud">Feautures updated:</string>
+  <string name="lasttime_applist_cloud">"アプリ一覧が更新されました:"</string>
+  <string name="lasttime_feature_cloud">"機能が更新されました:"</string>
   <string name="location_disable_description">"継続的なアクセスが制限されている間は、バックグラウンドのアプリは短時間だけ位置情報サービスにアクセスできます"</string>
   <string name="location_disable_title">"制限する"</string>
   <string name="location_enable_description">"アプリはバックグラウンドで位置情報サービスを使用できます"</string>
@@ -190,7 +190,7 @@
   <string name="set_lcd_mode">Screen mode</string>
   <string name="settings_safetylegal_activity_loading">"読み込み中…"</string>
   <string name="show_system_app">"システムアプリを表示"</string>
-  <string name="sleep_config_enhance_description">"Whenever MIUI detects that you're sleeping, it will close background apps, restrict NFC, Bluetooth, GPS, mobile data and WLAN usage, and won't light up screen for notifications."</string>
+  <string name="sleep_config_enhance_description">"MIUIがスリープ中であることを検出すると、バックグラウンドアプリを終了し、NFC、Bluetooth、GPS、モバイルデータやWi-Fiを制限して、通知のために画面を点灯しません。"</string>
   <string name="sleep_config_enhance_title">Sleep mode</string>
   <string name="still">"写真"</string>
   <string name="sucess">"完了"</string>

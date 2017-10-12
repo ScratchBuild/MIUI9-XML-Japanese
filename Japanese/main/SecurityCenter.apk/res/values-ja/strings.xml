@@ -226,7 +226,6 @@
   <string name="app_manager_wakepath_dialog_summary">Chain start happens when one app starts another app in the background. It can drain battery and lower the system performance. MIUI would normally block chain start.</string>
   <string name="app_manager_wakepath_dialog_title">About chain start</string>
   <string name="app_managere_not_have_app">Empty</string>
-  <string name="app_manger_des_separator">", "</string>
   <string name="app_mobile">"モバイル"</string>
   <string name="app_name">"アプリロック"</string>
   <string name="app_name_na">"データ使用量"</string>
@@ -258,7 +257,7 @@
   <string name="apps_item_summary_system_rooted">Root access has been allowed. Restore default settings to avoid security risks.</string>
   <string name="apps_item_summary_system_update">Some bugs were fixed in the new version to make payments more secure.</string>
   <string name="apps_item_title_system">"システムの更新"</string>
-  <string name="apps_item_virus_cleanup_success">Cleared successfully</string>
+  <string name="apps_item_virus_cleanup_success">"正常に消去されました"</string>
   <string name="apps_item_virus_cleanup_text">"消去"</string>
   <string name="apps_item_virus_summary_installed">"インストール済みアプリ"</string>
   <string name="apps_item_virus_summary_uninstalled">APK</string>
@@ -457,8 +456,8 @@
   <string name="card_main_hbassistant_title">Red envelope assistant</string>
   <string name="card_main_monthreport_action">"表示"</string>
   <string name="card_main_netcheck_action">"テスト"</string>
-  <string name="card_main_netcheck_summary">Test connection for networking issues</string>
-  <string name="card_main_netcheck_title">Test network</string>
+  <string name="card_main_netcheck_summary">"ネットワーク接続の問題をテストする"</string>
+  <string name="card_main_netcheck_title">"ネットワーク診断"</string>
   <string name="card_main_optimize_manage_action">Boost now</string>
   <string name="card_main_optimize_manage_summary">Clear cache to speed up your device</string>
   <string name="card_main_optimize_manage_title">Boost speed</string>
@@ -482,7 +481,7 @@
   <string name="charging_text_battery_full_time">"充電開始から "</string>
   <string name="charging_text_battery_nearly_full">"ほぼ充電完了"</string>
   <string name="charging_text_battery_perfect">"充電完了"</string>
-  <string name="check_network_state">Test network</string>
+  <string name="check_network_state">"ネットワーク診断"</string>
   <string name="choose">"選択"</string>
   <string name="clean_immediately">"消去"</string>
   <string name="cleaned">Cleared</string>
@@ -1003,11 +1002,11 @@ Carrier may charge you additional fees if you use mobile data connection again."
   <string name="net_delay_title">"遅延"</string>
   <string name="net_overdue">Session ended</string>
   <string name="network_blocked_connected_open_wifi">Connected to public network</string>
-  <string name="network_blocked_notification_summary">Test network</string>
+  <string name="network_blocked_notification_summary">"ネットワーク診断"</string>
   <string name="network_blocked_switch_wifi">"ネットワークを切り替える"</string>
-  <string name="network_connected_exception_title">Test network</string>
+  <string name="network_connected_exception_title">"ネットワーク診断"</string>
   <string name="network_control">"アプリの設定を表示"</string>
-  <string name="network_diagnostics">Test network</string>
+  <string name="network_diagnostics">"ネットワーク診断"</string>
   <string name="network_mobile_exception_detail">"Your device can't connect to the internet:
 
 1. Make sure you haven't exceeded your mobile data plan's limit.
@@ -1048,7 +1047,7 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
   <string name="network_speed_for_apps_title">Connection</string>
   <string name="network_speed_for_apps_total">"接続速度"</string>
   <string name="network_test_speed">"Wi-Fi速度のテスト"</string>
-  <string name="networkchanged_exception_summary">Network connection has changed. Test again.</string>
+  <string name="networkchanged_exception_summary">"ネットワーク接続が変更されました。再度テストします。"</string>
   <string name="networkchanged_exception_title">"接続が変更されました"</string>
   <string name="never">1 time</string>
   <string name="news_change">"変更"</string>
@@ -1182,8 +1181,8 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
   <string name="password_forget_pattern_confirm">OK</string>
   <string name="password_forget_pattern_message">Due to security reasons, you can only reset your password after a factory data reset. Tap to reset.</string>
   <string name="password_forget_pattern_message_none">"Apps aren't locked. You can reset your password."</string>
-  <string name="password_forget_pattern_reset">Reset</string>
-  <string name="password_forget_pattern_title">Attention</string>
+  <string name="password_forget_pattern_reset">"リセット"</string>
+  <string name="password_forget_pattern_title">"注意"</string>
   <string name="password_promotion_not_login_xiaomi_account_message">Add your Mi Account to be able to reset your password in case you forget it.</string>
   <string name="password_promotion_postbutton_text">"設定を開く"</string>
   <string name="password_promotion_title">Privacy protection password</string>
