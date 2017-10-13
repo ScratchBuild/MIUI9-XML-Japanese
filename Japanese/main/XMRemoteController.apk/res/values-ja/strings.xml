@@ -441,7 +441,6 @@
   <string name="loading_share_info_err">"データを読み込めませんでした"</string>
   <string name="locate_current_place">Find current location</string>
   <string name="location_select">"デバイスの名前を変更"</string>
-  <string name="lock_screen_device_sum">%1$d个</string>
   <string name="login">"ログイン"</string>
   <string name="login_directly">"ログイン"</string>
   <string name="login_done">"ログインしました"</string>
@@ -1146,7 +1145,6 @@ To change, long press TV's power button"</string>
   <string name="wind_sweep">Swing</string>
   <string name="wx_not_installed">"最初にWeChatをインストール"</string>
   <string name="xiaomi_vip">Mi VIP</string>
-  <string name="year_format">%1$d年</string>
   <string name="year_month_day_format">MMM dd, yyyy</string>
   <string name="yes">"はい"</string>
   <string name="yesterday">"昨日"</string>
