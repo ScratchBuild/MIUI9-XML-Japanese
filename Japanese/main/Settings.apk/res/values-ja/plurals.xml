@@ -114,12 +114,12 @@
         <item quantity="one">%1$sユーザーが接続</item>
     </plurals>
     <plurals name="show_pho_countdown">
-        <item quantity="other">"You're %1$d steps away from entering phone info."</item>
-        <item quantity="one">"You're %1$d step away from entering phone info."</item>
+        <item quantity="other">"端末情報の表示まであと%1$dステップです。"</item>
+        <item quantity="one">"端末情報の表示まであと%1$dステップです。"</item>
     </plurals>
     <plurals name="show_cit_countdown">
-        <item quantity="other">"You're %1$d steps away from entering CIT."</item>
-        <item quantity="one">"You're %1$d step away from entering CIT."</item>
+        <item quantity="other">"CITへの切り替えまであと%1$dステップです"</item>
+        <item quantity="one">"CITへの切り替えまであと%1$dステップです"</item>
     </plurals>
     <plurals name="show_rep_countdown">
         <item quantity="other">"バグレポートの送信まであと%1$dステップです。"</item>

@@ -1789,8 +1789,8 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="launch_voice_assistant">音声アシスタントを起動</string>
   <string name="launcher_auto_fill_empty_title">空のセルを埋める</string>
   <string name="launcher_title">ホーム画面と履歴</string>
-  <string name="launching_cit">Launching CIT</string>
-  <string name="launching_pho">Launching phone info, please wait.</string>
+  <string name="launching_cit">CITを起動しています</string>
+  <string name="launching_pho">端末情報を表示します、しばらくお待ちください。</string>
   <string name="launching_rep">Reporting…</string>
   <string name="layout_size_exhuge">XXL</string>
   <string name="layout_size_exhuge_text">XXL</string>
@@ -2006,8 +2006,8 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="long_press_volume_down">音量[－]ボタンを長押し</string>
   <string name="lte_ram_dump_off">LTE RAMダンプをオフにする</string>
   <string name="lte_ram_dump_on">LTE RAMダンプをオンにする</string>
-  <string name="macaddr_label">MAC addr:</string>
-  <string name="main_netcheck_summary">Test connection for networking issues</string>
+  <string name="macaddr_label">MACアドレス:</string>
+  <string name="main_netcheck_summary">ネットワーク接続の問題をテストする</string>
   <string name="main_running_process_description">使用中のメインプロセスです。</string>
   <string name="make_sure_cancel_update">アップデートを中止しますか？</string>
   <string name="man_add_application">自動起動アプリを追加</string>
@@ -3353,7 +3353,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="setup_choose_unlock_password">PIN</string>
   <string name="setup_choose_unlock_password_msg">4桁の数字を入力</string>
   <string name="setup_choose_unlock_password_title">PINを設定</string>
-  <string name="setup_choose_unlock_pattern">Pattern</string>
+  <string name="setup_choose_unlock_pattern">パターン</string>
   <string name="setup_choose_unlock_pattern_title">ロック解除パターンを入力</string>
   <string name="setup_choose_unlock_type_title">パスワードを設定</string>
   <string name="setup_fingerprint_enroll_finish_message">指紋センサーに触れるだけで端末を復帰させてロックを解除できます。</string>
@@ -3824,7 +3824,7 @@ Android端末をUSBケーブルでコンピューターにつなぐことで、�
   <string name="tethering_settings_not_available">このユーザーはテザリング設定を利用できません</string>
   <string name="tethering_settings_summary">USBまたはWi-Fiアクセスポイント経由で端末のモバイルデータ接続を共有する</string>
   <string name="theme_settings_title">テーマ</string>
-  <string name="thememanager_not_found">"Couldn't open Themes. Make sure the app is installed."</string>
+  <string name="thememanager_not_found">テーマを開くことができません。アプリがインストールされているか確認してください。</string>
   <string name="three_gesture_down">三本指で下にスライド</string>
   <string name="time_picker_title">時間</string>
   <string name="time_zone_auto_stub">タイムゾーンを選択</string>

@@ -831,10 +831,10 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>右手スタイル</item>
     </string-array>
     <string-array name="edge_touch_volume_action">
-        <item>Press to adjust - Double press to trigger</item>
-        <item>Slide to adjust - Slide to trigger</item>
-        <item>Press to adjust - Press to trigger</item>
-        <item>Press to adjust - Press &amp; hold to trigger</item>
+        <item>タップして調整 - ダブルタップしてトリガー</item>
+        <item>スライドして調整 - スライドしてトリガー</item>
+        <item>タップして調整 - タップしてトリガー</item>
+        <item>タップして調整 - 長押ししてトリガー</item>
     </string-array>
     <string-array name="silent_mode_duration_text">
         <item>常に</item>

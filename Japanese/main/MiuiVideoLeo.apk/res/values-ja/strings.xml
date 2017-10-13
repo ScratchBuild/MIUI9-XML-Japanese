@@ -520,7 +520,7 @@
   <string name="tencent">Tencent</string>
   <string name="tencent_shortcut_name">青云志2</string>
   <string name="to_be_play_label_v5">"Up next: "</string>
-  <string name="toast_back_key_pressed_notice">To exit, touch Back again</string>
+  <string name="toast_back_key_pressed_notice">"終了するには[戻る]をもう一度タップ"</string>
   <string name="toast_message_continue_play_from">Playing from </string>
   <string name="toast_message_continue_play_hour">h </string>
   <string name="toast_message_continue_play_minute">m </string>
@@ -573,7 +573,7 @@
   <string name="vp_VideoView_error_button">OK</string>
   <string name="vp_VideoView_error_network_not_available">"ネットワークに接続できません"</string>
   <string name="vp_VideoView_error_text_invalid_progressive_playback">"This type of file isn't supported."</string>
-  <string name="vp_VideoView_error_text_unknown">An unknown error occurred.</string>
+  <string name="vp_VideoView_error_text_unknown">"不明なエラーが発生しました。"</string>
   <string name="vp_VideoView_error_title">"不明なエラー"</string>
   <string name="vp_ad_countdown_m_s">AD %1$dm%2$ss</string>
   <string name="vp_ad_countdown_s">AD %1$s</string>
