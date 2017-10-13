@@ -94,6 +94,8 @@
   <string name="resource_select">"選択"</string>
   <string name="screen_button_notification_text">"オンにするには、ホームボタンと電源ボタンを同時に押してください。"</string>
   <string name="screen_button_notification_title">"ナビゲーションボタンは現在オフです"</string>
+  <string name="screen_on_proximity_sensor_hint">"この機能をオフにするには、音量[＋]ボタンと戻るボタンを同時に押してください。"</string>
+  <string name="screen_on_proximity_sensor_hint_has_navigation_bar">"この機能をオフにするには、音量[＋]ボタンを押してください。"</string>
   <string name="screen_on_proximity_sensor_summary">"イヤホンの領域を覆わないでください"</string>
   <string name="screen_on_proximity_sensor_title">"ポケットモード"</string>
   <string name="screen_paper_mode_enter_toast">"読書モードが有効です。この機能を無効にするには、設定 &gt; ディスプレイ &gt; 読書モード を開いてください。"</string>
