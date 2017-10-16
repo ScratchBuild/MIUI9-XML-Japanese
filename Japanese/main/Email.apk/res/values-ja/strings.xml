@@ -379,7 +379,6 @@
   <string name="download_confirm_message">"%1$sの添付ファイルをダウンロードしますか？"</string>
   <string name="download_confirm_title">"添付ファイルをダウンロード"</string>
   <string name="download_message_failed_for_too_large">"メッセージが大きすぎてダウンロードできません。"</string>
-  <string name="draft_count_format"> (%1$s)</string>
   <string name="drawer_bank_bill">Bank statements</string>
   <string name="drawer_classification">"カテゴリー"</string>
   <string name="drawer_close">"ナビゲーションドロワーを閉じる"</string>
@@ -403,7 +402,6 @@
   <string name="empty_trash">"ゴミ箱を空にする"</string>
   <string name="empty_trash_dialog_title">"ゴミ箱を空にしますか？"</string>
   <string name="enable_sync_in_account_settings">Turn on in %1$s.</string>
-  <string name="enumeration_delimiter">" | "</string>
   <string name="error">"エラー"</string>
   <string name="exception_cancel">"この予定はキャンセルされました: %s"</string>
   <string name="exception_updated">"この予定の詳細が変更されました: %s"</string>
@@ -623,7 +621,6 @@
   <string name="new_signature_has_saved">"正常に保存されました"</string>
   <string name="next_action">"次へ"</string>
   <string name="no">"いいえ"</string>
-  <string name="no_address_email">noaddressemail@123.com</string>
   <string name="no_application_found">"この添付ファイルを開くためのアプリケーションが見つかりませんでした。"</string>
   <string name="no_application_found_title">"この添付ファイルを開く。"</string>
   <string name="no_bill_discribe">"Couldn't find any bills.
@@ -651,9 +648,9 @@ Try a different inbox."</string>
   <string name="notification_action_undo_remove_label">Tag removed</string>
   <string name="notification_exchange_calendar_added">Exchange calendar added</string>
   <string name="oauth_error_description">"認証できません"</string>
-  <string name="oauth_gmail_login_notify">Enter your Google Account username and password on the following sign-in page.</string>
+  <string name="oauth_gmail_login_notify">"ログインページでGoogleアカウントのユーザー名とパスワードを入力してください。"</string>
   <string name="oauth_login_continue">"続行"</string>
-  <string name="oauth_login_continue_qq">Get a passcode and sign in &gt;</string>
+  <string name="oauth_login_continue_qq">"パスコードを取得してログイン &gt;"</string>
   <string name="oauth_login_usr_proxy">"プロキシを使用してログイン"</string>
   <string name="ok">OK</string>
   <string name="okay_action">OK</string>
@@ -663,7 +660,7 @@ Try a different inbox."</string>
   <string name="open_external_storage_and_contacts_permission">"システム設定で外部ストレージと連絡先のアクセス許可を有効にしてください"</string>
   <string name="outbox_alert_button_no_resend">"送信しない"</string>
   <string name="outbox_alert_button_resend">"再送"</string>
-  <string name="outbox_alert_certificate_error">"Contact your email system's administrator and update your certificate."</string>
+  <string name="outbox_alert_certificate_error">"電子メールシステムの管理者に連絡し、証明書を更新してください。"</string>
   <string name="outbox_alert_description_auth_error">Server authorization error while syncing outbox.</string>
   <string name="outbox_alert_description_cannot_authenticate">"Couldn't authenticate %s."</string>
   <string name="outbox_alert_description_email_size_error">The maximum size of Email has been reached.</string>
@@ -754,7 +751,7 @@ to receive reminders about payments and trips"</string>
   <string name="policy_text_truncation">"テキストメールのサイズを制限する"</string>
   <string name="pop3_name">POP3</string>
   <string name="preference_eas_tips">Tap Activate to set up mail server.</string>
-  <string name="preference_pop_tips">In POP3, attachments will be automatically downloaded with email. This may increase your mobile data usage.</string>
+  <string name="preference_pop_tips">"POP3では添付ファイルが電子メールと同時にダウンロードされます。これにより、モバイルデータの使用量が増加する可能性があります。"</string>
   <string name="preference_sender_image_description">"受信トレイで送信者名の横にプロフィール画像を表示する"</string>
   <string name="preference_sender_image_title">"受信トレイでプロフィール画像を表示"</string>
   <string name="preferences_signature_dialog_title">"署名"</string>
@@ -764,10 +761,6 @@ to receive reminders about payments and trips"</string>
   <string name="previous_action">"戻る"</string>
   <string name="print">"印刷"</string>
   <string name="prompt_title">Prompt</string>
-  <string name="protocol_eas">eas</string>
-  <string name="protocol_imap">imap</string>
-  <string name="protocol_legacy_imap">imap</string>
-  <string name="protocol_pop3">pop3</string>
   <string name="protocol_setting_toast">Tap the upper right corner to go to settings after you agree</string>
   <string name="pull_to_refresh">"画面を引っ張って"</string>
   <string name="push_wps_better_confirm_download">"ダウンロード"</string>
@@ -785,7 +778,7 @@ to receive reminders about payments and trips"</string>
   <string name="qq_login_basecode">Signing in to the web QQ Mail. Enter independent password.</string>
   <string name="qq_login_get_auth">"Turn on password protection if you can't receive SMS"</string>
   <string name="qq_login_open_imap">Tap \"Help\" to turn on IMAP/SMTP</string>
-  <string name="qq_login_origin_setting">Enter username and password to sign in &gt;</string>
+  <string name="qq_login_origin_setting">"ユーザー名とパスワードを入力してログイン&gt;"</string>
   <string name="qq_login_send_message">"認証コードを取得するには\"SMSを送信\"をタップ"</string>
   <string name="qq_login_webview">Signing in to the web QQ Mail. Enter your password.</string>
   <string name="qq_next_generation_auth_toast">Turn on password protection in your browser</string>

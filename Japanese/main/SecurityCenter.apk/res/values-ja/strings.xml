@@ -459,13 +459,13 @@
   <string name="card_main_netcheck_summary">"ネットワーク接続の問題をテストする"</string>
   <string name="card_main_netcheck_title">"ネットワーク診断"</string>
   <string name="card_main_optimize_manage_action">Boost now</string>
-  <string name="card_main_optimize_manage_summary">Clear cache to speed up your device</string>
+  <string name="card_main_optimize_manage_summary">"キャッシュを消去して端末を高速化する"</string>
   <string name="card_main_optimize_manage_title">Boost speed</string>
   <string name="card_main_overscroll_tips">Security at its best</string>
   <string name="card_main_private_space_action">"作成"</string>
   <string name="card_main_private_space_summary">Using Second space is like having 2 devices</string>
   <string name="card_main_private_space_title">Second space</string>
-  <string name="card_main_sectool_title">Tools</string>
+  <string name="card_main_sectool_title">"ツール"</string>
   <string name="card_main_xspace_action">"作成"</string>
   <string name="card_main_xspace_summary">Create dual accounts for any app</string>
   <string name="card_main_xspace_title">"デュアルアプリ"</string>
@@ -477,14 +477,13 @@
  3. Your carrier may not support sending text messages with the remaining data and phone balance. Contact your carrier to learn more.
  4. There may be an error in the carrier data. Try carrier diagnostics to solve this.
  5. Nothing seems to help? Tap \"Report via SMS\" to send your feedback to Xiaomi in a text message."</string>
-  <string name="celcius_symbol">℃</string>
   <string name="charging_text_battery_full_time">"充電開始から "</string>
   <string name="charging_text_battery_nearly_full">"ほぼ充電完了"</string>
   <string name="charging_text_battery_perfect">"充電完了"</string>
   <string name="check_network_state">"ネットワーク診断"</string>
   <string name="choose">"選択"</string>
   <string name="clean_immediately">"消去"</string>
-  <string name="cleaned">Cleared</string>
+  <string name="cleaned">"消去しました"</string>
   <string name="clear_garbage">"ゴミ箱を空にして空き領域を確保"</string>
   <string name="clear_immediately">"今すぐ消去"</string>
   <string name="close">"閉じる"</string>
@@ -1849,7 +1848,7 @@ While calibrating, MIUI will send a text message to your carrier to receive the 
   <string name="toast_auto_traffic_correct">"データ使用量は自動的に調整されます"</string>
   <string name="toast_cleaner_cloudscan">"クリーナーはオンライン定義を使用します"</string>
   <string name="toast_flow_notification">"データ使用の通知をオンにしました"</string>
-  <string name="toast_garbage_lib">Turned on automatic updates for Cleaner</string>
+  <string name="toast_garbage_lib">"クリーナーの自動更新をオンにしました"</string>
   <string name="toast_keyword_blank">"キーワードを入力してください"</string>
   <string name="toast_keyword_exist">"キーワードを追加しました"</string>
   <string name="toast_keyword_invalid">"無効なキーワードです"</string>
@@ -1862,7 +1861,7 @@ While calibrating, MIUI will send a text message to your carrier to receive the 
   <string name="toast_root_apply_reject">Denied root access for %s</string>
   <string name="toast_set_success">Turned on successfully</string>
   <string name="toast_show_notification">"通知シェードにピン留めしました"</string>
-  <string name="top_game">Top games</string>
+  <string name="top_game">"人気のゲーム"</string>
   <string name="top_load_fail_detail">"ロードできませんでした、タップして再試行"</string>
   <string name="top_no_network_detial">"ロードできませんでした、ネットワーク接続を確認してもう一度お試しください"</string>
   <string name="traffic_alert_auto_modify_notification_sumarry">Monthly plan changed to %s.</string>
@@ -1907,7 +1906,7 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="traffic_setting_fragment_default">"選択してください"</string>
   <string name="traffic_setting_fragment_find_brand">"&lt;font color='#33b4ff'&gt;&lt;U&gt;Not sure about the carrier?&lt;/U&gt;&lt;/font&gt;"</string>
   <string name="traffic_setting_fragment_loacation_alert_nomore">"二度と表示しない"</string>
-  <string name="traffic_setting_fragment_operator">Carrier</string>
+  <string name="traffic_setting_fragment_operator">"キャリア"</string>
   <string name="traffic_setting_fragment_operator_setting">"キャリア設定"</string>
   <string name="traffic_setting_fragment_province">"地方"</string>
   <string name="traffic_setting_fragment_send_num">Carrier phone number</string>
@@ -1928,8 +1927,8 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="uninstall_danagerous_msg">\"%s\"は端末に損傷を与える可能性があり、性能を低下させたり再起動を引き起こす恐れがあります。</string>
   <string name="uninstall_danagerous_title">"悪意のあるアプリをアンインストールする"</string>
   <string name="unlike">"結構です"</string>
-  <string name="unlock_pattern">&lt;u&gt;Pattern&lt;/u&gt;</string>
-  <string name="unlock_pattern_to_bind_fingerprint">Enter password to activate fingerprint</string>
+  <string name="unlock_pattern">&lt;u&gt;パターン&lt;/u&gt;</string>
+  <string name="unlock_pattern_to_bind_fingerprint">"指紋を有効にするためのパスワードを入力"</string>
   <string name="updating_diagnostic_botton">"データを分析中…"</string>
   <string name="usage_sorted_activity_lable">"データ使用量"</string>
   <string name="usage_sorted_empty_text">Empty</string>
@@ -1958,7 +1957,6 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="virus_auto_update_engine">"自動更新：%s"</string>
   <string name="virus_update_tips_title">"Wi-Fiに接続する"</string>
   <string name="virus_wait_network_dialog_message">"更新ファイルは大きいため、Wi-Fiに接続してダウンロードしてください。"</string>
-  <string name="voltage_symbol">V</string>
   <string name="wakepath_confirm_start_activity">Allow %1$s to open %2$s?</string>
   <string name="website">"ウェブサイト"</string>
   <string name="white_list_risk_app_header">"危険なアプリ: %d"</string>

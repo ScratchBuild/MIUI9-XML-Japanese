@@ -89,8 +89,6 @@ Last backed up on %2$s"</string>
   <string name="find_device_disabling">オフにしています…</string>
   <string name="find_device_dspt">"端末をリモートで検索、ロック、またはリセットする"</string>
   <string name="find_device_dspt_provision">"端末を紛失した場合、%s にアクセスすることで検索、ロック、またはリセットすることができます。この機能はいつでも[設定]からオン/オフを切り替えられます。"</string>
-  <string name="find_device_dspt_provision_2">i.mi.com</string>
-  <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
   <string name="find_device_dspt_provision_3">"。この機能はいつでも[設定]からオン/オフを切り替えられます。"</string>
   <string name="find_device_dspt_provision_4">"SIMカードを切り替えた場合、この機能を再度有効にするためにSMSメッセージが自動的に送信されます。"</string>
   <string name="find_device_enabling">オンにしています…</string>
@@ -99,7 +97,6 @@ Last backed up on %2$s"</string>
   <string name="find_device_error_server">サーバーエラー</string>
   <string name="find_device_error_unknown">不明なエラー。</string>
   <string name="find_device_notice_p1">Go to</string>
-  <string name="find_device_notice_p2">i.mi.com</string>
   <string name="find_device_notice_p3">"to locate, lock, or restore your phone.
 If you switch SIM cards, another SMS will be sent automatically to reactivate this feature."</string>
   <string name="find_device_operation_failure_rpc">"Couldn't perform the operation due to RPC error."</string>
@@ -249,8 +246,6 @@ to your Mi Account to reactivate Mi Cloud."</string>
   <string name="micloud_find_device_open_fail">Find deviceをオンにできませんでした</string>
   <string name="micloud_find_device_opened">Find device on</string>
   <string name="micloud_find_device_opened_content">Find your device at %s</string>
-  <string name="micloud_find_device_opened_content_url">i.mi.com</string>
-  <string name="micloud_find_device_opened_content_url_int">www.mi.com/micloud</string>
   <string name="micloud_find_device_verify_button">Reactivate Find device</string>
   <string name="micloud_find_device_verify_close">Turn off Find device</string>
   <string name="micloud_find_device_verify_fail">"Couldn't reactivate Find device"</string>
@@ -509,8 +504,6 @@ This feature encrypts and sends your device's ID to Mi's servers."</string>
   <string name="sync_dspt_entrance_provision_network">"このアプリが正常に動作するには、インターネットへの接続が必要です。データを同期させるには、モバイルデータ接続またはWi-Fiをオンにする必要があります。"</string>
   <string name="sync_dspt_entrance_provision_skip">"この手順をスキップ"</string>
   <string name="sync_dspt_provision">"写真、連絡先、ノートなどを、同期したすべての端末や "</string>
-  <string name="sync_dspt_provision2">i.mi.com</string>
-  <string name="sync_dspt_provision2_int">www.mi.com/micloud</string>
   <string name="sync_dspt_provision3">" からアクセスしたりできます。この機能はいつでも[設定]からオン/オフを切り替えられます。"</string>
   <string name="sync_dspt_provision_header">同期</string>
   <string name="sync_dspt_provision_title">Mi Cloud</string>
@@ -547,7 +540,7 @@ This feature encrypts and sends your device's ID to Mi's servers."</string>
   <string name="vcode">"認証コード"</string>
   <string name="verify">"確認"</string>
   <string name="view_storage_title">Storage space</string>
-  <string name="virtual_sim_desc">Turn on Mi SIM to locate device without a SIM card</string>
+  <string name="virtual_sim_desc">"Mi SIMをオンにして、SIMカードなしで端末を検索する"</string>
   <string name="voip_choose_sim">Choose phone number to activate Mi Voice</string>
   <string name="wipe_data_dialog_button_check_sync">Check if synced</string>
   <string name="wipe_data_dialog_msg">"Some items (%s) aren't synced. They will be saved on your device and won't be deleted."</string>

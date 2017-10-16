@@ -114,11 +114,11 @@
   <string name="delete_addon_content">"この項目を削除しますか？"</string>
   <string name="delete_with">"削除 (%d)"</string>
   <string name="detail">"詳細"</string>
-  <string name="detail_comment_empty">Empty</string>
+  <string name="detail_comment_empty">"コメントはありません"</string>
   <string name="develop_version">"ベータ版の更新"</string>
   <string name="development_setting">"開発者向け設定"</string>
-  <string name="device_empty_hint">Empty</string>
-  <string name="device_media_empty_hint">Empty</string>
+  <string name="device_empty_hint">"デバイスはありません"</string>
+  <string name="device_media_empty_hint">"メディアはありません"</string>
   <string name="di_count_ji">Ep. %d</string>
   <string name="dianyingwang">M1905</string>
   <string name="disk_volume">"リムーバブルストレージ"</string>
@@ -167,7 +167,7 @@
   <string name="filter">Filter</string>
   <string name="finish_install">"正常にインストールされました"</string>
   <string name="forecast">"予報"</string>
-  <string name="forecast_empty_hint">Empty</string>
+  <string name="forecast_empty_hint">"予報はありません"</string>
   <string name="forecasts">EPG</string>
   <string name="fullscreen">Full screen</string>
   <string name="funshion">Funshion</string>
@@ -201,7 +201,7 @@
   <string name="loading">"&lt;CDATA&gt;読み込み中 &lt;/CDATA&gt;"</string>
   <string name="loading_video_netplay_label">"読み込み中…"</string>
   <string name="loading_video_netplay_label_v5">"読み込み中…"</string>
-  <string name="local_favorite_empty_title">Empty</string>
+  <string name="local_favorite_empty_title">"お気に入りはありません"</string>
   <string name="local_media_empty_sub_title">"動画をダウンロードしてオフラインで視聴"</string>
   <string name="local_media_empty_title">"動画はありません"</string>
   <string name="local_video">Local Video</string>
@@ -258,7 +258,7 @@
   <string name="offline_loaded">Offline video</string>
   <string name="offline_loading">Offline</string>
   <string name="offline_max_promote">Waiting for cache, there are at most 2 caching tasks can be running at the same time.</string>
-  <string name="offline_media_empty_title">Empty</string>
+  <string name="offline_media_empty_title">"メディアはありません"</string>
   <string name="offline_no_avail_item_hint">No episodes available to download</string>
   <string name="offline_no_selected_item_hint">"動画を選択"</string>
   <string name="offline_no_source">"オフラインモードでは表示できません"</string>
@@ -444,7 +444,7 @@
   <string name="place_at">No.%d</string>
   <string name="play">"再生"</string>
   <string name="play_fail">"再生できませんでした"</string>
-  <string name="play_his_empty_title">Empty</string>
+  <string name="play_his_empty_title">"再生履歴はありません"</string>
   <string name="play_history">"再生履歴"</string>
   <string name="play_source_fetching">"接続中…"</string>
   <string name="player_plugin_des">View available video player plug-ins</string>
@@ -490,7 +490,7 @@
   <string name="select_count_xiang">%d selected</string>
   <string name="select_none">"すべて選択を解除"</string>
   <string name="select_tv">"チャンネル"</string>
-  <string name="select_tv_empty_hint">No channels.</string>
+  <string name="select_tv_empty_hint">"チャンネルはありません。"</string>
   <string name="select_tvs">"チャンネル"</string>
   <string name="send">"送信"</string>
   <string name="server_summary">"サーバーを選択"</string>
@@ -530,7 +530,7 @@
   <string name="top_status_online_media">Online</string>
   <string name="total_episode">%1$s Episodes</string>
   <string name="tudou">Tudou</string>
-  <string name="tv_channel_empty_hint">No channels</string>
+  <string name="tv_channel_empty_hint">"チャンネルはありません"</string>
   <string name="tv_cp_info_format">Supported by %1$s</string>
   <string name="ui_style">Content layout</string>
   <string name="ui_style_summary">Choose content layout style</string>

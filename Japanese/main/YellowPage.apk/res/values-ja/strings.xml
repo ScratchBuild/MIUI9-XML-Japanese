@@ -193,11 +193,11 @@
   <string name="express_setting_code_invalid">"正しい認証コードを入力してください！"</string>
   <string name="express_setting_count_down_time">Resend %ds later</string>
   <string name="express_setting_dialog_authority_description">Binding phone is provided by Yellow Pages. By using this service, it will connect to the network. Do you agree?</string>
-  <string name="express_setting_dialog_delete_cancel">Cancel</string>
-  <string name="express_setting_dialog_delete_description">It will not track express from Cainiao if you delete the number. Be sure to delete?</string>
-  <string name="express_setting_dialog_delete_failed">Delete number failed!</string>
+  <string name="express_setting_dialog_delete_cancel">キャンセル</string>
+  <string name="express_setting_dialog_delete_description">番号を削除するとCainiaoの配送状況を追跡することができなくなります。本当に削除しますか？</string>
+  <string name="express_setting_dialog_delete_failed">番号を削除できませんでした</string>
   <string name="express_setting_dialog_delete_ok">"削除"</string>
-  <string name="express_setting_dialog_delete_success">Delete number successfully!</string>
+  <string name="express_setting_dialog_delete_success">正常に削除されました</string>
   <string name="express_setting_dialog_delete_title">Delete authorized number</string>
   <string name="express_setting_entrance_description">Authorized using phone number to query express.</string>
   <string name="express_setting_number">Number</string>

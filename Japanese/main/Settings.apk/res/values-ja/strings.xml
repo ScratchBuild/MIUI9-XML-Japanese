@@ -891,7 +891,7 @@
   <string name="convenience_key_category_title">システム制御</string>
   <string name="convert_to_fbe_warning">"データ パーティションをファイルベースの暗号化に変換します。
  警告: この操作ではユーザーのデータがすべて削除されます。
- この機能はアルファ版であり、正しく機能しないおそれがあります。
+ この機能はアルファ版であり、正しく機能しない恐れがあります。
  続行するには [消去して変換] をクリックしてください。"</string>
   <string name="convert_to_file_encryption">ファイル暗号化に変換する</string>
   <string name="convert_to_file_encryption_done">ファイルは既に暗号化済みです</string>
@@ -1675,9 +1675,9 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="instruction_title">説明書</string>
   <string name="insufficient_storage">十分な空き容量がありません。</string>
   <string name="intent_sender_account_label">アカウント:</string>
-  <string name="intent_sender_action_label">Action:</string>
+  <string name="intent_sender_action_label">アクション:</string>
   <string name="intent_sender_data_label">データ:</string>
-  <string name="intent_sender_resource_label">Resource:</string>
+  <string name="intent_sender_resource_label">リソース:</string>
   <string name="intent_sender_sendbroadcast_text">ブロードキャストを送信</string>
   <string name="intent_sender_startactivity_text">アクティビティを開始</string>
   <string name="internal_memory">内部ストレージ</string>
@@ -2116,7 +2116,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="memory_media_usage">メディア</string>
   <string name="memory_music_usage">音声（音楽、着信音、ポッドキャストなど）</string>
   <string name="memory_performance">パフォーマンス</string>
-  <string name="memory_rightvalue">Available: %s</string>
+  <string name="memory_rightvalue">利用可能: %s</string>
   <string name="memory_settings_title">メモリ</string>
   <string name="memory_size">合計容量</string>
   <string name="memory_title">空き容量: %1$s\u0009\u0009合計容量: %2$s</string>
@@ -2464,7 +2464,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="page_layout_page2_small_title">Extra small</string>
   <string name="page_layout_page2_title">プレビュー</string>
   <string name="page_layout_small_title">XS</string>
-  <string name="palm_enabled">Cover screen to turn it off</string>
+  <string name="palm_enabled">カバーを閉じたときに画面をオフにする</string>
   <string name="paper_mode_auto_twilight_summary">日没後、自動的に読書モードに切り替える</string>
   <string name="paper_mode_auto_twilight_title">"Good night's read"</string>
   <string name="paper_mode_customize_time_summary">Turn on Reading mode for a custom period</string>
@@ -3829,7 +3829,7 @@ Android端末をUSBケーブルでコンピューターにつなぐことで、�
   <string name="time_picker_title">時間</string>
   <string name="time_zone_auto_stub">タイムゾーンを選択</string>
   <string name="timed_titlei">Timer %d</string>
-  <string name="timer_switch_settings_title">Scheduled power on and off</string>
+  <string name="timer_switch_settings_title">設定した時刻に電源をオンまたはオフにする</string>
   <string name="timezone_settings">タイムゾーン</string>
   <string name="title_color_calibration">色補正プリセット</string>
   <string name="title_convert_fbe">ファイルベースの暗号化に変換しています</string>

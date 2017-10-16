@@ -171,7 +171,7 @@
   <string name="connected_via_wfa">"Wi-Fiアシスタント経由で接続しました"</string>
   <string name="convert_to_fbe_warning">"データ パーティションをファイルベースの暗号化に変換します。
  警告: この操作ではユーザーのデータがすべて削除されます。
- この機能はアルファ版であり、正しく機能しないおそれがあります。
+ この機能はアルファ版であり、正しく機能しない恐れがあります。
  続行するには [消去して変換] をクリックしてください。"</string>
   <string name="convert_to_file_encryption">ファイル暗号化に変換する</string>
   <string name="convert_to_file_encryption_done">ファイルは既に暗号化済みです</string>
