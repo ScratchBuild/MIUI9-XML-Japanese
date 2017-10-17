@@ -15,12 +15,6 @@
   <string name="StartScan">"スキャンを開始"</string>
   <string name="Stop">"停止"</string>
   <string name="StopScan">"スキャンを停止"</string>
-  <string name="TestBonjour">Test Bonjour</string>
-  <string name="TestP2pGc">Test P2pGroupClient</string>
-  <string name="TestP2pGo">Test P2pGroupOwner</string>
-  <string name="TestP2pLs">Test P2pLegacyStation</string>
-  <string name="TestReceiver">Test Receiver</string>
-  <string name="TestSender">Test Sender</string>
   <string name="Unregister">"登録を解除"</string>
   <string name="action_settings">"設定"</string>
   <string name="app_name">Mi Drop</string>
@@ -81,7 +75,7 @@
   <string name="sender_reject">"同意しない"</string>
   <string name="sender_reject_kick_off">"しばらくしてからもう一度お試しください。"</string>
   <string name="sender_return">"戻る"</string>
-  <string name="sender_scan_error">"Couldn't scan, send again"</string>
+  <string name="sender_scan_error">"スキャンできませんでした、もう一度送信してください"</string>
   <string name="sender_select_device">"端末を選択"</string>
   <string name="sender_transfer_interrupt">"転送が中断されました、転送中にWi-Fiをオフにしないでください。"</string>
   <string name="sender_wait">"待機中…"</string>

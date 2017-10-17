@@ -27,12 +27,8 @@
   <string name="cta_permission_delimiter">, </string>
   <string name="cta_title">"利用規約"</string>
   <string name="day_following_good_friday">耶穌受難節翌日</string>
-  <string name="daydream">Daydream</string>
   <string name="delete_frequent_phrases">"よく使うフレーズを削除"</string>
   <string name="delete_frequent_phrases_confirm">"選択したよく使うフレーズを削除しますか？"</string>
-  <string name="device_hongmi">Redmi</string>
-  <string name="device_pad">Mi Pad</string>
-  <string name="device_xiaomi">Mi Phone</string>
   <string name="double_seventh_day">七夕</string>
   <string name="easter">"イースター(復活祭)"</string>
   <string name="edit_frequent_phrases">"よく使うフレーズを編集"</string>
@@ -54,7 +50,6 @@
   <string name="labour_day">"レイバー・デー"</string>
   <string name="lantern_festival">"元宵節"</string>
   <string name="light_snow">小雪</string>
-  <string name="lollipop">Lollipop</string>
   <string name="lunar_ba">八</string>
   <string name="lunar_calendar">"太陰暦"</string>
   <string name="lunar_chu">初</string>
@@ -81,7 +76,6 @@
   <string name="menu_add_frequent_phrases">"追加"</string>
   <string name="menu_delete">"削除"</string>
   <string name="menu_edit">"編集"</string>
-  <string name="miui_device_name">Android</string>
   <string name="national_day">"国慶節"</string>
   <string name="national_father_day">"建国の父の日"</string>
   <string name="new_years_day">元旦</string>
@@ -108,7 +102,6 @@
   <string name="the_mid_autumn_festival">"中秋節"</string>
   <string name="the_rains">雨水</string>
   <string name="the_spring_festival">"春節"</string>
-  <string name="toyrobot">ToyRobot</string>
   <string name="tw_childrens_day">"こどもの日(台湾)"</string>
   <string name="tw_youth_day">"青年の日(台湾)"</string>
   <string name="united_nations_day">"国連の日"</string>

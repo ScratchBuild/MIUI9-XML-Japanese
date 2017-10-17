@@ -38,7 +38,7 @@
   <string name="error_sdcard_access">"ストレージにアクセスできません"</string>
   <string name="error_sdcard_unmounted">"今すぐSDカードを挿入してください"</string>
   <string name="export_to_note">"エクスポート"</string>
-  <string name="head_set_tip_dialog_msg">Disconnect your earphones to be able to record sound with specific presets (e.g., Music, Voice).</string>
+  <string name="head_set_tip_dialog_msg">"特定のプリセット(例：音楽、音声)で録音するときには、イヤホンを取り外してください。"</string>
   <string name="head_set_tip_dialog_ok">OK</string>
   <string name="head_set_tip_dialog_title">"内蔵マイクを使用"</string>
   <string name="invalid_argument">"無効な引数"</string>
@@ -55,7 +55,7 @@
   <string name="network_tip_dialog_ok">"同意する"</string>
   <string name="network_tip_dialog_title">"インターネット接続が必要です"</string>
   <string name="new_record_name">New recording</string>
-  <string name="no_file">Empty</string>
+  <string name="no_file">"ファイルはありません"</string>
   <string name="notification_message_all_paused">"Wi-Fi接続を待っています。"</string>
   <string name="notification_playback">"再生中…"</string>
   <string name="notification_recording">"録音中…"</string>
@@ -119,7 +119,7 @@
   <string name="rename_fail_tip">"名前を変更できません、この名前のファイルは既に存在します。"</string>
   <string name="rename_no_more_tip">"二度と表示しない"</string>
   <string name="retry">"再試行"</string>
-  <string name="runtime_permission_ungranted">"Can't use Recorder due to ungranted permissions"</string>
+  <string name="runtime_permission_ungranted">"アクセス権限が許可されていないため、レコーダーを使用できません"</string>
   <string name="search_app">"レコーダー"</string>
   <string name="search_enable_earpiece_title">Use receiver to play audio</string>
   <string name="search_led_indicator">"ロック画面の通知"</string>

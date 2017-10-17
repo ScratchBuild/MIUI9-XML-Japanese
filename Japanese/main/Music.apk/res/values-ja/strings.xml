@@ -121,11 +121,11 @@
   <string name="cloud_loading_message">"曲を検索中…"</string>
   <string name="cloud_music">Songs in Mi Cloud</string>
   <string name="cloud_settings">"同期設定"</string>
-  <string name="cloud_state_cloud_space_full">Not enough Mi Cloud storage, paused backup</string>
-  <string name="cloud_state_low_power">Connect charger to resume backup</string>
-  <string name="cloud_state_network_data">"Couldn't find WLAN networks, paused backup"</string>
-  <string name="cloud_state_network_unavailable">"Couldn't connect to the network, paused backup"</string>
-  <string name="cloud_state_storage_full">Not enough phone storage, paused backup</string>
+  <string name="cloud_state_cloud_space_full">"Mi Cloudに十分な空き領域がありません、バックアップを中断しました"</string>
+  <string name="cloud_state_low_power">"バックアップを再開するには充電器に接続してください"</string>
+  <string name="cloud_state_network_data">"Wi-Fiネットワークが見つかりません、バックアップを中断しました"</string>
+  <string name="cloud_state_network_unavailable">"ネットワークに接続できません、バックアップを中断しました"</string>
+  <string name="cloud_state_storage_full">"端末に十分な空き領域がありません、バックアップを中断しました"</string>
   <string name="cloud_welcome_message">"曲をバックアップする"</string>
   <string name="cloud_welcome_summary">"Mi Cloudに曲をバックアップして、他の端末からそれらを再生する"</string>
   <string name="confirm">OK</string>
@@ -282,9 +282,6 @@ is mainly provided by Ultimate Inc."</string>
   <string name="downloaded_empty">"なし"</string>
   <string name="downloading_empty">"なし"</string>
   <string name="downloads_operating">"作業中…"</string>
-  <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
-  <string name="durationformatshort">%2$d:%5$02d</string>
-  <string name="durationformatshort_padding_with_0">%2$02d:%5$02d</string>
   <string name="editmode_menu_delete">"削除"</string>
   <string name="editmode_menu_share">"共有"</string>
   <string name="empty_page_no_album">"アルバムがありません。"</string>
@@ -330,8 +327,8 @@ is mainly provided by Ultimate Inc."</string>
   <string name="favorite_succeed">"お気に入りに追加しました"</string>
   <string name="favorite_tracks">"お気に入り"</string>
   <string name="favorites">"お気に入り"</string>
-  <string name="favourite_music_left_half">To add songs to this playlist, tap the</string>
-  <string name="favourite_music_right_half">"Favorite icon to the right of the song's title"</string>
+  <string name="favourite_music_left_half">"このプレイリストに曲を追加するには、"</string>
+  <string name="favourite_music_right_half">"曲名の右にある[お気に入り]をタップ。"</string>
   <string name="file_not_found">"ファイルが存在しません"</string>
   <string name="filter_by_duration">By length</string>
   <string name="filter_by_duration_format">"%2$d分%5$2d秒"</string>

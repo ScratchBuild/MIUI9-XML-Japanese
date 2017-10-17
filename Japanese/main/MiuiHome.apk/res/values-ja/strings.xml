@@ -198,8 +198,8 @@
   <string name="pref_keep_in_memory_title">Lock MIUI in memory</string>
   <string name="pref_keep_layout_summary">"Changing your Home screen's layout will not affect apps' positions relative to each other"</string>
   <string name="pref_keep_layout_title">Lock app positions</string>
-  <string name="pref_render_in_truecolor_summary">Turning off this feature improves drawing performance</string>
-  <string name="pref_render_in_truecolor_title">High quality graphics</string>
+  <string name="pref_render_in_truecolor_summary">"この機能をオフにすると、描画パフォーマンスが向上します"</string>
+  <string name="pref_render_in_truecolor_title">"高品質のグラフィックス"</string>
   <string name="pref_screen_transformation_type_title">"画面切り替え時の効果"</string>
   <string name="pref_wallpaper_scroll_type_title">"壁紙の配置"</string>
   <string name="preferences_general_title">"その他の設定"</string>

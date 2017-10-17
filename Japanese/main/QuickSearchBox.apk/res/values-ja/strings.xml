@@ -18,9 +18,9 @@
   <string name="clear_shortcuts">"ショートカットを消去"</string>
   <string name="clear_shortcuts_agree">"ショートカットを消去"</string>
   <string name="clear_shortcuts_disagree">"ショートカットを消去できません"</string>
-  <string name="clear_shortcuts_prompt">"Do you want to clear all shortcuts to recently chosen search suggestions?
+  <string name="clear_shortcuts_prompt">"最近選択した検索候補のショートカットをすべて消去しますか？
 
-To clear your Browser history, use the Browser's settings."</string>
+ブラウザの履歴を消去するには、ブラウザの設定から行ってください。"</string>
   <string name="clear_shortcuts_summary">"最近選択した検索候補へのショートカットを消去する"</string>
   <string name="common_setting">"全般設定"</string>
   <string name="connect_and_retry">"インターネットに接続して、もう一度お試しください"</string>
@@ -37,8 +37,6 @@ To clear your Browser history, use the Browser's settings."</string>
   <string name="cta_declaration_positive_text">"許可する"</string>
   <string name="cta_declaration_title">"利用規約"</string>
   <string name="device_settings_category_title">"ショートカットを消去"</string>
-  <string name="distance_unit_kilometer">km</string>
-  <string name="distance_unit_meter">m</string>
   <string name="entrance_setting">Opening search</string>
   <string name="google_app_label">"Google検索"</string>
   <string name="google_search_base">https://www.google.co.jp/m?hl=%1$s</string>

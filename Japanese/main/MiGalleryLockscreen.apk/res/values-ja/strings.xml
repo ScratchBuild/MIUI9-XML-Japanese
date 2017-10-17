@@ -32,12 +32,12 @@
   <string name="confirm">"オンにする"</string>
   <string name="current_connection_invalid">"端末がネットワークに接続するまでお待ちください"</string>
   <string name="current_data_invalid">"エラーが発生しました"</string>
-  <string name="current_network_invalid">Connect to the network first</string>
+  <string name="current_network_invalid">"初めにネットワークに接続してください"</string>
   <string name="current_no_more_pictures">"これ以上写真はありません"</string>
   <string name="current_permission_network_denied">"Wallpaper Carouselにネットワークへのアクセスを許可する"</string>
   <string name="day">"毎日"</string>
   <string name="declaration">"ロック画面に新しい壁紙が毎日無料で配信されます。"</string>
-  <string name="declaration_lockscreen_title">Get fresh Lock screen wallpapers daily</string>
+  <string name="declaration_lockscreen_title">"ロック画面の壁紙を毎日取得する"</string>
   <string name="declaration_title">"利用規約"</string>
   <string name="dislike">"削除"</string>
   <string name="from_migallerylockscreen">From MIUI Wallpaper Carousel</string>
@@ -77,7 +77,7 @@
   <string name="sst_grid_view_select_all">"すべて選択"</string>
   <string name="sst_grid_view_unselect_all">"すべて選択を解除"</string>
   <string name="sst_no_favor_wallpaper_hint">"お気に入りの壁紙はありません"</string>
-  <string name="sst_prov_enable_desc">Get new wallpapers delivered to your Lock screen regularly</string>
+  <string name="sst_prov_enable_desc">"新しい壁紙を定期的にロック画面に表示する"</string>
   <string name="sst_prov_enable_title">"Wallpaper Carouselをオンにする"</string>
   <string name="sst_require_one_category_hint">"少なくとも1つのカテゴリーを選択してください"</string>
   <string name="sst_sti_desc">"壁紙の更新頻度を設定"</string>

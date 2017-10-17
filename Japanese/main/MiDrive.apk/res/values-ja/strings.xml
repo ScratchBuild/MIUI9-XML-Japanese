@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="account_logout">Exit account “%1$s”</string>
+  <string name="account_logout">\"%1$s\"からログアウト</string>
   <string name="action_mode_deselect_all">"すべて選択を解除"</string>
   <string name="action_mode_select_all">"すべて選択"</string>
   <string name="adding_download_tasks">"ダウンロードのタスクを追加中#8230;"</string>
@@ -113,7 +113,6 @@
   <string name="upload_failed">"アップロードできませんでした"</string>
   <string name="upload_file_to_midrive">"Mi Driveにファイルをアップロード"</string>
   <string name="uploading">"アップロード中"</string>
-  <string name="vip_info">VIP: %1$s</string>
   <string name="wait_net">"ネットワーク接続を待っています"</string>
   <string name="wait_sdcard">"SDカードを待っています…"</string>
   <string name="wait_wifi">"Wi-Fi接続を待っています"</string>
