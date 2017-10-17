@@ -255,7 +255,7 @@
   <string name="message_number">"電話番号: "</string>
   <string name="message_pending">送信中</string>
   <string name="message_queued">"現在メッセージを送信できません。サービスが利用できる状態になり次第送信されます。"</string>
-  <string name="message_queued_second_space">"現在メッセージを送信できません。データネットワークを開いてください。"</string>
+  <string name="message_queued_second_space">"メッセージを送信できませんでした。送信するにはモバイルデータをオンにしてください。"</string>
   <string name="message_readed">既読</string>
   <string name="message_received">受信</string>
   <string name="message_rejected">拒否</string>
@@ -305,9 +305,6 @@
   <string name="mx_activate_status_desc_query_activte_info">SIMカード情報を確認中...</string>
   <string name="mx_activate_status_desc_request_activation_sms_phone_error">入力された電話番号は不正です</string>
   <string name="mx_activate_status_desc_wait_for_sms_fail">"Miメッセージをアクティベートできませんでした"</string>
-  <string name="mx_and_voip_enable">Miメッセージとボイス</string>
-  <string name="mx_and_voip_enable_popup_msg">"キャリアから課金されることなく、他のMIUIユーザーにメッセージを送信したり通話できます。VoIPはWeihuiによってサポートされます。Weihuiのプライバシーポリシーを表示。"</string>
-  <string name="mx_and_voip_enable_popup_msg2">プライバシーポリシー</string>
   <string name="mx_auto_resend_mms">MMSで送信</string>
   <string name="mx_auto_resend_mms_summary">"Wi-Fiに接続していない時は、マルチメディアメッセージをモバイルデータ通信でMMSとして送信します。ご契約のキャリアからMMS料金が課金されます。"</string>
   <string name="mx_auto_resend_sms">SMSで送信</string>
@@ -319,7 +316,6 @@
   <string name="mx_dspt">Wi-Fiネットワークに接続している場合は、無料で他のMIUIユーザーにSMSとMMSメッセージを送信</string>
   <string name="mx_dspt_listview">課金されることなく他のMIUIユーザーにメッセージを送信</string>
   <string name="mx_dspt_provision">"MiメッセージはSMS料金を請求されることなく、他のMIUIユーザーにメッセージを送ることができます。このサービスをアクティベートする際に使用されるSMS料金は、ご契約中のキャリアから請求されます。また、このサービスが正常に動作するにはモバイルデータにアクセスする必要があります。"</string>
-  <string name="mx_dspt_provision_ex">"キャリアから課金されることなく、他のMIUIユーザーにメッセージを送信したり通話できます。VoIPはWeihuiによってサポートされます。Weihuiのプライバシーポリシーを表示"</string>
   <string name="mx_dspt_provision_ex2">プライバシーポリシー</string>
   <string name="mx_enable">Miメッセージ</string>
   <string name="mx_enable_ex">Miメッセージとボイス</string>
@@ -360,8 +356,8 @@
   <string name="notification_multiple">[%s]</string>
   <string name="notification_multiple_title">新着メッセージ</string>
   <string name="number_add_hint">電話番号を入力</string>
-  <string name="open_audio_record_panel">"オーディオ録音パネルを開く"</string>
-  <string name="open_edit_sms_panel">SMSの編集パネルを開く</string>
+  <string name="open_audio_record_panel">"オーディオ録音のパネルを開く"</string>
+  <string name="open_edit_sms_panel">メッセージの編集パネルを開く</string>
   <string name="open_url_with_web">このURLをブラウザで開きますか？</string>
   <string name="over_max_mms_size">MMSが大きすぎます。</string>
   <string name="overwrite_edited_content">"今編集した内容が上書きされます。"</string>
@@ -405,7 +401,6 @@
   <string name="pref_summary_mms_read_reports">MMSの受信者がコンテンツのダウンロードを完了した場合はスレッド画面に通知を表示</string>
   <string name="pref_summary_mms_retrieval_during_roaming">ローミング中に自動的にメッセージの画像と動画をダウンロード</string>
   <string name="pref_summary_notification_body_enabled">ロックスクリーンと通知シェードにメッセージを表示</string>
-  <string name="pref_summary_notification_body_enabled_when_secure">ゲストモードではメッセージのプレビューはできません</string>
   <string name="pref_summary_off_system_mms_priority">MMSの送受信にはサードパーティ製のアプリを使用する</string>
   <string name="pref_summary_on_system_mms_priority">"MMSの送受信にはMIUIメッセージアプリをデフォルトに設定する"</string>
   <string name="pref_summary_send_delivery_reports">MMSを受信した場合は配達確認メッセージを送信者に送信</string>
@@ -577,8 +572,8 @@
   <string name="sp_category_title_prefix">%s</string>
   <string name="sp_conversation_title">通知</string>
   <string name="sp_mark_as_read_menu_title">既読としてマーク</string>
-  <string name="sqlite_disk_full">データベースまたはディスクがフルです</string>
-  <string name="sqlite_low_memory">メモリ不足</string>
+  <string name="sqlite_disk_full">端末のストレージスペースがいっぱいです。</string>
+  <string name="sqlite_low_memory">十分な空き領域がありません</string>
   <string name="status_failed">失敗</string>
   <string name="status_label">"ステータス: "</string>
   <string name="status_pending">保留</string>
@@ -653,9 +648,6 @@
   <string name="view">表示</string>
   <string name="view_bookmark">元のメッセージを表示</string>
   <string name="view_message_details">メッセージの詳細を表示</string>
-  <string name="voip_enable">Miメッセージとボイス</string>
-  <string name="voip_enable_popup_msg">"キャリアから課金されることなく他のMIUIユーザーと通話できます。VoIPはWeihuiによってサポートされています。Weihuiのプライバシーポリシーを表示。"</string>
-  <string name="voip_enable_popup_msg2">プライバシーポリシー</string>
   <string name="wap_push_title">"[WAP Push] "</string>
   <string name="warning_show">%ds秒で送信</string>
   <string name="wild_msg_processing">処理中...</string>
