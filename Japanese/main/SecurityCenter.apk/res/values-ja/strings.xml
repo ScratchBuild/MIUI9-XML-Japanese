@@ -674,6 +674,7 @@
   <string name="float_window">"フローティングウインドウ"</string>
   <string name="float_window_summary">支持快速跳转至摇一摇与咻一咻页面</string>
   <string name="float_window_tips">小米手机就是快！</string>
+  <string name="forbid_autobright_title">"画面の明るさを固定する"</string>
   <string name="foreground_traffic">"フォアグラウンド %s"</string>
   <string name="forget_password_button_text">"<u>パスワードを忘れた場合</u>"</string>
   <string name="forget_password_button_text_normal">パスワードを忘れた場合</string>
@@ -692,6 +693,7 @@
   <string name="game_anti_disturb_msg">Game DND</string>
   <string name="game_booster">Game speed booster</string>
   <string name="game_booster_intro">"Game speed boosterについて"</string>
+  <string name="game_booster_jump_webview">"読み込み中…"</string>
   <string name="game_booster_title">Boost</string>
   <string name="game_improve_text1">"バックグラウンドキャッシュをクリアしてゲーム用のメモリを解放する"</string>
   <string name="game_improve_text2">"バックグラウンドキャッシュをクリアしてゲーム用のメモリを解放とCPUパフォーマンスを向上させる"</string>
@@ -701,7 +703,9 @@
   <string name="game_net_text2">"ネットワーク遅延を低減するためバックグラウンドのダウンロード速度を制限し、ゲームの接続速度を高める"</string>
   <string name="game_net_title">"接続速度を最適化"</string>
   <string name="game_setting">"ゲームの設定"</string>
-  <string name="gamebooster_main_activity_back">Back Game Speed Booster</string>
+  <string name="gamebooster_lowbattery_notification_summary">"電源を切る前に、端末を充電してください。"</string>
+  <string name="gamebooster_lowbattery_notification_title">"バッテリー残量が5%%未満です"</string>
+  <string name="gamebooster_main_activity_back">"戻る"</string>
   <string name="gamebooster_network_dialog_message">"Game speed boosterのすべての機能を使用するため、セキュリティアプリにネットワーク接続を許可しますか？"</string>
   <string name="gamebooster_network_dialog_title">"一部の機能が利用できません"</string>
   <string name="gateway_exception_summary">"ルーターを確認してもう一度お試しください。"</string>
@@ -715,8 +719,11 @@
   <string name="gs_app_back_self_start">Battery saver</string>
   <string name="gs_auto_clean_memory">"キャッシュを消去"</string>
   <string name="gs_auto_clean_memory_detail">"キャッシュを自動的に消去してゲームを最適化する"</string>
+  <string name="gs_call_handsfree">"ハンズフリーで応答"</string>
+  <string name="gs_call_handsfree_mute">"サイレントモード"</string>
   <string name="gs_dialog_confirm_close_msg">"ショートカットはホーム画面から削除されます。復元するには [セキュリティ] &gt; [設定] に移動します。"</string>
   <string name="gs_dialog_confirm_close_title">"オフにする"</string>
+  <string name="gs_forbid_autosync">"バックグラウンド同期を制限する"</string>
   <string name="gs_game_disturb_msg">DND</string>
   <string name="gs_game_duration">Time</string>
   <string name="gs_game_net_priority">"接続の優先度"</string>
@@ -793,13 +800,14 @@
   <string name="keywords_auto_restart">Autostart; Permissions;Auto start;Autostart; Manage autostart; MIUI autostart; App autostart; autostart apps;Chain start;chained start;triggered start</string>
   <string name="keywords_buy_flow">data;mobile data;buy data;buy mobile data;topup data;data plan</string>
   <string name="keywords_cleanmaster">Trash;Clear;Speed;Storage;Cache;Clear storage;clear trash;trash;free up;free up storage;free up space;clean;deep clean;cleaner</string>
+  <string name="keywords_gamebooster">Game;speed booster;Glory of the king;Performance mode;DND</string>
   <string name="keywords_networkassistant_1">Data;Traffic</string>
   <string name="keywords_networkassistant_2">Data;Calibrate</string>
   <string name="keywords_networkassistant_4">Connection;Internet;Test</string>
   <string name="keywords_powercenter">Save battery;Heating;Turn on;Turn off;Battery;Draining;Battery;Battery issues;Energy;Draining;Heating;Battery saver;Energy saver;Energy saving;Battery saving</string>
   <string name="keywords_powercenter_powerrank">Battery use</string>
   <string name="keywords_securitycenter">Security;Check;Scan</string>
-  <string name="keywords_securitycenter_settings">Battery usage;Manage autostart;Install via USB;App permissions;Buy mobile data;Blocklist;Data usage;Calibrate data plan;Test network; Save battery;Heating;Turn on;Turn off;Battery;Draining;Battery issues;Energy;Battery saver;Energy saver;Energy saving;Battery saving; Autostart;Permissions;Auto start;MIUI autostart; App autostart; autostart apps;Chain start;chained start;triggered start; USB install;install from computer;ADB install; Location;Access contacts; data;mobile data;buy data;topup data;data plan; Block;Black list;Smart blocklist;Fraud;Sales;Agents;Call blocklist;Message blocklist;Messaging blocklist;SMS blocklist;blacklist;black list;blocklist;block list;fraud;block contact;block contacts; Traffic; Calibrate; Connection;Internet;Test; Battery use</string>
+  <string name="keywords_securitycenter_settings">Battery usage;Manage autostart;Install via USB;App permissions;Buy mobile data;Blocklist;Data usage;Calibrate data plan;Test network; Save battery;Heating;Turn on;Turn off;Battery;Draining;Battery issues;Energy;Battery saver;Energy saver;Energy saving;Battery saving; Autostart;Permissions;Auto start;MIUI autostart; App autostart; autostart apps;Chain start;chained start;triggered start; USB install;install from computer;ADB install; Location;Access contacts; data;mobile data;buy data;topup data;data plan; Block;Black list;Smart blocklist;Fraud;Sales;Agents;Call blocklist;Message blocklist;Messaging blocklist;SMS blocklist;blacklist;black list;blocklist;block list;fraud;block contact;block contacts; Traffic; Calibrate; Connection;Internet;Test; Battery use; Game;speed booster;Glory of the king;Performance mode;DND</string>
   <string name="keywords_usb_install">USB install;install from computer;ADB install</string>
   <string name="label_callwait">Call waiting notification</string>
   <string name="label_mi_stats">Mi analytics</string>
@@ -992,6 +1000,7 @@ Carrier may charge you additional fees if you use mobile data connection again."
   <string name="name">"名前"</string>
   <string name="net_booster">Network speed boost</string>
   <string name="net_booster_expire_notification">Network speed boost session is about to end</string>
+  <string name="net_booster_expire_notification_tip">%d d remaining before Network speed boost session ends. Renew the session to avoid network speed problems.</string>
   <string name="net_booster_overdue_notification">Network speed boost session is about to end</string>
   <string name="net_booster_overdue_notification_tip">Network speed boost session will end soon. Renew the session?</string>
   <string name="net_booster_tip">Turn on Network speed boost to make WLAN connection more stable and reduce network delay.</string>
@@ -1190,6 +1199,7 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
   <string name="path_auto_restart">システムアプリ/セキュリティ/パーミッション/自動起動</string>
   <string name="path_buy_flow">システムアプリ/セキュリティ/データ使用量/モバイルデータを購入</string>
   <string name="path_cleanmaster">システムアプリ/セキュリティ/クリーナー</string>
+  <string name="path_gamebooster">システムアプリ/セキュリティ/Game speed booster</string>
   <string name="path_networkassistant_1">システムアプリ/セキュリティ/データ使用量</string>
   <string name="path_networkassistant_2">システムアプリ/セキュリティ/データ使用量</string>
   <string name="path_networkassistant_4">システムアプリ/セキュリティ/データ使用量/ネットワークをテスト</string>
@@ -1407,6 +1417,7 @@ While calibrating, MIUI will send a text message to your carrier to receive the 
   <string name="resource_auto_restart">"自動起動の管理"</string>
   <string name="resource_buy_flow">"モバイルデータを購入"</string>
   <string name="resource_cleanmaster">"クリーナー"</string>
+  <string name="resource_gamebooster">Game speed booster</string>
   <string name="resource_networkassistant_1">"データ使用量"</string>
   <string name="resource_networkassistant_2">"データプランを調整"</string>
   <string name="resource_networkassistant_4">"ネットワークをテスト"</string>
@@ -1777,6 +1788,7 @@ While calibrating, MIUI will send a text message to your carrier to receive the 
   <string name="tc_sms_report_upload_success">"Data usage report SMS submitted. We'll get right on it!"</string>
   <string name="tc_sms_report_upload_when_net">"ご意見ありがとうございます！"</string>
   <string name="text_button">OK</string>
+  <string name="thermal_tips_message">"パフォーマンスでゲームをプレイすると、過熱の問題が発生する場合があります。"</string>
   <string name="third_application">"インストール済みアプリ"</string>
   <string name="three_percent_total_pkg">%s (3%% of monthly data)</string>
   <string name="timeshow_h">"%.1f時間"</string>
@@ -1954,8 +1966,8 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="user_define_title">"ルールを追加"</string>
   <string name="virus_ad_icon_text">Ad</string>
   <string name="virus_auto_update_engine">"自動更新：%s"</string>
-  <string name="virus_update_tips_title">"Wi-Fiに接続する"</string>
-  <string name="virus_wait_network_dialog_message">"更新ファイルは大きいため、Wi-Fiに接続してダウンロードしてください。"</string>
+  <string name="virus_update_tips_title">"警告"</string>
+  <string name="virus_wait_network_dialog_message">"お使いの端末はWi-Fiに接続されていません。モバイルデータを使用すると料金がかかります。続行しますか？"</string>
   <string name="wakepath_confirm_start_activity">Allow %1$s to open %2$s?</string>
   <string name="website">"ウェブサイト"</string>
   <string name="white_list_risk_app_header">"危険なアプリ: %d"</string>

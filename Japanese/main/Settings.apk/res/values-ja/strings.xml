@@ -2116,7 +2116,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="memory_media_usage">メディア</string>
   <string name="memory_music_usage">音声（音楽、着信音、ポッドキャストなど）</string>
   <string name="memory_performance">パフォーマンス</string>
-  <string name="memory_rightvalue">利用可能: %s</string>
+  <string name="memory_rightvalue">合計: %s</string>
   <string name="memory_settings_title">メモリ</string>
   <string name="memory_size">合計容量</string>
   <string name="memory_title">空き容量: %1$s\u0009\u0009合計容量: %2$s</string>

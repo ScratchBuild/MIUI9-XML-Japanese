@@ -150,7 +150,7 @@
   <string name="tomorrow">"明日"</string>
   <string name="turn_off_a_repeat_alarm">"繰り返しアラームをオフにする"</string>
   <string name="turn_off_this_repeat_alarm">"この繰り返しアラームをオフにする"</string>
-  <string name="upcoming_alarm"> Upcoming alarm</string>
+  <string name="upcoming_alarm">%s Upcoming alarm</string>
   <string name="upcoming_alarm_hint">You can close this alarm in advance</string>
   <string name="vibrate_pref_summary">Vibrate when alarm sounds</string>
   <string name="vibrate_when_ringing">Vibrate when ringing</string>

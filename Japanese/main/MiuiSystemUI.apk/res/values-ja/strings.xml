@@ -201,6 +201,8 @@
   <string name="demo_mode">デモモード</string>
   <string name="description_direction_left">左にスライドして%sを行います。</string>
   <string name="description_direction_up">上にスライドして%sを行います。</string>
+  <string name="description_image_button_answer">応答</string>
+  <string name="description_image_button_reject">拒否</string>
   <string name="description_target_search">検索</string>
   <string name="dev_settings_warning_message">これらの設定は開発専用に設計されています。そのため端末や端末上のアプリが故障したり正常に動作しなくなったりするおそれがあります。</string>
   <string name="dev_settings_warning_title">開発用の設定を許可しますか？</string>
