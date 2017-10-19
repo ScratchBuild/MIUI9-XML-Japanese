@@ -2323,6 +2323,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="night_mode_title">テーマ</string>
   <string name="night_mode_yes">ダーク</string>
   <string name="no">いいえ</string>
+  <string name="no_account_found">アカウントを追加できるアプリはありません</string>
   <string name="no_application">なし</string>
   <string name="no_applications">アプリはありません。</string>
   <string name="no_battery_summary">前回のフル充電から電池を使用していません</string>
@@ -4701,7 +4702,7 @@ Android端末をUSBケーブルでコンピューターにつなぐことで、�
   <string name="wrong_pin_code_pukked">SIM PINコードが無効です。お使いの端末をロック解除するには携帯通信会社にお問い合わせいただく必要があります。</string>
   <string name="xiaomi_account">Miアカウント</string>
   <string name="xiaomi_cloud_service">Mi Cloud</string>
-  <string name="xiaomi_cloud_service_description">Mi Cloudは連絡先や写真の同期、アプリや設定のバックアップ、Find deviceを使用してお使いの端末を探す手助けをします。</string>
+  <string name="xiaomi_cloud_service_description">Mi Cloudは連絡先、写真、その他のアイテムをお使いの端末間で同期します。\"Find device\"が正常に動作するにはMi Cloudが必要です。</string>
   <string name="xiaomi_cloud_service_disabled">オフ</string>
   <string name="xiaomi_cloud_service_unknown">不明</string>
   <string name="xiaomi_money_service">Mi Credit</string>
