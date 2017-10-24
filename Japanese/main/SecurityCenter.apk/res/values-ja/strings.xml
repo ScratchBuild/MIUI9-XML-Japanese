@@ -871,12 +871,15 @@ Carrier may charge you additional fees if you use mobile data connection again."
   <string name="main_alert_message_no_imsi">"SIMカードが検出できません"</string>
   <string name="main_alert_message_open_traffic_ctrl">We recommend restricting data usage</string>
   <string name="main_bill_remained">Phone balance</string>
+  <string name="main_button_mi_sim_close">Activate Mi SIM</string>
+  <string name="main_button_mi_sim_open">"詳細を表示"</string>
   <string name="main_button_usage_adjust">"モバイルデータの使用量を同期"</string>
   <string name="main_button_usage_adjust_manual">"データ使用量の制限を設定"</string>
   <string name="main_button_usage_adjusting">"変更中…"</string>
   <string name="main_button_usage_adjusting_bill">"変更中…"</string>
   <string name="main_button_usage_package_setting">"データ使用量の制限を設定"</string>
   <string name="main_daily_package">Daily data plan</string>
+  <string name="main_indicator_title">Waiting for activation</string>
   <string name="main_leisure_remained">Off-peak data remaining</string>
   <string name="main_month_total_used">Used this month</string>
   <string name="main_month_used">"データプラン"</string>
@@ -893,6 +896,7 @@ Carrier may charge you additional fees if you use mobile data connection again."
   <string name="main_tc_over">Calibrated successfully</string>
   <string name="main_tc_send_sms">"Send SMS to calibrate"</string>
   <string name="main_tc_wait_result">"Waiting for the carrier to respond"</string>
+  <string name="main_tobe_added_desc">Mobile data from ¥0.03/MB</string>
   <string name="main_today_used">Used today</string>
   <string name="main_toolbar_firewall">"データ使用量の制限"</string>
   <string name="main_toolbar_internet_by_mobiledata">"モバイルデータ"</string>
@@ -1968,6 +1972,8 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="virus_auto_update_engine">"自動更新：%s"</string>
   <string name="virus_update_tips_title">"警告"</string>
   <string name="virus_wait_network_dialog_message">"お使いの端末はWi-Fiに接続されていません。モバイルデータを使用すると料金がかかります。続行しますか？"</string>
+  <string name="vpn_disabled_by_user">"指定されたデータ接続はオフです"</string>
+  <string name="vpn_unbale_get_phonenum">"指定されたデータプランを使用して電話番号を取得できません"</string>
   <string name="wakepath_confirm_start_activity">Allow %1$s to open %2$s?</string>
   <string name="website">"ウェブサイト"</string>
   <string name="white_list_risk_app_header">"危険なアプリ: %d"</string>

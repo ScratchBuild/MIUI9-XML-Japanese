@@ -89,6 +89,7 @@ to be able to view them anytime"</string>
   <string name="exit_private_space">"切り替え"</string>
   <string name="finger_print_num">Fingerprint %d</string>
   <string name="finger_print_of_use">"指紋認証を使用"</string>
+  <string name="fingerprint_number_upper_limit">"失敗したロック解除の試行回数が多すぎます"</string>
   <string name="fingerprint_removal_failed">"指紋を削除できませんでした"</string>
   <string name="function_not_support">"この端末ではサポートされていません"</string>
   <string name="gms_message">"デュアルアプリを作成するにはGoogleサービスを使用する必要があります。Googleサービスのデュアルアプリを作成しますか？"</string>
@@ -194,7 +195,7 @@ to enter Second space from Lock screen"</string>
   <string name="scanner_fingerprint_tips_desc">"Select existing fingerprint to enter Second space. You won't be able to use it in First space."</string>
   <string name="scanner_fingerprint_tips_title">Enter Second space using existing fingerprint</string>
   <string name="scanner_second_space_fingerprint">Scan Second space fingerprint</string>
-  <string name="sdcardfs_dialog_message">"Second spaceに切り替える前に開発者向けオプションから\"疑似SDカードの最適化\"をオフにしてください。"</string>
+  <string name="sdcardfs_dialog_message">"Second spaceに切り替える前に [設定] &gt; [その他の設定] &gt; [開発者向けオプション] から \"疑似SDカードの最適化\" をオフにしてください。"</string>
   <string name="search_result_text">"アプリが見つかりませんでした"</string>
   <string name="secondSpace">Second space</string>
   <string name="second_owner_finger_print">Second space fingerprint</string>
