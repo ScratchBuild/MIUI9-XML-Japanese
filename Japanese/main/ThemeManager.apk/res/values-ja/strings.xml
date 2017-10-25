@@ -57,6 +57,7 @@
   <string name="fail_to_add_account">"アカウントが追加できません"</string>
   <string name="favorite_list">"お気に入り"</string>
   <string name="favorite_list_format">"お気に入り %1$s"</string>
+  <string name="find_more_theme">"もっと探す"</string>
   <string name="find_more_wallpapers">"もっと探す"</string>
   <string name="gift_anonymous">"匿名"</string>
   <string name="gift_operation_fail_dlg_abandon">"キャンセル"</string>
@@ -130,17 +131,9 @@
   <string name="my_gifts_received">"受取済み"</string>
   <string name="no_data">"ネットワークに接続できません"</string>
   <string name="online_no_network">"ネットワークに接続できません"</string>
-  <string name="online_precust_animal">"動物"</string>
-  <string name="online_precust_building">"建物"</string>
-  <string name="online_precust_cartoon">Cartoon</string>
-  <string name="online_precust_creative">Creative</string>
-  <string name="online_precust_entertainment">Entertainment</string>
-  <string name="online_precust_lifestyle">生活</string>
   <string name="online_search_hint">"オンラインリソースを検索"</string>
-  <string name="online_precust_plant">植物</string>
-  <string name="online_precust_scenery">風景</string>
-  <string name="online_precust_starry_sky">星空</string>
-  <string name="present_local_themes">"ダウンロード済み"</string>
+  <string name="present_local_themes">"ダウンロード済みテーマ"</string>
+  <string name="present_official_themes">"公式セレクション"</string>
   <string name="present_online_themes">"オンラインテーマを入手"</string>
   <string name="provision_loading_tips">"読み込み中…"</string>
   <string name="provision_second_title">Select one of the several default themes</string>

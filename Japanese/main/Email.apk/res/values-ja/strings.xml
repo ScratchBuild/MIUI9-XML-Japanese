@@ -73,6 +73,7 @@
   <string name="account_setup_basics_email_label">"アカウントIDを入力"</string>
   <string name="account_setup_basics_login_gmail_without_proxy">"現在のネットワーク接続を使用してログイン"</string>
   <string name="account_setup_basics_manual_setup_action">"手動セットアップ"</string>
+  <string name="account_setup_basics_mi_mail_login_help">mi Mail login successfully, check the SMS, activate the link to send and receive mail Oh!</string>
   <string name="account_setup_basics_password_label">"パスワードを入力"</string>
   <string name="account_setup_basics_title">"アカウント設定"</string>
   <string name="account_setup_check_settings_check_incoming_msg">"サーバー設定を確認しています…"</string>
@@ -562,6 +563,7 @@
   <string name="meeting_canceled">"キャンセルしました: %s"</string>
   <string name="meeting_declined">"辞退しました: %s"</string>
   <string name="meeting_recurring">"日時: %s (繰り返し)"</string>
+  <string name="meeting_responded_failed">"応答エラー"</string>
   <string name="meeting_tentative">"仮承諾: %s"</string>
   <string name="meeting_updated">"更新されました: %s"</string>
   <string name="meeting_when">"日時: %s"</string>
