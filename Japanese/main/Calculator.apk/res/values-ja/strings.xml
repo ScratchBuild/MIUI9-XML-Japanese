@@ -384,6 +384,7 @@
   <string name="tuesday">"火曜日"</string>
   <string name="tuesday_short">"火"</string>
   <string name="tuesday_shortest">T</string>
+  <string name="unit_data_default_currency_0">JPY</string>
   <string name="unit_data_display_area_acre">エーカー</string>
   <string name="unit_data_display_area_are">アール</string>
   <string name="unit_data_display_area_ha">ヘクタール</string>
