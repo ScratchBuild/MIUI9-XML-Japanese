@@ -149,8 +149,8 @@
   <string name="michat_finish_text">"完了"</string>
   <string name="michat_in_artificial_customer_state">"ヘルプを受けている間にこれを行うことはできません"</string>
   <string name="michat_invalid_url">"無効なURL"</string>
-  <string name="michat_invation_invite_fail">Sorry, our support workers are busy now. Try again later.</string>
-  <string name="michat_invation_invite_full">Sorry, our support workers are all busy now. Try again later.</string>
+  <string name="michat_invation_invite_fail">"申し訳ありませんが、現在サポートが混み合っています。しばらくしてからもう一度お試しください。"</string>
+  <string name="michat_invation_invite_full">"申し訳ありませんが、現在サポートが非常に混み合っています。しばらくしてからもう一度お試しください。"</string>
   <string name="michat_kefu_welcome">"Xiaomiオンラインサポートへようこそ！"</string>
   <string name="michat_lose_artificial">"ネットワークエラーが発生したため、チャットから退室しました"</string>
   <string name="michat_menu_copy_text">"コピー"</string>
@@ -186,11 +186,11 @@
   <string name="michat_wait_for_a_moment">"少々お待ちください、すぐ助けに向かいます！"</string>
   <string name="michat_webview_title">"詳細を表示"</string>
   <string name="min_error">Your %1$s should be longer.</string>
-  <string name="mobile_data_note_dialog_cancel">Wait for WLAN</string>
-  <string name="mobile_data_note_dialog_confirm">Upload</string>
-  <string name="mobile_data_note_dialog_content">Using mobile data to upload logs may generate additional fees.</string>
-  <string name="mobile_data_note_dialog_content_with_file_size">Uploading logs using mobile data connection will require %sMB of data.</string>
-  <string name="mobile_data_note_dialog_title">Data usage warning</string>
+  <string name="mobile_data_note_dialog_cancel">"Wi-Fi接続を待機"</string>
+  <string name="mobile_data_note_dialog_confirm">"アップロード"</string>
+  <string name="mobile_data_note_dialog_content">"モバイルデータを使用してログをアップロードすると、追加料金が発生する場合があります。"</string>
+  <string name="mobile_data_note_dialog_content_with_file_size">"モバイルデータ接続を使用してログをアップロードするには、%sMBのデータが必要です。"</string>
+  <string name="mobile_data_note_dialog_title">"データ使用量の警告"</string>
   <string name="modem_tool_log_dumping_desc">"停止するにはアイコンをタップ"</string>
   <string name="modem_tool_log_dumping_title">"モデムログのキャプチャ中"</string>
   <string name="modem_tool_log_finish_desc">"%sにログを保存しました"</string>

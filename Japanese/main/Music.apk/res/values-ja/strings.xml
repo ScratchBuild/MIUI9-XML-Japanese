@@ -270,9 +270,9 @@ is mainly provided by Ultimate Inc."</string>
   <string name="download_traffic_dialog_negative_button">"Wi-Fi接続を待機"</string>
   <string name="download_traffic_dialog_position_button">"ダウンロード"</string>
   <string name="download_traffic_dialog_position_button_serious">"ダウンロードを継続"</string>
-  <string name="download_traffic_dialog_title">Data usage warning</string>
-  <string name="download_traffic_dialog_title_beyond">Data usage exceeded</string>
-  <string name="download_traffic_dialog_title_serious">Too little mobile data left</string>
+  <string name="download_traffic_dialog_title">"データ使用量の警告"</string>
+  <string name="download_traffic_dialog_title_beyond">"データ使用量が制限に達しました"</string>
+  <string name="download_traffic_dialog_title_serious">"モバイルデータの残りがわずかです"</string>
   <string name="download_unknown_title">"&lt;無題>"</string>
   <string name="download_wait_connect">"接続を待機中"</string>
   <string name="download_when_network_connected">"インターネットに接続してダウンロード"</string>
@@ -433,7 +433,7 @@ is mainly provided by Ultimate Inc."</string>
   <string name="local_page_playlist">My playlists</string>
   <string name="local_page_song_all">"すべての曲"</string>
   <string name="local_page_song_download">Local songs</string>
-  <string name="local_page_song_download_history">Downloads</string>
+  <string name="local_page_song_download_history">"ダウンロード"</string>
   <string name="local_page_song_favorite">Favorite songs</string>
   <string name="local_tracks_short">Offline</string>
   <string name="lrc_search_failed">"歌詞が見つかりませんでした"</string>
@@ -457,7 +457,7 @@ is mainly provided by Ultimate Inc."</string>
   <string name="metered_alert_msg">"モバイルデータを使用して曲を再生します。とにかく再生しますか？"</string>
   <string name="metered_alert_msg_with_data">"%s のモバイルデータが残っています。モバイルデータを使用して曲を再生しますか？"</string>
   <string name="metered_allow">"再生"</string>
-  <string name="metered_beyond_alert">Data usage exceeded</string>
+  <string name="metered_beyond_alert">"データ使用量が制限に達しました"</string>
   <string name="metered_disallow">"後で"</string>
   <string name="metered_play_toast">"モバイルデータを使用して曲を再生"</string>
   <string name="metered_play_toast_with_beyond_data">"モバイルデータを使用して曲を再生。制限を %s 超過しました"</string>
@@ -511,7 +511,7 @@ is mainly provided by Ultimate Inc."</string>
   <string name="music_service">Music Service</string>
   <string name="music_settings">Music</string>
   <string name="music_traffic">Mi Music data plan</string>
-  <string name="music_traffic_summary">Listen and download songs without using data</string>
+  <string name="music_traffic_summary">"データ接続を使わずに曲を聴いたりダウンロードする"</string>
   <string name="my_account">Mi Account</string>
   <string name="my_music_empty">"プレイリストは空です。"</string>
   <string name="my_music_empty_goto_online">"曲が見つかりませんでした"</string>
@@ -594,7 +594,7 @@ is mainly provided by Ultimate Inc."</string>
   <string name="online_switch_setting">Online content settings</string>
   <string name="open_download">"開く"</string>
   <string name="open_online_service">You need to turn on online services to use this feature. Turn on now?</string>
-  <string name="open_service">Turn on</string>
+  <string name="open_service">"オンにする"</string>
   <string name="order_pending">Awaiting confirmation</string>
   <string name="order_process_fail">"Couldn't authorize your account. Wait a few minutes and try again."</string>
   <string name="other_filter">"その他"</string>
@@ -806,7 +806,7 @@ is mainly provided by Ultimate Inc."</string>
   <string name="tab_track_list">Songs</string>
   <string name="take_effect_afater_restart">You need to restart the app for this setting to take effect.</string>
   <string name="talkback_back">"戻る"</string>
-  <string name="talkback_device">Play on other devices</string>
+  <string name="talkback_device">"他の端末で再生する"</string>
   <string name="talkback_download">"ダウンロード"</string>
   <string name="talkback_favorite">Like this song</string>
   <string name="talkback_mode">Loop playlist</string>

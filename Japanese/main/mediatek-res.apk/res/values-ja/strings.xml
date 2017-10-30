@@ -32,16 +32,16 @@
   <string name="confirm_button_turn_on">オンにする</string>
   <string name="confirm_button_unlock">ロック解除</string>
   <string name="confirm_button_yes">はい</string>
-  <string name="confirm_flight_mode_msg">To use the number, first turn off Airplane mode.</string>
-  <string name="confirm_flight_mode_radio_msg">To use the number, first turn off Airplane mode and turn the SIM on.</string>
-  <string name="confirm_flight_mode_radio_title">Airplane mode on and SIM off</string>
-  <string name="confirm_flight_mode_title">Airplane mode on</string>
-  <string name="confirm_radio_msg">To use the number, first turn it on.</string>
-  <string name="confirm_radio_title">SIM off</string>
-  <string name="confirm_roaming_msg">The SIM card is roaming. Continue to use it?</string>
-  <string name="confirm_roaming_title">Roaming warning</string>
-  <string name="confirm_unlock_msg">To use the SIM card, first unlock it.</string>
-  <string name="confirm_unlock_title">SIM locked</string>
+  <string name="confirm_flight_mode_msg">番号を使用するには、まず機内モードをオフにします。</string>
+  <string name="confirm_flight_mode_radio_msg">番号を使用するには、まず機内モードをオフにしてSIMをオンにします。</string>
+  <string name="confirm_flight_mode_radio_title">機内モードがオンでSIMがオフになっています</string>
+  <string name="confirm_flight_mode_title">機内モードがオンになっています</string>
+  <string name="confirm_radio_msg">番号を使用するには、まずSIMをオンにします。</string>
+  <string name="confirm_radio_title">SIMがオフになっています</string>
+  <string name="confirm_roaming_msg">SIMカードがローミング中です。このまま使用を続けますか？</string>
+  <string name="confirm_roaming_title">ローミングの警告</string>
+  <string name="confirm_unlock_msg">SIMカードを使用するには、まずSIMカードのロックを解除します。</string>
+  <string name="confirm_unlock_title">SIMがロックされています</string>
   <string name="contact_widget_loading">読み込み中…</string>
   <string name="cu_3gnet_name">沃3G连接互联网</string>
   <string name="cu_3gnet_name_in_lte">沃宽带用户连接互联网</string>
@@ -105,8 +105,6 @@
   <string name="media_controller_playing">再生中</string>
   <string name="media_info_audio_not_supported">オーディオの再生に失敗しました。</string>
   <string name="media_info_video_not_supported">この動画はサポートされていません。</string>
-  <string name="month_day_year_wday" formatted="false">%s %s, %s, %s</string>
-  <string name="month_year_day_wday" formatted="false">%s %s %s, %s</string>
   <string name="network_forbidden">禁止</string>
   <string name="new_sim">新しいSIM</string>
   <string name="permdesc_bindTerminal">"An app with this permission can bind to the System's OMAPI Terminals. Only SmartcardService should use it."</string>

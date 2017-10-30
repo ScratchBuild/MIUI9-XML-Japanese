@@ -1039,9 +1039,9 @@ directly from your Lock screen"</string>
   <string name="today">"今日"</string>
   <string name="tomorrow">"明日"</string>
   <string name="tune_from_first_channel">Tune from first channel</string>
-  <string name="turn_off">Turn off</string>
+  <string name="turn_off">"オフにする"</string>
   <string name="turn_off_timeing_time_tip">AC will be turned off at %1$s</string>
-  <string name="turn_on">Turn on</string>
+  <string name="turn_on">"オンにする"</string>
   <string name="turn_on_timeing_time_tip">AC will be turned on at %1$s</string>
   <string name="tv">TV</string>
   <string name="tv_broadcast">"TVとラジオ"</string>
