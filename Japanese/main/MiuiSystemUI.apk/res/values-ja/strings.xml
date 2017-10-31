@@ -467,7 +467,7 @@ EEEE"</string>
   <string name="status_bar_date_format_12">"M月d日
 EEEE"</string>
   <string name="status_bar_network_flow_content">"今日: %1$s   残り: %2$s"</string>
-  <string name="status_bar_network_flow_exceed_content">今日: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;超過: &lt;font color=%2$s>%3$s&lt;/font></string>
+  <string name="status_bar_network_flow_exceed_content">今日: %1$s   超過: &lt;font color=%2$s>%3$s&lt;/font></string>
   <string name="status_bar_network_flow_limit">"   月間制限: %1$s   "</string>
   <string name="status_bar_network_flow_purchase">"   購入 >"</string>
   <string name="status_bar_network_flow_today">今日: %1$s</string>
