@@ -7,43 +7,24 @@
         <item>CNY</item>
         <item>HKD</item>
     </string-array>
-    <string-array name="operators">
-        <item>(</item>
-        <item>)</item>
-        <item>!</item>
-        <item>ln</item>
-        <item>log</item>
-        <item>√</item>
-        <item>÷</item>
-        <item>×</item>
-        <item>+</item>
-        <item>−</item>
-        <item>.</item>
-        <item>^</item>
-        <item>tan</item>
-        <item>sin</item>
-        <item>cos</item>
-        <item>π</item>
-        <item>=</item>
-    </string-array>
     <string-array name="operatorDescs">
-        <item>left parenthesis</item>
-        <item>right parenthesis</item>
-        <item>factorial</item>
-        <item>natural logarithm</item>
-        <item>logarithm</item>
-        <item>square root</item>
-        <item>divided by</item>
-        <item>multiplied by</item>
-        <item>plus</item>
-        <item>minus</item>
-        <item> point </item>
-        <item>power</item>
-        <item>tangent</item>
-        <item>sine</item>
-        <item>cosine</item>
-        <item>pi</item>
-        <item>equals</item>
+        <item>左丸括弧</item>
+        <item>右丸括弧</item>
+        <item>階乗</item>
+        <item>自然対数</item>
+        <item>対数</item>
+        <item>平方根</item>
+        <item>割る</item>
+        <item>掛ける</item>
+        <item>足す</item>
+        <item>引く</item>
+        <item>小数点</item>
+        <item>べき乗</item>
+        <item>正接(タンジェント)</item>
+        <item>正弦(サイン)</item>
+        <item>余弦(コサイン)</item>
+        <item>円周率</item>
+        <item>イコール</item>
     </string-array>
     <string-array name="mortgage_repayment">
         <item>均等分割払い</item>

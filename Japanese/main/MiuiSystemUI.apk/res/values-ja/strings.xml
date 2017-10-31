@@ -272,7 +272,7 @@
 付属の充電器を使用してください。"</string>
   <string name="keep_screen_on">スリープモードにしない</string>
   <string name="keep_screen_on_summary">充電中に画面をスリープにしない</string>
-  <string name="keyboard_shortcut_group_system_recents">Recents</string>
+  <string name="keyboard_shortcut_group_system_recents">履歴</string>
   <string name="label_view">表示</string>
   <string name="launch_defaults_none">既定の設定なし</string>
   <string name="launch_defaults_some">一部デフォルトを設定</string>
@@ -489,7 +489,6 @@ EEEE"</string>
   <string name="status_bar_safepay_scanning">支払い環境を確認しています…</string>
   <string name="status_bar_safepay_unknown">支払い環境を確認できませんでした</string>
   <string name="status_bar_settings_airplane">機内モード</string>
-  <string name="status_bar_settings_battery_meter_format">%d%%</string>
   <string name="status_bar_settings_signal_meter_disconnected">インターネット接続なし</string>
   <string name="status_bar_settings_signal_meter_wifi_nossid">Wi-Fi接続済み</string>
   <string name="status_bar_style_settings">通知</string>
@@ -517,8 +516,7 @@ EEEE"</string>
   <string name="usb_audio_disable_routing">USBオーディオルーティングを無効化</string>
   <string name="usb_audio_disable_routing_summary">USBオーディオ周辺機器への自動ルーティングを無効化</string>
   <string name="usb_debugging_always">このコンピューターを常に許可する</string>
-  <string name="usb_debugging_message">"このコンピューターのRSAキーフィンガープリント:
-%1$s"</string>
+  <string name="usb_debugging_message">"このコンピューターのRSAキーフィンガープリント:\n%1$s"</string>
   <string name="usb_debugging_title">USBデバッグを許可しますか？</string>
   <string name="usb_device_confirm_prompt">このUSBデバイスが接続された際に %1$s を開きますか？</string>
   <string name="usb_device_permission_prompt">アプリ %1$s のUSBデバイスアクセスを許可しますか？</string>

@@ -20,7 +20,6 @@
   <string name="cal_copy">コピー</string>
   <string name="cal_edit_mode">編集モード</string>
   <string name="cal_paste">貼り付け</string>
-  <string name="cal_result_format">= %s</string>
   <string name="cal_text_copied">テキストをコピーしました</string>
   <string name="check_phone_error_title">同期はオフです</string>
   <string name="check_phone_io_error">ネットワークに接続できません</string>
@@ -123,7 +122,7 @@
   <string name="friday">金曜日</string>
   <string name="friday_short">金</string>
   <string name="friday_shortest">F</string>
-  <string name="from_unit_en">Kilometer per hour</string>
+  <string name="from_unit_en">キロメートル毎時</string>
   <string name="from_unit_short">km/h</string>
   <string name="golbal_search_path_calculator_setting">システムアプリ/電卓/設定</string>
   <string name="home_title_calculator">電卓</string>
@@ -296,7 +295,6 @@
   <string name="sunday_short">"日"</string>
   <string name="sunday_shortest">S</string>
   <string name="sync_one_time_sync">"タップして同期 ( %1$s )"</string>
-  <string name="tan">tan</string>
   <string name="tanDesc">正接(タンジェント)</string>
   <string name="tax_accumulation_fund">積立金</string>
   <string name="tax_annual_bonus_hint">税込ボーナス額を入力</string>
