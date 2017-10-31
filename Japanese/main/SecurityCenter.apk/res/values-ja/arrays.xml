@@ -55,8 +55,6 @@
         <item>"アプリ名"</item>
         <item>"使用頻度"</item>
         <item>"ストレージ使用"</item>
-        <item>"データ使用量"</item>
-        <item>"バッテリー使用量"</item>
         <item>Installation time</item>
     </string-array>
     <string-array name="sort_title">
@@ -64,8 +62,6 @@
         <item>"アプリ名順"</item>
         <item>"使用頻度順"</item>
         <item>"ストレージ使用順"</item>
-        <item>"データ使用量順"</item>
-        <item>"バッテリー使用量順"</item>
         <item>Sort by Installation time</item>
     </string-array>
     <string-array name="title_app_info">

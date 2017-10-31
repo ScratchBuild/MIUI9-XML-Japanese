@@ -67,6 +67,7 @@ to be able to view them anytime"</string>
   <string name="delete_phone_fingerprint">"Second spaceの指紋認証を削除"</string>
   <string name="delete_src_file">"ファイルを削除する"</string>
   <string name="delete_src_photo">"写真を削除する"</string>
+  <string name="dialog_title">"注意"</string>
   <string name="dir_switch_out_all_photos">Second space Gallery</string>
   <string name="disable">"オフにする"</string>
   <string name="do_not_ask">"二度と表示しない"</string>
@@ -159,6 +160,7 @@ You can also download them separately."</string>
   <string name="openPasswordGuard">"Second spaceのパスワードを設定"</string>
   <string name="openSuccess">"オンにしました"</string>
   <string name="opened">On</string>
+  <string name="optimize_now">"最適化"</string>
   <string name="other">"その他"</string>
   <string name="otherSettings">"その他の設定"</string>
   <string name="passWordGuardSummary">Enter Second space from Lock screen using a password</string>
@@ -195,7 +197,7 @@ to enter Second space from Lock screen"</string>
   <string name="scanner_fingerprint_tips_desc">"Select existing fingerprint to enter Second space. You won't be able to use it in First space."</string>
   <string name="scanner_fingerprint_tips_title">Enter Second space using existing fingerprint</string>
   <string name="scanner_second_space_fingerprint">Scan Second space fingerprint</string>
-  <string name="sdcardfs_dialog_message">"Second spaceに切り替える前に [設定] &gt; [その他の設定] &gt; [開発者向けオプション] から \"疑似SDカードの最適化\" をオフにしてください。"</string>
+  <string name="sdcardfs_dialog_message">"古いデータが新しいファイルシステムと互換性がない可能性があります。Second spaceに切り替える前にデータを最適化し、端末を再起動します。"</string>
   <string name="search_result_text">"アプリが見つかりませんでした"</string>
   <string name="secondSpace">Second space</string>
   <string name="second_owner_finger_print">Second space fingerprint</string>

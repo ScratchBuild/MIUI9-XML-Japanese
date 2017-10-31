@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="action_add_to_workspace">"ホーム画面に追加"</string>
   <string name="activity_not_found">"アプリがインストールされていません"</string>
   <string name="add_screen">"画面を追加"</string>
   <string name="app_already_exist">"アプリは既にインストール済みです"</string>

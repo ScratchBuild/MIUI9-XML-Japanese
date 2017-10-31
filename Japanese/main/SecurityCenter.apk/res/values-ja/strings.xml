@@ -13,8 +13,10 @@
   <string name="ac_enter_applock">"アプリロックに切り替える"</string>
   <string name="ac_firstUseApplock_subTitle">"システムレベルのより優れたセキュリティツールを使用する"</string>
   <string name="ac_firstUseApplock_title">"アプリを保護するためのパスワードを設定する"</string>
+  <string name="ac_mask_all_apps">"すべてのアプリを非表示"</string>
   <string name="ac_summaryOff">"オフにしました、アプリを開くのにパスワードは不要です"</string>
   <string name="ac_summaryOn">"オンにしました、アプリを開くにはパスワードが必要です"</string>
+  <string name="ac_unmask_all_apps">"すべてのアプリを表示"</string>
   <string name="access_control_app_is_launching">"アプリを起動中"</string>
   <string name="access_control_failed_need_to_unlock_nofingerprint">"新しい指紋を使用するためにロック解除のパターンを描画"</string>
   <string name="access_control_fingerprint_not_identified_msg">"指紋を読み取れませんでした。"</string>
@@ -129,6 +131,8 @@
   <string name="app_manager_app_update">"更新"</string>
   <string name="app_manager_app_version_name">"バージョン:"</string>
   <string name="app_manager_appupdate_remind">"更新に関する通知"</string>
+  <string name="app_manager_as_dlg_msg">"アプリの自動起動を許可すると、RAMとバッテリーの追加リソースが必要になることがあります。とにかく許可しますか？"</string>
+  <string name="app_manager_as_dlg_title">"注意"</string>
   <string name="app_manager_back">"戻る"</string>
   <string name="app_manager_bipartition">"デュアルアプリ"</string>
   <string name="app_manager_card_permission_title">Permissions</string>
@@ -138,6 +142,7 @@
   <string name="app_manager_clear_failed_dlg_message">"アプリのデータを削除できませんでした。"</string>
   <string name="app_manager_clear_failed_dlg_title">"データを削除"</string>
   <string name="app_manager_copy_pkg_to_clip">"クリップボードにコピーしました"</string>
+  <string name="app_manager_default_cleared">"消去済み"</string>
   <string name="app_manager_default_close_summary">"既定の設定なし。"</string>
   <string name="app_manager_default_open">"既定で開く"</string>
   <string name="app_manager_default_open_summary">You’ve chosen to launch this app by default for some actions.</string>
@@ -162,11 +167,13 @@
   <string name="app_manager_globel_other_perm_title">"その他のアクセス許可"</string>
   <string name="app_manager_globel_perm_summary">"位置情報、ストレージ、通話、メッセージ、連絡先に関するアクセス許可を管理します。"</string>
   <string name="app_manager_globel_perm_title">"アプリのアクセス許可"</string>
+  <string name="app_manager_has_not_data">"データはありません"</string>
   <string name="app_manager_have_not_consume">None</string>
   <string name="app_manager_hide_system_server">"システムサービスを非表示"</string>
   <string name="app_manager_instruction">Instruction</string>
   <string name="app_manager_loading_data">"データを読み込み中…"</string>
   <string name="app_manager_manage_space">"spaceの管理"</string>
+  <string name="app_manager_memory">RAM</string>
   <string name="app_manager_menu_clear_data">"データを消去"</string>
   <string name="app_manager_net_control_title">"データ使用量を制限"</string>
   <string name="app_manager_net_mobile">"データ"</string>
@@ -1004,6 +1011,7 @@ Carrier may charge you additional fees if you use mobile data connection again."
   <string name="monitor_app_more">"その他"</string>
   <string name="monitor_requests_from_pc">"USB経由でアプリのインストールを管理"</string>
   <string name="more_game">"その他のゲーム"</string>
+  <string name="more_lock">"その他"</string>
   <string name="name">"名前"</string>
   <string name="net_booster">Network speed boost</string>
   <string name="net_booster_expire_notification">Network speed boost session is about to end</string>
@@ -1076,8 +1084,10 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
   <string name="notification_exit_power_save_mode">Turned off Battery saver</string>
   <string name="notification_exit_power_save_mode_subtitle">Battery %s charged.</string>
   <string name="notification_item">"アプリロックでアプリを保護する"</string>
-  <string name="notification_mask_summary">"ロック画面と通知シェードに通知の内容を表示しない"</string>
+  <string name="notification_mask_summary">"ロック画面と通知シェードで通知内容を非表示にする"</string>
   <string name="notification_mask_title">"内容を非表示"</string>
+  <string name="notification_masked_item">"通知を非表示"</string>
+  <string name="notification_masked_subtitle">"アプリロックで保護されているアプリからの通知を非表示"</string>
   <string name="notification_subtitle">"オンにするにはタップ"</string>
   <string name="notification_summary_cmcc_app_check">"詳細を表示するにはタップ。"</string>
   <string name="notify_daily_data_usage_body">To limit data usage automatically, set up your monthly data plan.</string>
@@ -1671,8 +1681,17 @@ While calibrating, MIUI will send a text message to your carrier to receive the 
   <string name="start_diagnostic_botton">"開始"</string>
   <string name="start_downloading_app">Starting download: %1$s</string>
   <string name="start_game">"起動"</string>
+  <string name="status_bar_network_flow_content">"今日: %1$s   残り: %2$s"</string>
+  <string name="status_bar_network_flow_content_not_setting">今日: %1$s   今月: %2$s</string>
+  <string name="status_bar_network_flow_exceed_content">今日: %1$s   超過: &lt;font color=%2$s>%3$s&lt;/font></string>
+  <string name="status_bar_network_flow_phone_balance">"   電話の残高:%1$s "</string>
+  <string name="status_bar_network_flow_purchase">"   購入 >"</string>
+  <string name="status_bar_network_flow_setup_data_plan">"   データプランを設定 >"</string>
+  <string name="status_bar_network_flow_today">今日: %1$s</string>
   <string name="still_retain_btn">Keep</string>
   <string name="suggest_app_tolock">Suggestions</string>
+  <string name="suggest_app_tolock_masked">"非表示にする"</string>
+  <string name="suggest_app_tolock_unmasked">"通知を表示する"</string>
   <string name="suggest_scan_again">Complete the scan to avoid security risks.</string>
   <string name="summary_app_lock_disable">"アプリロックでデータを保護する"</string>
   <string name="summary_auto_update">MIUI will select the most suitable time to download and install updates.</string>
