@@ -1307,7 +1307,6 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="edge_mode_photo_summary">カメラアプリを使用中は、エッジをタップするとシャッターをトリガーし、もう一度タップで写真を撮ります</string>
   <string name="edge_mode_screenshot">スクリーンショット</string>
   <string name="edge_mode_screenshot_summary">両方のエッジをダブルタップするとスクリーンショットを撮ります</string>
-  <string name="edge_touch_volume">エッジの音量を調整する</string>
   <string name="edit_rule">ルールを編集</string>
   <string name="edit_rules">編集</string>
   <string name="emergency_tone_alert">アラート</string>
@@ -2170,7 +2169,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="miui_lab_taplus_desc">アイテムを長押ししてアクションをトリガーする</string>
   <string name="miui_lab_taplus_title">起動するアプリ</string>
   <string name="miui_screen_config_title">ホーム画面の設定</string>
-  <string name="miui_updater">Updater</string>
+  <string name="miui_updater">システムの更新</string>
   <string name="mms_breathing_light_color_title">メッセージLEDの色</string>
   <string name="mms_breathing_light_freq_title">メッセージLEDを点滅させる</string>
   <string name="mms_privacy_password_role_instruction">プライベートな連絡先とあなたとの会話はここに保存されます。</string>
@@ -2466,7 +2465,6 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="page_layout_page2_small_title">Extra small</string>
   <string name="page_layout_page2_title">プレビュー</string>
   <string name="page_layout_small_title">XS</string>
-  <string name="palm_enabled">カバーを閉じたときに画面をオフにする</string>
   <string name="paper_mode_auto_twilight_summary">日没後、自動的に読書モードに切り替える</string>
   <string name="paper_mode_auto_twilight_title">"Good night's read"</string>
   <string name="paper_mode_customize_time_summary">Turn on Reading mode for a custom period</string>
@@ -3743,7 +3741,6 @@ PINが正しくない可能性があります。"</string>
   <string name="supl_not_set">&lt;未設定></string>
   <string name="supplicant_state_label">申請者の状態:</string>
   <string name="sure_sync_now">今すぐアイテムを同期しますか？</string>
-  <string name="suspend_gesture_enabled">画面をオフにするには電話を裏返す</string>
   <string name="suw_back_button_label">戻る</string>
   <string name="suw_more_button_label">その他</string>
   <string name="suw_next_button_label">次へ</string>

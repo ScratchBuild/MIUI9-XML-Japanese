@@ -830,12 +830,6 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>左手スタイル</item>
         <item>右手スタイル</item>
     </string-array>
-    <string-array name="edge_touch_volume_action">
-        <item>タップして調整 - ダブルタップしてトリガー</item>
-        <item>スライドして調整 - スライドしてトリガー</item>
-        <item>タップして調整 - タップしてトリガー</item>
-        <item>タップして調整 - 長押ししてトリガー</item>
-    </string-array>
     <string-array name="silent_mode_duration_text">
         <item>常に</item>
         <item>30分</item>
