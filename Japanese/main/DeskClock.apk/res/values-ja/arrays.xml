@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="stat_volume_button_behaviors">
-        <item>无</item>
+        <item>"何もしない"</item>
         <item>"スヌーズ"</item>
-        <item>关闭</item>
+        <item>"閉じる"</item>
     </string-array>
     <string-array name="alarm_in_furture">
         <item>Alarm in less than 1 minute</item>
@@ -21,18 +21,18 @@
         <item>"明日"</item>
     </string-array>
     <string-array name="alarm_repeat_type">
-        <item>Once</item>
-        <item>Daily</item>
-        <item>Work days</item>
-        <item>Off days</item>
-        <item>Mon to Fri</item>
-        <item>Custom</item>
+        <item>"1回のみ"</item>
+        <item>"毎日"</item>
+        <item>"平日"</item>
+        <item>"休日"</item>
+        <item>"月～金"</item>
+        <item>"カスタム"</item>
     </string-array>
     <string-array name="alarm_repeat_type_no_workdays">
-        <item>Once</item>
-        <item>Daily</item>
-        <item>Mon to Fri</item>
-        <item>Custom</item>
+        <item>"1回のみ"</item>
+        <item>"毎日"</item>
+        <item>"月～金"</item>
+        <item>"カスタム"</item>
     </string-array>
     <string-array name="alarm_set">
         <item>"アラームは今から1分以内に設定されています。"</item>
@@ -66,6 +66,6 @@
     <string-array name="volume_button_setting_entries">
         <item>"何もしない"</item>
         <item>"スヌーズ"</item>
-        <item>"解除"</item>
+        <item>"閉じる"</item>
     </string-array>
 </resources>
