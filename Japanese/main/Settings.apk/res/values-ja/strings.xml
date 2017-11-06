@@ -120,7 +120,7 @@
   <string name="add_fingerprint_success_msg">正常に追加されました</string>
   <string name="add_fingerprint_text">指紋認証を追加</string>
   <string name="add_fingerprint_toast_text">指をセンサーに当ててください。</string>
-  <string name="add_front_fingerprint_instruction_msg">指紋センサーはお使いの端末の背面にあります。</string>
+  <string name="add_front_fingerprint_instruction_msg">指紋センサーはお使いの端末のホームボタン上にあります。</string>
   <string name="add_new">追加</string>
   <string name="add_rule">ルールを追加</string>
   <string name="adding_profile_owner_warning">"次に進むと、ユーザーは管理者の管理対象となり、管理者は個人情報に加えて関連データも保存できるようになります。

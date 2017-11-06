@@ -13,6 +13,7 @@
   <string name="album_name">Daily selection: %s</string>
   <string name="all_topic">"すべてのトピック"</string>
   <string name="already_liked">"You've already starred this item"</string>
+  <string name="apk_installing">正在安装...</string>
   <string name="app_name">Explorer</string>
   <string name="app_name_bluetooth">Bluetooth</string>
   <string name="app_name_camera">Camera</string>
@@ -56,6 +57,7 @@
   <string name="cancel_error">"削除できませんでした、もう一度お試しください"</string>
   <string name="cancel_operation">"操作をキャンセル"</string>
   <string name="cancel_success">"正常に削除されました、すべてのファイルを%sに移動しました"</string>
+  <string name="cancel_text">取消</string>
   <string name="cancelled_by_user">"操作をキャンセルしました"</string>
   <string name="cannot_send">"外部ストレージからファイルを送信できません"</string>
   <string name="category">"カテゴリー"</string>
@@ -169,6 +171,7 @@
   <string name="dislike_video">"興味がありません"</string>
   <string name="download">"ダウンロード"</string>
   <string name="download_fail">"ダウンロードできませんでした"</string>
+  <string name="download_notification_title_text">正在下载想看视频</string>
   <string name="downloaded_sticker_str">"ダウンロード済み"</string>
   <string name="downloading">"ダウンロード中"</string>
   <string name="editor_commend">"編集"</string>
@@ -191,6 +194,13 @@
   <string name="error_invalid_path">"無効なパス"</string>
   <string name="error_not_support">"サポートされていません"</string>
   <string name="error_open_file_failed_no_app_found">"この操作を処理するためのアプリが見つかりませんでした。"</string>
+  <string name="exo_controls_fastforward_description">Fast forward</string>
+  <string name="exo_controls_next_description">Next track</string>
+  <string name="exo_controls_pause_description">Pause</string>
+  <string name="exo_controls_play_description">Play</string>
+  <string name="exo_controls_previous_description">Previous track</string>
+  <string name="exo_controls_rewind_description">Rewind</string>
+  <string name="exo_controls_stop_description">Stop</string>
   <string name="extended_storage_file_can_not_open">"ファイルを開くことができません。初めに内部ストレージへファイルをコピーしてください。"</string>
   <string name="extract">"解凍"</string>
   <string name="fail_to_create_folder_unknown">"フォルダを作成できません"</string>
@@ -254,7 +264,17 @@
   <string name="if_cancel">"この操作をキャンセルしますか？"</string>
   <string name="image_loading_error">"画像を読み込めませんでした"</string>
   <string name="input_memo_hint">"その他の理由を入力 (省略可)"</string>
+  <string name="install_btn_download_install_text">打开想看视频查看更多</string>
+  <string name="install_btn_download_not_install_text">安装想看视频查看更多</string>
+  <string name="install_btn_not_download_not_install_text">安装想看视频查看更多</string>
+  <string name="install_btn_not_downloading_text">正在安装想看视频</string>
   <string name="install_fail">"インストールできませんでした"</string>
+  <string name="install_text">立即安装</string>
+  <string name="install_xk_app">安装想看视频</string>
+  <string name="install_xk_data_check_message">你当前正在使用数据网络，安装想看视频需要消耗7M的流量，是否立即安装？</string>
+  <string name="install_xk_look_more_title">安装想看视频即可查看更多</string>
+  <string name="install_xk_now_message">想看视频覆盖全网海量短视频！快把海量有趣的短视频装进你的手机里，还等什么？立即安装</string>
+  <string name="install_xk_now_title">立即安装想看视频</string>
   <string name="installing">"インストール中…"</string>
   <string name="instruction">"FTPクライアントに以下のアドレスを入力してください: "</string>
   <string name="instruction_pre_pad">"FTPサーバーを起動するにはタップ"</string>
@@ -317,6 +337,7 @@
   <string name="mobile_network_dialog_tip">"モバイルデータ接続を使用してこのページを表示しますか？ご契約中のキャリアからモバイルデータ料金が請求されます。"</string>
   <string name="mobile_network_dialog_title">"モバイルデータの警告"</string>
   <string name="month_day_format">MMM dd</string>
+  <string name="more_hot_text">更多热门</string>
   <string name="move_failed">"切り取りできません"</string>
   <string name="move_icon_to_desktop_hint">"Explorerで効率的にファイルを管理するためのショートカットをホーム画面に作成します。"</string>
   <string name="move_icon_to_desktop_success">"ホーム画面にショートカットを追加しました。"</string>
@@ -329,6 +350,7 @@
   <string name="name_empty">"名前を入力する必要があります。"</string>
   <string name="need_login">"初めにログイン"</string>
   <string name="need_read_storage_permission">"Explorerが正常に動作するには、デバイスの内部ストレージへのアクセス許可が必要です。"</string>
+  <string name="net_error_text">网络错误</string>
   <string name="network_dialog_checkbox_tip">"二度と表示しない"</string>
   <string name="network_not_available">"ネットワークに接続できません"</string>
   <string name="network_spent_reminding">"モバイルデータ接続を使用してこのページを表示しますか？ ご契約中のキャリアからモバイルデータ使用料金が請求されます。"</string>
@@ -370,6 +392,7 @@
   <string name="open_chest">Open to get a gift</string>
   <string name="open_chest_failed">"Couldn't open, check your network settings and try again"</string>
   <string name="open_private_folder">Release to view hidden folders</string>
+  <string name="open_xk_app">打开想看视频</string>
   <string name="operation_add_fav">"お気に入りに追加中…"</string>
   <string name="operation_cancel">"キャンセル"</string>
   <string name="operation_compress">"圧縮"</string>
@@ -751,12 +774,17 @@
   <string name="video_parse_success">Parsed successfully</string>
   <string name="video_parse_timeout">"不明なエラーが発生しました、もう一度お試しください"</string>
   <string name="video_parsing_btn">Parsing</string>
+  <string name="video_play_btn">立即播放</string>
+  <string name="video_play_count">%s次播放</string>
+  <string name="video_play_count_more">%s万次播放</string>
   <string name="video_play_failed">"不明なエラー"</string>
   <string name="video_publish_hint">A good description will help other people find your video</string>
   <string name="video_publish_hint2">Description</string>
   <string name="video_publish_origin_tag">Original tag</string>
   <string name="video_publish_watchable_limit">You can do this twice every day</string>
   <string name="video_publish_watchable_tag">Follow me to watch this video</string>
+  <string name="video_replay_btn">重播</string>
+  <string name="video_retry_btn">点击重试</string>
   <string name="video_status_reject">Rejected</string>
   <string name="video_status_review">Being reviewed</string>
   <string name="video_tag">\# %s #</string>
