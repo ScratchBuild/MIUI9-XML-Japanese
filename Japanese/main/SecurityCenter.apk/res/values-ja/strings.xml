@@ -88,7 +88,7 @@
   <string name="antivirus_choose_engine_title">Definitions</string>
   <string name="antivirus_longtime_no_update">Looks like your virus definitions are old. Regular updates help to get better scanning results. Allow Security to connect to the internet and update virus definitions?</string>
   <string name="antivirus_longtime_no_update1">Looks like your virus definitions are old. Regular updates help to get better scanning results. Update definitions and try again.</string>
-  <string name="antivirus_main_activity_back">"セキュリティスキャンに戻る"</string>
+  <string name="antivirus_main_activity_back">"戻る"</string>
   <string name="antivirus_monitor_btn_text_clean_risk">"危険なアプリを削除"</string>
   <string name="antivirus_monitor_btn_text_clean_virus">"ウイルスを削除"</string>
   <string name="antivirus_monitor_clean_tips">"削除したアイテム: %s"</string>
@@ -121,6 +121,8 @@
   <string name="app_install_tips_go_to">"開く"</string>
   <string name="app_install_tips_install_success">"%1$sが正常にインストールされました"</string>
   <string name="app_maanger_app_uninstalled_toast">"アプリがアンインストールされました"</string>
+  <string name="app_manager_advanced_setting">"詳細設定"</string>
+  <string name="app_manager_allow">"はい"</string>
   <string name="app_manager_app_ifno_version">"アプリバージョン"</string>
   <string name="app_manager_app_info_label">"アプリ情報"</string>
   <string name="app_manager_app_info_name">"アプリ名"</string>
@@ -145,7 +147,6 @@
   <string name="app_manager_copy_pkg_to_clip">"クリップボードにコピーしました"</string>
   <string name="app_manager_default_cleared">"消去済み"</string>
   <string name="app_manager_default_close_summary">"既定の設定なし。"</string>
-  <string name="app_manager_default_open">"既定で開く"</string>
   <string name="app_manager_default_open_summary">You’ve chosen to launch this app by default for some actions.</string>
   <string name="app_manager_default_open_title">"設定を消去"</string>
   <string name="app_manager_details_electric_title">"バッテリー"</string>
@@ -153,9 +154,10 @@
   <string name="app_manager_details_traffic_title">"データ使用量"</string>
   <string name="app_manager_disable">"許可しない"</string>
   <string name="app_manager_disable_dlg_text">"このアプリを無効にすると、他のアプリが正常に動作しなくなる可能性があります。"</string>
-  <string name="app_manager_disable_dlg_title">"内蔵アプリを無効にしますか？"</string>
+  <string name="app_manager_disable_dlg_title">"システムアプリを無効にしますか？"</string>
   <string name="app_manager_disable_text">"無効にする"</string>
   <string name="app_manager_disabled">"無効"</string>
+  <string name="app_manager_disabled_by_admin">"管理者によって無効"</string>
   <string name="app_manager_dlg_cancel">"キャンセル"</string>
   <string name="app_manager_dlg_ok">OK</string>
   <string name="app_manager_enable_text">"有効にする"</string>
@@ -171,6 +173,7 @@
   <string name="app_manager_has_not_data">"データはありません"</string>
   <string name="app_manager_have_not_consume">None</string>
   <string name="app_manager_hide_system_server">"システムサービスを非表示"</string>
+  <string name="app_manager_install_other_app">"不明なソースからアプリをインストール"</string>
   <string name="app_manager_instruction">Instruction</string>
   <string name="app_manager_loading_data">"データを読み込み中…"</string>
   <string name="app_manager_manage_space">"spaceの管理"</string>
@@ -179,6 +182,7 @@
   <string name="app_manager_net_control_title">"データ使用量を制限"</string>
   <string name="app_manager_net_mobile">"データ"</string>
   <string name="app_manager_net_wifi">Wi-Fi</string>
+  <string name="app_manager_not_allow">"いいえ"</string>
   <string name="app_manager_not_record">"アクセス許可が必要なアプリが見つかりませんでした"</string>
   <string name="app_manager_notify_bar">"バッジ"</string>
   <string name="app_manager_notify_floating">"フローティング通知"</string>
@@ -205,7 +209,7 @@
 
 "<li>無効化されているアプリ</li>"
 "<li>無効化されているアプリの通知</li>"
-"<li>特定の操作で使用するデフォルトのアプリ</li>"
+"<li>デフォルトのアプリ</li>"
 "<li>アプリのバックグラウンドデータの制限</li>"
 
 アプリのデータが失われることはありません。"</string>
@@ -573,6 +577,7 @@
   <string name="dialog_app_roaming_title">"Overseas roaming isn't enabled for %1$s"</string>
   <string name="dialog_msg_auto_start_declare">Some apps may incorrectly indicate that MIUI has prevented them from starting. Check permissions that have been granted to individual apps in Settings &gt; Apps.</string>
   <string name="dialog_msg_stop_virus_scan">"完了前にセキュリティスキャンを停止しますか？"</string>
+  <string name="dialog_no_longer_alert">"次回から表示しない"</string>
   <string name="dialog_roaming_message">"海外ローミング中、このアプリにモバイルデータの使用を許可しますか？"</string>
   <string name="dialog_roaming_title">"海外ローミング"</string>
   <string name="dialog_text">"Game speed boosterのショートカットをホーム画面に作成"</string>
@@ -1486,12 +1491,12 @@ While calibrating, MIUI will send a text message to your carrier to receive the 
   <string name="safe_result_item_info_system_scan">Payment monitoring is on</string>
   <string name="safe_result_item_info_system_version">"MIUIは最新の状態です"</string>
   <string name="safepay_alert_dialog_button_continue">"続行"</string>
-  <string name="safepay_alert_dialog_button_risk">"修復"</string>
+  <string name="safepay_alert_dialog_button_fix">"修復"</string>
   <string name="save_energy_text">"Restrict autostart and sync for apps in the background to get the most out of your device's battery"</string>
   <string name="save_energy_title">"バッテリーを最適化"</string>
   <string name="sc_allow_network_dialog_message">"このアプリが正常に動作するには、インターネットへの接続が必要です。"</string>
   <string name="sc_allow_network_dialog_tiltle">"この機能は使用できません"</string>
-  <string name="sc_system_risk_fix_info_xspace">"デュアルアプリではリスクを修復できません、元のアプリに切り替えて修復してください。"</string>
+  <string name="sc_system_risk_fix_info_xspace">"Secound spaceではこの問題を解決できません、First spaceでやり直してください。"</string>
   <string name="scan_installed_games">"インストール済みゲームの確認中…"</string>
   <string name="scan_status_risk">"危険"</string>
   <string name="scan_status_safe">"安全"</string>
@@ -1551,7 +1556,9 @@ While calibrating, MIUI will send a text message to your carrier to receive the 
   <string name="sms_stranger_block">Block SMS from strangers</string>
   <string name="sorted_dialog_title">"並べ替え"</string>
   <string name="sp_background_risk_dialog_summary">, check and fix payment issues.</string>
+  <string name="sp_background_risk_dialog_summary_wifi_approve">"公共のWi-Fiネットワークに接続されており、安全でない可能性があります。支払いが完了する前に保護されていることを確認してください。"</string>
   <string name="sp_background_risk_dialog_title">"注意"</string>
+  <string name="sp_background_risk_dialog_title_wifi_approve">"公衆無線LAN接続の警告"</string>
   <string name="sp_background_risk_type_messaging">System messaging app has been replaced</string>
   <string name="sp_background_risk_type_root">System has been rooted</string>
   <string name="sp_background_risk_type_sign">Unofficial app is running</string>
@@ -1999,7 +2006,7 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="virus_ad_icon_text">Ad</string>
   <string name="virus_auto_update_engine">"自動更新：%s"</string>
   <string name="virus_update_tips_title">"警告"</string>
-  <string name="virus_wait_network_dialog_message">"お使いの端末はWi-Fiに接続されていません。モバイルデータを使用すると料金がかかります。続行しますか？"</string>
+  <string name="virus_wait_network_dialog_message">"お使いの端末はWi-Fiに接続されていません。モバイルデータ接続を使用しますか？"</string>
   <string name="vpn_disabled_by_user">"指定されたデータ接続はオフです"</string>
   <string name="vpn_unbale_get_phonenum">"指定されたデータプランを使用して電話番号を取得できません"</string>
   <string name="wakepath_confirm_start_activity">Allow %1$s to open %2$s?</string>

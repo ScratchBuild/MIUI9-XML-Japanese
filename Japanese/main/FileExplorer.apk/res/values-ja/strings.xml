@@ -184,7 +184,7 @@
   <string name="encrypt_success">Hidden successfully</string>
   <string name="encrypt_success_first_five">"Encrypted and hid file. You can view hidden files by pulling down on the Explorer's start page."</string>
   <string name="encrypting">"暗号化しています…"</string>
-  <string name="error_contains_sharer_path">Unable to encrypt files in folder /MIUI/Gallery/cloud/sharer, move the file to another directory and try again</string>
+  <string name="error_contains_sharer_path">"Can't encrypt files in folder /MIUI/Gallery/cloud/sharer. Move the file to another folder and try again"</string>
   <string name="error_create_dir">"フォルダを作成できません"</string>
   <string name="error_create_file">"ファイルを作成できません"</string>
   <string name="error_delete_failed">"ファイルを削除できません"</string>
@@ -201,7 +201,7 @@
   <string name="exo_controls_previous_description">Previous track</string>
   <string name="exo_controls_rewind_description">Rewind</string>
   <string name="exo_controls_stop_description">Stop</string>
-  <string name="extended_storage_file_can_not_open">"ファイルを開くことができません。初めに内部ストレージへファイルをコピーしてください。"</string>
+  <string name="extended_storage_file_can_not_open">"ファイルを開くことができません。ファイルを内部ストレージにコピーします。"</string>
   <string name="extract">"解凍"</string>
   <string name="fail_to_create_folder_unknown">"フォルダを作成できません"</string>
   <string name="favorite_photo">"写真"</string>
@@ -300,7 +300,7 @@
   <string name="login_account_bind_wb">"Weiboアカウント"</string>
   <string name="login_account_bind_wx">"WeChatを使用"</string>
   <string name="login_account_bind_xm">"Mi Accountを使用"</string>
-  <string name="login_expired">"ログインが期限切れです、もう一度ログインしてください。"</string>
+  <string name="login_expired">"セッションがタイムアウトしました。もう一度ログインしてください。"</string>
   <string name="login_failed_tip">"ログインできませんでした、後ほど再試行してください"</string>
   <string name="login_success_tip">"正常にログインしました"</string>
   <string name="make_private">"非表示"</string>
@@ -347,7 +347,7 @@
   <string name="mtp_device">"メディアデバイス (MTP)"</string>
   <string name="mtp_label">MTP</string>
   <string name="my_follows">My feed</string>
-  <string name="name_empty">"名前を入力する必要があります。"</string>
+  <string name="name_empty">"名前を入力"</string>
   <string name="need_login">"初めにログイン"</string>
   <string name="need_read_storage_permission">"Explorerが正常に動作するには、デバイスの内部ストレージへのアクセス許可が必要です。"</string>
   <string name="net_error_text">网络错误</string>

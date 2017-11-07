@@ -128,5 +128,6 @@
   <string name="unlockscreen_low_battery">"充電器を接続してください"</string>
   <string name="unlockscreen_recharge_completed">"充電完了"</string>
   <string name="unlockscreen_recharging_message">"充電中 %d%%"</string>
+  <string name="wallpaper_global_des_drop_down_notify_text">"指を離して詳細を表示"</string>
   <string name="wrong_password">"パスワードが正しくありません"</string>
 </resources>

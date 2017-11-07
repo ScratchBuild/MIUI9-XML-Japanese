@@ -1896,6 +1896,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="lock_screen_notifications_summary_show">すべての通知とその内容を表示する</string>
   <string name="lock_screen_notifications_summary_show_profile">すべての通知内容を表示する</string>
   <string name="lock_screen_notifications_title">端末がロックされているとき</string>
+  <string name="lock_screen_secure_after_timeout_immediately_never">パスワードは必要ありません。</string>
   <string name="lock_screen_secure_after_timeout_immediately_summary">直ぐにパスワードが必要になります</string>
   <string name="lock_screen_secure_after_timeout_summary">パスワードの要求: %1$s</string>
   <string name="lock_screen_secure_after_timeout_title">パスワードの要求</string>
@@ -2391,10 +2392,10 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="open_miui_optimization_title">MIUIの最適化をオンにする</string>
   <string name="open_miui_optimization_warning_message">この変更を適用するために端末を再起動します。</string>
   <string name="open_personal_assistant_dialog_btn_cancel">キャンセル</string>
-  <string name="open_personal_assistant_dialog_btn_confirm">閉じる</string>
-  <string name="open_personal_assistant_dialog_desc">QuickCardを使用したり、更新を受け取ることができません。今すぐオフにしますか？</string>
-  <string name="open_personal_assistant_dialog_title">QuickCardをオフにする</string>
-  <string name="open_personal_assistant_title">QuickCardをオンにする</string>
+  <string name="open_personal_assistant_dialog_btn_confirm">オフにする</string>
+  <string name="open_personal_assistant_dialog_desc">App vaultを使用したり、更新を受け取ることができません。今すぐオフにしますか？</string>
+  <string name="open_personal_assistant_dialog_title">App vaultをオフにする</string>
+  <string name="open_personal_assistant_title">App vaultをオンにする</string>
   <string name="open_sdcard_optimization_title">疑似SDカードの最適化をオンにする</string>
   <string name="open_sdcard_optimization_warning_message">この変更を適用するために端末を再起動します。</string>
   <string name="open_wifi_connect_summary">タップして詳細を表示</string>
@@ -2505,6 +2506,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="phone_language">言語</string>
   <string name="phone_language_summary"/>
   <string name="physical_keyboard_title">物理キーボード</string>
+  <string name="pick_up_gesture_wakeup_title">Pick up gesture to wake</string>
   <string name="pico_installed">インストール済み</string>
   <string name="pico_languages_and_voices">言語と音声</string>
   <string name="pico_not_installed">未インストール</string>

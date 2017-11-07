@@ -62,7 +62,7 @@
         <item>"アプリ名順"</item>
         <item>"使用頻度順"</item>
         <item>"ストレージ使用順"</item>
-        <item>Sort by Installation time</item>
+        <item>Sort by installation time</item>
     </string-array>
     <string-array name="title_app_info">
         <item>Installation source</item>

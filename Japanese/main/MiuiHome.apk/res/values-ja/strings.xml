@@ -51,7 +51,7 @@
   <string name="confirm_btn_label">OK</string>
   <string name="confirm_uninstall_dialog_contain_xspace_app_msg">"デュアルアプリはこれらと一緒にアンインストールされます。"</string>
   <string name="confirm_uninstall_dialog_has_xspace_app_msg">"デュアルアプリはこれと一緒にアンインストールされます。"</string>
-  <string name="confirm_uninstall_dialog_title">"対応するデュアルアプリが削除されます"</string>
+  <string name="confirm_uninstall_dialog_title">"デュアルアプリをアンインストールする"</string>
   <string name="current_preview">"プレビュー"</string>
   <string name="current_wallpaper">Current</string>
   <string name="custom_wallpaper_picker">Browse</string>
