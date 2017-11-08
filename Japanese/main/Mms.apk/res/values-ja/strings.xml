@@ -128,6 +128,7 @@
   <string name="delete_wild_sims_title">選択した番号を削除</string>
   <string name="delivery_report_activity">受取確認通知</string>
   <string name="delivery_toast_body">"%sさん宛てのメッセージ"</string>
+  <string name="dialog_message_sms_report">スパムメッセージを報告すると、メッセージの内容と送信者の情報がMIUIにアップロードされます。これらの情報はスパムフィルタの改善にのみ使用されます。</string>
   <string name="disable_notifications_dialog_message">デフォルトのメッセージアプリからのテキストメッセージ通知が重複しないようにしますか？</string>
   <string name="disabled">オフ</string>
   <string name="discard">破棄</string>
@@ -379,7 +380,7 @@
   <string name="pref_hide_verification_code_summary">"保護されたロック画面のメッセージ通知で、ワンタイムパスワードを自動的に非表示にする"</string>
   <string name="pref_messages_to_save">保存するメッセージ件数を設定</string>
   <string name="pref_mms_settings_title">マルチメディアメッセージ（MMS）の設定</string>
-  <string name="pref_msg_trash_bin_title">最近削除したメッセージ</string>
+  <string name="pref_msg_trash_bin_title">ゴミ箱</string>
   <string name="pref_notification_settings_title">通知設定</string>
   <string name="pref_other_title">詳細設定</string>
   <string name="pref_show_blocked_messages_summary">スレッドリストでブロックしたSMSを表示</string>
@@ -392,6 +393,7 @@
   <string name="pref_sms_storage_title">ストレージ</string>
   <string name="pref_sms_theme_title">テーマ設定</string>
   <string name="pref_summary_allow_si_sl_push">メッセージがウェブサイトからコンテンツをダウンロードするのを許可</string>
+  <string name="pref_summary_allow_upload_message_info">スパムメッセージを報告すると、メッセージの内容と送信者の情報がMIUIにアップロードされます。</string>
   <string name="pref_summary_auto_delete">制限に達したら古いメッセージを削除する</string>
   <string name="pref_summary_delete_limit">"スレッドごとに%1$s件のメッセージ"</string>
   <string name="pref_summary_delivery_reports">送信したメッセージの配達状況を表示</string>
@@ -409,6 +411,7 @@
   <string name="pref_system_title">システム</string>
   <string name="pref_title_about_smart_sms">Smart messages partnerについて</string>
   <string name="pref_title_allow_si_sl_push">WAPプッシュを許可(SI/SL)</string>
+  <string name="pref_title_allow_upload_message_info">スパムメッセージをアップロード</string>
   <string name="pref_title_auto_delete">古いメッセージを削除</string>
   <string name="pref_title_card_format">カード共有フォーマット</string>
   <string name="pref_title_delivery_reports">配達状況</string>
@@ -560,6 +563,7 @@
   <string name="sms_full_title">テキストメッセージのメモリがいっぱいです</string>
   <string name="sms_rejected_body">何らかの理由でメッセージを受信できませんでした</string>
   <string name="sms_rejected_title">テキストメッセージが拒否されました</string>
+  <string name="sms_report">スパムメッセージを報告</string>
   <string name="sms_report_dialog_content">レポートを送信できませんでした、再試行。</string>
   <string name="sms_report_dialog_retry">再試行</string>
   <string name="sms_report_dialog_title">再試行</string>
