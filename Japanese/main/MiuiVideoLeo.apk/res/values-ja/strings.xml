@@ -50,7 +50,6 @@
   <string name="authenticating">&lt;CDATA&gt;認証中&amp;#8230;&lt;/CDATA&gt;</string>
   <string name="authenticating_manually">"認証できませんでした"</string>
   <string name="average_score">"平均評価"</string>
-  <string name="avg_score">%.1f</string>
   <string name="bestv">Bestv</string>
   <string name="birthday">"誕生日"</string>
   <string name="bmp_quality_mode">"動画品質を改善"</string>
@@ -332,7 +331,7 @@
   <string name="passport_error_unknown">"ログインできません"</string>
   <string name="passport_error_user_name">"入力したユーザー名は無効です。"</string>
   <string name="passport_failed_to_send_activate_email">"Couldn't send activation email"</string>
-  <string name="passport_find_password_on_web_msg">Visit account.mi.com to reset your password.</string>
+  <string name="passport_find_password_on_web_msg">"パスワードをリセットするには account.mi.com にアクセスしてください。"</string>
   <string name="passport_forget_password">"<u>パスワードを忘れた場合</u>"</string>
   <string name="passport_forget_password_no_underline">"パスワードを忘れた場合"</string>
   <string name="passport_get_back_pwd">"アカウントのパスワードを取得"</string>
@@ -515,7 +514,6 @@
   <string name="subscribe">Subscribe</string>
   <string name="suffix_countdown">s</string>
   <string name="system_setting">"アプリの設定"</string>
-  <string name="tab_loading">&lt;CDATA&gt;...&lt;/CDATA&gt;</string>
   <string name="temp_play_history_button_label">"履歴"</string>
   <string name="tencent">Tencent</string>
   <string name="tencent_shortcut_name">青云志2</string>
@@ -550,7 +548,6 @@
   <string name="user_tab">"アカウント"</string>
   <string name="version_select">"バージョンを選択"</string>
   <string name="version_select_summary">"使用するバージョンを選択する"</string>
-  <string name="vertical_line">&lt;CDATA&gt; | &lt;/CDATA&gt;</string>
   <string name="video">Video</string>
   <string name="video_app_update">"更新"</string>
   <string name="video_bbs">"フォーラムに参加"</string>
@@ -662,7 +659,6 @@
   <string name="vp_skip">Skip intro and credits</string>
   <string name="vp_standard_definition">SD</string>
   <string name="vp_super_definition">Super</string>
-  <string name="vp_time_separator">/</string>
   <string name="vp_toast_downloadapk">"ダウンロード中…"</string>
   <string name="vp_unknown_source">"不明なソース"</string>
   <string name="vp_using_16_9">Force 16:9</string>

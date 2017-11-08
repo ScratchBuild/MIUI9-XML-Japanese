@@ -315,7 +315,7 @@
   <string name="fail_device_model">"モデル"</string>
   <string name="fail_device_type">"タイプ"</string>
   <string name="fail_feedback">"フィードバック"</string>
-  <string name="fail_title">"Couldn't pair"</string>
+  <string name="fail_title">"ペアリングできません"</string>
   <string name="fan_mode">"送風"</string>
   <string name="fan_speed">"風量"</string>
   <string name="faq">FAQ</string>
@@ -466,7 +466,7 @@
   <string name="match_chl_dec">Does it switch to the previous channel?</string>
   <string name="match_count_frame">Pair %1$d/%2$d remote</string>
   <string name="match_count_tip_frame">"ボタンのテスト (%1$d/%2$d)"</string>
-  <string name="match_data">Pairing info</string>
+  <string name="match_data">"ペアリング情報"</string>
   <string name="match_data_error_tips">"情報を取得できませんでした
 続行するには戻る"</string>
   <string name="match_direction_default">"方向ボタンは動作しますか？"</string>
@@ -528,7 +528,7 @@ Then answer the question"</string>
   <string name="match_tv_name_ch_inc">Channel +</string>
   <string name="match_tv_name_source">Source</string>
   <string name="match_tv_name_volume">Volume +</string>
-  <string name="match_type_selection_des">Choose the device to pair</string>
+  <string name="match_type_selection_des">"ペアリングするデバイスを選択"</string>
   <string name="match_type_selection_title">Type</string>
   <string name="match_voh_intro_open">Release when projector switches on</string>
   <string name="match_vol_dec">"音量は小さくなりますか？"</string>
@@ -678,7 +678,7 @@ Then answer the question"</string>
   <string name="passport_error_unknown">"ログインできません"</string>
   <string name="passport_error_user_name">"入力したユーザー名は無効です。"</string>
   <string name="passport_failed_to_send_activate_email">"Couldn't send activation email"</string>
-  <string name="passport_find_password_on_web_msg">Visit account.mi.com to reset your password.</string>
+  <string name="passport_find_password_on_web_msg">"パスワードをリセットするには account.mi.com にアクセスしてください。"</string>
   <string name="passport_forget_password">"<u>パスワードを忘れた場合</u>"</string>
   <string name="passport_forget_password_no_underline">"パスワードを忘れた場合"</string>
   <string name="passport_get_back_pwd">"アカウントのパスワードを取得"</string>
@@ -797,8 +797,8 @@ Then answer the question"</string>
   <string name="power">"電源"</string>
   <string name="power_off">Off</string>
   <string name="power_on">On</string>
-  <string name="press_to_continue_match">Tap to continue</string>
-  <string name="press_to_match">Tap to pair</string>
+  <string name="press_to_continue_match">"続行するにはタップ"</string>
+  <string name="press_to_match">"ペアリングするにはタップ"</string>
   <string name="prev_remote">Previous remote</string>
   <string name="privacy_content">"Read Xiaomi's "&lt;a href="http://www.miui.com/res/doc/privacy/en.html"&gt;Privacy Policy&lt;/a&gt; and &lt;a href="http://www.miui.com/res/doc/eula/en.html"&gt;User Agreement&lt;/a&gt; before using Mi Remote. Access to the internet and location services is required for the app to work normally.</string>
   <string name="privacy_nohit">"二度と表示しない"</string>
@@ -1055,7 +1055,7 @@ directly from your Lock screen"</string>
   <string name="udt_version_error">"バージョンエラー、最新バージョンに更新してください"</string>
   <string name="unknown">"不明"</string>
   <string name="unkown_device_input_hint">Enter device model</string>
-  <string name="unkown_device_main">"Can't pair this device."</string>
+  <string name="unkown_device_main">"このデバイスをペアリングできません。"</string>
   <string name="unkown_device_sub">Send us details about this device so that we can support it later on</string>
   <string name="unkown_device_title">"デバイス情報を取得できませんでした"</string>
   <string name="unset">"未設定"</string>

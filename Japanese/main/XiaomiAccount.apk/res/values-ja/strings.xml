@@ -244,7 +244,7 @@
   <string name="passport_error_verify_activator_phone_message">Make sure your SIM card service is activated and the device is connected to the network.</string>
   <string name="passport_error_verify_activator_phone_title">"Couldn't verify phone number"</string>
   <string name="passport_failed_to_send_activate_email">"Couldn't send activation email"</string>
-  <string name="passport_find_password_on_web_msg">Visit account.mi.com to reset your password.</string>
+  <string name="passport_find_password_on_web_msg">"パスワードをリセットするには account.mi.com にアクセスしてください。"</string>
   <string name="passport_forget_password">"<u>パスワードを忘れた場合</u>"</string>
   <string name="passport_forget_password_no_underline">"パスワードを忘れた場合"</string>
   <string name="passport_get_back_pwd">"アカウントのパスワードを取得"</string>
@@ -253,7 +253,7 @@
   <string name="passport_getting_verify_code">Getting</string>
   <string name="passport_i_know">OK</string>
   <string name="passport_identification_expired">"認証コードの有効期限が切れています"</string>
-  <string name="passport_imei_permission_denied_message">"We are requesting permission to get your device's IMEI. Mi Account uses IMEI to identify the device on which you sign in / sign up, to help keep your Mi Account safe."</string>
+  <string name="passport_imei_permission_denied_message">"お使いの端末のIMEIを取得するためのアクセス許可をリクエストしています。Mi AccountではIMEIを使用してログイン/登録した端末を特定し、Mi Accountを安全に保ちます。"</string>
   <string name="passport_imei_permission_denied_title">Request IMEI Permission</string>
   <string name="passport_input_captcha_hint">"コードを入力"</string>
   <string name="passport_input_password_for_login">"この番号は既存のアカウントに関連付けられています、パスワードを入力してください"</string>
@@ -267,7 +267,7 @@
   <string name="passport_login_failed">"ログインできません"</string>
   <string name="passport_login_instead_reg">"この番号を使用する"</string>
   <string name="passport_login_instead_reg_with_email">"このメールアドレスを使用する"</string>
-  <string name="passport_login_other_account">Another account</string>
+  <string name="passport_login_other_account">"その他のアカウント"</string>
   <string name="passport_login_prompt">One Mi Account. All Mi services.</string>
   <string name="passport_login_recycle_account_no">"いいえ"</string>
   <string name="passport_login_recycle_account_yes">"はい"</string>
@@ -277,16 +277,16 @@
   <string name="passport_next">"次へ"</string>
   <string name="passport_no">"いいえ"</string>
   <string name="passport_notification_title">"%1$sのログインエラー"</string>
-  <string name="passport_password_phone_login">Sign in using Mi Account</string>
+  <string name="passport_password_phone_login">"Mi Accountを使用してログイン"</string>
   <string name="passport_password_req_notice">"パスワードは8～16桁の文字列で、数字と文字の両方を含める必要があります(大文字と小文字は区別)。"</string>
   <string name="passport_phone_num_hint_text">"電話番号"</string>
-  <string name="passport_phone_ticket_login">Sign in with SMS</string>
+  <string name="passport_phone_ticket_login">"SMSでログイン"</string>
   <string name="passport_prev">"戻る"</string>
   <string name="passport_privacy_policy">"プライバシーポリシー"</string>
   <string name="passport_pwd_generate_failure">"パスワードを生成できませんでした"</string>
   <string name="passport_pwd_generating">"生成中…"</string>
   <string name="passport_querying_phone_info">Requesting account info…</string>
-  <string name="passport_quick_login">Sign in</string>
+  <string name="passport_quick_login">"ログイン"</string>
   <string name="passport_quick_login_dialog_step2_title">"2段階認証"</string>
   <string name="passport_quick_login_dialog_title">"パスワードを確認"</string>
   <string name="passport_quick_login_step2_title">"2段階認証"</string>
@@ -295,7 +295,7 @@
   <string name="passport_re_get_verify_code">"コードを再取得"</string>
   <string name="passport_re_register">"再登録"</string>
   <string name="passport_recycle_account_prompt">"これはあなたのMi Accountですか？"</string>
-  <string name="passport_recycle_login_other_account">"They aren't mine. I'll use a different one."</string>
+  <string name="passport_recycle_login_other_account">"これは私のアカウントではありません。別のものを使用します。"</string>
   <string name="passport_reg_btn_using_other_phone">"別の電話番号を使用する"</string>
   <string name="passport_reg_failed">"アカウントを登録できません"</string>
   <string name="passport_reg_new_account">Create account</string>
@@ -316,7 +316,7 @@
   <string name="passport_register_by_email">"&lt;u&gt;メールアドレスを使用してアカウントを作成&lt;/u&gt;"</string>
   <string name="passport_register_restricted">"この番号に関連付けられているアカウントが多すぎます、別のものを試してみてください"</string>
   <string name="passport_register_restricted_title">"この電話番号は使用できません"</string>
-  <string name="passport_registered_phone_num">Phone: %s</string>
+  <string name="passport_registered_phone_num">"電話番号: %s"</string>
   <string name="passport_registered_phone_user_ID">"ユーザーID: %s"</string>
   <string name="passport_registered_phone_user_name">"ユーザー名: %s"</string>
   <string name="passport_reject_recycle_account">"いいえ"</string>
