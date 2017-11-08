@@ -191,7 +191,7 @@
   <string name="app_manager_permission_manager_title">Permissions</string>
   <string name="app_manager_permission_notify_title">"通知"</string>
   <string name="app_manager_permission_power_saving_summary">MIUI Battery saver</string>
-  <string name="app_manager_permission_power_saving_title">Battery saver</string>
+  <string name="app_manager_permission_power_saving_title">"バッテリーセーバー"</string>
   <string name="app_manager_permission_startself_summary">"自動的に起動してメモリを占有し、バッテリーをより早く消費するアプリ"</string>
   <string name="app_manager_permission_startself_title">"自動起動"</string>
   <string name="app_manager_permission_summary_reject">"すべて制限"</string>
@@ -737,7 +737,7 @@
   <string name="go_to_setting_fingerprint">"設定"</string>
   <string name="google_base_app_install_choice">"\"%s\"が正常に動作するにはGoogleサービスフレームワークが必要です、今すぐインストールしますか？"</string>
   <string name="gs_anto_clean_memory_whitelist">"例外"</string>
-  <string name="gs_app_back_self_start">Battery saver</string>
+  <string name="gs_app_back_self_start">"バッテリーセーバー"</string>
   <string name="gs_auto_clean_memory">"キャッシュを消去"</string>
   <string name="gs_auto_clean_memory_detail">"キャッシュを自動的に消去してゲームを最適化する"</string>
   <string name="gs_call_handsfree">"ハンズフリーで応答"</string>

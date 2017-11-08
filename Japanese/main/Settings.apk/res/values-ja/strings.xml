@@ -1683,7 +1683,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="internal_storage">内部ストレージ</string>
   <string name="internal_storage_sentence">内部ストレージ</string>
   <string name="invalid_location">インストール先が無効です。</string>
-  <string name="ipaddr_label">IPaddr:</string>
+  <string name="ipaddr_label">IPアドレス:</string>
   <string name="join_many_items_first">%1$s、%2$s</string>
   <string name="join_many_items_last">%1$s、および%2$s</string>
   <string name="join_many_items_middle">%1$s、%2$s</string>
@@ -1966,7 +1966,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="lockpattern_need_to_unlock_wrong">パターンが正しくありません</string>
   <string name="lockpattern_pattern_confirmed_header">新しいロック解除パターン</string>
   <string name="lockpattern_pattern_entered_header">パターンが記録されました</string>
-  <string name="lockpattern_pattern_same_with_others">Should be different from other space password</string>
+  <string name="lockpattern_pattern_same_with_others">他のspaceのパスワードと異なっている必要があります</string>
   <string name="lockpattern_pattern_same_with_owner">First spaceのパスワードと異なっている必要があります</string>
   <string name="lockpattern_pattern_same_with_security_space">Second spaceのパスワードと異なっている必要があります</string>
   <string name="lockpattern_recording_incorrect_too_short">少なくとも%dつの点を結んでください。</string>

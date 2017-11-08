@@ -808,10 +808,10 @@ Take more photos of your friends!"</string>
   <string name="search_syncing">Syncing data, come back in a while</string>
   <string name="search_title_album">"アルバム"</string>
   <string name="search_title_history">"検索履歴"</string>
-  <string name="search_title_location">Locations</string>
+  <string name="search_title_location">"場所"</string>
   <string name="search_title_more">"その他"</string>
-  <string name="search_title_others">All results</string>
-  <string name="search_title_people">People</string>
+  <string name="search_title_others">"すべての結果"</string>
+  <string name="search_title_people">"人物"</string>
   <string name="search_title_recommend">Recommended</string>
   <string name="search_title_suggestion">"提案"</string>
   <string name="search_title_tag">Objects</string>

@@ -119,9 +119,6 @@
   <string name="update_check">"アップデートを確認"</string>
   <string name="update_right_now">"アップデート"</string>
   <string name="update_title">"アップデートが利用可能"</string>
-  <string name="update_version_alpha">Alpha</string>
-  <string name="update_version_dev">Beta</string>
-  <string name="update_version_stable">Stable</string>
   <string name="updated_title">"MIUIは最新の状態です"</string>
   <string name="voice_search_hint_title">"話してみてください:"</string>
   <string name="web_search_results">Baidu</string>
