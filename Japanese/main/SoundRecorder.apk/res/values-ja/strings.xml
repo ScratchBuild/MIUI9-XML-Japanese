@@ -24,7 +24,7 @@
   <string name="delete_dialog_message">"録音を削除しますか？"</string>
   <string name="deleting_message">"削除中…"</string>
   <string name="details">"詳細"</string>
-  <string name="dialog_content_storage_full">"端末の内部ストレージに十分な空き領域がないため、録音を停止しました。"</string>
+  <string name="dialog_content_storage_full">"端末のストレージに十分な空き領域がないため、録音を停止しました。"</string>
   <string name="dialog_title_storage_full">"十分な空き領域がありません"</string>
   <string name="duration_format_hour">"%s時間"</string>
   <string name="duration_format_minute">"%s分"</string>

@@ -30,7 +30,7 @@
   <string name="action_menu_text_bandwidth">Data saver</string>
   <string name="action_menu_text_bandwidth_off">Data saver</string>
   <string name="action_menu_text_bandwidth_on">Data saver</string>
-  <string name="action_menu_text_bookmark_add_off">"ウェブページを追加することはできません。"</string>
+  <string name="action_menu_text_bookmark_add_off">"ウェブサイトを追加できませんでした。"</string>
   <string name="action_menu_text_bookmark_added">"ブックマークに追加済み"</string>
   <string name="action_menu_text_copy_url">"URLをコピー"</string>
   <string name="action_menu_text_create_qr_code">"QRコード"</string>
@@ -65,7 +65,7 @@
   <string name="add_favorites_to">"お気に入りに追加"</string>
   <string name="add_new_bookmark">"ブックマークを追加"</string>
   <string name="add_new_quicklink">"スタートページに追加"</string>
-  <string name="add_pwa_to_homescreen">"このサイトをホーム画面に追加しますか？"</string>
+  <string name="add_pwa_to_homescreen">"ホーム画面にショートカットを追加しますか？"</string>
   <string name="add_ql_bm_title">"保存"</string>
   <string name="add_quicklink_to_popular">"スタートページに追加"</string>
   <string name="add_quicklinks">"追加"</string>
@@ -79,7 +79,7 @@
   <string name="added_to_bookmarks">"ブックマークに追加しました"</string>
   <string name="adjust_text_zoom_toast">"文字サイズの変更を行うと、いくつかのwebサイトが正しく表示されない場合があります"</string>
   <string name="agree">"同意する"</string>
-  <string name="agree_permissions_request">"同意"</string>
+  <string name="agree_permissions_request">"許可"</string>
   <string name="alert_tips">"このサイトにはセキュリティ上のリスクがあります"</string>
   <string name="allow">"許可する"</string>
   <string name="app_new_version">"このアプリの最新バージョンが既にインストールされています"</string>
@@ -156,7 +156,7 @@
   <string name="close_cloud_tab_tip">"%sのクラウドタブを閉じますか？"</string>
   <string name="cloud_loading_tips">"下に引っ張って"</string>
   <string name="cloud_no_new_data_toast">"すべて最新の状態です"</string>
-  <string name="cloud_sync_closed_toast">"同期がオフのため更新できません"</string>
+  <string name="cloud_sync_closed_toast">"更新を行うには同期をオンにする"</string>
   <string name="cloud_sync_failed_toast">"更新できませんでした"</string>
   <string name="cloud_tab">"クラウドタブ"</string>
   <string name="cloud_time_tips">"前回の同期"</string>
@@ -292,7 +292,7 @@
   <string name="empty_app_name">"その他のアプリ"</string>
   <string name="empty_bookmark">Empty</string>
   <string name="empty_cloud_tab_login_hint">"クラウドタブはありません"</string>
-  <string name="empty_cloud_tab_logout_hint">"Mi Accountでログインすると\n他の端末で開いたタブがここに表示されます"</string>
+  <string name="empty_cloud_tab_logout_hint">"他の端末で開いているタブを表示するには、\nMi Accountでログインしてください。"</string>
   <string name="empty_history_hint">"履歴は空です"</string>
   <string name="empty_snapshot_hint">Empty</string>
   <string name="enable_geolocation_confirm_message">Turning off location services will affect the recommendations you receive.</string>
@@ -565,12 +565,12 @@
   <string name="pay_failed_toast">"支払いを完了できませんでした"</string>
   <string name="pay_success_toast">"支払いが完了しました"</string>
   <string name="permission_alert_window">"この機能を使用するにはポップアップウインドウを許可してください。"</string>
-  <string name="permission_notification">send you notifications</string>
+  <string name="permission_notification">send notifications.</string>
   <string name="permission_unknown">"不明なアクション"</string>
-  <string name="permissions_prompt_message">"%s wants to "</string>
+  <string name="permissions_prompt_message">%s wants to</string>
   <string name="popup_window_attempt">"このサイトにポップアップウィンドウを開くことを許可しますか？"</string>
   <string name="positive_confirm_message">"とにかくオフにする"</string>
-  <string name="pref_accept_quicklink_push">Start page push</string>
+  <string name="pref_accept_quicklink_push">News feed</string>
   <string name="pref_accessibility">"ユーザー補助"</string>
   <string name="pref_accessibility_title">"ユーザー補助"</string>
   <string name="pref_accessibility_url_shortcut_enter_summary">"よく使う組み合わせはアドレスバーに1タップで入力できます。"</string>
@@ -680,7 +680,7 @@
   <string name="quicklink_cannot_save_url">"このURLは追加できません。"</string>
   <string name="quicklink_folder_text">Top apps</string>
   <string name="quicklink_not_saved">"スタートページに追加できませんでした"</string>
-  <string name="quicklink_push_confirm_message">"この機能をオフにすると、スタートページのプッシュ通知に影響します。"</string>
+  <string name="quicklink_push_confirm_message">"この機能をオフにすると、フィードの更新が反映されなくなります。今すぐオフにしますか？"</string>
   <string name="quicklink_saved">"スタートページに保存しました"</string>
   <string name="quicklink_saved_before">"このサイトは既に追加済みです"</string>
   <string name="quicklink_user_define_webpage_title">Name</string>
@@ -788,7 +788,7 @@
   <string name="skip_current_version">"このバージョンをスキップ"</string>
   <string name="snapshot">Local</string>
   <string name="snapshot_failed">"ページを保存できませんでした"</string>
-  <string name="snapshot_successed">"保存したページを表示するには ブックマーク/履歴-&gt;LOCAL を開いてください"</string>
+  <string name="snapshot_successed">"保存したページを表示するには ブックマークと履歴-&gt;LOCAL を開いてください"</string>
   <string name="ssl_bad_clock_date_settings">"日付を設定"</string>
   <string name="ssl_bad_clock_warning" formatted="false">"端末の日付と時刻(%s2)が正しくないため、%s1へのプライベート接続を確立できません。"</string>
   <string name="ssl_certificate">"セキュリティ証明書"</string>
@@ -942,7 +942,7 @@
   <string name="voice_title">Say your command…</string>
   <string name="voice_title_distinguish">"処理中…"</string>
   <string name="voice_title_listening">Listening…</string>
-  <string name="voice_title_please">Begin speaking…</string>
+  <string name="voice_title_please">Start speaking…</string>
   <string name="voice_title_speech_again">"Couldn't understand you"</string>
   <string name="weather_location_confirm_message">Turning this feature off may affect usage.</string>
   <string name="webpage_title">"ブックマークと履歴"</string>

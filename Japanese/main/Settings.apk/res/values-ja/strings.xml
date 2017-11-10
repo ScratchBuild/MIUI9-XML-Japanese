@@ -6,7 +6,7 @@
   <string name="about_settings">端末情報</string>
   <string name="about_settings_summary">端末情報、規約、バージョン情報</string>
   <string name="ac_enable_summary">個々のアプリのパスワードを設定</string>
-  <string name="ac_enable_title">アプリのロック</string>
+  <string name="ac_enable_title">アプリロック</string>
   <string name="ac_privacy_mode_sum">ゲストモードをオフにする時はパスワードを要求</string>
   <string name="ac_privacy_mode_title">パスワード</string>
   <string name="ac_set_apps_title">ロックするアプリを選択</string>
@@ -17,7 +17,7 @@
   <string name="access_control_app_entry_single">アプリを開く</string>
   <string name="access_control_need_password">%sは保護されています</string>
   <string name="access_control_need_to_unlock">パスワードが必要です:</string>
-  <string name="access_control_no_back_footer">[icon]をタッチして終了</string>
+  <string name="access_control_no_back_footer">終了するには[icon]をタップ</string>
   <string name="access_control_password_title">パスワード</string>
   <string name="access_control_recording_intro_header">アンロックパターンを描いてください:</string>
   <string name="access_control_reset_by_account">パスワードをリセットするには、Miアカウントにログインしてください</string>
@@ -738,7 +738,7 @@
   <string name="button_text_next_step">次へ</string>
   <string name="button_text_next_step_timer">次へ (%d)</string>
   <string name="button_text_ok">OK</string>
-  <string name="button_text_ok_timer">OK(%d)</string>
+  <string name="button_text_ok_timer">OK (%d)</string>
   <string name="button_text_reboot_now">再起動</string>
   <string name="button_text_reject">拒否する</string>
   <string name="cache_header_label">キャッシュ</string>
@@ -1128,7 +1128,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="device_admin_status">この管理者は有効であり、アプリ%1$sに次の操作を許可します:</string>
   <string name="device_admin_title">デバイス管理</string>
   <string name="device_admin_warning">この管理者を有効にすると、次の操作をアプリ%1$sに許可することになります:</string>
-  <string name="device_available_memory">空きメモリ</string>
+  <string name="device_available_memory">空き容量</string>
   <string name="device_battery">バッテリー</string>
   <string name="device_build_id">バージョン番号</string>
   <string name="device_complete_parameters">すべてのスペック</string>
@@ -1164,7 +1164,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="device_status">端末の状態</string>
   <string name="device_status_activity_title">端末の状態</string>
   <string name="device_status_summary">電話番号、電波状態など</string>
-  <string name="device_total_memory">合計メモリ</string>
+  <string name="device_total_memory">合計容量</string>
   <string name="dial_application_title">ダイヤル</string>
   <string name="dial_pad_tones_title">ダイヤルパッドの操作音</string>
   <string name="dialog_content_login">アップデートのためにMiアカウントにログインしますか？</string>
@@ -1665,7 +1665,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="install_applications_title">アプリの提供元をすべて許可する</string>
   <string name="install_no_market_app_summary">App Store以外からのアプリのインストールを許可します</string>
   <string name="install_no_market_app_title">不明なソース</string>
-  <string name="install_preinstall_app">アプリを読み込み中…</string>
+  <string name="install_preinstall_app">地域を切り替え中…</string>
   <string name="install_text">インストール</string>
   <string name="install_unknown_applications">提供元不明のアプリのインストールを許可する</string>
   <string name="install_unknown_applications_title">アプリの提供元がGoogle Play以外でもインストールする</string>
@@ -2324,7 +2324,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="night_mode_title">テーマ</string>
   <string name="night_mode_yes">ダーク</string>
   <string name="no">いいえ</string>
-  <string name="no_account_found">アカウントを追加できるアプリはありません</string>
+  <string name="no_account_found">アカウントを追加できるアプリが見つかりませんでした</string>
   <string name="no_application">なし</string>
   <string name="no_applications">アプリはありません。</string>
   <string name="no_battery_summary">前回のフル充電から電池を使用していません</string>
@@ -2506,7 +2506,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="phone_language">言語</string>
   <string name="phone_language_summary"/>
   <string name="physical_keyboard_title">物理キーボード</string>
-  <string name="pick_up_gesture_wakeup_title">Pick up gesture to wake</string>
+  <string name="pick_up_gesture_wakeup_title">端末を持ち上げてスリープ解除</string>
   <string name="pico_installed">インストール済み</string>
   <string name="pico_languages_and_voices">言語と音声</string>
   <string name="pico_not_installed">未インストール</string>
@@ -2561,7 +2561,8 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="power_wifi">Wi-Fi</string>
   <string name="pre_installed_application">プリインストールアプリ</string>
   <string name="pref_button_light">ボタンのライト</string>
-  <string name="pref_button_light_summary">メニュー、ホーム、戻るボタンのライトを点灯する</string>
+  <string name="pref_button_light_summary">メニュー、%1$s戻るボタンのライトを点灯する</string>
+  <string name="pref_button_light_summary_sub">ホーム、</string>
   <string name="pref_edge_handgrip">エッジコントロール</string>
   <string name="pref_operational_key">ナビゲーションボタン</string>
   <string name="pref_volume_launch_camera_summary">"音量[－]ボタンを2回押すとカメラを起動します"</string>
@@ -3060,7 +3061,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="se_route_uicc">SIMカードのセキュアエレメント</string>
   <string name="se_wallet_ese">Mi Pay and NFC transport card</string>
   <string name="se_wallet_hce">Use HCE Wallet</string>
-  <string name="search_about_settings">About phone;Model number;Android version;MIUI version;CPU;RAM;Internal memory;Baseband version;Kernel version;Build number</string>
+  <string name="search_about_settings">About phone;Model number;Android version;MIUI version;CPU;RAM;Internal memory;Memory;Storage;Internal storage;Baseband version;Kernel version;Build number</string>
   <string name="search_accelerometer_title">Auto rotate screen;Rotate screen;Orientation;Portrait;Landscape</string>
   <string name="search_access_control">プライバシー設定</string>
   <string name="search_accessibility_captioning_title">字幕</string>
@@ -3337,7 +3338,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="settings_backup">設定をバックアップ</string>
   <string name="settings_backup_summary">設定をバックアップ</string>
   <string name="settings_button">設定</string>
-  <string name="settings_forbidden_message">この設定は無効です</string>
+  <string name="settings_forbidden_message">この設定は制限されています</string>
   <string name="settings_label">設定</string>
   <string name="settings_label_launcher">設定</string>
   <string name="settings_license_activity_loading">読み込み中...</string>
@@ -3986,11 +3987,11 @@ Android端末をUSBケーブルでコンピューターにつなぐことで、�
   <string name="unlock_set_unlock_none_title">スワイプ</string>
   <string name="unlock_set_unlock_off_summary"/>
   <string name="unlock_set_unlock_off_title">なし</string>
-  <string name="unlock_set_unlock_password_summary">高レベルのセキュリティ</string>
+  <string name="unlock_set_unlock_password_summary">端末のロックを解除するには4桁以上の英数字を入力する</string>
   <string name="unlock_set_unlock_password_title">パスワード</string>
-  <string name="unlock_set_unlock_pattern_summary">中程度のセキュリティ</string>
+  <string name="unlock_set_unlock_pattern_summary">端末のロックを解除するには指で簡単なパターンを入力する</string>
   <string name="unlock_set_unlock_pattern_title">パターン</string>
-  <string name="unlock_set_unlock_pin_summary">中程度から高レベルのセキュリティ</string>
+  <string name="unlock_set_unlock_pin_summary">端末のロックを解除するには4桁の数字を入力する</string>
   <string name="unlock_set_unlock_pin_title">PIN</string>
   <string name="unlock_set_unlock_summary">画面ロックを設定します</string>
   <string name="unlock_setup_wizard_fingerprint_details">画面ロックの設定を完了したら、[設定]&gt;[セキュリティ]で指紋を追加することもできます。</string>

@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="account_info">Me</string>
+  <string name="account_info">My account</string>
   <string name="account_name_not_login">"ログイン"</string>
   <string name="account_unactivated">Account not activated</string>
   <string name="ad_app_download_start">"ダウンロードを開始しています…"</string>
@@ -38,7 +38,7 @@
   <string name="component_title_wallpaper">"壁紙"</string>
   <string name="current_using_desktop_wallpaper_text">"ホーム画面"</string>
   <string name="current_using_lockscreen_wallpaper_text">"ロック画面"</string>
-  <string name="current_version_incompatible">"互換性のないバージョン"</string>
+  <string name="current_version_incompatible">"このテーマは互換性がありません"</string>
   <string name="deleting">"削除中…"</string>
   <string name="description_author">"作者"</string>
   <string name="description_designer">"デザイナー"</string>
@@ -91,8 +91,8 @@
   <string name="gift_use_confirmation_dlg_title">"このギフトを送信しますか？"</string>
   <string name="gift_use_fail_dlg_title">"エラーが発生しました"</string>
   <string name="gift_used">"送信済み"</string>
-  <string name="hide_free">"無料のアイテムを隠す "</string>
-  <string name="hide_incompatible">"互換性のないアイテムを隠す "</string>
+  <string name="hide_free">"無料のテーマを隠す "</string>
+  <string name="hide_incompatible">"互換性のないテーマを隠す "</string>
   <string name="home_apply_failured">"ホーム画面の壁紙を適用できません"</string>
   <string name="home_apply_success">"ホーム画面の壁紙を適用しました"</string>
   <string name="in_the_end">"これ以上アイテムはありません"</string>

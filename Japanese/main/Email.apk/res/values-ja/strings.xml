@@ -38,6 +38,8 @@
 今すぐ更新しますか？"</string>
   <string name="account_settings_login_dialog_reason_fmt" formatted="false">"%sにログインできませんでした。サーバーからの応答: %s"</string>
   <string name="account_settings_login_dialog_title">"ログインできません"</string>
+  <string name="account_settings_mail_check_frequency_dialog_title">"メールを同期するには手動で更新する必要があります"</string>
+  <string name="account_settings_mail_check_frequency_dialog_title_eas">"手動に変更すると、メッセージとカレンダーを同期するため手動で更新する必要があります。"</string>
   <string name="account_settings_mail_check_frequency_label">"同期頻度"</string>
   <string name="account_settings_mibill_resolve_label">Manage bills automatically</string>
   <string name="account_settings_name_label">"名前"</string>
@@ -47,6 +49,7 @@
   <string name="account_settings_param">"アカウント設定"</string>
   <string name="account_settings_policies">"セキュリティポリシー"</string>
   <string name="account_settings_preference_add_account">"メールアカウントを追加"</string>
+  <string name="account_settings_preference_att_save_path">"添付ファイルの保存場所"</string>
   <string name="account_settings_preference_head_icon">"プロフィール写真"</string>
   <string name="account_settings_preference_notify">"通知"</string>
   <string name="account_settings_retry_label">"同期する"</string>
@@ -70,10 +73,10 @@
   <string name="account_setup_address_label">"メール"</string>
   <string name="account_setup_autodiscover_dlg_authfail_message">"ユーザー名、パスワード、アカウントの設定が正しいか確認してください。"</string>
   <string name="account_setup_autodiscover_dlg_authfail_title">"アカウントセットアップに関する問題"</string>
-  <string name="account_setup_basics_email_label">"アカウントIDを入力"</string>
+  <string name="account_setup_basics_email_label">"メールアドレスを入力"</string>
   <string name="account_setup_basics_login_gmail_without_proxy">"現在のネットワーク接続を使用してログイン"</string>
   <string name="account_setup_basics_manual_setup_action">"手動セットアップ"</string>
-  <string name="account_setup_basics_mi_mail_login_help">mi Mail login successfully, check the SMS, activate the link to send and receive mail Oh!</string>
+  <string name="account_setup_basics_mi_mail_login_help">"メールを受信するにはSMSでアカウントを確認する必要があります"</string>
   <string name="account_setup_basics_password_label">"パスワードを入力"</string>
   <string name="account_setup_basics_title">"アカウント設定"</string>
   <string name="account_setup_check_settings_check_incoming_msg">"サーバー設定を確認しています…"</string>
@@ -221,6 +224,7 @@
   <string name="auto_remind_unbind">"停止"</string>
   <string name="auto_sync_off">"自動同期はオフです。"</string>
   <string name="automatic_remind_text">"自動で通知する"</string>
+  <string name="back">"戻る"</string>
   <string name="bank_card_detail">"クレジットカードの詳細"</string>
   <string name="bank_card_list_card_num_fmt">****%s</string>
   <string name="battery_saver">Battery saver</string>
@@ -354,8 +358,8 @@
   <string name="dialog_gmail_proxy_server_is_error">"Gmailのプロキシサーバーエラー。"</string>
   <string name="dialog_insufficient_space_on_external">"添付ファイルをダウンロードできません。外部ストレージに十分な空き領域がありません。"</string>
   <string name="dialog_insufficient_space_on_internal">"内部ストレージに十分な空き領域がありません。"</string>
-  <string name="dialog_system_auto_sync_account_no_open">"アカウントの同期がオフです。メールを同期できません。"</string>
-  <string name="dialog_system_auto_sync_master_no_open">"システムの同期がオフです。メールを同期できません。"</string>
+  <string name="dialog_system_auto_sync_account_no_open">"アカウントの同期をオンにしてメールを自動的に受信する"</string>
+  <string name="dialog_system_auto_sync_master_no_open">"同期をオンにしてメールを自動的に受信する"</string>
   <string name="disable_admin_warning">"警告: メールアプリの端末管理権限を無効にすると、権限を必要とするすべてのメールアカウントが削除されます。また、そのアカウントのメール、連絡先、カレンダーの予定などのデータも削除されます。"</string>
   <string name="discard">"破棄"</string>
   <string name="discard_drafts">"下書きを破棄する"</string>
@@ -396,6 +400,7 @@
   <string name="email_setting">Mail</string>
   <string name="email_setting_keywords">Accounts;Add account;mail accounts;add mail account;confirm before deleting;delete confirm;confirm before sending;send confirm;delete message flow;delete redirect;conversation view;mail conversation;battery saver;mail battery;send feedback;upload logs</string>
   <string name="email_sina">Sina Mail</string>
+  <string name="eml_parse_message">"emlファイルの読み込み中です、しばらくお待ちください…"</string>
   <string name="empty_account_tip">"アカウントが見つかりませんでした"</string>
   <string name="empty_email_tip">"空のメールは送信できません"</string>
   <string name="empty_spam">"迷惑メールを空にする"</string>
@@ -411,6 +416,7 @@
   <string name="expand_recipient_details">"受信者の詳細を展開"</string>
   <string name="fail_get_email_message">"メッセージを取得できませんでした。"</string>
   <string name="failed">"画像を読み込めませんでした"</string>
+  <string name="failed_parse_eml_file">"メールの読み込みに失敗しました、もう一度お試しください"</string>
   <string name="failed_read_phone_state_permission">"端末のステータスへのアクセスを許可する"</string>
   <string name="failed_read_write_calendar_permission">"カレンダーへのアクセスを許可する"</string>
   <string name="failed_read_write_contacts_permission">"連絡先へのアクセスを許可する"</string>
@@ -421,10 +427,14 @@
   <string name="feedback_user_edit_tag">From MIUI </string>
   <string name="fetch_bank_sender_list_failure">"情報を取得できませんでした"</string>
   <string name="fetching_attachment">"添付ファイルを取得中"</string>
+  <string name="file_defailt_save_path">"添付ファイルはデフォルトで %s フォルダに保存されます。[設定]から変更することができます。"</string>
+  <string name="file_default_save_path_title">"添付ファイルの保存場所"</string>
   <string name="file_deleted_success">"ファイルを削除しました"</string>
   <string name="file_not_found">"ファイルが見つかりませんでした"</string>
   <string name="file_not_found_redownload">"ファイルが見つかりませんでした"</string>
   <string name="file_rar_not_support">"暗号化されたrarファイルを開くことができません"</string>
+  <string name="file_save_path_dialog_cancel">OK</string>
+  <string name="file_save_path_dialog_ok">"今すぐ変更"</string>
   <string name="float_window_content">Detects that you are using the mailbox, click Confirm for you to automatically fill 139 E-mail account and password.</string>
   <string name="float_window_info">"When configuring the 139 mailbox, don't operate the phone, in case of configuration failures."</string>
   <string name="float_window_title">Configuration………</string>
@@ -492,6 +502,7 @@
   <string name="help_config">Self configuration</string>
   <string name="hide_atts_remaining">Hide %1$d attachments</string>
   <string name="hide_elided">▼ Hide quoted text</string>
+  <string name="hide_password">"パスワードを隠す"</string>
   <string name="hint_quick_reply_all">"全員に返信"</string>
   <string name="imap_name">IMAP</string>
   <string name="imap_password_error">"受信メールサーバーのパスワードが間違っています"</string>
@@ -522,7 +533,7 @@
   <string name="long_string">looooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooong</string>
   <string name="mail">"メール"</string>
   <string name="mail_body_turncated">This email is too big to load, only display part of it and please go through all on PC later</string>
-  <string name="mail_description_content">"メールアプリは複数の受信トレイ、送受信のサポート、メールのタグ付け、その他サービスの管理などを行えるメールクライアントです。メールアプリをアンインストールすると、メールのデータも削除されます。"</string>
+  <string name="mail_description_content">"メールアプリは複数アカウントの管理、メールの送受信、カレンダーの情報や連絡先の同期をすることができるメールクライアントです。メールアプリをアンインストールすると、メールのデータも削除されます。"</string>
   <string name="mail_description_title">"メールアプリについて"</string>
   <string name="mail_header_network_not_available">ネットワークに接続できません。"</string>
   <string name="mailbox_list_account_selector_combined_view">"統合ビュー"</string>
@@ -563,7 +574,7 @@
   <string name="meeting_canceled">"キャンセルしました: %s"</string>
   <string name="meeting_declined">"辞退しました: %s"</string>
   <string name="meeting_recurring">"日時: %s (繰り返し)"</string>
-  <string name="meeting_responded_failed">"応答エラー"</string>
+  <string name="meeting_responded_failed">"応答なし"</string>
   <string name="meeting_tentative">"仮承諾: %s"</string>
   <string name="meeting_updated">"更新されました: %s"</string>
   <string name="meeting_when">"日時: %s"</string>
@@ -612,6 +623,7 @@
   <string name="move_to_selection_dialog_title">"別のフォルダに移動"</string>
   <string name="multiple_new_message_notification_item"><b>%1$s</b>"   %2$s"</string>
   <string name="mute">"ミュート"</string>
+  <string name="navigation_menu">"ナビゲーションメニュー"</string>
   <string name="network_error">"接続なし"</string>
   <string name="network_invaild">"ネットワークに接続できません"</string>
   <string name="network_not_available">"ネットワークに接続できません"</string>
@@ -656,10 +668,10 @@ Try a different inbox."</string>
   <string name="oauth_login_usr_proxy">"プロキシを使用してログイン"</string>
   <string name="ok">OK</string>
   <string name="okay_action">OK</string>
-  <string name="open_calendar_and_contacts_permission">"システム設定でカレンダーと連絡先のアクセス許可を有効にしてください"</string>
-  <string name="open_external_storage_and_calendar_permission">"システム設定で外部ストレージとカレンダーのアクセス許可を有効にしてください"</string>
-  <string name="open_external_storage_and_contacts_and_calendar_permission">"システム設定で外部ストレージとカレンダー、連絡先のアクセス許可を有効にしてください"</string>
-  <string name="open_external_storage_and_contacts_permission">"システム設定で外部ストレージと連絡先のアクセス許可を有効にしてください"</string>
+  <string name="open_calendar_and_contacts_permission">"[設定]からメールアプリに連絡先とカレンダー情報へのアクセスを許可してください"</string>
+  <string name="open_external_storage_and_calendar_permission">"[設定]からメールアプリにストレージとカレンダー情報へのアクセスを許可してください"</string>
+  <string name="open_external_storage_and_contacts_and_calendar_permission">"[設定]からメールアプリにストレージと連絡先、カレンダー情報へのアクセスを許可してください"</string>
+  <string name="open_external_storage_and_contacts_permission">"[設定]からメールアプリにストレージと連絡先へのアクセスを許可してください"</string>
   <string name="outbox_alert_button_no_resend">"送信しない"</string>
   <string name="outbox_alert_button_resend">"再送"</string>
   <string name="outbox_alert_certificate_error">"電子メールシステムの管理者に連絡し、証明書を更新してください。"</string>
@@ -782,7 +794,7 @@ to receive reminders about payments and trips"</string>
   <string name="qq_login_open_imap">Tap \"Help\" to turn on IMAP/SMTP</string>
   <string name="qq_login_origin_setting">"ユーザー名とパスワードを入力してログイン&gt;"</string>
   <string name="qq_login_send_message">"認証コードを取得するには\"SMSを送信\"をタップ"</string>
-  <string name="qq_login_webview">Signing in to the web QQ Mail. Enter your password.</string>
+  <string name="qq_login_webview">Signing in to QQ web client, tap sign in using the password.</string>
   <string name="qq_next_generation_auth_toast">Turn on password protection in your browser</string>
   <string name="qq_uthentication_failed">"アカウントを確認できませんでした。再度ログインしてください"</string>
   <string name="qq_webview_loading">"読み込み中…"</string>
@@ -933,6 +945,7 @@ to receive reminders about payments and trips"</string>
   <string name="shortcut_name_title">Name folder shortcut</string>
   <string name="show_elided">▶ Show quoted text</string>
   <string name="show_images">"写真をダウンロードして表示"</string>
+  <string name="show_password">"パスワードを表示"</string>
   <string name="signature">"%s"</string>
   <string name="silent_ringtone">マナーモード</string>
   <string name="single_new_message_notification_big_text">"%1$s %2$s"</string>
@@ -954,10 +967,10 @@ to receive reminders about payments and trips"</string>
   <string name="str_select_none">"すべて選択を解除"</string>
   <string name="subject_and_snippet" formatted="false">%s — %s</string>
   <string name="subject_hint">"件名"</string>
-  <string name="sync_contacts_fail_per_content">"連絡先にアクセス許可を行うには、[適用]をタップしてください"</string>
-  <string name="sync_contacts_fail_per_title">"連絡先の同期に失敗しました"</string>
-  <string name="sync_contacts_fail_permission">"連絡先の同期に失敗しました、連絡先へのアクセス許可が有効になっていません。端末の[設定] - [権限の管理]を開いてください"</string>
-  <string name="sync_contacts_req_per_ignored">"連絡先を開けないため、連絡先の同期ができません"</string>
+  <string name="sync_contacts_fail_per_content">"連絡先へのアクセスを許可するにはタップ"</string>
+  <string name="sync_contacts_fail_per_title">"連絡先を同期できませんでした"</string>
+  <string name="sync_contacts_fail_permission">"連絡先を同期できませんでした、[設定]からメールアプリに連絡先へのアクセスを許可してください"</string>
+  <string name="sync_contacts_req_per_ignored">"同期するにはメールアプリに連絡先へのアクセスを許可する"</string>
   <string name="sync_error">"同期できませんでした。"</string>
   <string name="sync_error_message">"お使いのデバイスには同期をするための十分な空き領域がありません。"</string>
   <string name="syncing_wait_restart">"もう一度お試しください"</string>
@@ -970,23 +983,25 @@ to receive reminders about payments and trips"</string>
   <string name="system_folders_trash_dlg">"サーバーのゴミ箱フォルダを選択"</string>
   <string name="system_folders_trash_summary">"サーバーのゴミ箱フォルダを選択"</string>
   <string name="system_folders_trash_title">"ゴミ箱フォルダ"</string>
-  <string name="system_security_open_error">"セキュリティセンターを調整できません。端末の[設定]から[アクセス許可]を開いてください。"</string>
-  <string name="system_setup_open_error">"[設定]で同期を許可する"</string>
+  <string name="system_root_path">"内部ストレージの設定"</string>
+  <string name="system_security_open_error">"セキュリティ設定を変更するには、[設定]からメールアプリに必要な権限を許可してください"</string>
+  <string name="system_setup_open_error">"[設定]でメールの同期をオンにする"</string>
   <string name="tablet">tablet</string>
   <string name="tap_to_configure">Touch to set up.</string>
   <string name="tap_to_enable_sync">"オンにするにはタップ。"</string>
   <string name="to_heading">"宛先: "</string>
   <string name="toast_bar_fail_synchronization">"ネットワークに接続できません"</string>
-  <string name="toast_bar_insufficient_memory_space">"十分な空き領域がありません"</string>
-  <string name="toast_bar_invalid_account">"セッションが期限切れです、もう一度ログインしてください"</string>
+  <string name="toast_bar_insufficient_memory_space">"メールを受信できません、十分な空き領域がありません。"</string>
+  <string name="toast_bar_invalid_account">"アカウント情報が期限切れです、もう一度ログインするにはタップ。"</string>
   <string name="toast_bar_no_connection_network">"インターネットに接続していません"</string>
-  <string name="toast_bar_open_gmail_synchronization">"Gmail用のプロキシサーバーを使用するにはタップ"</string>
-  <string name="toastbar_calendar_and_contacts_permission_switch_close">Calendar and contact permissions are close. Calendar and contacts cannot be synchronized</string>
-  <string name="toastbar_calendar_permission_switch_close">Calendar permission is close. Calendar cannot synchronized</string>
-  <string name="toastbar_contacts_permission_switch_close">The contact permission is close. The contacts cannot synchronized</string>
-  <string name="toastbar_local_calendar_and_contacts_sync_switch_close">Calendar and contacts synchronization switch is close. Calendar and contacts cannot be synchronized</string>
-  <string name="toastbar_local_calendar_sync_switch_close">The calendar sync switch is close. The calendar cannot be synchronized</string>
-  <string name="toastbar_local_contacts_sync_swtich_close">The contact sync switch is close. The contacts cannot be synchronized</string>
+  <string name="toast_bar_open_gmail_synchronization">"Gmailに接続できませんでした。Gmailプロキシをオンにします。"</string>
+  <string name="toast_bar_send_fail_remind">"メールを送信できませんでした。\"送信\"フォルダに保存されています。"</string>
+  <string name="toastbar_calendar_and_contacts_permission_switch_close">"カレンダー情報と連絡先を同期するには、[設定]から必要な権限を許可してください"</string>
+  <string name="toastbar_calendar_permission_switch_close">"カレンダーの通知を受信するには、[設定]からメールアプリに必要な権限を許可してください"</string>
+  <string name="toastbar_contacts_permission_switch_close">"連絡先を追加するには、[設定]からメールアプリに必要な権限を許可してください"</string>
+  <string name="toastbar_local_calendar_and_contacts_sync_switch_close">"カレンダーと連絡先を同期するには、カレンダーと連絡先の同期をオンにする"</string>
+  <string name="toastbar_local_calendar_sync_switch_close">"カレンダーの通知を受信するには、カレンダーの同期をオンにする"</string>
+  <string name="toastbar_local_contacts_sync_swtich_close">"連絡先を追加するには、連絡先の同期をオンにする"</string>
   <string name="today_text">"今日"</string>
   <string name="too_large_to_attach_additional">"File size can't exceed %1$s."</string>
   <string name="too_large_to_attach_multiple">"One or more files weren't attached. Size can't exceed %1$s."</string>
