@@ -53,8 +53,8 @@
   <string name="button_join_service_number">"サービス番号を追加"</string>
   <string name="button_my_center">"プロフィール"</string>
   <string name="button_scan">"再スキャン"</string>
-  <string name="caching_vcard_message">vCardを格納しています…</string>
-  <string name="caching_vcard_title">格納中</string>
+  <string name="caching_vcard_message">vCardを保存しています…</string>
+  <string name="caching_vcard_title">保存中</string>
   <string name="callAgain">"再発信"</string>
   <string name="callBack">"コールバック"</string>
   <string name="callDetailTitle">"通話詳細"</string>
@@ -63,7 +63,7 @@
   <string name="call_assistant">%sに発信</string>
   <string name="call_callback">コールバック先に発信</string>
   <string name="call_car">クルマに発信</string>
-  <string name="call_charge">Top up</string>
+  <string name="call_charge">"チャージ"</string>
   <string name="call_company_main">会社の代表番号に発信</string>
   <string name="call_custom">%s に発信</string>
   <string name="call_disambig_title">"番号を選択"</string>
@@ -71,7 +71,7 @@
   <string name="call_fax_work">職場FAXに発信</string>
   <string name="call_home">自宅に発信</string>
   <string name="call_isdn">ISDNに発信</string>
-  <string name="call_left">Phone balance</string>
+  <string name="call_left">通話残高</string>
   <string name="call_log_new_header">New</string>
   <string name="call_log_old_header">Older</string>
   <string name="call_main">Call main</string>
@@ -127,7 +127,7 @@
   <string name="callrecordview_menu_misim">Mi SIM</string>
   <string name="callrecordview_menu_mobiledata">Purchase data</string>
   <string name="callrecordview_menu_paste">"貼り付け"</string>
-  <string name="callrecordview_menu_recharge">Top up</string>
+  <string name="callrecordview_menu_recharge">"チャージ"</string>
   <string name="callrecordview_menu_settings">"設定"</string>
   <string name="callrecordview_menu_show">"フィルタ"</string>
   <string name="callrecordview_menu_show_accepted">"着信のみ"</string>
@@ -260,7 +260,7 @@
   <string name="custom_list_filter">"カスタムビューを定義"</string>
   <string name="custom_nickname_hint">"ニックネームを入力"</string>
   <string name="data_already_used">"使用データ"</string>
-  <string name="data_charge">Top up data</string>
+  <string name="data_charge">"データをチャージ"</string>
   <string name="data_left">"残りデータ"</string>
   <string name="date_time_set">"設定"</string>
   <string name="date_year_toggle">"年を入力する"</string>
@@ -294,7 +294,7 @@
   <string name="description_call_log_unheard_voicemail">"未再生のボイスメール"</string>
   <string name="description_call_log_voicemail">"ボイスメール"</string>
   <string name="description_contact_photo">"連絡先の写真"</string>
-  <string name="description_delete_button">Backspace</string>
+  <string name="description_delete_button">"削除"</string>
   <string name="description_dial_button">"発信"</string>
   <string name="description_dial_phone_number">Dial phone %1$s</string>
   <string name="description_digits_edittext">"発信番号"</string>

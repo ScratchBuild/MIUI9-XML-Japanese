@@ -326,7 +326,7 @@
   <string name="force_quick_search_title">"検索"</string>
   <string name="force_touch_bookmark_history_title">"ブックマークと履歴"</string>
   <string name="force_touch_infoflow_title">"ニュース"</string>
-  <string name="forward_description">Forward</string>
+  <string name="forward_description">"転送する"</string>
   <string name="geolocation_permissions_prompt_dont_share">"拒否"</string>
   <string name="geolocation_permissions_prompt_message">"%sが現在地情報をリクエストしています"</string>
   <string name="geolocation_permissions_prompt_remember">"設定を保存"</string>
@@ -372,7 +372,6 @@
   <string name="js_dialog_before_unload_positive_button">"このページから移動"</string>
   <string name="js_dialog_before_unload_title">"ページを閉じる"</string>
   <string name="js_dialog_title">\"%s\" のページ:</string>
-  <string name="js_dialog_title_default">JavaScript</string>
   <string name="js_disable_confirm_message">"JavaScriptを無効にすると、いくつかのwebサイトが正しく表示されない可能性があります。"</string>
   <string name="js_disable_confirm_title">"JavaScriptを無効にしますか？"</string>
   <string name="keep_queued_download">"保持"</string>
@@ -690,7 +689,7 @@
   <string name="quicklinks_most_visited_subtitle">"最近訪れたサイトを新しいタブで表示"</string>
   <string name="quicklinks_most_visited_title">"スタートページに追加"</string>
   <string name="readmode_already_add_to_bookshelf">"本棚に追加しました"</string>
-  <string name="readmode_battery">Battery </string>
+  <string name="readmode_battery">"バッテリー"</string>
   <string name="readmode_login">"ログイン"</string>
   <string name="readmode_login_message">"続きを読むにはログインが必要です。"</string>
   <string name="readmode_page_load_error">"ページを読み込めません"</string>

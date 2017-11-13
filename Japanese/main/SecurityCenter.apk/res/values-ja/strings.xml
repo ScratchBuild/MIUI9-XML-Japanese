@@ -82,7 +82,7 @@
   <string name="antispam_notificaiton_type_show_except_blacklist">Non-blocklist numbers</string>
   <string name="antispam_notificaiton_type_show_none">Never</string>
   <string name="antispam_notification_setting_title">"通知"</string>
-  <string name="antispam_xpace_text">Switch to First space to set Blocklist</string>
+  <string name="antispam_xpace_text">"First spaceに切り替えてブロックリストを設定する"</string>
   <string name="antivirus_choose_engine_dialog_title">"定義を選択"</string>
   <string name="antivirus_choose_engine_settings">"ウイルス定義の設定"</string>
   <string name="antivirus_choose_engine_title">Definitions</string>
@@ -891,7 +891,7 @@ Carrier may charge you additional fees if you use mobile data connection again."
   <string name="main_activity_content_summary_update">"システムの更新"</string>
   <string name="main_alert_message_no_imsi">"SIMカードが検出できません"</string>
   <string name="main_alert_message_open_traffic_ctrl">We recommend restricting data usage</string>
-  <string name="main_bill_remained">Phone balance</string>
+  <string name="main_bill_remained">"通話残高"</string>
   <string name="main_button_mi_sim_close">Activate Mi SIM</string>
   <string name="main_button_mi_sim_open">"詳細を表示"</string>
   <string name="main_button_usage_adjust">"モバイルデータの使用量を同期"</string>
@@ -923,7 +923,7 @@ Carrier may charge you additional fees if you use mobile data connection again."
   <string name="main_toolbar_internet_by_mobiledata">"モバイルデータ"</string>
   <string name="main_toolbar_internet_by_pc_brige">USB internet</string>
   <string name="main_toolbar_internet_by_wifi">"Wi-Fi"</string>
-  <string name="main_toolbar_purchase">Top up</string>
+  <string name="main_toolbar_purchase">"チャージ"</string>
   <string name="main_toolbar_statistic">Data usage stats</string>
   <string name="main_used_bill">%s CNY</string>
   <string name="man_add_application">"自動起動するアプリを手動で追加"</string>
@@ -975,7 +975,7 @@ Carrier may charge you additional fees if you use mobile data connection again."
   <string name="menu_bl_remove">"ブロックを解除"</string>
   <string name="menu_bl_sms_log">"ブロックしたSMSを表示"</string>
   <string name="menu_call">"ダイヤル"</string>
-  <string name="menu_charge_bill">Top-up balance</string>
+  <string name="menu_charge_bill">"残高をチャージ"</string>
   <string name="menu_charge_traffic">Buy data</string>
   <string name="menu_edit">"編集"</string>
   <string name="menu_item_about_content">Version %s</string>
@@ -1016,7 +1016,7 @@ Carrier may charge you additional fees if you use mobile data connection again."
   <string name="mi_service_app_detail">"データ使用量の詳細"</string>
   <string name="mi_service_traffic_detail">"フレームワークの詳細"</string>
   <string name="mian_page_primary_txt">"海外ローミング"</string>
-  <string name="modify_password_mode">&lt;u&gt;Change password type&lt;/u&gt;</string>
+  <string name="modify_password_mode">&lt;u&gt;パスワードの種類を変更&lt;/u&gt;</string>
   <string name="modifypassword">"パスワードの変更"</string>
   <string name="monitor_app_add">"追加"</string>
   <string name="monitor_app_more">"その他"</string>
@@ -1092,7 +1092,7 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
   <string name="note_sms_none">"メッセージはありません"</string>
   <string name="notification_battery_consume_abnormal_summary">"直近の%1$d分間にバッテリーの%2$sが消費されました"</string>
   <string name="notification_battery_consume_abnormal_title">"バッテリーの消耗が早すぎます"</string>
-  <string name="notification_exit_power_save_mode">Turned off Battery saver</string>
+  <string name="notification_exit_power_save_mode">"バッテリーセーバーをオフにしました"</string>
   <string name="notification_exit_power_save_mode_subtitle">Battery %s charged.</string>
   <string name="notification_item">"アプリロックでアプリを保護する"</string>
   <string name="notification_mask_summary">"ロック画面と通知シェードで通知内容を非表示にする"</string>
@@ -1141,9 +1141,9 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
   <string name="om_lock_app_locked_app_occupy_memory">"Locking too many apps reduces your phone's performance"</string>
   <string name="om_lock_app_tip_msg">Tap to lock</string>
   <string name="om_lock_app_unlocked_app">Unlocked</string>
-  <string name="om_media_scan_time_warn_title">"Media server works in the background. This activity shortens battery life."</string>
-  <string name="om_media_scan_timeout_proc_detail">Media server works in the background. You can restrict its activity.</string>
-  <string name="om_media_scan_timeout_proc_name">Media server</string>
+  <string name="om_media_scan_time_warn_title">"メディアサーバーはバックグラウンドで動作します。この活動によりバッテリー寿命が短くなります。"</string>
+  <string name="om_media_scan_timeout_proc_detail">メディアサーバーはバックグラウンドで動作します。その活動を制限することができます。</string>
+  <string name="om_media_scan_timeout_proc_name">"メディアサーバー"</string>
   <string name="om_memory_clean_cleaning_text">Boosting speed…</string>
   <string name="om_notify_cpu_load_too_high_summary">Restrict background activity to boost speed</string>
   <string name="om_notify_cpu_load_too_high_title">CPU usage of %s is too high</string>
@@ -1292,7 +1292,7 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
   <string name="power_idle">Phone idle</string>
   <string name="power_optimize_auto_catagory_title">Battery issues</string>
   <string name="power_optimize_battery_save_idea">Optimize battery</string>
-  <string name="power_optimize_battery_save_more">More</string>
+  <string name="power_optimize_battery_save_more">"その他"</string>
   <string name="power_optimize_brightness">"画面の明るさ"</string>
   <string name="power_optimize_btn_text_fixed">Optimized</string>
   <string name="power_optimize_catagory_fixed_title">Optimized</string>
@@ -1355,7 +1355,7 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
   <string name="pref_key_daily_package_summary">Turn on to reset data plan daily</string>
   <string name="pref_key_daily_package_switch">Daily data plan</string>
   <string name="pref_key_direction_traffic">Designated mobile data</string>
-  <string name="pref_key_half_year_package_start">Starting date</string>
+  <string name="pref_key_half_year_package_start">"開始日"</string>
   <string name="pref_key_half_year_package_switch">Half-year data package</string>
   <string name="pref_manual_adjust">"データ使用量の統計を手動で設定"</string>
   <string name="pref_mi_sim_settings">"Mi SIMの設定"</string>
@@ -1545,8 +1545,8 @@ While calibrating, MIUI will send a text message to your carrier to receive the 
   <string name="sms_contact_block">Block SMS from contacts</string>
   <string name="sms_delete_hint">"この番号からブロックされたメッセージをすべて削除しますか？"</string>
   <string name="sms_delete_title">"メッセージを削除"</string>
-  <string name="sms_detail_fragment_title_bill">Phone balance</string>
-  <string name="sms_detail_fragment_title_traffic">Remaining data</string>
+  <string name="sms_detail_fragment_title_bill">"通話残高"</string>
+  <string name="sms_detail_fragment_title_traffic">"データ残高"</string>
   <string name="sms_filter">Smart filter</string>
   <string name="sms_keywords">Keyword blocklist</string>
   <string name="sms_malicious_url">Block SMS with malicious URLs</string>
@@ -1697,7 +1697,7 @@ While calibrating, MIUI will send a text message to your carrier to receive the 
   <string name="status_bar_network_flow_content">"今日: %1$s   残り: %2$s"</string>
   <string name="status_bar_network_flow_content_not_setting">今日: %1$s   今月: %2$s</string>
   <string name="status_bar_network_flow_exceed_content">今日: %1$s   超過: &lt;font color=%2$s>%3$s&lt;/font></string>
-  <string name="status_bar_network_flow_phone_balance">"   電話の残高:%1$s "</string>
+  <string name="status_bar_network_flow_phone_balance">"   通話残高:%1$s "</string>
   <string name="status_bar_network_flow_purchase">"   購入 >"</string>
   <string name="status_bar_network_flow_setup_data_plan">"   データプランを設定 >"</string>
   <string name="status_bar_network_flow_today">今日: %1$s</string>
@@ -1947,7 +1947,7 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="traffic_limit_error_alert_title">Data limit reminder %s</string>
   <string name="traffic_none">None</string>
   <string name="traffic_over_purchase_link">"You've reached your mobile plan's data usage limit.&lt;br/&gt;If you go over your plans data usage limit, your carrier may charge you additional fees.&lt;br/&gt;&lt;br/&gt;&lt;font color='#ccffffff'&gt;&lt;U&gt;Tap to top up your balance.&lt;/U&gt;&lt;/font&gt;"</string>
-  <string name="traffic_purchase_body">Tap to top up your balance.</string>
+  <string name="traffic_purchase_body">"残高をチャージするにはタップ。"</string>
   <string name="traffic_setting_fragment_area">Locale</string>
   <string name="traffic_setting_fragment_brand">"ブランド"</string>
   <string name="traffic_setting_fragment_button1_text">"キャンセル"</string>

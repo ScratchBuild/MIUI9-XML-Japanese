@@ -15,7 +15,7 @@
   <string name="game_booster">Game speed booster</string>
   <string name="gb_alipays_can_not_complete">"支払いを完了できません。インストールを続行します。"</string>
   <string name="gb_weixinpay_can_not_complete">"支払いを完了できません。インストールを続行します。"</string>
-  <string name="main_toolbar_purchase">Top up</string>
+  <string name="main_toolbar_purchase">"チャージ"</string>
   <string name="miuishare_title_more">"もっと"</string>
   <string name="miuishare_title_share">"共有"</string>
   <string name="miuishare_wechat_timeline_title">WeChat Moments</string>

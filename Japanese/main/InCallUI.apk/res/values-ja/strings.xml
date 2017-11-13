@@ -112,11 +112,10 @@
   <string name="description_target_answer">"電話に出る"</string>
   <string name="dialog_activate_livetalk">"番号を確認"</string>
   <string name="dialog_call_ordinary_telephone">Regular call</string>
-  <string name="dialog_purchase">Top up</string>
+  <string name="dialog_purchase">"チャージ"</string>
   <string name="do_not_ask">"二度と表示しない"</string>
   <string name="do_not_support_video_calls_by_remote">"ビデオ通話は相手先の端末でサポートされていません"</string>
   <string name="emergency_call_dialog_number_for_display">"緊急通報番号"</string>
-  <string name="inCallLabel">InCallUI</string>
   <string name="incall_call_type_label_sip">"SIP通話"</string>
   <string name="incall_error_supp_service_conference">"グループ通話できません。"</string>
   <string name="incall_error_supp_service_hangup">"通話を解放できません。"</string>
@@ -200,7 +199,6 @@
   <string name="pause_prompt_no">"いいえ"</string>
   <string name="pause_prompt_yes">"はい"</string>
   <string name="payphone">"公衆電話"</string>
-  <string name="phone_info_divider">" ｜ "</string>
   <string name="picking_participant">"連絡先の情報を取得中…"</string>
   <string name="private_num">"非通知"</string>
   <string name="remind_unlock_message">"お使いの端末はロックされています。\"%s\"は端末をロック解除した後に利用可能です。今すぐロック解除しますか？"</string>
