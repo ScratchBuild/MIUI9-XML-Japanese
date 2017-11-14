@@ -184,7 +184,7 @@
   <string name="encrypt_success">Hidden successfully</string>
   <string name="encrypt_success_first_five">"Encrypted and hid file. You can view hidden files by pulling down on the Explorer's start page."</string>
   <string name="encrypting">"暗号化しています…"</string>
-  <string name="error_contains_sharer_path">"Can't encrypt files in folder /MIUI/Gallery/cloud/sharer. Move the file to another folder and try again"</string>
+  <string name="error_contains_sharer_path">"Can't encrypt files in folder /MIUI/Gallery/cloud/sharer. Move the file to another folder and try again."</string>
   <string name="error_create_dir">"フォルダを作成できません"</string>
   <string name="error_create_file">"ファイルを作成できません"</string>
   <string name="error_delete_failed">"ファイルを削除できません"</string>

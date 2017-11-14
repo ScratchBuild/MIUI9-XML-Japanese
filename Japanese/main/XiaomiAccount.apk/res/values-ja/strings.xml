@@ -215,7 +215,7 @@
   <string name="passport_copy_message_text_success">"正常にコピーされました"</string>
   <string name="passport_copy_message_vcode">"コードをコピー"</string>
   <string name="passport_delete_account">"ログアウト"</string>
-  <string name="passport_downlink_reg">"電話番号を使用してアカウントを作成"</string>
+  <string name="passport_downlink_reg">"電話番号"</string>
   <string name="passport_email">"メールアドレス"</string>
   <string name="passport_email_or_id_hint_text">"メールアドレスまたはMi Account ID"</string>
   <string name="passport_email_reg_success_summary">%1$s has been bound with your account. You can use it to sign in or to reset your password.</string>
