@@ -68,7 +68,7 @@
   <string name="move_failure_alert_content">次のファイルを移動できませんでした: %1$s</string>
   <string name="move_notification_title">ファイルを移動中</string>
   <string name="move_preparing">移動の準備をしています…</string>
-  <string name="never_ask_again">今後表示しない</string>
+  <string name="never_ask_again">今後は確認しない</string>
   <string name="no_results">該当するものは %1$s にありません</string>
   <string name="notification_copy_files_converted_title">一部のファイルが変換されました</string>
   <string name="notification_touch_for_details">タップすると詳細が表示されます</string>

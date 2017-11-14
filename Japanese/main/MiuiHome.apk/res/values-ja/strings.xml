@@ -118,7 +118,7 @@
   <string name="gadget_weather_download_title">"ダウンロード"</string>
   <string name="gadget_weather_downloading">"アプリのコンテンツをダウンロード中。ダウンロード完了後に、アプリを再起動します。"</string>
   <string name="gadget_weather_loading">"データなし"</string>
-  <string name="gadget_weather_low_temp">Low temp</string>
+  <string name="gadget_weather_low_temp">"最低気温"</string>
   <string name="gadget_weather_theme_type">Gadget type</string>
   <string name="gadget_weather_time_format">"M月d日 EEEE"</string>
   <string name="gadget_weather_title">"天気"</string>
@@ -193,12 +193,12 @@
   <string name="pref_cell_layout_size">"アプリアイコンのレイアウト"</string>
   <string name="pref_enable_drawing_cache_summary">"メモリを解放するにはオフにします。これにより、パフォーマンスが低下する可能性があります。"</string>
   <string name="pref_enable_drawing_cache_title">"キャッシュを描画"</string>
-  <string name="pref_icon_shadow_summary">Show app shadows and Favorites tray reflection effects</string>
-  <string name="pref_icon_shadow_title">App shadows</string>
-  <string name="pref_keep_in_memory_summary">Keep launcher running when memory is low</string>
-  <string name="pref_keep_in_memory_title">Lock MIUI in memory</string>
-  <string name="pref_keep_layout_summary">"Changing your Home screen's layout will not affect apps' positions relative to each other"</string>
-  <string name="pref_keep_layout_title">Lock app positions</string>
+  <string name="pref_icon_shadow_summary">"アプリアイコンの影とお気に入りトレイの反射効果を表示します"</string>
+  <string name="pref_icon_shadow_title">"シャドウエフェクト"</string>
+  <string name="pref_keep_in_memory_summary">"メモリが不足した場合もランチャーを実行し続けます"</string>
+  <string name="pref_keep_in_memory_title">"MIUIをメモリに常駐させる"</string>
+  <string name="pref_keep_layout_summary">"ホーム画面のレイアウトを変更しても、アプリのアイコン位置を自動で並べ替えないようにします"</string>
+  <string name="pref_keep_layout_title">"アプリの位置をロックする"</string>
   <string name="pref_render_in_truecolor_summary">"この機能をオフにすると、描画パフォーマンスが向上します"</string>
   <string name="pref_render_in_truecolor_title">"高品質のグラフィックス"</string>
   <string name="pref_screen_transformation_type_title">"画面切り替え時の効果"</string>
