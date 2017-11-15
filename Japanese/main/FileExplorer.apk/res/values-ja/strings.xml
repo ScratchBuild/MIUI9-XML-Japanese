@@ -540,7 +540,7 @@
   <string name="search_file_type_music">Music</string>
   <string name="search_file_type_picture">Photo</string>
   <string name="search_file_type_video">Video</string>
-  <string name="search_guid_hint">"ファイルを検索してください"</string>
+  <string name="search_guid_hint">"ファイルを検索"</string>
   <string name="search_hint">"検索"</string>
   <string name="search_history">"検索履歴"</string>
   <string name="search_hot_sticker">Stickers; Download stickers</string>

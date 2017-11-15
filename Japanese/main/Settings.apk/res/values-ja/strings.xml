@@ -2559,8 +2559,8 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="power_wifi">Wi-Fi</string>
   <string name="pre_installed_application">プリインストールアプリ</string>
   <string name="pref_button_light">ボタンのライト</string>
-  <string name="pref_button_light_summary">メニュー、%1$s戻るボタンのライトを点灯する</string>
-  <string name="pref_button_light_summary_sub">ホーム、</string>
+  <string name="pref_button_light_summary">メニュー、%1$s、戻るボタンのライトを点灯する</string>
+  <string name="pref_button_light_summary_sub">ホーム</string>
   <string name="pref_edge_handgrip">エッジコントロール</string>
   <string name="pref_operational_key">ナビゲーションボタン</string>
   <string name="pref_volume_launch_camera_summary">"音量[－]ボタンを2回押すとカメラを起動します"</string>
