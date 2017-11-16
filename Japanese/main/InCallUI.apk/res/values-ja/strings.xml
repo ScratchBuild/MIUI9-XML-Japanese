@@ -180,7 +180,7 @@
   <string name="onscreen_add_call_text">Add call</string>
   <string name="onscreen_audio_mode_bluetooth">Bluetooth</string>
   <string name="onscreen_audio_mode_conference">"グループ通話"</string>
-  <string name="onscreen_audio_mode_handset">"ハンズフリー"</string>
+  <string name="onscreen_audio_mode_handset">"イヤホン"</string>
   <string name="onscreen_audio_mode_headset">"ヘッドフォン"</string>
   <string name="onscreen_audio_mode_speaker">"スピーカー"</string>
   <string name="onscreen_audio_switch_mode">"音声切り替え"</string>

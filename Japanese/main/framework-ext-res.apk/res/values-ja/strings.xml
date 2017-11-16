@@ -19,6 +19,7 @@
   <string name="auto_start_warning_allow">"許可"</string>
   <string name="auto_start_warning_deny">"拒否"</string>
   <string name="auto_start_warning_title">"%sの自動起動を許可しますか？"</string>
+  <string name="autofill">"自動入力"</string>
   <string name="button_text_cancel">"キャンセル"</string>
   <string name="button_text_delete">"アンインストール"</string>
   <string name="button_text_delete_timer">"アンインストール (%d)"</string>

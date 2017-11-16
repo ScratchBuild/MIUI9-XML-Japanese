@@ -177,6 +177,8 @@ Otherwise you may not be able to enter Second space from Lock screen."</string>
   <string name="public_app">Both spaces</string>
   <string name="removeSuccess">"削除が完了しました"</string>
   <string name="remove_second_space_msg">All Second space app data will be lost after you delete Second space. Delete Second space now?</string>
+  <string name="remove_user_click_message">"*Second spaceに重要なアイテムがない場合、%s"</string>
+  <string name="remove_user_click_message_action">"Second spaceを削除して、今すぐ端末を再起動します。"</string>
   <string name="removingSpace">"削除中…"</string>
   <string name="repeat_scanner_fingerprint">Add again</string>
   <string name="reset_passwd_success">Password was reset successfully</string>
@@ -197,7 +199,14 @@ to enter Second space from Lock screen"</string>
   <string name="scanner_fingerprint_tips_desc">"Select existing fingerprint to enter Second space. You won't be able to use it in First space."</string>
   <string name="scanner_fingerprint_tips_title">Enter Second space using existing fingerprint</string>
   <string name="scanner_second_space_fingerprint">Scan Second space fingerprint</string>
-  <string name="sdcardfs_dialog_message">"古いデータが新しいファイルシステムと互換性がない可能性があります。Second spaceに切り替える前にデータを最適化し、端末を再起動します。"</string>
+  <string name="sdcardfs_dialog_message">"MIUI 9では新しいファイルシステムを使用できますが、古いデータとは互換性がない可能性があります。この問題を解決するには、手順に従って更新プログラムをインストールしてください。この更新中に端末が2回再起動されます。"</string>
+  <string name="sdcardfs_dialog_title">"重要な更新"</string>
+  <string name="sdcradfs_dialog_in_owner_message">"MIUI 9では新しいファイルシステムを使用できますが、古いデータとは互換性がない可能性があります。更新するにはSecond spaceからアイテムを移動し、端末を再起動して再度Second spaceを作成し直してください。
+更新しない場合、デュアルアプリも正常に動作しない可能性があります。"</string>
+  <string name="sdcradfs_dialog_in_owner_title">Second space</string>
+  <string name="sdcradfs_dialog_in_sec_message">"更新するにはSecond spaceを削除して再度作成し直す必要があります。Second spaceからFirst spaceにデータを移動し、更新を完了するために端末を再起動してください。
+更新しない場合、デュアルアプリも正常に動作しない可能性があります。"</string>
+  <string name="sdcradfs_dialog_in_sec_title">"重要な更新"</string>
   <string name="search_result_text">"アプリが見つかりませんでした"</string>
   <string name="secondSpace">Second space</string>
   <string name="second_owner_finger_print">Second space fingerprint</string>
@@ -241,6 +250,7 @@ to enter Second space from Lock screen"</string>
   <string name="show_private_msg_summary">"Second spaceにプライベートなメッセージを表示する"</string>
   <string name="skip">"スキップ"</string>
   <string name="spaceSetting">"設定"</string>
+  <string name="space_created_success">"Second spaceが正常に作成されました"</string>
   <string name="space_deleted">"このスペースは削除されました"</string>
   <string name="space_des_default">Isolated space with encrypted data</string>
   <string name="space_finger_sub_text">"より素早く切り替えるには、Second spaceの指紋を設定してください"</string>
