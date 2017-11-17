@@ -266,7 +266,7 @@ Total: RMB %3$s"</string>
   <string name="turn_on_phone_event_dialog_title">Caller IDのデータベースを更新</string>
   <string name="turn_on_phone_event_summary">Allow Yellow pages to receive and upload the service info of the verified service providers.</string>
   <string name="turn_on_phone_event_title">Receive service info</string>
-  <string name="turn_on_smart_antispam_hint">Identify calls from unknown numbers</string>
+  <string name="turn_on_smart_antispam_hint">"不明な番号からの着信を識別する"</string>
   <string name="turn_on_smart_antispam_summary">"通話履歴とテキストメッセージから不明な番号をアップロードして識別する"</string>
   <string name="turn_on_smart_antispam_title">Caller ID</string>
   <string name="turn_on_yellowpage_service_title">Caller IDをオンにする</string>
@@ -276,8 +276,8 @@ Total: RMB %3$s"</string>
   <string name="user_notice_identify_summary_format">"Your phone will use MIUI's database to block unwanted calls when connected to WLAN. By using this service, you agree to our %1$s and %2$s."</string>
   <string name="user_notice_identify_summary_format_cta">"Your phone will use MIUI's database to block unwanted calls when connected to WLAN. By using this service, you agree to our %1$s and %2$s."</string>
   <string name="user_notice_title">注意</string>
-  <string name="user_notice_yp_detail_summary_format">Some of your Caller ID info is outdated. Do you want to update it? By using this service, you agree to our %1$s and %2$s.</string>
-  <string name="user_notice_yp_detail_summary_format_cta">Some of your Caller ID info is outdated. Do you want to update it? By using this service, you agree to our %1$s and %2$s.</string>
+  <string name="user_notice_yp_detail_summary_format">Caller ID情報の一部が古くなっています。今すぐ更新しますか？このサービスを使用することで、%1$sと%2$sに同意したことになります。</string>
+  <string name="user_notice_yp_detail_summary_format_cta">Caller ID情報の一部が古くなっています。今すぐ更新しますか？このサービスを使用することで、%1$sと%2$sに同意したことになります。</string>
   <string name="view_orders">注文を表示</string>
   <string name="voicemail">ボイスメール</string>
   <string name="web_permission_message">%1$s needs to view your %2$s to work as designed.</string>

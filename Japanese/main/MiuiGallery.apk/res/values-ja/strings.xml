@@ -458,7 +458,6 @@ Take more photos of your friends!"</string>
   <string name="get_album_info_in_process">"共有済みアルバムの情報を取得中…"</string>
   <string name="gif_tip">GIF</string>
   <string name="grant_permission_go_and_set">"設定"</string>
-  <string name="grant_permission_item">\"%s\"</string>
   <string name="grant_permission_text">"ギャラリーが正常に動作するには、
 %s
 へのアクセスが必要です。[設定]をタップして[アクセス許可]に移動します。"</string>

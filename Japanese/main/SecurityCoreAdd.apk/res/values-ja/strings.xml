@@ -176,7 +176,7 @@ Otherwise you may not be able to enter Second space from Lock screen."</string>
   <string name="private_space_setting">"管理"</string>
   <string name="public_app">Both spaces</string>
   <string name="removeSuccess">"削除が完了しました"</string>
-  <string name="remove_second_space_msg">All Second space app data will be lost after you delete Second space. Delete Second space now?</string>
+  <string name="remove_second_space_msg">"Second spaeceを削除すると、すべてのSecond spaceのアプリデータが失われます。今すぐSecond spaceを削除すますか？"</string>
   <string name="remove_user_click_message">"*Second spaceに重要なアイテムがない場合、%s"</string>
   <string name="remove_user_click_message_action">"Second spaceを削除して、今すぐ端末を再起動します。"</string>
   <string name="removingSpace">"削除中…"</string>
@@ -194,11 +194,11 @@ Otherwise you may not be able to enter Second space from Lock screen."</string>
   <string name="scanner_fingerprint">"指紋を読み取り中…"</string>
   <string name="scanner_fingerprint_enter_second">"Scan Second space fingerprint
 to enter Second space from Lock screen"</string>
-  <string name="scanner_fingerprint_error_tips_desc">"Can't find matching fingerprints. Add Second space fingerprint?"</string>
-  <string name="scanner_fingerprint_error_tips_title">"Can't find matching fingerprints"</string>
-  <string name="scanner_fingerprint_tips_desc">"Select existing fingerprint to enter Second space. You won't be able to use it in First space."</string>
-  <string name="scanner_fingerprint_tips_title">Enter Second space using existing fingerprint</string>
-  <string name="scanner_second_space_fingerprint">Scan Second space fingerprint</string>
+  <string name="scanner_fingerprint_error_tips_desc">"一致する指紋が見つかりません。Second spaceの指紋を追加しますか？"</string>
+  <string name="scanner_fingerprint_error_tips_title">"一致する指紋が見つかりません"</string>
+  <string name="scanner_fingerprint_tips_desc">"既存の指紋を選択してSecond spaceに切り替えます。First spaceで同じ指紋を使用することはできません。"</string>
+  <string name="scanner_fingerprint_tips_title">"既存の指紋を使用してSecond spaceに切り替える"</string>
+  <string name="scanner_second_space_fingerprint">"Scan Secondの指紋を読み取る"</string>
   <string name="sdcardfs_dialog_message">"MIUI 9では新しいファイルシステムを使用できますが、古いデータとは互換性がない可能性があります。この問題を解決するには、手順に従って更新プログラムをインストールしてください。この更新中に端末が2回再起動されます。"</string>
   <string name="sdcardfs_dialog_title">"重要な更新"</string>
   <string name="sdcradfs_dialog_in_owner_message">"MIUI 9では新しいファイルシステムを使用できますが、古いデータとは互換性がない可能性があります。更新するにはSecond spaceからアイテムを移動し、端末を再起動して再度Second spaceを作成し直してください。
