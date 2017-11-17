@@ -39,7 +39,7 @@
   <string name="account_settings_login_dialog_reason_fmt" formatted="false">"%sにログインできませんでした。サーバーからの応答: %s"</string>
   <string name="account_settings_login_dialog_title">"ログインできません"</string>
   <string name="account_settings_mail_check_frequency_dialog_title">"メールを同期するには手動で更新する必要があります"</string>
-  <string name="account_settings_mail_check_frequency_dialog_title_eas">"手動に変更すると、メッセージとカレンダーを同期するため手動で更新する必要があります。"</string>
+  <string name="account_settings_mail_check_frequency_dialog_title_eas">"メッセージとカレンダーの予定を同期できるようにするには、手動でメールアプリを同期する必要があります。"</string>
   <string name="account_settings_mail_check_frequency_label">"同期頻度"</string>
   <string name="account_settings_mibill_resolve_label">Manage bills automatically</string>
   <string name="account_settings_name_label">"名前"</string>
@@ -400,7 +400,7 @@
   <string name="email_setting">Mail</string>
   <string name="email_setting_keywords">Accounts;Add account;mail accounts;add mail account;confirm before deleting;delete confirm;confirm before sending;send confirm;delete message flow;delete redirect;conversation view;mail conversation;battery saver;mail battery;send feedback;upload logs</string>
   <string name="email_sina">Sina Mail</string>
-  <string name="eml_parse_message">"emlファイルの読み込み中です、しばらくお待ちください…"</string>
+  <string name="eml_parse_message">"emlファイルを開いています…"</string>
   <string name="empty_account_tip">"アカウントが見つかりませんでした"</string>
   <string name="empty_email_tip">"空のメールは送信できません"</string>
   <string name="empty_spam">"迷惑メールを空にする"</string>
@@ -416,7 +416,7 @@
   <string name="expand_recipient_details">"受信者の詳細を展開"</string>
   <string name="fail_get_email_message">"メッセージを取得できませんでした。"</string>
   <string name="failed">"画像を読み込めませんでした"</string>
-  <string name="failed_parse_eml_file">"メールの読み込みに失敗しました、もう一度お試しください"</string>
+  <string name="failed_parse_eml_file">"emlファイルを開くことができませんでした、もう一度お試しください。"</string>
   <string name="failed_read_phone_state_permission">"端末のステータスへのアクセスを許可する"</string>
   <string name="failed_read_write_calendar_permission">"カレンダーへのアクセスを許可する"</string>
   <string name="failed_read_write_contacts_permission">"連絡先へのアクセスを許可する"</string>
@@ -913,6 +913,7 @@ to receive reminders about payments and trips"</string>
   <string name="security_unsupported_ticker_fmt">"アカウント「%s」はセキュリティ要件により同期できません。"</string>
   <string name="select_attachment_type">Choose attachment from</string>
   <string name="select_no_file">"添付ファイルが選択されていません"</string>
+  <string name="select_path">"保存場所を選択"</string>
   <string name="send">"送信"</string>
   <string name="send_failed">"メッセージは送信されませんでした。"</string>
   <string name="send_feed_back">"フィードバックを送信"</string>
@@ -1061,7 +1062,7 @@ Touch "<b>Sync Now</b> to sync mail once, or <b>Change Sync Settings</b> to set 
   <string name="wipe_account_fail_title">"個人情報を削除できませんでした"</string>
   <string name="wrong_password">"入力したパスワードが正しくありません"</string>
   <string name="yes">"はい"</string>
-  <string name="you_are_in_mobile_network">"モバイルデータ接続を使用してログを送信しますか？データ使用量の制限を超えた場合は、キャリアによっては追加料金が発生する場合があります。"</string>
+  <string name="you_are_in_mobile_network">"モバイルデータ接続を使用してログをアップロードしますか？"</string>
   <string name="youfuli">"おすすめ"</string>
   <string name="zip_viewer_no_file">"ファイルがありません。"</string>
 </resources>
