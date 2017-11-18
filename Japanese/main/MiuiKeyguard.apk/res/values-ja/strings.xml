@@ -91,7 +91,7 @@
   <string name="keyguard_charging_info_tip_text5">Batteries charge longer when they get hotter than usual.</string>
   <string name="keyguard_charging_info_tip_text6">Turn the screen off and put your device away to cool it off.</string>
   <string name="keyguard_quick_charging_info_click_to_detail">"急速充電中、タップして詳細を表示"</string>
-  <string name="keyguard_quickly_charging_info_charging_text">"急速受電中…"</string>
+  <string name="keyguard_quickly_charging_info_charging_text">"急速充電中…"</string>
   <string name="keyguard_torch_cover_text">"ライトをオンにするには、電源ボタンを押し続けます"</string>
   <string name="lock_screen_date">"M月d日 EEEE"</string>
   <string name="lock_screen_date_12">"M月d日 EEEE"</string>
