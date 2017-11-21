@@ -1098,7 +1098,7 @@
   <string name="tty_mode_not_allowed_video_call">TTYモードの変更はビデオハングアウト中には行えません</string>
   <string name="tty_mode_option_summary">TTYモードの設定</string>
   <string name="tty_mode_option_title">TTYモード</string>
-  <string name="turnover_mute_summary">"携帯を水平方向に回転させて、素早く裏返すと着信音をミュートできます。"</string>
+  <string name="turnover_mute_summary">"端末が画面を上向きにして水平に置いてある時、端末を裏返すと着信音をミュートできます。"</string>
   <string name="turnover_mute_title">携帯をひっくり返して着信音をミュート</string>
   <string name="undefined">未設定</string>
   <string name="unknown">通知不可能</string>

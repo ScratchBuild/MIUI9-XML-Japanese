@@ -338,6 +338,7 @@
   <string name="auto_task_operation_vibration">"バイブレーション"</string>
   <string name="auto_task_operation_wifi">"Wi-Fi"</string>
   <string name="back_app_name">"アプリロックに戻る"</string>
+  <string name="back_description_securitycenter">"戻る"</string>
   <string name="back_modifypassword">"パスワードの変更に戻る"</string>
   <string name="background_restrict_app_dialog_message">"このアプリのバックグラウンドネットワークアクセスを制限すると、メッセージの受信、コンテンツのダウンロード、その他の機能が正常に動作しなくなる可能性があります。とにかく制限しますか？"</string>
   <string name="background_traffic">"バックグラウンド %s"</string>

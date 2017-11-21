@@ -122,6 +122,7 @@ https://appleid.apple.com/#!&amp;page=signin to close"</string>
   <string name="err_unknown">"不明なエラー"</string>
   <string name="err_version_too_old">"バックアップが古すぎます。"</string>
   <string name="err_version_unsupported">"バックアップバージョンはサポートされていません。"</string>
+  <string name="error_permissions">"カレンダーを読み書きする権限が取得できません、[設定]からアクセス許可を確認してください"</string>
   <string name="every_day">"毎日"</string>
   <string name="exchange_account">"アカウントの切り替え"</string>
   <string name="fail">"失敗しました"</string>
@@ -156,7 +157,7 @@ https://appleid.apple.com/#!&amp;page=signin to close"</string>
   <string name="hsa_verify_shutdown">"オフにする"</string>
   <string name="icloud_backup_tip">"古いiOS端末にiCloudアカウントでログイン"</string>
   <string name="icloud_how_to_backup_tip_steps">"1.iOS端末で設定を開き、iCloudを選択します。
-2.連絡先に切り替えます。
+2.連絡先などのスイッチを切り替えます。
 3.写真を選択してiCloudフォトライブラリーをオンにします。"</string>
   <string name="icloud_how_to_backup_tip_summary">"iOSからデータをインポートするには、iCloudのバックアップを作成する必要があります。"</string>
   <string name="icloud_how_to_backup_tip_title">Tips:</string>
@@ -172,7 +173,7 @@ https://appleid.apple.com/#!&amp;page=signin to close"</string>
 2.\u0009Mi Talkアプリの設定を開き、”Mi Accountに連絡先をバックアップ”を選択します。"</string>
   <string name="import_from_xiaomi_account_hint2">"既にバックアップがあれば、[次へ]をタップ。"</string>
   <string name="import_from_xiaomi_account_hint_title">"Mi Talkを使用して、デバイス間で連絡先をバックアップします。"</string>
-  <string name="import_tip_summary">互換性の問題により、連絡先や写真はiOS端末からのみ転送できます。転送を開始する前にまずiCloudバックアップを作成してください。</string>
+  <string name="import_tip_summary">互換性の問題により、iOS端末からは一部のデータのみ転送できます。転送を開始する前にまずiCloudバックアップを作成してください。</string>
   <string name="import_tip_title">Tips:</string>
   <string name="loading_data">"データを読み込み中"</string>
   <string name="local_app_name">"バックアップ"</string>
@@ -281,8 +282,10 @@ https://appleid.apple.com/#!&amp;page=signin to close"</string>
   <string name="select_all">"すべて選択"</string>
   <string name="select_backup_item">"アイテムを選択"</string>
   <string name="select_empty">"インポートするアイテムを選択"</string>
+  <string name="select_item_calendar">"カレンダー"</string>
   <string name="select_item_contacts">"連絡先"</string>
-  <string name="select_item_empty_summary">"アイテムはありません"</string>
+  <string name="select_item_empty_summary">"連絡先はありません"</string>
+  <string name="select_item_notes">"ノート"</string>
   <string name="select_item_photos">"写真"</string>
   <string name="select_item_summary_loading">"データを読み込み中…"</string>
   <string name="select_item_summary_wait">"待機中…"</string>

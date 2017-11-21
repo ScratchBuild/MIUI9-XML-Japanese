@@ -29,6 +29,7 @@ this feature will be added to Second space automatically."</string>
   <string name="closeSecondSpace">"Second spaceを削除"</string>
   <string name="closeSecondSpaceSummary">"Second spaceをデータと共に削除する"</string>
   <string name="closeSuccess">"オフにしました"</string>
+  <string name="close_second_space">"Second spaceを削除しました"</string>
   <string name="close_second_space_success">"Second spaceを削除しました"</string>
   <string name="closed">Off</string>
   <string name="complete_setting">"完了"</string>
@@ -129,6 +130,7 @@ You can also download them separately."</string>
   <string name="input_space_password">"今すぐ設定"</string>
   <string name="invalid_qr_code">"無効なQRコード"</string>
   <string name="list_empty_text">"何もありません"</string>
+  <string name="list_empty_text_xspace">Install WeChat/QQ/Weibo, create dual apps, and try again.</string>
   <string name="loading">"読み込み中…"</string>
   <string name="loading_apps">"アプリを読み込み中…"</string>
   <string name="loading_space">"読み込み中…"</string>
@@ -303,10 +305,17 @@ to enter Second space from Lock screen"</string>
   <string name="transferMessage">Messages from Second space will be moved to First space</string>
   <string name="tryNow">"今すぐ試す"</string>
   <string name="wating">"読み込み中…"</string>
+  <string name="weibo_send">Send to Weibo</string>
+  <string name="weixin_pay">WeChat Pay</string>
+  <string name="weixin_share">WeChat Pay</string>
   <string name="xpsace_guide_button">"作成"</string>
   <string name="xspace_account">"デュアルアプリのアカウント"</string>
   <string name="xspace_chocie">"デュアルアプリのサポート"</string>
   <string name="xspace_creating">"デュアルアプリを作成中…"</string>
+  <string name="xspace_default_app_summary">"支払い、共有、お気に入りなどのデフォルトアプリを設定します。"</string>
+  <string name="xspace_default_app_title">"デフォルトアプリ"</string>
+  <string name="xspace_default_setting_dialog_title">"デフォルト"</string>
+  <string name="xspace_default_setting_label">"デフォルトアプリ"</string>
   <string name="xspace_description">"デュアルアプリを作成して使用します。デュアルアプリはホーム画面上に別々のアイコンを持ちます。"</string>
   <string name="xspace_guide_des">"2つのアカウントを切り替えずに使用する"</string>
   <string name="xspace_guide_title">"%sのデュアルアプリを作成"</string>
