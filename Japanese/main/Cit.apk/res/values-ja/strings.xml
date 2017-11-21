@@ -23,8 +23,6 @@ Before you calibrate the device, place it on a flat surface."</string>
   <string name="cit_apk_signature_failed">apk signature FAILED</string>
   <string name="cit_apk_signature_passed">apk signature PASSED</string>
   <string name="cit_aud_current_state">Current State:</string>
-  <string name="cit_aud_spk_l">spk_L</string>
-  <string name="cit_aud_spk_r">spk_R</string>
   <string name="cit_aud_spk_vendor">Speaker Vendor:</string>
   <string name="cit_aud_spkcal">Calibrate</string>
   <string name="cit_aud_test_result">テスト結果:</string>
@@ -211,7 +209,7 @@ GPSを起動するには画面をタッチ…"</string>
   <string name="cit_nfc_check_summary">カードを端末の背面に置いてください</string>
   <string name="cit_nfc_check_title">NFCテスト</string>
   <string name="cit_not_available">このテスト項目はこのバージョンのMIUIでは実行できません。</string>
-  <string name="cit_notificationlight">Notification light</string>
+  <string name="cit_notificationlight">通知ライト</string>
   <string name="cit_notificationlight_off">Notification light off</string>
   <string name="cit_notificationlight_on">Notification light on</string>
   <string name="cit_otg_not_supported">"This device doesn't support OTG testing"</string>
@@ -237,8 +235,8 @@ When calibrating, make sure there's nothing between the sensor and your hand (e.
   <string name="cit_reset_check_title">再起動テスト</string>
   <string name="cit_reset_test">テスト</string>
   <string name="cit_sd_fail">エラーが発生しました。</string>
-  <string name="cit_sd_mount">Mount SD card</string>
-  <string name="cit_sd_mount_sucess">SD card mounted</string>
+  <string name="cit_sd_mount">SDカードをマウント</string>
+  <string name="cit_sd_mount_sucess">SDカードをマウントしました</string>
   <string name="cit_sd_mp3_not_existed">"There is no file on the SD card called \"music.mp3\"
 After you place \"music.mp3\" in the SD card's directory, tap the display to play."</string>
   <string name="cit_sd_plugged_in">SD card detected, remove SD card now</string>
@@ -305,15 +303,11 @@ After you place \"music.mp3\" in the SD card's directory, tap the display to pla
   <string name="cit_tool_nfc_st_run">Run</string>
   <string name="cit_tool_nfc_st_stop">停止</string>
   <string name="cit_tool_wifi">Wi-Fi test tool</string>
-  <string name="cit_tool_wifi_chain_1">1</string>
-  <string name="cit_tool_wifi_chain_1_2">1+2</string>
-  <string name="cit_tool_wifi_chain_2">2</string>
   <string name="cit_tool_wifi_exit">Exit</string>
   <string name="cit_tool_wifi_rx_ap">Rx: AP</string>
   <string name="cit_tool_wifi_rx_ap_name">MT</string>
   <string name="cit_tool_wifi_rx_chan">Rx: Channel</string>
   <string name="cit_tool_wifi_rx_count_error">Output value is not a number</string>
-  <string name="cit_tool_wifi_rx_dut_ip">192.168.1.12</string>
   <string name="cit_tool_wifi_rx_error">An error occurred while running the program</string>
   <string name="cit_tool_wifi_rx_exit">Rx:exit</string>
   <string name="cit_tool_wifi_rx_run">Run</string>

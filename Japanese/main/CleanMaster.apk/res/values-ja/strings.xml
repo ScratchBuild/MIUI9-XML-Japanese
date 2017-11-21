@@ -333,7 +333,7 @@
   <string name="pref_title_apps_cleanup_size">​When cache size reaches</string>
   <string name="pref_title_auto_clean_content_choose">Choose items to clean</string>
   <string name="pref_title_auto_update_cleanup_db">"自動的に更新"</string>
-  <string name="pref_title_choose_engine">Definitions</string>
+  <string name="pref_title_choose_engine">"定義"</string>
   <string name="pref_title_clean_alert">Remind to clean</string>
   <string name="pref_title_cleanup_white_list">"例外"</string>
   <string name="pref_title_expand_cache_group">Show cached items</string>

@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="HIPS_Action_Accept">"許可"</string>
-  <string name="HIPS_Action_Accept_Once">Allow Once</string>
+  <string name="HIPS_Action_Accept_Once">"一度だけ許可"</string>
   <string name="HIPS_Action_Reject">"拒否"</string>
-  <string name="HIPS_Action_Reject_Once">Deny Once</string>
+  <string name="HIPS_Action_Reject_Once">"一度だけ拒否"</string>
   <string name="HIPS_Perm_AudioRecorder">Record audio</string>
   <string name="HIPS_Perm_AudioRecorder_Desc">record audio and phone calls</string>
   <string name="HIPS_Perm_AutoStart">Run at startup</string>
