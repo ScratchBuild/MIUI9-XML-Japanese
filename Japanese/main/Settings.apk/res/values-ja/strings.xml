@@ -1462,7 +1462,11 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="fingerprint_manage_tittle">指紋</string>
   <string name="fingerprint_not_identified_msg">指紋を読み取れませんでした、パスワードを入力してください</string>
   <string name="fingerprint_not_recognized">認識されませんでした</string>
+  <string name="fingerprint_payment">Fingerprint payments</string>
   <string name="fingerprint_removal_failed">指紋認証を削除できませんでした、再度試してください</string>
+  <string name="fingerprint_unlock_set_unlock_password">指紋 + パスワード</string>
+  <string name="fingerprint_unlock_set_unlock_pattern">指紋 + パターン</string>
+  <string name="fingerprint_unlock_set_unlock_pin">指紋 + PIN</string>
   <string name="fingerprint_usage_category_title">指紋の用途</string>
   <string name="finish_application">強制停止</string>
   <string name="finish_button">完了</string>

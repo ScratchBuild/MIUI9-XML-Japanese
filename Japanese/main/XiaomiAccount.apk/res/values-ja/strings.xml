@@ -5,12 +5,9 @@
   <string name="access_token_invalid_warning">"Weiboアカウントが無効です"</string>
   <string name="account">"アカウント"</string>
   <string name="account_bind_devices">"デバイス"</string>
-  <string name="account_bind_new_phone">"新しい電話を追加"</string>
-  <string name="account_bind_phone_notice">"この電話番号を使用してアカウントにログインするには、パスワードをリセットするか、セキュリティ設定を変更してください。"</string>
   <string name="account_bind_secure_email_title">"メールアドレスを追加"</string>
   <string name="account_bind_secure_phone_title">"電話番号を追加"</string>
   <string name="account_bind_settings">"アカウント"</string>
-  <string name="account_binded_phone">Phone %d</string>
   <string name="account_crop_user_avatar">"写真を切り抜く"</string>
   <string name="account_empty_user_name">"Mi Accountのユーザー名を入力"</string>
   <string name="account_error_all_space_user_name">"名前に空白文字のみを使用することはできません"</string>
@@ -58,6 +55,8 @@
   <string name="account_user_using_qq_avatar">"QQのプロフィール写真を使用"</string>
   <string name="account_user_using_weibo_avatar">"Sina Weiboのプロフィール写真を使用"</string>
   <string name="account_xiaomi_service">"サービス"</string>
+  <string name="action_add_phone">"電話番号を追加する"</string>
+  <string name="action_update_phone">"電話番号を変更する"</string>
   <string name="activate_email_notice">"24時間以内にアカウントを有効にしてください"</string>
   <string name="activity_not_found_notice">"アプリを見つけることができません"</string>
   <string name="add_account">"アカウントを追加"</string>
@@ -78,7 +77,6 @@
   <string name="change_email_address">"メールアドレスを変更"</string>
   <string name="change_password">"パスワードを変更"</string>
   <string name="change_phone_number">"電話番号を変更"</string>
-  <string name="checking_phone_num_availible">"電話番号を確認中…"</string>
   <string name="cloud_service">Mi Cloud</string>
   <string name="completed">"設定完了"</string>
   <string name="confirm_activate_email">Verified</string>
@@ -136,10 +134,12 @@
   <string name="find_device_request_prepare_error">"ステータスを取得できません、後ほど再試行してください"</string>
   <string name="find_device_unknown_error">"端末のステータスを取得できません、しばらくしてからもう一度お試しください"</string>
   <string name="first_login_time">First sign in attempt: %s</string>
+  <string name="get_back_pwd">Get back password</string>
   <string name="get_device_list_failed">"デバイスを取得できません"</string>
   <string name="get_phone_bind_exceed_limit">"最大3つのMi Accountに電話番号を関連付けることができます。新しいアカウントを追加できません。"</string>
   <string name="get_phone_verifycode_exceed_limit">この番号に送信された認証コードが多すぎます。24時間待ってからもう一度お試しください。</string>
   <string name="guest_account_label">Mi Guest Account</string>
+  <string name="identity">Identity</string>
   <string name="input_email_address_notice">"We'll use this email to verify your account"</string>
   <string name="io_error_title">"ネットワークを確認"</string>
   <string name="just_a_second">"読み込み中…"</string>
@@ -169,6 +169,7 @@
   <string name="my_device_title">"現在のデバイス"</string>
   <string name="no_network_btn">"更新"</string>
   <string name="no_network_title">"ネットワークに接続できません。"</string>
+  <string name="no_phone">No Phone</string>
   <string name="no_response_retry">"応答がありません、再試行してください。"</string>
   <string name="no_sim_card_or_unactivated">"SIMカードが挿入、またはアクティベートされていません"</string>
   <string name="nobind">"接続されていません"</string>
@@ -375,6 +376,7 @@
   <string name="passport_wrong_phone_number_format">The format of the phone number you entered is invalid</string>
   <string name="passport_wrong_vcode">"入力したコードが正しくありません"</string>
   <string name="phone_activated">%s activated</string>
+  <string name="phone_num_use_for">phone number uses for：</string>
   <string name="photoPickerNotFoundText">No photos available.</string>
   <string name="push_notification_content">"認証コードを取得"</string>
   <string name="push_notification_title">You signed in to your Mi Account on an unknown device</string>
@@ -412,6 +414,8 @@
   <string name="select_location_title">Select your location</string>
   <string name="send_email_activate_message">Verification email sent</string>
   <string name="service_error">"サービスエラー"</string>
+  <string name="set_success">"成功"</string>
+  <string name="sign_in">"ログイン"</string>
   <string name="sina_weibo">Sina Weibo</string>
   <string name="sms_send_success">"送信済み"</string>
   <string name="sns_access_token_expired_warning">Account sign-in has expired. Sign in again to reconnect this account.</string>
@@ -427,6 +431,7 @@
   <string name="update_contacts">"連絡先を更新"</string>
   <string name="update_email_address_dialog_message">You need to verify your identity before you can update email.</string>
   <string name="update_email_address_dialog_title">"メールアドレスを更新"</string>
+  <string name="update_phone_notice">"セキュリティ設定を変更"</string>
   <string name="update_phone_number_notice_message">You need to verify your identity before you can update phone number.</string>
   <string name="updated_nothing">"更新済み"</string>
   <string name="user_avatar_update_title">"プロフィール写真を変更"</string>

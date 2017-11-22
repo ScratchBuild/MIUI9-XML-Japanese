@@ -166,7 +166,7 @@
   <string name="precipitation_degree_two">Light</string>
   <string name="pressure_connect">%1$s hPa</string>
   <string name="pull_fresh_updated">"正常に更新されました"</string>
-  <string name="pull_fresh_updating">"更新中"</string>
+  <string name="pull_fresh_updating">"更新中…"</string>
   <string name="radar_cloud_image_title">"レーダーマップ"</string>
   <string name="rainfall_settings_summary">Rainfall alerts</string>
   <string name="rainfall_settings_title">Rainfall</string>
@@ -204,7 +204,7 @@
   <string name="update_night_setting_title_text">"夜間に自動的に更新"</string>
   <string name="update_setting_title_text">"天気情報を更新"</string>
   <string name="updated_a_moment_ago">"少し前に更新"</string>
-  <string name="updating">"更新中..."</string>
+  <string name="updating">"更新中…"</string>
   <string name="view_forecast_item_yesterday">"昨日"</string>
   <string name="view_indexes_item_today">"今日"</string>
   <string name="view_indexes_item_tommorrow">"明日"</string>
