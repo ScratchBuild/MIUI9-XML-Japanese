@@ -1282,19 +1282,6 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="doze_title">アンビエント表示</string>
   <string name="draw_overlay">他のアプリの上に重ねて描画</string>
   <string name="draw_overlay_title">他のアプリの上に重ねて描画できるアプリ</string>
-  <string name="drive_mode">ドライブモード</string>
-  <string name="drive_mode_auto_reply">クイック返信</string>
-  <string name="drive_mode_auto_sms_reply_content">ただ今運転中です。後ほど掛け直します。</string>
-  <string name="drive_mode_auto_sms_reply_content_title">クイック返信</string>
-  <string name="drive_mode_calling_auto_sms_reply">折り返し掛ける</string>
-  <string name="drive_mode_invert_stop_report">電話を裏返すと消音</string>
-  <string name="drive_mode_only_contact_reply">連絡先にのみ返信</string>
-  <string name="drive_mode_phone_report">着信情報</string>
-  <string name="drive_mode_settings">ドライブモード設定</string>
-  <string name="drive_mode_sms_auto_sms_reply">SMSを返す</string>
-  <string name="drive_mode_sms_report">メッセージ</string>
-  <string name="drive_mode_title">ドライブモード</string>
-  <string name="drive_mode_voice_report">テキスト読み上げ出力</string>
   <string name="dtmf_tone_enable_title">ダイヤルパッドの操作音</string>
   <string name="edge_mode_back">戻る</string>
   <string name="edge_mode_back_summary">戻るにはお使いの端末のエッジをダブルタップします</string>
@@ -1319,7 +1306,6 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="enable_adb">USBデバッグ</string>
   <string name="enable_adb_summary">USB接続時はデバッグモードにする</string>
   <string name="enable_compatibility">アプリを拡大/縮小</string>
-  <string name="enable_drive_mode">ドライブモード</string>
   <string name="enable_freeform_support">フリーフォーム ウィンドウの有効化</string>
   <string name="enable_freeform_support_summary">外部のフリーフォーム ウィンドウのサポートを有効にします。</string>
   <string name="enable_mobile_data_when_opening_hotspot">モバイルデータもオンにしますか？</string>
@@ -3803,7 +3789,7 @@ PINが正しくない可能性があります。"</string>
   <string name="tether_and_hotspot_title">テザリングとホットスポット</string>
   <string name="tether_devices_management_title">デバイスの管理</string>
   <string name="tether_devices_max_number">接続済みデバイスの上限</string>
-  <string name="tether_settings_disabled">パーソナルホットスポットはオフです</string>
+  <string name="tether_settings_disabled">ポータブルアクセスポイントはオフです</string>
   <string name="tether_settings_title_all">テザリングとポータブルアクセスポイント</string>
   <string name="tether_settings_title_bluetooth">Bluetoothテザリング</string>
   <string name="tether_settings_title_usb">USBテザリング</string>
@@ -4628,7 +4614,7 @@ Android端末をUSBケーブルでコンピューターにつなぐことで、�
   <string name="wifi_tether_enabled_subtext">ポータブルアクセスポイント%1$sが有効です</string>
   <string name="wifi_tether_failed_subtext">ポータブルWi-Fiアクセスポイントエラー</string>
   <string name="wifi_tether_setting_title">設定</string>
-  <string name="wifi_tether_settings_title">パーソナルホットスポット</string>
+  <string name="wifi_tether_settings_title">ポータブルアクセスポイント</string>
   <string name="wifi_tether_starting">アクセスポイントをONにしています…</string>
   <string name="wifi_tether_stopping">アクセスポイントをOFFにしています…</string>
   <string name="wifi_type_approval"/>

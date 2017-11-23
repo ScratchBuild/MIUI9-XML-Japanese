@@ -287,6 +287,7 @@
   <string name="toast_feedbackservice_in_submit">Handling previous feedback…</string>
   <string name="toast_fill_brackets">"いくつかの情報がレポートに不足しています"</string>
   <string name="toast_log_not_exists">"必要なログが削除されたか、存在しません"</string>
+  <string name="toast_log_too_large">"アップロードできません。ファイルが大きすぎます。"</string>
   <string name="toast_module_required">"アイテムを選択してください"</string>
   <string name="toast_network_unavailable">"送信できませんでした。ネットワークに接続できません。"</string>
   <string name="toast_pending_log_collection">"ログを取得中…"</string>

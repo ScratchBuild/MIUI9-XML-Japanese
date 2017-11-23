@@ -88,6 +88,8 @@
   <string name="normal">Default mode</string>
   <string name="operation_create_group">"名前"</string>
   <string name="operation_create_group_message">"新しいグループ名を入力"</string>
+  <string name="performance_category">"パフォーマンス"</string>
+  <string name="power_center">"電源"</string>
   <string name="power_checker_background_cpu_multi_apps_title">%1$s runs abnormally</string>
   <string name="power_checker_background_cpu_title">%1$s runs abnormally</string>
   <string name="power_checker_background_gps_multi_apps_title">%1$s gets location info frequently</string>
@@ -164,8 +166,9 @@
   <string name="power_event_view_event_title">"トリガー"</string>
   <string name="power_hide_mode_app_list_summary">Saving power in the background</string>
   <string name="power_hide_mode_summary">"個々のアプリのバックグラウンドプロセス、Wi-Fiとモバイルデータ接続、GPSを制限してバッテリーを節約する"</string>
-  <string name="power_hide_mode_title">"アプリの電池使用量を管理"</string>
+  <string name="power_hide_mode_title">"電池とパフォーマンス"</string>
   <string name="power_keeper">"バッテリーセーバー"</string>
+  <string name="power_mode">"電源設定"</string>
   <string name="power_mode_cpu_state_high">"パフォーマンス"</string>
   <string name="power_mode_cpu_state_high_desc">"バッテリー寿命よりもパフォーマンスを優先させます"</string>
   <string name="power_mode_cpu_state_low">"省電力"</string>
@@ -176,6 +179,7 @@
   <string name="power_mode_view_event_title">"イベント"</string>
   <string name="power_mode_view_user_define_title">"新しいイベント"</string>
   <string name="power_optimize_activity_profile_file_error">"バッテリーセーバーのエラー"</string>
+  <string name="power_usage">"電池使用量"</string>
   <string name="ragment_sys_listempty">"システムアプリなし"</string>
   <string name="reading">"読書モード"</string>
   <string name="scenario_policies_summary">"さまざまなシーンに応じて最適な省電力モードを適用します。"</string>

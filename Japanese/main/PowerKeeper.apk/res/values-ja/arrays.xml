@@ -86,4 +86,8 @@
         <item>"現在は温度制御モードです"</item>
         <item>"現在はパフォーマンスモードです"</item>
     </string-array>
+    <string-array name="power_mode_entries">
+        <item>"パフォーマンス"</item>
+        <item>"バランス"</item>
+    </string-array>
 </resources>

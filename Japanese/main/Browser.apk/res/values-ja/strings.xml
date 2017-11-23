@@ -35,6 +35,7 @@
   <string name="action_menu_text_copy_url">"URLをコピー"</string>
   <string name="action_menu_text_create_qr_code">"QRコード"</string>
   <string name="action_menu_text_download">"ダウンロードを管理"</string>
+  <string name="action_menu_text_drop">"メニューを閉じる"</string>
   <string name="action_menu_text_exit">"終了"</string>
   <string name="action_menu_text_find_in_page">"ページ内を検索"</string>
   <string name="action_menu_text_fullscreen">"全画面表示"</string>
@@ -115,6 +116,7 @@
   <string name="bookmark_cannot_save_url">"このURLはブックマークに追加できません。"</string>
   <string name="bookmark_folder_needs_title">"グループ名を入力"</string>
   <string name="bookmark_group_lable">"グループ"</string>
+  <string name="bookmark_move_to">Move to</string>
   <string name="bookmark_needs_title">"名前を指定してください"</string>
   <string name="bookmark_needs_url">"URLを指定してください"</string>
   <string name="bookmark_not_saved">"ブックマークを保存できませんでした"</string>
@@ -141,6 +143,8 @@
   <string name="cancel">"キャンセル"</string>
   <string name="cancle_sync_cloud_tabs">"同期をキャンセル"</string>
   <string name="cannot_download">"ダウンロードできるのは\"http\"または\"https\"のURLのみです"</string>
+  <string name="check_security_tip_privacy_policy">"プライバシーポリシー"</string>
+  <string name="check_security_tip_user_agreement">"利用規約"</string>
   <string name="choosertitle_sharevia">"共有ツール"</string>
   <string name="clear_history">"履歴を消去"</string>
   <string name="clear_most_visited">Recent history</string>
@@ -210,8 +214,6 @@
   <string name="current_version_pc">Desktop</string>
   <string name="current_version_phone">Phone</string>
   <string name="custom_head_card_text">Always believe that something wonderful is about to happen</string>
-  <string name="custom_head_card_text_incognito">"You're incognito!
-閲覧したページは履歴に表示されません。"</string>
   <string name="data_traffic_prompt_change">"モバイルデータ接続を使用して動画を視聴すると、データ使用量が増加します。データ使用量の制限を超えた場合は、キャリアによっては追加料金が発生する場合があります。"</string>
   <string name="data_traffic_prompt_message">"モバイルデータ接続を使用して動画を閲覧すると、データ使用量が増加します。データ使用量の制限を超えた場合は、キャリアによっては追加料金が発生する場合があります。"</string>
   <string name="data_traffic_prompt_message_short">"モバイルデータ接続を使用して動画を視聴すると、データ使用量の制限を超える場合があります。"</string>
@@ -223,6 +225,7 @@
   <string name="date_time_picker_dialog_title">"日付と時刻の設定"</string>
   <string name="delete">"削除"</string>
   <string name="delete_bookmark">"削除"</string>
+  <string name="delete_bookmark_action_warning">"ブックマークを削除しますか？"</string>
   <string name="delete_bookmark_group_warning">"\"%s\"を削除しますか？このグループ内のすべてのブックマークが削除されます。"</string>
   <string name="delete_bookmark_warning">"ブックマーク\"%s\"を削除しますか？"</string>
   <string name="delete_download">"削除"</string>
@@ -339,6 +342,7 @@
   <string name="geolocation_settings_page_summary_allowed">"このサイトは現在地情報にアクセスできます"</string>
   <string name="geolocation_settings_page_summary_not_allowed">"このサイトは現在地情報にアクセスできません"</string>
   <string name="geolocation_settings_page_title">"位置情報アクセスをクリア"</string>
+  <string name="go_back_descirption">"戻る"k</string>
   <string name="go_supermarket_button">"移動"</string>
   <string name="go_supermarket_title">More apps, faster speed, and less data usage in App Store</string>
   <string name="gold_medals">"金メダル"</string>
@@ -356,7 +360,6 @@
   <string name="homepage_search_hint">"検索"</string>
   <string name="homepage_top_card_menu">Top</string>
   <string name="ignore_add_pwa_dialog_today">"今日は表示しない"</string>
-  <string name="in_incognito">"You're incognito! このタブで表示するWebページは、ブラウザの履歴に表示されません。"</string>
   <string name="in_secureaccess">"ブラウザをセーフモードに切り替えました"</string>
   <string name="isReplacePage">"ファイルが既に存在します、置き換えますか？"</string>
   <string name="is_first_history_item">This is the first page in Browser history</string>
@@ -526,9 +529,14 @@
   <string name="more_option">"その他のオプション"</string>
   <string name="nav_bottom_bar_back">"戻る"</string>
   <string name="nav_bottom_bar_close_all">"すべて閉じる"</string>
+  <string name="nav_bottom_bar_close_description">"閉じる"</string>
   <string name="nav_bottom_bar_new_tab">"新しいタブ"</string>
   <string name="nav_screen_container_tab_incognito">"匿名タブ"</string>
   <string name="nav_screen_container_tab_normal">"標準タブ"</string>
+  <string name="nav_screen_incognito_message">"Your browsing and search history won't be saved in Incognito mode.
+Remember that the files you download and the bookmarks you add will still be saved."</string>
+  <string name="nav_screen_incognito_time">After %s seconds will automatically create a new page</string>
+  <string name="nav_screen_incognito_title">Incognito mode</string>
   <string name="navigationbar_rightbutton_actiontext_cancle">"キャンセル"</string>
   <string name="navigationbar_rightbutton_actiontext_go">"移動"</string>
   <string name="navigationbar_rightbutton_actiontext_search">"検索"</string>
@@ -775,12 +783,19 @@
   <string name="send_comment_title">"コメント"</string>
   <string name="senddesktop">"ホーム画面"</string>
   <string name="sendstartpage">"スタートページ"</string>
+  <string name="sequence_bookmark_description">"ブックマークの並び順を変更する"</string>
   <string name="share_by_yidianzixun">【ちょっとした情報】</string>
   <string name="share_image_text">こんなものを見つけました！ @MIUI</string>
   <string name="share_page_text">こんなものを見つけました: %1$s @MIUI| %2$s</string>
-  <string name="show_check_security_url_check_tip_dialog_description">Browser needs to connect to the internet to work normally. To improve security and receive more relevant recommendations, allow Browser to get the URLs of the websites you visit and access your location info.</string>
-  <string name="show_check_security_url_check_tip_dialog_description_international">Browser needs to connect to the internet to work normally. To receive more relevant recommendations, allow Browser to get the URLs of the websites you visit and access your location info.</string>
-  <string name="show_security_tip_dialog_title">"利用規約"</string>
+  <string name="show_check_security_url_check_tip_dialog_description">"We will collect and use your personal data if you choose to use our services.
+Here's the data that we'll collect:
+1. Secure URLs: We'll collect the URLs of the websites you visit while using our services.
+2. Location data: We'll access your location info.
+That's how we use the data we collect:
+1. Security: We use your data when we protect your device from fraud and viruses,as well as for storage and backup reasons.
+2. Content: Your data helps us provide relevant localized news content.
+Browser needs to connect to the internet to work normally. You must agree to our %2$s and %1$s to be able to use Browser.​"</string>
+  <string name="show_security_tip_dialog_title">"プライバシーポリシー"</string>
   <string name="show_weather_location_getter_tip_dialog_description">Browser needs to connect to the internet to work normally. To improve security, receive more relevant recommendations and weather info, allow Browser to get the URLs of the websites you visit and access your location info.</string>
   <string name="sign_in_to" formatted="false">"%s1に\"%s2\"でログイン"</string>
   <string name="skip_button_label">"スキップ"</string>
@@ -788,6 +803,7 @@
   <string name="snapshot">Local</string>
   <string name="snapshot_failed">"ページを保存できませんでした"</string>
   <string name="snapshot_successed">"保存したページを表示するには ブックマークと履歴-&gt;LOCAL を開いてください"</string>
+  <string name="soft_toast_see_view">"表示"</string>
   <string name="ssl_bad_clock_date_settings">"日付を設定"</string>
   <string name="ssl_bad_clock_warning" formatted="false">"端末の日付と時刻(%s2)が正しくないため、%s1へのプライベート接続を確立できません。"</string>
   <string name="ssl_certificate">"セキュリティ証明書"</string>
@@ -817,14 +833,14 @@
   <string name="suggest_access_item_app_mark">"アプリ"</string>
   <string name="suggest_access_item_app_size">%.2fMB</string>
   <string name="suggest_access_item_app_update">"更新: %s"</string>
-  <string name="suggest_access_item_book_mark">BOOK</string>
-  <string name="suggest_access_item_mina_mark">DIRECT SERVICE</string>
+  <string name="suggest_access_item_book_mark">BOOKS</string>
+  <string name="suggest_access_item_mina_mark">INSTANT APPS</string>
   <string name="suggest_access_item_music_mark">"音楽"</string>
   <string name="suggest_access_item_singer_albums">"%d アルバム"</string>
   <string name="suggest_access_item_singer_pop">%d popular songs</string>
   <string name="suggest_access_item_site_mark">SITES</string>
   <string name="suggest_access_item_video_mark">"動画"</string>
-  <string name="suggest_access_item_website_mark">"ウェブサイト"</string>
+  <string name="suggest_access_item_website_mark">"イエローページ"</string>
   <string name="suggest_access_music">Mi Music</string>
   <string name="suggest_item_delete_text">"削除"</string>
   <string name="suggest_open_app_failed">"このアプリを開くことができませんでした"</string>
@@ -842,6 +858,8 @@
   <string name="title_bar_loading">"読み込み中…"</string>
   <string name="too_many_windows_dialog_message">"新しいタブを開くには1つ閉じる必要があります。"</string>
   <string name="too_many_windows_dialog_title">"タブの数が限度に達しました"</string>
+  <string name="transfer_prompt_0">"動画を再生"</string>
+  <string name="transfer_restart">"再開"</string>
   <string name="unSwitchText">"いいえ"</string>
   <string name="undo">"元に戻す"</string>
   <string name="unknown_title">"不明"</string>
@@ -885,7 +903,7 @@
   <string name="video_buffering_percent_string">"バッファリング中 "</string>
   <string name="video_collect_cancel">"お気に入りから削除"</string>
   <string name="video_collect_success">"お気に入りに追加しました"</string>
-  <string name="video_download_complete">"ダウンロード完了。"</string>
+  <string name="video_download_complete">"ダウンロードが完了しました"</string>
   <string name="video_download_empty">No videos</string>
   <string name="video_download_error">"エラー"</string>
   <string name="video_download_error_http_gone">"ファイルが見つかりませんでした"</string>
@@ -895,7 +913,7 @@
   <string name="video_download_finding_address">"ダウンロードURLを取得中"</string>
   <string name="video_download_pause">"中断"</string>
   <string name="video_download_start">"ダウンロード中…"</string>
-  <string name="video_download_success">"完了"</string>
+  <string name="video_download_success">"ダウンロードが完了しました"</string>
   <string name="video_download_unknown_name">"不明な名前"</string>
   <string name="video_download_unknown_size">"不明なサイズ"</string>
   <string name="video_download_unsupport">"サポートされていません"</string>
@@ -921,6 +939,7 @@
   <string name="video_push_multi_message">%1$d updates available.</string>
   <string name="video_push_multi_title">"更新が利用可能"</string>
   <string name="video_push_single_message">Tap to update to %1$d.</string>
+  <string name="video_service_notification_title">Playing pop-up video</string>
   <string name="video_subtitle_last_message1">"残り1分未満"</string>
   <string name="video_subtitle_prefix1">"視聴済み"</string>
   <string name="video_subtitle_prefix2">"視聴済み "</string>
