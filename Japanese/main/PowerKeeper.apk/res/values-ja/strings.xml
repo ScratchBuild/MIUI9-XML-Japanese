@@ -16,7 +16,7 @@
   <string name="alter_message_switch_mode_message">"モードの切り替えを行うと、以前の設定はこのアプリに適用されなくなります。"</string>
   <string name="app_invisible_title">"非表示アプリ"</string>
   <string name="app_list_title">"アプリを選択"</string>
-  <string name="app_name">"バッテリーセーバー"</string>
+  <string name="app_name">"電池とパフォーマンス"</string>
   <string name="background">"アプリはバックグランドで実行されています"</string>
   <string name="base_info">Base info</string>
   <string name="cloud_addr_info">Cloud info</string>
