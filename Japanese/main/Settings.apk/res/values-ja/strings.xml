@@ -1132,12 +1132,6 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="device_battery">バッテリー</string>
   <string name="device_build_id">バージョン番号</string>
   <string name="device_complete_parameters">すべてのスペック</string>
-  <string name="device_cpu">CPU</string>
-  <string name="device_cpu10_info">Deca-core</string>
-  <string name="device_cpu2_info">Dual-core</string>
-  <string name="device_cpu4_info">Quad-core</string>
-  <string name="device_cpu6_info">Hexa-core</string>
-  <string name="device_cpu8_info">Octa-core</string>
   <string name="device_display_layout_title">Features</string>
   <string name="device_edit_title">端末名を編集</string>
   <string name="device_feedback">この端末についてフィードバックを送信</string>
@@ -1174,7 +1168,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="dialog_title_hdmi_color_calibration">色補正プリセット</string>
   <string name="dialog_title_login">Miアカウントにログインしてください</string>
   <string name="dialog_yes">はい</string>
-  <string name="disableNetwork">disableNetwork</string>
+  <string name="disableNetwork">ネットワークを無効</string>
   <string name="disable_overlays">HWオーバーレイを無効</string>
   <string name="disable_overlays_summary">画面レンダリングに常にGPUを使用する</string>
   <string name="disable_power_key_long_press_under_keyguard">電源ボタンのメニューをオフにする</string>

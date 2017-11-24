@@ -18,7 +18,7 @@
   <string name="app_downloads">%s downloads</string>
   <string name="app_label">"ダウンロード"</string>
   <string name="auth_activity_title">Xunlei Account</string>
-  <string name="auth_fail">"Couldn't get authorization"</string>
+  <string name="auth_fail">"認証情報を取得できませんでした"</string>
   <string name="bind_xunlei_account">"Xunlei Accountを追加"</string>
   <string name="bt_download">"ダウンロード"</string>
   <string name="bt_path_not_exit">"このパスは存在しません"</string>
@@ -69,12 +69,12 @@
   <string name="dialog_title_not_available">"ダウンロードに失敗しました"</string>
   <string name="dialog_title_queued_body">"ファイルはまだ利用できません"</string>
   <string name="dialog_title_recommend">"おすすめのソースをオフにする"</string>
-  <string name="disable">Off</string>
+  <string name="disable">オフ</string>
   <string name="display_expire_netiv1">"今月"</string>
   <string name="do_not_support_url">"この種類のURLはサポートされていません"</string>
   <string name="doc_filter">"ドキュメント"</string>
   <string name="download">"ダウンロード"</string>
-  <string name="download_auth">Getting authorization…</string>
+  <string name="download_auth">"認証情報を取得中…"</string>
   <string name="download_complete">"完了"</string>
   <string name="download_detail">"詳細"</string>
   <string name="download_error">"失敗"</string>
@@ -196,10 +196,10 @@
   <string name="no_downloads">No downloads</string>
   <string name="no_file_hint">Download task for this file already exists</string>
   <string name="no_result_for_keyword">"\"%1$s\"が見つかりませんでした"</string>
-  <string name="no_share_file">"Couldn't share this file"</string>
-  <string name="no_share_file_content">The file you selected has already been deleted</string>
-  <string name="no_share_files">"Can't share files that already been deleted"</string>
-  <string name="no_share_files_content">"Some of the files you're trying to share have already been deleted. Shared other files successfully."</string>
+  <string name="no_share_file">"ファイルを共有できませんでした"</string>
+  <string name="no_share_file_content">"選択したファイルは既に削除されています"</string>
+  <string name="no_share_files">"既に削除されたファイルは共有できません"</string>
+  <string name="no_share_files_content">"共有しようとしているファイルの一部は既に削除されています。他のファイルは正常に共有されました。"</string>
   <string name="no_vip_info">Get Xunlei membership to speed up downloads</string>
   <string name="no_vip_show_info">"Speed up downloads
 across all your devices with Xunlei"</string>

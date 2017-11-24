@@ -6,7 +6,7 @@
   <string name="activate">Activate</string>
   <string name="activate_find_device_success">Find Deviceが有効になりました。</string>
   <string name="activate_finddevice">"端末を有効にするためネットワークに接続する"</string>
-  <string name="activate_number_change_dialog_message">Choose a phone number that will be visible to other devices when you call using VoIP.</string>
+  <string name="activate_number_change_dialog_message">"VoIPを使用して電話をかけたときに、他の端末に表示される電話番号を選択してください。"</string>
   <string name="activating">有効にしています…</string>
   <string name="add_cloud_storage">ストレージを追加</string>
   <string name="add_short_cut">追加</string>
