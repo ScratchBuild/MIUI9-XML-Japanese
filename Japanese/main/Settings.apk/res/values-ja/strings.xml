@@ -1631,6 +1631,9 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="incoming_call_breathing_light_color_title">着信LEDの色</string>
   <string name="incoming_call_breathing_light_freq_title">着信LEDを点滅させる</string>
   <string name="incoming_call_volume_title">着信音</string>
+  <string name="infinity_display_settings">全画面表示</string>
+  <string name="infinity_display_slogan">Continued growth in unexplored technology</string>
+  <string name="infinity_display_title">全画面表示</string>
   <string name="information_dialog_button_text">取り込みました</string>
   <string name="input_method">キーボード</string>
   <string name="input_method_selector">入力方法選択オプション</string>
@@ -2167,6 +2170,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="mock_location_app_set">仮の現在地情報アプリ: %1$s</string>
   <string name="mode_disable">オフ</string>
   <string name="mode_enable">オン</string>
+  <string name="model_name">モデル名</string>
   <string name="model_number">モデル番号</string>
   <string name="modify_instruction_password_settings">パスワードを設定</string>
   <string name="modify_privacy_password">パスワードを変更</string>
@@ -2229,6 +2233,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="music_dirac_mode_piston_color">Color Edition</string>
   <string name="music_dirac_mode_piston_standard">Standard Edition</string>
   <string name="music_dirac_mode_piston_youth">Youth Edition</string>
+  <string name="music_dirac_mode_reduction_noise">Type-Cのノイズを低減</string>
   <string name="music_dolby_mode_movie">Video</string>
   <string name="music_dolby_mode_music">Music</string>
   <string name="music_dolby_mode_off">Off</string>
@@ -3515,7 +3520,6 @@ PINが正しくない可能性があります。"</string>
   <string name="status_bar_app_enable_message">バッジ</string>
   <string name="status_bar_key_position_custom">ボタンの配置を変更</string>
   <string name="status_bar_screen_button_force_immersive_desc">ボタンを表示するには画面の下から上に向かってスワイプします</string>
-  <string name="status_bar_screen_button_key">画面ボタン</string>
   <string name="status_bar_screen_button_key_force_immersive">画面ボタンを非表示</string>
   <string name="status_bar_screen_button_key_can_hide">画面ボタンは非表示にできます</string>
   <string name="status_bar_screen_key_back">戻るボタン</string>

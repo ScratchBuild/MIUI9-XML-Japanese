@@ -301,8 +301,8 @@
   <string name="no_network">"ネットワークに接続できませんでした、あとでもう一度試してみてください"</string>
   <string name="no_network_btn">"再試行"</string>
   <string name="notification_summary_after_auto_cleanup">Cleaned %s.</string>
-  <string name="notification_summary_of_garbage_cleanup">Your trash is over %s.</string>
-  <string name="notification_title_of_garbage_cleanup">Trash size</string>
+  <string name="notification_summary_of_garbage_cleanup">"空き領域を確保するにはタップ。"</string>
+  <string name="notification_title_of_garbage_cleanup">%s of trash files</string>
   <string name="notify_when">Get a notification when trash size reaches 100MB</string>
   <string name="ok">OK</string>
   <string name="open">"オンにする"</string>
@@ -451,7 +451,7 @@
   <string name="total_clean">Total cleaned: %s</string>
   <string name="total_clean_text">"消去"</string>
   <string name="update_date_format">yyyy/MM/dd</string>
-  <string name="virus_scan">"ウイルススキャン"</string>
+  <string name="virus_scan">"セキュリティスキャン"</string>
   <string name="vungle_ad_name">"Vungle広告"</string>
   <string name="wechat_cache_files">"WeChatキャッシュ"</string>
   <string name="wechat_chat_clean_done">Everything looks good</string>

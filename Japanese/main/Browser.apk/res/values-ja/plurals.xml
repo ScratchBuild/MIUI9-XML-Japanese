@@ -44,4 +44,8 @@
         <item quantity="other">残り%d分</item>
         <item quantity="one">残り%d分</item>
     </plurals>
+    <plurals name="nav_screen_incognito_time">
+        <item quantity="other">%d秒後に自動的に新しいページが作成されます</item>
+        <item quantity="one">%d秒後に自動的に新しいページが作成されます</item>
+    </plurals>
 </resources>

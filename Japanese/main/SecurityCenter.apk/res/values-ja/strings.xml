@@ -447,6 +447,7 @@
   <string name="call_contact_block">Block calls from contacts</string>
   <string name="call_delete_hint">"この番号からブロックされたすべての通話を削除しますか？"</string>
   <string name="call_delete_title">"通話履歴を削除"</string>
+  <string name="call_oversea_block">"海外からの通話をブロックする"</string>
   <string name="call_prefix">Prefix blocklist</string>
   <string name="call_private">"非通知の着信をブロック"</string>
   <string name="call_transfer_block">"転送された通話をブロック"</string>
@@ -708,6 +709,8 @@
   <string name="fw_blocked">"ブロックリスト"</string>
   <string name="fw_blocked_count">"Blocked "</string>
   <string name="fw_blocked_join">" と "</string>
+  <string name="fw_oversea">"海外からの通話をブロックする"</string>
+  <string name="fw_oversea_content">"海外の電話番号からの着信をブロックする"</string>
   <string name="game_ad_recommendation">Everybody is playing</string>
   <string name="game_anti_disturb_msg">Game DND</string>
   <string name="game_booster">Game speed booster</string>
@@ -1621,6 +1624,7 @@ While calibrating, MIUI will send a text message to your carrier to receive the 
   <string name="st_call_backsound_group">Blocklist sound</string>
   <string name="st_call_intercept_contacts">Block calls from contacts</string>
   <string name="st_call_intercept_forwarding">Block forwarded calls</string>
+  <string name="st_call_intercept_oversea">"海外からの通話をブロックする"</string>
   <string name="st_call_intercept_reported">Block calls from reported numbers</string>
   <string name="st_call_intercept_stranger">Block calls from strangers</string>
   <string name="st_call_intercept_unknown">Block calls from hidden numbers</string>
@@ -1629,6 +1633,7 @@ While calibrating, MIUI will send a text message to your carrier to receive the 
   <string name="st_call_stranger_group">Block calls from strangers</string>
   <string name="st_confirm_dialog_btn_open">Open</string>
   <string name="st_confirm_dialog_summary_contact_call">All calls from contacts will be blocked.</string>
+  <string name="st_confirm_dialog_summary_oversea_call">Turn on to block all incoming calls from foreign phone numbers.</string>
   <string name="st_confirm_dialog_summary_stranger_call">All calls from strangers will be blocked.</string>
   <string name="st_filter_keywords_setting_summary1">"このリストの単語を含む、不明な番号からのメッセージはブロックされます。"</string>
   <string name="st_filter_keywords_setting_summary2">"(カンマを使用して複数のキーワードを区切る)"</string>

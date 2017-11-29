@@ -163,6 +163,7 @@
   <string name="cloud_sync_closed_toast">"更新を行うには同期をオンにする"</string>
   <string name="cloud_sync_failed_toast">"更新できませんでした"</string>
   <string name="cloud_tab">"クラウドタブ"</string>
+  <string name="cloud_tabs_sync_off">"同期はオフです"</string>
   <string name="cloud_time_tips">"前回の同期"</string>
   <string name="cloud_up_to_loading_tips">"指を離して更新"</string>
   <string name="color_picker_button_black">"黒"</string>
@@ -207,7 +208,7 @@
   <string name="contextmenu_webpage_capture">"スクリーンショット"</string>
   <string name="contextmenu_webpage_html">"HTMLファイルとして保存"</string>
   <string name="contextmenu_webpage_snapshot">"ページを保存"</string>
-  <string name="copy_to_clipboard_failure_message">"クリップボードへのコピーに失敗しました"</string>
+  <string name="copy_to_clipboard_failure_message">"クリップボードにコピーできませんでした。"</string>
   <string name="copy_url">"URLをコピー"</string>
   <string name="create_qr_code">"QRコード"</string>
   <string name="current_version_pad">Pad</string>
@@ -259,7 +260,7 @@
   <string name="download_complete">"正常にダウンロードされました"</string>
   <string name="download_completed">"ダウンロード済み"</string>
   <string name="download_dialog_file_length_hint_txt">"ファイルサイズ: "</string>
-  <string name="download_dialog_file_length_lessthan1kb">"1K未満"</string>
+  <string name="download_dialog_file_length_lessthan1kb">"1KB未満"</string>
   <string name="download_dialog_file_length_nolength_error_txt">"ダウンロードできませんでした"</string>
   <string name="download_dialog_file_length_nolength_txt">"読み込み中…"</string>
   <string name="download_failed">"ダウンロードを完了できませんでした"</string>
@@ -383,7 +384,7 @@
   <string name="loading_tips">"下に引っ張って更新"</string>
   <string name="local_bookmarks">"ローカル"</string>
   <string name="login_failed_toast">"ログインできませんでした、更新してもう一度お試しください"</string>
-  <string name="low_memory_error">"メモリ不足のため、直前の操作を完了することができません"</string>
+  <string name="low_memory_error">"メモリ不足のため、直前の操作を完了することができませんでした"</string>
   <string name="low_memory_toast">"メモリ不足のため、ブラウザを使用することができません"</string>
   <string name="max_tabs_warning">"タブ数が上限に達しました"</string>
   <string name="maximum_input_alert">"2048文字以上は入力できません"</string>
@@ -397,8 +398,8 @@
   <string name="media_error_timeout">"ネットワーク接続がタイムアウトしました"</string>
   <string name="media_error_video_not_exist">"動画が存在しません"</string>
   <string name="media_player_error_button">OK</string>
-  <string name="media_player_error_text_invalid_progressive_playback">"申し訳ありませんが、この動画はお使いの端末へのストリーミングは無効です。"</string>
-  <string name="media_player_error_text_unknown">"申し訳ありませんが、この動画は再生できません。"</string>
+  <string name="media_player_error_text_invalid_progressive_playback">"この動画はお使いの端末へのストリーミングは無効です。"</string>
+  <string name="media_player_error_text_unknown">"この動画は再生できません。"</string>
   <string name="media_player_error_title">"動画を再生できません"</string>
   <string name="media_player_loading_video">"動画を読み込み中"</string>
   <string name="menu_addtodesk">"ホーム画面に追加"</string>
@@ -451,42 +452,38 @@
   <string name="miuichromium_error_page_network_hijack">"現在のネットワークは安全ではありません"</string>
   <string name="miuichromium_error_page_network_off">"Wi-Fiまたはモバイルデータをオンにする"</string>
   <string name="miuichromium_error_page_no_network">"ネットワークに接続できません"</string>
-  <string name="miuichromium_error_page_problem_access_denied">"%s0へのアクセスが拒否されました"</string>
-  <string name="miuichromium_error_page_problem_cache_miss">"The cached version of this page can't be loaded"</string>
-  <string name="miuichromium_error_page_problem_cannot_open_page">"ページを開くことができません"</string>
-  <string name="miuichromium_error_page_problem_cannot_reach_site">"サイトに到達できません"</string>
-  <string name="miuichromium_error_page_problem_connection_interrupted">"接続が中断されました"</string>
-  <string name="miuichromium_error_page_problem_file_not_found">"ファイルが見つかりませんでした"</string>
+  <string name="miuichromium_error_page_problem_access_denied">"%s0へのアクセスが拒否されました。"</string>
+  <string name="miuichromium_error_page_problem_cache_miss">"The cached version of this page can't be loaded."</string>
+  <string name="miuichromium_error_page_problem_cannot_open_page">"ページを開くことができません。"</string>
+  <string name="miuichromium_error_page_problem_cannot_open_page_reason_blocked_by_response">"The page can't be opened. Access is blocked by %s0."</string>
+  <string name="miuichromium_error_page_problem_cannot_open_page_reason_connection_closed">"The page can't be opened. %s0 interrupted connection."</string>
+  <string name="miuichromium_error_page_problem_cannot_open_page_reason_connection_refused">"The page can't be opened. %s0 refused to connect."</string>
+  <string name="miuichromium_error_page_problem_cannot_open_page_reason_connection_reset">"The page can't be opened. Connection was reset."</string>
+  <string name="miuichromium_error_page_problem_cannot_open_page_reason_invalid_url">"The page can't be opened because the URL is invalid."</string>
+  <string name="miuichromium_error_page_problem_cannot_open_page_reason_site_unreachable">"The page can't be opened. %s0 is currently unreachable."</string>
+  <string name="miuichromium_error_page_problem_cannot_open_page_reason_unsafe_redirect">"The page can't be opened. %s0 is redirecting you in an unsafe way."</string>
+  <string name="miuichromium_error_page_problem_cannot_reach_site_reason_name_collision">"サイトに到達できません。This site on the intranet has the same URL as an external website."</string>
+  <string name="miuichromium_error_page_problem_cannot_reach_site_reason_name_not_resolved">"サイトに到達できません。Couldn't find DNS address for %s0."</string>
+  <string name="miuichromium_error_page_problem_cannot_reach_site_reason_reason_invalid_address">"サイトに到達できません。IP address or port number is invalid."</string>
+  <string name="miuichromium_error_page_problem_cannot_reach_site_reason_timed_out">"サイトに到達できません。%s0 doesn't respond for too long."</string>
+  <string name="miuichromium_error_page_problem_cannot_reach_site_reason_unsafe_port">"サイトに到達できません。%s0 is using an unsafe port number."</string>
+  <string name="miuichromium_error_page_problem_connection_interrupted_reason_device_slept">Connection was interrupted when your device went to sleep.</string>
+  <string name="miuichromium_error_page_problem_connection_interrupted_reason_network_changed">Connection was interrupted due to a network change.</string>
+  <string name="miuichromium_error_page_problem_file_not_found_reason_moved_or_deleted">"Couldn't find file. It might have been moved or deleted."</string>
   <string name="miuichromium_error_page_problem_gateway_timed_out">It took too long for %s0 to respond</string>
   <string name="miuichromium_error_page_problem_network_access_denied">"ネットワークアクセスが制限されています"</string>
-  <string name="miuichromium_error_page_problem_no_internet_connection">"インターネットに接続できませんでした"</string>
+  <string name="miuichromium_error_page_problem_no_internet_connection_reason_proxy_error">"インターネットに接続できませんでした。Something is wrong with the proxy server, or proxy address is incorrect."</string>
   <string name="miuichromium_error_page_problem_page_moved">This page on %s0 might have been moved or deleted</string>
   <string name="miuichromium_error_page_problem_page_not_found">"Couldn't find this page on %s0"</string>
-  <string name="miuichromium_error_page_problem_page_not_working">"This page isn't working"</string>
-  <string name="miuichromium_error_page_problem_security_error">"このサイトは安全な接続を提供できません"</string>
-  <string name="miuichromium_error_page_problem_server_fault">%s0 is currently unable to handle this request</string>
-  <string name="miuichromium_error_page_reason_bad_client_cert">" because %s0 didn't accept your certificate"</string>
-  <string name="miuichromium_error_page_reason_bad_server_cert">". %s0 doesn't adhere to security standards"</string>
-  <string name="miuichromium_error_page_reason_blocked_by_response">. Access is blocked by %s0</string>
-  <string name="miuichromium_error_page_reason_connection_closed">. %s0 interrupted connection</string>
-  <string name="miuichromium_error_page_reason_connection_refused">. %s0 refused to connect</string>
-  <string name="miuichromium_error_page_reason_connection_reset">. Connection was reset</string>
-  <string name="miuichromium_error_page_reason_device_slept">" when your device went to sleep"</string>
-  <string name="miuichromium_error_page_reason_empty_response">" because %s0 didn't send any data"</string>
-  <string name="miuichromium_error_page_reason_invalid_address">"。IPアドレスまたはポート番号が無効です"</string>
-  <string name="miuichromium_error_page_reason_invalid_response">" because %s0 sent an invalid response"</string>
-  <string name="miuichromium_error_page_reason_invalid_url">" because the URL is invalid"</string>
-  <string name="miuichromium_error_page_reason_moved_or_deleted">. It might have been moved or deleted</string>
-  <string name="miuichromium_error_page_reason_name_collision">. This site on the intranet has the same URL as an external website</string>
-  <string name="miuichromium_error_page_reason_name_not_resolved">". Couldn't find DNS address for %s0"</string>
-  <string name="miuichromium_error_page_reason_network_changed">" due to a network change"</string>
-  <string name="miuichromium_error_page_reason_proxy_error">. Something is wrong with the proxy server, or proxy address is incorrect</string>
-  <string name="miuichromium_error_page_reason_site_unreachable">. %s0 is currently unreachable</string>
-  <string name="miuichromium_error_page_reason_timed_out">". %s0 doesn't respond for too long"</string>
-  <string name="miuichromium_error_page_reason_too_many_redirects">" because %s0 redirected you too many times"</string>
-  <string name="miuichromium_error_page_reason_unsafe_port">. %s0 is using an unsafe port number</string>
-  <string name="miuichromium_error_page_reason_unsafe_redirect">. %s0 is redirecting you in an unsafe way</string>
-  <string name="miuichromium_error_page_reason_unsupported_protocol">. %s0 uses an unsupported protocol</string>
+  <string name="miuichromium_error_page_problem_page_not_working_reason_connection_closed">"This page isn't working. %s0 interrupted connection."</string>
+  <string name="miuichromium_error_page_problem_page_not_working_reason_empty_response">"This page isn't working because %s0 didn't send any data."</string>
+  <string name="miuichromium_error_page_problem_page_not_working_reason_invalid_response">"This page isn't working because %s0 sent an invalid response."</string>
+  <string name="miuichromium_error_page_problem_page_not_working_reason_too_many_redirects">"This page isn't working because %s0 redirected you too many times."</string>
+  <string name="miuichromium_error_page_problem_security_error_reason_bad_client_cert">"This site can't provide a secure connection because %s0 didn't accept your certificate."</string>
+  <string name="miuichromium_error_page_problem_security_error_reason_bad_server_cert">"This site can't provide a secure connection %s0 doesn't adhere to security standards."</string>
+  <string name="miuichromium_error_page_problem_security_error_reason_invalid_response">"This site can't provide a secure connection because %s0 sent an invalid response."</string>
+  <string name="miuichromium_error_page_problem_security_error_reason_unsupported_protocol">"This site can't provide a secure connection %s0 uses an unsupported protocol."</string>
+  <string name="miuichromium_error_page_problem_server_fault">%s0 is currently unable to handle this request.</string>
   <string name="miuichromium_error_page_reload">"更新"</string>
   <string name="miuichromium_error_page_safe_network">"セーフモード"</string>
   <string name="miuichromium_error_page_server_error">Too many devices are trying to connect</string>
@@ -503,7 +500,7 @@
   <string name="miuichromium_error_page_suggestion_contact_admin">"システム管理者に問い合わせてください。"</string>
   <string name="miuichromium_error_page_suggestion_correct_url">"入力したアドレスを確認し、正しいURLを使用してもう一度お試しください。"</string>
   <string name="miuichromium_error_page_suggestion_grant_permission">"インターネットへのアクセス許可をブラウザに付与した後に再読み込みしてください。"</string>
-  <string name="miuichromium_error_page_suggestion_title">"。次の手順を試してください:"</string>
+  <string name="miuichromium_error_page_suggestion_title">"次の手順を試してください:"</string>
   <string name="miuichromium_error_page_title">"エラーが発生しました"</string>
   <string name="miuichromium_error_page_unknown_error">"不明なエラーが発生しました"</string>
   <string name="miuichromium_error_page_wlan">"Wi-Fiをオンにする"</string>
@@ -535,7 +532,6 @@
   <string name="nav_screen_container_tab_normal">"標準タブ"</string>
   <string name="nav_screen_incognito_message">"Your browsing and search history won't be saved in Incognito mode.
 Remember that the files you download and the bookmarks you add will still be saved."</string>
-  <string name="nav_screen_incognito_time">After %s seconds will automatically create a new page</string>
   <string name="nav_screen_incognito_title">Incognito mode</string>
   <string name="navigationbar_rightbutton_actiontext_cancle">"キャンセル"</string>
   <string name="navigationbar_rightbutton_actiontext_go">"移動"</string>
@@ -558,7 +554,7 @@ Remember that the files you download and the bookmarks you add will still be sav
   <string name="open_app_confirm_message">Allow this page to open %s?</string>
   <string name="open_file_explorer_failed">"File Explorerを開くことができません"</string>
   <string name="open_voice_permission">Allow the mic to connect to the internet</string>
-  <string name="opening_file_error">"選択したファイルを開けませんでした"</string>
+  <string name="opening_file_error">"選択したファイルを開くことができませんでした"</string>
   <string name="page_info">"ページ情報"</string>
   <string name="page_info_address">"アドレス:"</string>
   <string name="page_info_view">"ページ情報を表示"</string>
@@ -673,8 +669,8 @@ Remember that the files you download and the bookmarks you add will still be sav
   <string name="pref_version_info">"バージョン情報"</string>
   <string name="pref_volume_key_action">"音量ボタンを使用してスクロールする"</string>
   <string name="private_browsing_warning">"この機能はお使いのAndroidバージョンではサポートされていません。"</string>
-  <string name="profiler_error_toast">"プロファイラを開始できませんでした"</string>
-  <string name="profiler_no_storage_toast">"外部ストレージの準備ができていないためプロファイラを開始できません"</string>
+  <string name="profiler_error_toast">"プロファイラを開始できませんでした。"</string>
+  <string name="profiler_no_storage_toast">"外部ストレージの準備ができていないため、プロファイラを開始できません。"</string>
   <string name="profiler_started_toast">"プロファイラを開始しました"</string>
   <string name="profiler_stopped_toast">"プロファイラを終了しました。結果は %1$s をご覧ください。"</string>
   <string name="progress_dialog_setting_wallpaper">"壁紙を設定しています…"</string>
@@ -783,7 +779,7 @@ Remember that the files you download and the bookmarks you add will still be sav
   <string name="send_comment_title">"コメント"</string>
   <string name="senddesktop">"ホーム画面"</string>
   <string name="sendstartpage">"スタートページ"</string>
-  <string name="sequence_bookmark_description">"ブックマークの並び順を変更する"</string>
+  <string name="sequence_bookmark_description">"長押ししてブックマークの並び順を変更する"</string>
   <string name="share_by_yidianzixun">【ちょっとした情報】</string>
   <string name="share_image_text">こんなものを見つけました！ @MIUI</string>
   <string name="share_page_text">こんなものを見つけました: %1$s @MIUI| %2$s</string>
@@ -792,11 +788,10 @@ Here's the data that we'll collect:
 1. Secure URLs: We'll collect the URLs of the websites you visit while using our services.
 2. Location data: We'll access your location info.
 That's how we use the data we collect:
-1. Security: We use your data when we protect your device from fraud and viruses,as well as for storage and backup reasons.
+1. Security: We use your data when we protect your device from fraud and viruses, as well as for storage and backup reasons.
 2. Content: Your data helps us provide relevant localized news content.
 Browser needs to connect to the internet to work normally. You must agree to our %2$s and %1$s to be able to use Browser.​"</string>
   <string name="show_security_tip_dialog_title">"プライバシーポリシー"</string>
-  <string name="show_weather_location_getter_tip_dialog_description">Browser needs to connect to the internet to work normally. To improve security, receive more relevant recommendations and weather info, allow Browser to get the URLs of the websites you visit and access your location info.</string>
   <string name="sign_in_to" formatted="false">"%s1に\"%s2\"でログイン"</string>
   <string name="skip_button_label">"スキップ"</string>
   <string name="skip_current_version">"このバージョンをスキップ"</string>

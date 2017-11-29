@@ -690,6 +690,7 @@
   <string name="ota_touch_activate">"通話サービスを有効にするには特別な通話が必要です。"\n\n"[有効にする]を押してから、流れてくる音声に従って電話を有効にしてください。"</string>
   <string name="ota_try_again">再試行</string>
   <string name="ota_unsuccessful">"携帯を有効に設定できませんでした。"\n"通信状態の良い場所（窓のそばや戸外）に移動することをおすすめします。"\n\n"もう一度やり直すかカスタマーサービスに問い合わせてください。"</string>
+  <string name="other_available_phone_accounts">その他の利用可能なアカウント</string>
   <string name="other_settings">その他の通話設定</string>
   <string name="other_settings_category">その他</string>
   <string name="overseas_roaming_setting">データローミング</string>
@@ -737,6 +738,7 @@
   <string name="payphone">公衆電話発信</string>
   <string name="phoneAppLabel">電話</string>
   <string name="phoneIconLabel">電話</string>
+  <string name="phone_account_settings">通話アカウント</string>
   <string name="phone_accounts">通話アカウント設定</string>
   <string name="phone_accounts_add_sip_account">SIPアカウントを追加</string>
   <string name="phone_accounts_all_calling_accounts">すべての通話アカウント</string>
@@ -850,6 +852,7 @@
   <string name="preferred_network_type_pref_entries_only_3g">"3Gのみ"</string>
   <string name="preferred_network_type_td_scdma">"GSM / TD-SCDMA"</string>
   <string name="preferred_network_type_title">"優先ネットワークタイプ"</string>
+  <string name="preferred_phone_account">優先通話アカウント</string>
   <string name="private_num">非通知</string>
   <string name="progress_dialog_exiting_ecm">緊急通報待機モードを終了中</string>
   <string name="propmpt_dialog_do_not_ask">二度と表示しない</string>
@@ -895,7 +898,7 @@
   <string name="registration_status_server_unreachable">アカウントを登録できませんでした: サーバー名を確認してください。</string>
   <string name="registration_status_still_trying">試行中...</string>
   <string name="reject_via_sms">クイック返信</string>
-  <string name="reject_via_sms_summary">定型文を編集</string>
+  <string name="reject_via_sms_summary">通話の終了とSMSを送信するためのボタンを表示する</string>
   <string name="reject_via_sms_title">クイック返信</string>
   <string name="remove">削除</string>
   <string name="remove_sip_account">アカウントを削除</string>
@@ -968,6 +971,7 @@
   <string name="simContacts_emptyLoading">SIMカードから読み取り中...</string>
   <string name="simContacts_title">インポートする連絡先の選択</string>
   <string name="simFdnContacts_empty">発信先固定の連絡先はありません。</string>
+  <string name="sim_accounts">SIMアカウント</string>
   <string name="sim_card_num">SIM %s</string>
   <string name="sim_contact_name">名前</string>
   <string name="sim_contact_number">番号</string>
@@ -1139,6 +1143,7 @@
   <string name="volte_provision_text">VoLTE通話は通常の通話よりも優れた品質を提供します。SMSを送信して有効にしますか？</string>
   <string name="volte_provision_title">VoLTE通話を有効にする</string>
   <string name="volte_switch_not_support_summary">"VoLTE通話はモバイルデータのSIMカードではサポートされていません。"</string>
+  <string name="volte_switch_not_support_summary2">"VoLTE通話はお使いのキャリアでサポートされていません。"</string>
   <string name="volte_switch_summary">"VoLTEを使用して通話品質を向上させる"</string>
   <string name="volte_switch_title">"VoLTEを有効にする"</string>
   <string name="wait_prompt_str">"次の番号を送信しますか？\n"</string>

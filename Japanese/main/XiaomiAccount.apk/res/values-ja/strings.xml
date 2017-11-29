@@ -15,6 +15,7 @@
   <string name="account_error_longer_user_name">"名前に20文字以上は入力できません"</string>
   <string name="account_error_shorter_user_name">"名前は2文字以上にする必要があります"</string>
   <string name="account_error_user_birthday">"入力した誕生日は無効です"</string>
+  <string name="account_global_region">"海外"</string>
   <string name="account_has_been_set">"変更"</string>
   <string name="account_limit_update_birthday">"誕生日を更新できません"</string>
   <string name="account_mipay_info">Mi Pay</string>
@@ -305,7 +306,7 @@
   <string name="passport_reg_recycle_account_yes">"はい"</string>
   <string name="passport_reg_success">"アカウントを作成しました"</string>
   <string name="passport_reg_success_summary">%1$s has been bound with your account. You can use it to sign in or to reset your password.</string>
-  <string name="passport_reg_type_email">"メールアドレスを使用"</string>
+  <string name="passport_reg_type_email">"メールアドレス"</string>
   <string name="passport_reg_using_other_phone">&lt;u&gt;別の電話番号を使用する&lt;/u&gt;</string>
   <string name="passport_reg_using_other_phone_number_prompt">"Create a new account using "</string>
   <string name="passport_reg_using_phone_number_prompt">"電話番号を使用してアカウントを作成"</string>

@@ -26,6 +26,10 @@
   <string name="downloading">"ダウンロード中"</string>
   <string name="downloading_in_3g">"3Gでダウンロード中…"</string>
   <string name="downloading_in_wifi">"ダウンロード中…"</string>
+  <string name="drive_low_memory_description_content">Mobile phone storage space is insufficient, please go to the phone garbage clean up to release more storage space?</string>
+  <string name="drive_low_memory_description_title">Low memory Warning</string>
+  <string name="drive_low_memory_description_toast">Mobile phone storage space is insufficient, please clean up after the use of MiDrive</string>
+  <string name="drive_low_memory_positive_content">"クリーンアップ"</string>
   <string name="empty_file_download">"空のファイルはサポートされていません。"</string>
   <string name="empty_file_upload">"空のファイルはサポートされていません。"</string>
   <string name="file_already_downlaoded">\"%1$s\"にファイルを保存しました</string>
@@ -103,6 +107,7 @@
   <string name="sd_full">"SDカードがいっぱいです。"</string>
   <string name="sd_invalid">"SDカードが破損しています。"</string>
   <string name="send_to_midrive_failed">"このファイルタイプはサポートされていません。"</string>
+  <string name="source_file_missing">"ファイルがありません。"</string>
   <string name="space_full">"クラウドの空き容量が足りません。"</string>
   <string name="start_use_xiaomi_account">"Mi Driveの使用を開始"</string>
   <string name="system_alert">"インターネット接続"</string>
