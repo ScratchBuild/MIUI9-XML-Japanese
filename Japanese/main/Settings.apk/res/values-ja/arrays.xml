@@ -118,9 +118,9 @@
     </string-array>
     <string-array name="usb_configuration_titles">
         <item>充電しています</item>
-        <item>MTP (Media Transfer Protocol)</item>
-        <item>PTP (Picture Transfer Protocol)</item>
-        <item>RNDIS（USBイーサネット）</item>
+        <item>MTP (メディア転送プロトコル)</item>
+        <item>PTP (画像転送プロトコル)</item>
+        <item>RNDIS (USBイーサネット)</item>
         <item>オーディオソース</item>
         <item>MIDI</item>
     </string-array>

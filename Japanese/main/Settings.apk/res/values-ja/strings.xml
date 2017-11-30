@@ -1545,7 +1545,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="gadget_wifi">Wi-Fi</string>
   <string name="gallery_privacy_password_role_instruction">プライベートな写真はここに保存されます。</string>
   <string name="game_controller_settings_category">ゲーム用コントローラ</string>
-  <string name="gesture_wakeup_title">画面をダブルタップすると端末が復帰します</string>
+  <string name="gesture_wakeup_title">画面をダブルタップしてスリープ解除</string>
   <string name="getConfiguredNetworks">構成済みネットワークの取得</string>
   <string name="getConnectionInfo">接続情報の取得</string>
   <string name="global_change_warning">この設定はこの端末上のすべてのユーザーに影響します。</string>
@@ -2555,8 +2555,8 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="pref_operational_key">ナビゲーションボタン</string>
   <string name="pref_volume_launch_camera_summary">"音量[－]ボタンを2回押すとカメラを起動します"</string>
   <string name="pref_volume_launch_camera_title">高速カメラ起動</string>
-  <string name="pref_volume_wake_summary">音量ボタンを押すと端末が復帰します</string>
-  <string name="pref_volume_wake_title">音量ボタンで復帰</string>
+  <string name="pref_volume_wake_summary">音量ボタンを押すと端末のスリープを解除します</string>
+  <string name="pref_volume_wake_title">音量ボタンでスリープ解除</string>
   <string name="preference_change_password_title">パスワードを変更</string>
   <string name="preferred_app_settings">デフォルト</string>
   <string name="preferred_app_settings_not_selected">選択されていません</string>
@@ -3105,7 +3105,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="search_fluency_mode">システムアニメーション</string>
   <string name="search_font">システムフォント;フォント;フォントサイズ</string>
   <string name="search_force_touch">3D Touch</string>
-  <string name="search_gesture_wakeup_title">画面をダブルタップすると端末が復帰します;double tap to wake;wake screen;double tap screen;double tap</string>
+  <string name="search_gesture_wakeup_title">画面をダブルタップしてスリープ解除;double tap to wake;wake screen;double tap screen;double tap</string>
   <string name="search_gps">GPS;位置情報アクセス;位置情報サービス</string>
   <string name="search_handy_mode">片手操作モード;片手モード;片手</string>
   <string name="search_hint">検索設定</string>
@@ -3787,8 +3787,8 @@ PINが正しくない可能性があります。"</string>
   <string name="system_ui_settings">SystemUI調整ツールを表示</string>
   <string name="system_update_settings_list_item_summary"/>
   <string name="system_update_settings_list_item_title">システムアップデート</string>
-  <string name="tap_to_wake">タップして復帰</string>
-  <string name="tap_to_wake_summary">画面をダブルタップすると端末が復帰します</string>
+  <string name="tap_to_wake">タップしてスリープ解除</string>
+  <string name="tap_to_wake_summary">画面をダブルタップすると端末のスリープを解除します</string>
   <string name="terms_title">利用規約</string>
   <string name="testing">テスト中</string>
   <string name="testing_phone_info">携帯電話情報</string>

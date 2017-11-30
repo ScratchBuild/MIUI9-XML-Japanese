@@ -102,7 +102,7 @@
   <string name="being_disable_auto_payment">"オフにしています…"</string>
   <string name="being_enable_auto_payment">"オンにしています…"</string>
   <string name="bill_list_fragment_title">"チャート"</string>
-  <string name="bluetooth_device">Bluetooth audio device</string>
+  <string name="bluetooth_device">"Bluetoothオーディオデバイス"</string>
   <string name="buffering">"バッファリング中…"</string>
   <string name="button_add">"追加"</string>
   <string name="button_cancel_download">"キャンセル"</string>

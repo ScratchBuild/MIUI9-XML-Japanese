@@ -144,9 +144,9 @@
     </string-array>
     <string-array name="usb_configuration_titles">
         <item>充電</item>
-        <item>MTP（Media Transfer Protocol）</item>
-        <item>PTP（Picture Transfer Protocol）</item>
-        <item>RNDIS（USBイーサネット）</item>
+        <item>MTP (メディア転送プロトコル)</item>
+        <item>PTP (画像転送プロトコル)</item>
+        <item>RNDIS (USBイーサネット)</item>
         <item>オーディオソース</item>
         <item>MIDI</item>
     </string-array>
@@ -170,10 +170,5 @@
         <item>拡張色</item>
         <item>目に自然な色</item>
         <item>デジタルコンテンツに最適な色</item>
-    </string-array>
-    <string-array name="battery_labels">
-        <item>0%</item>
-        <item>50%</item>
-        <item>100%</item>
     </string-array>
 </resources>

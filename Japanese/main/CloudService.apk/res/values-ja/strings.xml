@@ -147,7 +147,7 @@ If you switch SIM cards, another SMS will be sent automatically to reactivate th
   <string name="ks_update_fail_no_network">"Couldn't connect to the network. Connect and try again."</string>
   <string name="ks_update_fail_request_timeout">Connection request timed out. Wait a minute or two and try again.</string>
   <string name="ks_update_success">Updated successfully</string>
-  <string name="ks_update_wait">Just a sec…</string>
+  <string name="ks_update_wait">読み込み中…</string>
   <string name="license_host_unreachable">"ネットワークに接続できません。今すぐこの情報を表示するには、%sに移動します。"</string>
   <string name="loading">読み込み中…</string>
   <string name="loading_hint">読み込み中</string>
@@ -281,7 +281,7 @@ To fix this, you can either clean out some old files to make room for new ones, 
   <string name="micloud_main_battery_low">同期のためのバッテリー不足</string>
   <string name="micloud_main_battery_message">同期するには端末を電源に接続してください</string>
   <string name="micloud_main_button_activate">有効にする</string>
-  <string name="micloud_main_button_authorize">Authorize</string>
+  <string name="micloud_main_button_authorize">許可する</string>
   <string name="micloud_main_button_set_internet">設定</string>
   <string name="micloud_main_cancel_sync">同期をキャンセル</string>
   <string name="micloud_main_clear_now">"消去"</string>
