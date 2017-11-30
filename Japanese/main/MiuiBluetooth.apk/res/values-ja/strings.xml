@@ -8,6 +8,7 @@
   <string name="ble_device_rename">"名前を変更"</string>
   <string name="bluetooth_connected">"接続"</string>
   <string name="bluetooth_connecting">"接続中…"</string>
+  <string name="bluetooth_device_context_unpair">"切断"</string>
   <string name="bluetooth_disconnected">"切断"</string>
   <string name="bluetooth_disconnecting">"切断中…"</string>
   <string name="bluetooth_preference_connected_devices">"ペアリングされたデバイス"</string>

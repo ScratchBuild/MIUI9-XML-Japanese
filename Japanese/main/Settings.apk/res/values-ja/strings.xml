@@ -680,6 +680,7 @@
   <string name="bluetooth_unlock_turned_on">On</string>
   <string name="bluetooth_untether_blank">%1$sのテザリングを解除します。</string>
   <string name="bluetooth_visibility_timeout">表示のタイムアウト</string>
+  <string name="bluetooth_wake">Bluetoothオーディオでスリープ解除</string>
   <string name="bootloader">Fastboot mode</string>
   <string name="bootloader_apply_step_1">Fastboot modeをオンにしますか？</string>
   <string name="bootloader_apply_step_2">端末がロックされていても、Fastboot modeでコンピューターに接続した場合</string>
@@ -3331,6 +3332,8 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="settings_license_activity_loading">読み込み中...</string>
   <string name="settings_license_activity_title">オープンソースライセンス</string>
   <string name="settings_license_activity_unavailable">ライセンスの読み込み中に問題が発生しました。</string>
+  <string name="settings_notify_need_backup">端末を切り替えた後にも設定を引き継ぐには、Mi Cloudに設定をバックアップしてください。</string>
+  <string name="settings_notify_phone_recycled">登録した電話番号は既に再利用されています。別の電話番号を追加するにはタップ。</string>
   <string name="settings_safetylegal_activity_loading">読み込み中...</string>
   <string name="settings_safetylegal_activity_title">安全に関する情報</string>
   <string name="settings_safetylegal_activity_unreachable">データ接続されていません。今すぐこの情報を表示するには、インターネットに接続されているパソコンから%sにアクセスしてください。</string>
@@ -3495,6 +3498,7 @@ PINが正しくない可能性があります。"</string>
   <string name="spellchecker_security_warning">このスペルチェッカーを選択すると、入力する全文字列の収集をアプリ（%1$s）に許可することになります。これにはパスワードやクレジットカード番号などの個人情報も含まれます。このスペルチェッカーを使用しますか？</string>
   <string name="spellchecker_switch_title">スペルチェッカーをオンにする</string>
   <string name="spellcheckers_settings_title">スペルチェック</string>
+  <string name="split_screen">分割画面モードに切り替え</string>
   <string name="ssid_label">SSID:</string>
   <string name="ssl_ca_cert_dialog_title">ネットワーク監視</string>
   <string name="ssl_ca_cert_info_message">"この端末は%sによって管理されています。
@@ -3725,6 +3729,12 @@ PINが正しくない可能性があります。"</string>
   <string name="strict_mode">厳格モードを有効にする</string>
   <string name="strict_mode_summary">メインスレッドの処理が長引く場合は画面を点滅させる</string>
   <string name="suggest_unrestrict_max_aspect_ratio_title">これらのアプリはフルスクリーンモードで最適に動作します</string>
+  <string name="suggested_fingerprint_lock_settings_summary">指紋でロック解除する</string>
+  <string name="suggested_lock_settings_summary">お使いの端末を保護する</string>
+  <string name="suggested_lock_settings_title">画面ロック</string>
+  <string name="suggestion_additional_fingerprints">別の指紋を追加</string>
+  <string name="suggestion_additional_fingerprints_summary">別の指紋でロック解除する</string>
+  <string name="suggestion_for_phone_recycled">別の電話番号を追加</string>
   <string name="sum_carrier_select">通信事業者を選択する</string>
   <string name="summary_divider_text">"、 "</string>
   <string name="supl_not_set">&lt;未設定></string>
@@ -3772,6 +3782,7 @@ PINが正しくない可能性があります。"</string>
   <string name="system_apps_updater">System apps updater</string>
   <string name="system_backup_section_title">バックアップ</string>
   <string name="system_package">システムアップデートは外部メディアにはインストールできません。</string>
+  <string name="system_shortcut_wake">ショートカットボタンでスリープ解除</string>
   <string name="system_storage">システムストレージ</string>
   <string name="system_ui_settings">SystemUI調整ツールを表示</string>
   <string name="system_update_settings_list_item_summary"/>
@@ -4204,6 +4215,7 @@ Android端末をUSBケーブルでコンピューターにつなぐことで、�
   <string name="virus_scanner_title">ウイルススキャナー</string>
   <string name="virus_scanner_update_lib">ウイルス定義を更新</string>
   <string name="voice_category">音声</string>
+  <string name="voice_helper_title">音声アシスタント</string>
   <string name="voice_input_output_settings">音声入出力</string>
   <string name="voice_input_output_settings_title">音声入出力の設定</string>
   <string name="voice_input_settings">音声入力の設定</string>
