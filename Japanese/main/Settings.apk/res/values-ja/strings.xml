@@ -485,7 +485,7 @@
   <string name="biometric_weak_improve_matching_title">Improve face matching</string>
   <string name="biometric_weak_liveliness_summary">ロックを解除するにはまばたきが必要です</string>
   <string name="biometric_weak_liveliness_title">Real person check</string>
-  <string name="ble_scan_notify_text">To improve location accuracy, system apps and services can still detect Bluetooth devices. You can change this in LINK_BEGINscanning settingsLINK_END.</string>
+  <string name="ble_scan_notify_text">位置情報の精度を向上させるため、BluetoothがOFFの場合でもシステムのアプリやサービスはBluetoothデバイスを検出できます。この設定は、LINK_BEGINスキャンの設定LINK_ENDで変更できます。</string>
   <string name="block_list_connected_devices">接続済みデバイス</string>
   <string name="block_list_diaglog_cancle">キャンセル</string>
   <string name="block_list_diaglog_ok">OK</string>
@@ -498,7 +498,6 @@
   <string name="block_list_remove_dialog_title">ブロックリストから\"%s\"を削除する</string>
   <string name="block_list_summary">このホットスポットへの接続を許可していないデバイスを表示する</string>
   <string name="block_list_title">ブロックリスト</string>
-  <string name="ble_scan_notify_text">位置情報の精度を向上させるため、BluetoothがOFFの場合でもシステムのアプリやサービスはBluetoothデバイスを検出できます。この設定は、LINK_BEGINスキャンの設定LINK_ENDで変更できます。</string>
   <string name="bluetooth">Bluetooth</string>
   <string name="bluetooth_a2dp_profile_summary_connected">メディアの音声に接続</string>
   <string name="bluetooth_a2dp_profile_summary_use_for">メディアの音声に使用</string>
@@ -4053,7 +4052,6 @@ PINが正しくない可能性があります。"</string>
   <string name="tether_settings_disabled">ポータブルアクセスポイントはオフです</string>
   <string name="tether_settings_disabled_on_data_saver">Can’t tether or use portable hotspots while Data Saver is on</string>
   <string name="tether_settings_title_all">テザリングとポータブルアクセスポイント</string>
-  <string name="tether_settings_title_all">Tethering &amp; portable hotspot</string>
   <string name="tether_settings_title_bluetooth">Bluetoothテザリング</string>
   <string name="tether_settings_title_usb">USBテザリング</string>
   <string name="tether_settings_title_usb_bluetooth">テザリング</string>
