@@ -21,6 +21,7 @@
   <string name="label_recording">"録音中: %s"</string>
   <string name="menu_exit">"終了"</string>
   <string name="menu_headset">"ヘッドセットに切り替える"</string>
+  <string name="menu_label">"メニュー"</string>
   <string name="menu_new_station">"追加"</string>
   <string name="menu_record_list">"録音中"</string>
   <string name="menu_record_start">"録音を開始"</string>
