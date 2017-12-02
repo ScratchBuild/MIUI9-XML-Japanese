@@ -291,11 +291,6 @@
         <item>CHAP</item>
         <item>PAPまたはCHAP</item>
     </string-array>
-    <string-array name="apn_protocol_entries">
-        <item>IPv4</item>
-        <item>IPv6</item>
-        <item>IPv4/IPv6</item>
-    </string-array>
     <string-array name="bearer_entries">
         <item>指定なし</item>
         <item>LTE</item>

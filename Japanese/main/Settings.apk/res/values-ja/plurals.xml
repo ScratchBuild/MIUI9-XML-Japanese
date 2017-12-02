@@ -89,6 +89,14 @@
         <item quantity="other">"過去%2$sに%1$d個のアプリがメモリを使用しました"</item>
         <item quantity="one">"過去%2$sに1個のアプリがメモリを使用しました"</item>
     </plurals>
+    <plurals name="notification_summary">
+        <item quantity="other">%d apps blocked from sending</item>
+        <item quantity="one">%d app blocked from sending</item>
+    </plurals>
+    <plurals name="data_saver_unrestricted_summary">
+        <item quantity="other">%1$d apps allowed to use unrestricted data when Data Saver is on</item>
+        <item quantity="one">1 app allowed to use unrestricted data when Data Saver is on</item>
+    </plurals>
     <plurals name="virus_scan_app_find_risk">
         <item quantity="other">%d件のリスクが見つかりました</item>
         <item quantity="one">%d件のリスクが見つかりました</item>
