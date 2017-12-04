@@ -15,6 +15,7 @@
   <string name="account_error_longer_user_name">"名前に20文字以上は入力できません"</string>
   <string name="account_error_shorter_user_name">"名前は2文字以上にする必要があります"</string>
   <string name="account_error_user_birthday">"入力した誕生日は無効です"</string>
+  <string name="account_error_user_name">"入力した名前は無効です"</string>
   <string name="account_global_region">"海外"</string>
   <string name="account_has_been_set">"変更"</string>
   <string name="account_limit_update_birthday">"誕生日を更新できません"</string>
@@ -23,7 +24,7 @@
   <string name="account_none">None</string>
   <string name="account_none_binded_info">None</string>
   <string name="account_none_user_name">None</string>
-  <string name="account_notification_message">"セッションが期限切れです、もう一度ログインしてください。"</string>
+  <string name="account_notification_message">"&gt;セッションが期限切れです、もう一度ログインしてください。"</string>
   <string name="account_protection">"アカウントの保護"</string>
   <string name="account_protection_off">Off</string>
   <string name="account_protection_on">On</string>
@@ -212,7 +213,7 @@
 送信したメールのリンクをクリックしてください。"</string>
   <string name="passport_completed">"完了"</string>
   <string name="passport_confirm_recycle_account">"はい"</string>
-  <string name="passport_confirm_recycle_account_msg">%s &lt;font color=Red&gt;疑似&lt;/font&gt;是运营商回收后再次收买的号码，该号码下已有小米帐号，这个帐号是你的吗？</string>
+  <string name="passport_confirm_recycle_account_msg">"&lt;font color=Red&gt;Looks like&lt;/font&gt; the number %s has been recycled by your carrier, and there's a Mi Account associated with it. Is this account yours?"</string>
   <string name="passport_continue">"続行"</string>
   <string name="passport_copy_message_text_success">"正常にコピーされました"</string>
   <string name="passport_copy_message_vcode">"コードをコピー"</string>
@@ -250,6 +251,10 @@
   <string name="passport_forget_password">"<u>パスワードを忘れた場合</u>"</string>
   <string name="passport_forget_password_no_underline">"パスワードを忘れた場合"</string>
   <string name="passport_get_back_pwd">"アカウントのパスワードを取得"</string>
+  <string name="passport_get_innetdate_agree">Check</string>
+  <string name="passport_get_innetdate_disagree">No</string>
+  <string name="passport_get_innetdate_msg">&lt;font color=Red&gt;Looks like&lt;/font&gt; the number %s has been recycled by your carrier. Check when the number went online?</string>
+  <string name="passport_get_innetdate_title">Check when the number went online</string>
   <string name="passport_get_verify_code">"コードを取得"</string>
   <string name="passport_getting_activator_phone">Getting SIM info…</string>
   <string name="passport_getting_verify_code">Getting</string>
@@ -384,6 +389,8 @@
   <string name="push_notify_dialog_message">"An unknown device is used to sign in to your Mi Account. Enter this verification code on the device. If that wasn't you, change your Mi Account password right away. Don't disclose the verification code to other people."</string>
   <string name="push_notify_dialog_title">"アカウントの確認"</string>
   <string name="qq">QQ</string>
+  <string name="recycle_phone_notification_msg">Looks like your phone number has been recycled. Tap to update.</string>
+  <string name="recycle_phone_notification_title">Mi Account security risk</string>
   <string name="remove_device_success_notice">"このデバイスを信頼できるデバイスから削除すると、ログインするときに確認プロセスを再度実行する必要があります。"</string>
   <string name="remove_trust_btn">"信頼できるデバイスから削除"</string>
   <string name="remove_trust_notice">"信頼できるデバイスから削除してログアウトする"</string>
@@ -417,6 +424,8 @@
   <string name="service_error">"サービスエラー"</string>
   <string name="set_success">"正常に変更されました"</string>
   <string name="sign_in">"ログイン"</string>
+  <string name="sim_changed_notification_msg">Tap to update your recovery phone and keep your account more secure.</string>
+  <string name="sim_changed_notification_title">Changed phone number?</string>
   <string name="sina_weibo">Sina Weibo</string>
   <string name="sms_send_success">"送信済み"</string>
   <string name="sns_access_token_expired_warning">Account sign-in has expired. Sign in again to reconnect this account.</string>

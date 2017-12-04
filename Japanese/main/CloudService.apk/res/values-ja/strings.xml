@@ -71,7 +71,7 @@ Last backed up on %2$s"</string>
   <string name="enable_cloud_service_notification">"Mi Cloudをオンにする必要があります"</string>
   <string name="enable_find_device_error">"Find deviceをオンにすることができません。%1$s"</string>
   <string name="enable_find_device_success">"Find deviceはオンです。"</string>
-  <string name="enable_micloud">Mi Cloudを使用</string>
+  <string name="enable_micloud">Mi Cloudを使用するにはログイン</string>
   <string name="enable_sync">同期</string>
   <string name="enable_sync_dspt">同期しない</string>
   <string name="error_data_in_transfer">同期は%s時間で終了します。</string>
@@ -541,6 +541,7 @@ This feature encrypts and sends your device's ID to Mi's servers."</string>
   <string name="sync_sub_dspt">An outgoing SMS message may be required to activate this service. Your carrier will charge you for this message.</string>
   <string name="sync_sub_dspt_provision">Sync photos, contacts, music, apps, and more across all your devices</string>
   <string name="sync_sub_int_dspt">An outgoing international SMS message may be required to activate this service. Your carrier will charge you for this message.</string>
+  <string name="title_back">戻る</string>
   <string name="title_reg">Mi Accountを作成</string>
   <string name="total_space_upgraded_to">Total space:%s</string>
   <string name="trying_to_connect_to_network">ネットワークに接続しています…</string>
@@ -567,4 +568,5 @@ This feature encrypts and sends your device's ID to Mi's servers."</string>
   <string name="wipe_data_dialog_title">"アイテムは同期されません"</string>
   <string name="wipe_secret_photo_dialog_title">"非表示の写真は同期されません"</string>
   <string name="xiaomi_cloud_service">Mi Cloud</string>
+  <string name="xiaomi_cloud_service_subtitle">"すべての重要なアイテムを1ヶ所で管理"</string>
 </resources>

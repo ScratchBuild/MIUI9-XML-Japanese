@@ -20,7 +20,6 @@
   <string name="create_new_folder_failed">"フォルダを作成できませんでした。"</string>
   <string name="delete_failed">"削除できません"</string>
   <string name="delete_failed_retry">"削除できません、%1$sを待ってからもう一度お試しください"</string>
-  <string name="delete_file">"このファイルを削除しますか？"</string>
   <string name="delete_success">"ファイルを削除しました"</string>
   <string name="download_failed">"ダウンロードできませんでした"</string>
   <string name="downloading">"ダウンロード中"</string>

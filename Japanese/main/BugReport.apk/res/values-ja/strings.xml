@@ -3,9 +3,10 @@
   <string name="action_cancel">"キャンセル"</string>
   <string name="action_submit">"送信"</string>
   <string name="announcement">"注意"</string>
-  <string name="app_empty">"ダウンロードしたアプリはありません。"</string>
+  <string name="app_empty">"アプリが見つかりません。"</string>
   <string name="app_label">"フィードバック"</string>
   <string name="app_name">"フィードバック"</string>
+  <string name="app_search">"アプリを検索"</string>
   <string name="btn_send">"送信"</string>
   <string name="bugreport_dialog_not_show_again">"次回から表示しない"</string>
   <string name="bugreport_dialog_submit_content">"フィードバックには個人情報と位置データが含まれる場合があります。"</string>

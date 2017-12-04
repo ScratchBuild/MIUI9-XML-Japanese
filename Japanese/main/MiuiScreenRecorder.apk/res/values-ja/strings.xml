@@ -18,6 +18,8 @@
   <string name="date_day"/>
   <string name="date_month">/</string>
   <string name="date_year">/</string>
+  <string name="description_content">Screen recording provides system-level recording capabilities. This action means that you will discard the screen recording feature. Confirm Continue.</string>
+  <string name="description_title">"スクリーンレコーダーについて"</string>
   <string name="deselect_all">すべて選択を解除</string>
   <string name="error_open_file_failed_no_app_found">このファイルを開くためのアプリが見つかりませんでした</string>
   <string name="frames">フレームレート</string>
