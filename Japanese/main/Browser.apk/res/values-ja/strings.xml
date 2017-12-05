@@ -512,6 +512,7 @@
   <string name="miuishare_account_need_activate">Weibo account should be paired with your Mi Account. Sign in with your Mi Account?</string>
   <string name="miuishare_account_need_login">Weibo account should be paired with your current Mi Account. Sign in to share now?</string>
   <string name="miuishare_app_name">MiuiShare</string>
+  <string name="miuishare_dialog_cancel">"キャンセル"</string>
   <string name="miuishare_no_network">"ネットワークに接続できませんでした"</string>
   <string name="miuishare_publish">Send</string>
   <string name="miuishare_share_done">Shared</string>
