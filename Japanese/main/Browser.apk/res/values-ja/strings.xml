@@ -300,8 +300,8 @@
   <string name="empty_history_hint">"履歴は空です"</string>
   <string name="empty_snapshot_hint">Empty</string>
   <string name="enable_geolocation_confirm_message">Turning off location services will affect the recommendations you receive.</string>
-  <string name="enter_developer_mode">Enter developer mode</string>
-  <string name="enter_incongnito_mode">Enter incognito mode</string>
+  <string name="enter_developer_mode">"開発者モードに切り替える"</string>
+  <string name="enter_incongnito_mode">"シークレットモードに切り替える"</string>
   <string name="error_console_eval_button_text">"実行"</string>
   <string name="error_console_eval_text_hint">"JavaScriptを実行"</string>
   <string name="error_console_header_text_maximized">"JavaScriptコンソール"</string>
@@ -369,9 +369,7 @@
   <string name="is_last_tab">This is the last tab</string>
   <string name="is_page_bottom">"You've reached the bottom of the page"</string>
   <string name="is_page_top">"You're at the top of the page"</string>
-  <string name="js_dialog_before_unload">"%s
-
-このページから移動しますか？"</string>
+  <string name="js_dialog_before_unload">"%s\n\nこのページから移動しますか？"</string>
   <string name="js_dialog_before_unload_negative_button">"このページに留まる"</string>
   <string name="js_dialog_before_unload_positive_button">"このページから移動"</string>
   <string name="js_dialog_before_unload_title">"ページを閉じる"</string>
@@ -531,9 +529,8 @@
   <string name="nav_bottom_bar_new_tab">"新しいタブ"</string>
   <string name="nav_screen_container_tab_incognito">"匿名タブ"</string>
   <string name="nav_screen_container_tab_normal">"標準タブ"</string>
-  <string name="nav_screen_incognito_message">"Your browsing and search history won't be saved in Incognito mode.
-Remember that the files you download and the bookmarks you add will still be saved."</string>
-  <string name="nav_screen_incognito_title">Incognito mode</string>
+  <string name="nav_screen_incognito_message">"閲覧および検索履歴はシークレットモードでは保存されません。\nダウンロードしたファイルと追加したブックマークは保存される点にご注意ください。"</string>
+  <string name="nav_screen_incognito_title">"シークレットモード"</string>
   <string name="navigationbar_rightbutton_actiontext_cancle">"キャンセル"</string>
   <string name="navigationbar_rightbutton_actiontext_go">"移動"</string>
   <string name="navigationbar_rightbutton_actiontext_search">"検索"</string>
@@ -805,7 +802,7 @@ Browser needs to connect to the internet to work normally. You must agree to our
   <string name="ssl_certificate">"セキュリティ証明書"</string>
   <string name="ssl_certificate_is_valid">"この証明書は有効です。"</string>
   <string name="ssl_continue">"続行"</string>
-  <string name="ssl_date_error_warnings_header">"このサイトの証明書は失効しているか、まだ有効ではありません。このページを離れることをお勧めします。"</string>
+  <string name="ssl_date_error_warnings_header">"このサイトの証明書は失効しているか、まだ有効ではありません。このページを離れることをおすすめします。"</string>
   <string name="ssl_date_invalid">"この証明書の日付は無効です。"</string>
   <string name="ssl_expired">"この証明書は有効期限切れです。"</string>
   <string name="ssl_go_back">"戻る"</string>
@@ -930,8 +927,8 @@ Browser needs to connect to the internet to work normally. You must agree to our
   <string name="video_manager_action_bar_end_view">Videos</string>
   <string name="video_play_error">"動画を再生できませんでした"</string>
   <string name="video_project_button">"停止"</string>
-  <string name="video_project_msg">Video is casting to %s</string>
-  <string name="video_project_title">Video casting</string>
+  <string name="video_project_msg">"%sに動画をキャスト中"</string>
+  <string name="video_project_title">"動画をキャスト中"</string>
   <string name="video_push_multi_message">%1$d updates available.</string>
   <string name="video_push_multi_title">"更新が利用可能"</string>
   <string name="video_push_single_message">Tap to update to %1$d.</string>

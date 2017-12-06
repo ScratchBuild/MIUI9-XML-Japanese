@@ -4,7 +4,7 @@
   <string name="app_not_installed_toast">"アプリはお使いのデバイスにインストールされていません。"</string>
   <string name="cancel_button">"キャンセル"</string>
   <string name="fastboot_locked_answer_1">"FastbootはMiデバイスをフラッシュする伝統的な方法です。端末がFastbootモードになると、端末に保存されているすべてのデータにアクセスして直接消去することができます。Fastbootをロックしておくことで、端末を紛失した場合でもデータが安全に保たれるようにし、Find Device機能の信頼性を保証します。"</string>
-  <string name="fastboot_locked_answer_2">"端末を紛失した場合、Fastbootは端末に保存されているアイテムのセキュリティを保証します。Fastbootのロックを解除した場合、端末をリモートからロックしたり、Find Deviceを使用してデータを消去することができなくなります。そのため、Fastbootのロックを解除することはお勧めしません。"</string>
+  <string name="fastboot_locked_answer_2">"端末を紛失した場合、Fastbootは端末に保存されているアイテムのセキュリティを保証します。Fastbootのロックを解除した場合、端末をリモートからロックしたり、Find Deviceを使用してデータを消去することができなくなります。そのため、Fastbootのロックを解除することはおすすめしません。"</string>
   <string name="fastboot_locked_answer_3">"MIUIのwebサイトからアンロックツールを使用する必要があります。端末のロックを解除するには、その端末があなたのものであることを確認する必要があります。そのため、あらかじめMiアカウントでログインしてFind Deviceをオンにする必要があります。"</string>
   <string name="fastboot_locked_question_1">"なぜFastbootはロックされていますか？"</string>
   <string name="fastboot_locked_question_2">"Fastbootのロックを解除することでどんなリスクがありますか？"</string>

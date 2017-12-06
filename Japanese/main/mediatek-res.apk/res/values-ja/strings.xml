@@ -11,7 +11,7 @@
   <string name="PukMmi">Unblock PIN</string>
   <string name="RejectCauseTitle">ネットワーク拒否の原因</string>
   <string name="Special_Card_Type_Title_Lte_Not_Available">LTEネットワークは利用できません。</string>
-  <string name="Suggest_To_Change_USIM">4G SIMカードへの交換をお勧めします。</string>
+  <string name="Suggest_To_Change_USIM">4G SIMカードへの交換をおすすめします。</string>
   <string name="VideoView_error_text_bad_file">不良ファイル、この動画は再生できません。</string>
   <string name="VideoView_error_text_cannot_connect_to_server">サーバーに接続できません。</string>
   <string name="VideoView_error_text_drm_not_supported">DRM保護されているため、この動画は再生できません。</string>
