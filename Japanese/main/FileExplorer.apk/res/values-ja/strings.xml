@@ -143,6 +143,8 @@
   <string name="decrypt_error">"復号化できませんでした"</string>
   <string name="decrypt_to">Decrypt and save to…</string>
   <string name="decrypting">"復号化しています…"</string>
+  <string name="default_empty_des">"何も見つかりません、[再試行]をタップしてください！"</string>
+  <string name="default_error_des">"ネットワークが一時的に使用できない場合、ネットワーク設定を確認して[再試行]をタップしてください。"</string>
   <string name="default_prize_text">That goes right into my treasury!</string>
   <string name="default_user_desc">"このユーザーはまだ説明を追加していません"</string>
   <string name="delete_dialog_button">"削除"</string>
@@ -285,7 +287,12 @@
   <string name="like_toast_1">Such videos will be recommended to you more often.</string>
   <string name="like_toast_2">View the videos you liked in your profile.</string>
   <string name="like_toast_3">Sign in to view the videos you liked in your profile.</string>
+  <string name="list_refreshing_text">"更新中…"</string>
+  <string name="list_refreshing_time">"最終更新：%1$s"</string>
   <string name="load_more">"もっと表示"</string>
+  <string name="load_more_load_end">"これ以上コンテンツはありません"</string>
+  <string name="load_more_load_failed">"読み込みに失敗しました、タップして再試行。"</string>
+  <string name="load_more_loading">"読み込み中…"</string>
   <string name="load_sticker_fail">"ステッカーを読み込めませんでした"</string>
   <string name="loading">"読み込み中…"</string>
   <string name="local_image">"画像"</string>
