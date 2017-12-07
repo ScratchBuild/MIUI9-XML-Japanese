@@ -63,7 +63,7 @@
         <item>"アプリ名順"</item>
         <item>"使用頻度順"</item>
         <item>"ストレージ使用順"</item>
-        <item>Sort by installation time</item>
+        <item>"インストール時間順"</item>
         <item>"アンインストール可能なアプリを先頭に表示"</item>
     </string-array>
     <string-array name="title_app_info">

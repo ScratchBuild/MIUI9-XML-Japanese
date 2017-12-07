@@ -226,9 +226,9 @@
   <string name="app_floating_window_dlg_disable">%1$sのフローティングウィンドウ設定を無効にするにはアプリの再起動が必要です。</string>
   <string name="app_floating_window_dlg_enable">%1$sのフローティングウィンドウ設定を有効にするにはアプリの再起動が必要です。</string>
   <string name="app_forward_locked">このアプリはコピー防止機能付きです。</string>
-  <string name="app_install_details_group_title">Store</string>
-  <string name="app_install_details_summary">App installed from %1$s</string>
-  <string name="app_install_details_title">App details</string>
+  <string name="app_install_details_group_title">ストア</string>
+  <string name="app_install_details_summary">%1$sからインストールされたアプリ</string>
+  <string name="app_install_details_title">アプリの詳細</string>
   <string name="app_install_location_summary">新しいアプリの優先インストール先を変更する</string>
   <string name="app_install_location_title">優先インストール先</string>
   <string name="app_invisible">非表示アプリ</string>
@@ -340,8 +340,8 @@
   <string name="auto_replace_summary">入力間違いを自動修正する</string>
   <string name="auto_restore_summary">アプリを再インストールする際に、バックアップした設定とデータを復元する</string>
   <string name="auto_restore_title">自動復元</string>
-  <string name="auto_rule">Timer</string>
-  <string name="auto_silent">Schedule turn on time</string>
+  <string name="auto_rule">タイマー</string>
+  <string name="auto_silent">予定した時刻にオンにする</string>
   <string name="auto_startup_application_manage">自動起動</string>
   <string name="auto_upload_debug_log_summary">診断データには、ハードウェア、オペレーティングシステムやアプリケーションの使用状況に関する情報が含まれます。これらのデータはシステム内の問題を特定、分析するために使用され、個人を識別するために使用されることはありません。</string>
   <string name="auto_upload_debug_log_title">診断データを自動的に送信する</string>
@@ -480,7 +480,7 @@
   <string name="battery_summary">前回のフル充電から%1$d%%使用しています</string>
   <string name="bearer">ベアラー</string>
   <string name="bind_xiaomi_account_confirm">追加</string>
-  <string name="bind_xiaomi_account_dialog_summery">Mi Account %s を追加しようとしています。パスワードを忘れた場合、それをリセットするにはこのアカウントを使用することができます。</string>
+  <string name="bind_xiaomi_account_dialog_summery">Mi Account %s を追加しようとしています。パスワードを忘れた場合、このアカウントを使用してパスワードをリセットすることができます。</string>
   <string name="bind_xiaomi_account_success">Mi Accountが正常に追加されました</string>
   <string name="biometric_weak_improve_matching_title">Improve face matching</string>
   <string name="biometric_weak_liveliness_summary">ロックを解除するにはまばたきが必要です</string>
@@ -940,7 +940,7 @@
   <string name="confirm_privacy_password">プライバシー保護パスワードを入力</string>
   <string name="confirm_privacy_password_fingerprint">指紋を読み取るか、プライバシー保護パスワードを入力</string>
   <string name="confirm_reset_aaid">OK</string>
-  <string name="confirm_reset_shortcut_manager_throttling_message">Reset ShortcutManager のレート制限カウンタをリセットしますか？</string>
+  <string name="confirm_reset_shortcut_manager_throttling_message">ShortcutManager のレート制限カウンタをリセットしますか？</string>
   <string name="confirm_reset_shortcut_manager_throttling_title">ShortcutManager のレート制限をリセットしますか？</string>
   <string name="connect_mode">接続タイプ</string>
   <string name="connect_to_internet">ネットワークに接続</string>
@@ -1187,7 +1187,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="details_title">使用状況の詳細</string>
   <string name="dev_settings_warning_message">これらの設定は開発専用に設計されています。そのため端末や端末上のアプリが故障したり正常に動作しなくなったりする恐れがあります。</string>
   <string name="dev_settings_warning_title">開発用の設定を許可しますか？</string>
-  <string name="developer_smallest_width">Smallest width</string>
+  <string name="developer_smallest_width">最小幅</string>
   <string name="development_enable">開発者向けオプション</string>
   <string name="development_settings_enable">開発者向けオプションの有効化</string>
   <string name="development_settings_not_available">デベロッパー向けオプションはこのユーザーには表示されません</string>
@@ -1316,7 +1316,6 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="dndm_vip_call_setting_detal">常に例外からの着信を許可する</string>
   <string name="dndm_vip_call_setting_title">例外</string>
   <string name="dndm_vip_call_summary_contact">すべて</string>
-  <string name="dndm_vip_call_summary_custom">%d</string>
   <string name="dndm_vip_call_summary_none">タッチすると設定</string>
   <string name="dndm_vip_list_all">すべて</string>
   <string name="dndm_vip_list_contact">すべての連絡先</string>
@@ -1476,10 +1475,10 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="face_unlock_disable">顔認証でのロック解除はオフです</string>
   <string name="face_unlock_enable">顔認証でのロック解除はオンです</string>
   <string name="factory_reset_summary">内部ストレージからすべてのデータを消去します</string>
-  <string name="failed_to_check_find_device_status_content">"find deviceのステータスを確認できませんでした。1〜2分待ってから再試行してください。"</string>
+  <string name="failed_to_check_find_device_status_content">"Find deviceのステータスを確認できませんでした。1～2分待ってから再試行してください。"</string>
   <string name="failed_to_check_find_device_status_title">"ステータスを確認できませんでした。"</string>
   <string name="failed_to_open_app_settings_toast">%1$sの設定を開くことができませんでした</string>
-  <string name="failed_to_shut_down_find_device_content">"Find deviceをオフにできませんでした。1〜2分待ってから再試行してください。"</string>
+  <string name="failed_to_shut_down_find_device_content">"Find deviceをオフにできませんでした。1～2分待ってから再試行してください。"</string>
   <string name="failed_to_shut_down_find_device_title">"オフにできませんでした"</string>
   <string name="fcc_equipment_id">装置ID</string>
   <string name="file_privacy_password_role_instruction">プライベートなファイルはここに保存されます。</string>
@@ -1787,7 +1786,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="key_combination_power_menu">電源 + メニュー</string>
   <string name="key_gesture_function_dialog_message">%1$sは%2$sのショートカットです。%3$sで置き換えますか？</string>
   <string name="key_gesture_function_dialog_negative">キャンセル</string>
-  <string name="key_gesture_function_dialog_positive">置き換え</string>
+  <string name="key_gesture_function_dialog_positive">置き換える</string>
   <string name="key_gesture_function_optional">ボタンとジェスチャーのオプション</string>
   <string name="key_gesture_function_preview">ボタンとジェスチャーのプレビュー</string>
   <string name="key_gesture_function_shortcut">ショートカットの機能</string>
@@ -1903,7 +1902,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="layout_size_small">XS</string>
   <string name="layout_size_small_text">Extra small</string>
   <string name="led_colors_summary">通知</string>
-  <string name="led_frequence_summary">点滅周期を設定</string>
+  <string name="led_frequence_summary">点滅の間隔を設定する</string>
   <string name="led_pulse_summary">新しい通知を受信した時に点滅させる</string>
   <string name="led_settings">通知LED</string>
   <string name="legacy_dhcp_client">従来のDHCPクライアントを使用する</string>
@@ -2160,7 +2159,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="manage_device_admin">端末管理者</string>
   <string name="manage_device_admin_summary">端末管理者を表示または無効にする</string>
   <string name="manage_facerecoginition_text">顔データの管理</string>
-  <string name="manage_fakecell_settings">Protection from fake base stations</string>
+  <string name="manage_fakecell_settings">疑似基地局からの保護</string>
   <string name="manage_fingerprint_text">指紋の管理</string>
   <string name="manage_mobile_plan_title">モバイルプラン</string>
   <string name="manage_notification_access_summary_zero">アプリは通知を読み取ることができません</string>
@@ -2211,10 +2210,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="master_clear_final_button_text">すべて消去</string>
   <string name="master_clear_final_desc">個人情報とダウンロードしたアプリをすべて削除しますか？この操作は元に戻すことができません。</string>
   <string name="master_clear_not_available">このユーザーは出荷時設定へのリセットを許可されていません</string>
-  <string name="master_clear_other_users_present">"
-
-この端末には他にもユーザーがいます。
-"</string>
+  <string name="master_clear_other_users_present">"\n\nこの端末には他にもユーザーがいます。"</string>
   <string name="master_clear_personal_data">すべての個人情報を消去しますか？この操作は元に戻すことができません！</string>
   <string name="master_clear_personal_data_application">すべての個人情報とダウンロードアプリを消去しますか？この操作は元に戻すことができません！</string>
   <string name="master_clear_personal_data_sdcard">すべての個人情報とコンテンツを消去しますか？この操作は元に戻すことができません！</string>
@@ -2558,8 +2554,8 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="notifications_redacted">ロック画面にプライベートな内容を表示しない</string>
   <string name="notifications_silenced">マナーモード</string>
   <string name="notifications_sensitive">プライベートな内容の非表示</string>
-  <string name="notify_connect">CMCC WLAN prompt</string>
-  <string name="notify_connect_summary">Prompt me when access to CMCC WLAN</string>
+  <string name="notify_connect">中国移動WIFIへの接続確認</string>
+  <string name="notify_connect_summary">中国移動WIFI(CMCC)へのアクセス時にプロンプトを表示</string>
   <string name="now">今すぐ再起動</string>
   <string name="nsd_quick_toggle_summary">別の端末上のアプリにこの端末上のアプリを検出することを許可する</string>
   <string name="nsd_quick_toggle_title">ネットワークサービスの検出</string>
@@ -2822,7 +2818,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="privacy_dlg_button_cancel">キャンセル</string>
   <string name="privacy_factory_reset_dlg_button_text">リセット</string>
   <string name="privacy_factory_reset_dlg_message">パスワードを忘れた場合、新しいパスワードを設定するためにファクトリーリセットを実行する必要があります。</string>
-  <string name="privacy_factory_reset_dlg_title">Back up your data</string>
+  <string name="privacy_factory_reset_dlg_title">データをバックアップする</string>
   <string name="privacy_file">ファイル</string>
   <string name="privacy_gallery">写真</string>
   <string name="privacy_header_text_less_than_half">小さすぎます。セパレータをもう少しドラッグします。</string>
@@ -4976,7 +4972,7 @@ Android端末をUSBケーブルでコンピューターにつなぐことで、�
   <string name="wifi_wps_nfc_enter_password">ネットワークパスワードを入力してください</string>
   <string name="wifi_wps_onstart_pbc">ルーターのWi-Fi Protected Setupボタンを押します。「WPS」と表記されている場合や、次のような記号が表示されている場合もあります。</string>
   <string name="wifi_wps_onstart_pin">Wi-FiルーターでPIN「%1$s」を入力します。セットアップの完了まで最大2分ほどかかることがあります。</string>
-  <string name="wifi_wps_overlap_error">別のWi-Fiセッションが検出されました。 1〜2分待ってから再試行してください。</string>
+  <string name="wifi_wps_overlap_error">別のWi-Fiセッションが検出されました。 1～2分待ってから再試行してください。</string>
   <string name="wifi_wps_setup_msg">WPSを開始しています…</string>
   <string name="wifi_wps_setup_title">Wi-Fi保護設定</string>
   <string name="wifiap_configure_ap_text">Set up WLAN wifiap</string>
