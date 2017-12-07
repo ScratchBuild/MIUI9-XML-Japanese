@@ -21,6 +21,7 @@
   <string name="app_widget">"ノート"</string>
   <string name="call_folder_name">"通話ノート"</string>
   <string name="cancel_alarm_description">"リマインダーをキャンセル"</string>
+  <string name="cloud_service_state_open_reminder">"Mi Cloudとの同期をオンにして、ノートを同期します。"</string>
   <string name="cloud_trash_bin_title">"Mi Cloudのノートを削除"</string>
   <string name="cta_reminder">This app needs to connect to the internet to back up notes to Mi Cloud, as well as read your contacts to label the notes you take during calls.</string>
   <string name="db_downgrade_clear_button">"アプリデータを消去"</string>

@@ -1733,10 +1733,10 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="incoming_call_breathing_light_color_title">着信LEDの色</string>
   <string name="incoming_call_breathing_light_freq_title">着信LEDを点滅させる</string>
   <string name="incoming_call_volume_title">着信音</string>
-  <string name="infinity_display_settings">全画面表示</string>
-  <string name="infinity_display_slogan">Continued growth in unexplored technology</string>
+  <string name="infinity_display_settings">Full display</string>
+  <string name="infinity_display_slogan">Innovation on full display</string>
   <string name="infinity_display_title">全画面表示</string>
-  <string name="information_dialog_button_text">取り込みました</string>
+  <string name="information_dialog_button_text">OK</string>
   <string name="input_method">キーボード</string>
   <string name="input_method_selector">入力方法選択オプション</string>
   <string name="input_method_selector_always_hide_title">常に非表示</string>
@@ -2017,8 +2017,8 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="lock_screen_secure_after_timeout_title">パスワードの要求</string>
   <string name="lock_screen_signature_summary">このメッセージはロック画面に表示されます</string>
   <string name="lock_screen_signature_title">ロック画面の所有者情報</string>
-  <string name="lock_screen_unlock_show">スワイプ画面をスキップする</string>
-  <string name="lock_screen_unlock_show_summary">復帰時にホーム画面かパスワード画面に直接行く</string>
+  <string name="lock_screen_unlock_show">ロック画面をスキップする</string>
+  <string name="lock_screen_unlock_show_summary">ホーム画面を開くか、パスワードを直接入力します</string>
   <string name="lock_secure_after_timeout_click_me_to_change_text">変更するにはタップ</string>
   <string name="lock_settings">ロック画面とパスワード</string>
   <string name="lock_settings_common_title">端末のセキュリティ</string>
@@ -3707,7 +3707,7 @@ PINが正しくない可能性があります。"</string>
   <string name="single_key_use_summary">他の2つのボタンに割り当てられている機能をホームボタンで使用する</string>
   <string name="skip_anyway_button_label">スキップ</string>
   <string name="skip_label">スキップ</string>
-  <string name="skip_lock_screen_confirm_msg">通知、音楽プレーヤーのコントロール、カメラ及びMiホームはロック画面で無効になります</string>
+  <string name="skip_lock_screen_confirm_msg">通知、音楽プレーヤーのコントロール、及びショートカットはロック画面に表示されません</string>
   <string name="skip_step">スキップ</string>
   <string name="slot_number">（スロット%1$d）</string>
   <string name="slot_status_title">IMEI情報</string>

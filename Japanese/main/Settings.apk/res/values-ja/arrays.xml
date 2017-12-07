@@ -157,8 +157,8 @@
         <item>分割表示</item>
     </string-array>
     <string-array name="status_bar_show_carrier_entries">
-        <item>ロック画面と通知領域にのみ表示</item>
-        <item>キャリア名を常に表示</item>
+        <item>ロック画面にのみ表示</item>
+        <item>通知領域にのみ表示</item>
         <item>キャリア名を表示しない</item>
     </string-array>
     <string-array name="check_importance_entries">

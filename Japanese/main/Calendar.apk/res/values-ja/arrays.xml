@@ -299,10 +299,4 @@
         <item>男</item>
         <item>女</item>
     </string-array>
-    <string-array name="summary_card_text_chain">
-        <item>【订阅频道】订阅适合你的日历功能或服务</item>
-        <item>【订阅频道】来定制属于你的独家小米日历</item>
-        <item>【订阅频道】为你量身定制的日历功能和服务</item>
-        <item>【订阅频道】发现不一样的日历功能和服务</item>
-    </string-array>
 </resources>

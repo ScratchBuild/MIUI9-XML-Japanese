@@ -14,6 +14,7 @@
   <string name="acct_not_synced">"このアカウントは同期されていないため、カレンダーが最新ではない可能性があります。"</string>
   <string name="acessibility_selected_marker_description">"選択した予定"</string>
   <string name="action_bar_more_menu_view_description">"その他"</string>
+  <string name="action_bar_return">"戻る"</string>
   <string name="action_text_card_manager">"チャンネル"</string>
   <string name="action_text_today">"今日"</string>
   <string name="ad_card_connecting">"接続中"</string>
@@ -90,10 +91,10 @@
   <string name="countdown_today">"今日"</string>
   <string name="create_an_account_desc">"Mi Accountがあればカレンダーをもっと活用できます。
 
-• どのウェブブラウザからもアクセスできます
-• 予定を安全にバックアップできます"</string>
+• どのウェブブラウザからもアクセスできます。
+• 予定を安全にバックアップできます。"</string>
   <string name="creating_event">"予定を作成しました"</string>
-  <string name="creating_event_with_guest">"招待を送信します"</string>
+  <string name="creating_event_with_guest">"招待状を送信中…"</string>
   <string name="credit">"クレジットカード"</string>
   <string name="credit_card_date_label">"返済期日："</string>
   <string name="credit_card_number_label">"カード番号："</string>
@@ -108,6 +109,7 @@
   <string name="date_calculate_days">"日数を入力してください"</string>
   <string name="date_calculate_description">"特定の日の前または後の日付を確認する"</string>
   <string name="date_calculate_direction">Direction</string>
+  <string name="date_calculate_direction_content_description">Direction, current is %1s</string>
   <string name="date_calculate_result">"結果"</string>
   <string name="date_calculate_tab">"日付計算"</string>
   <string name="date_calculate_today">0 days</string>
@@ -171,7 +173,7 @@
   <string name="email_install_hint">"メールアプリがアンインストールされました。再インストールすることで、カレンダーアカウントのデータを復元したり、新しいアカウントを追加することができます。"</string>
   <string name="email_picker_label">"メールに次を含める:"</string>
   <string name="email_subject_prefix">"Re: "</string>
-  <string name="empty_event">"予定は空のため保存できません。"</string>
+  <string name="empty_event">"空の予定は保存できません"</string>
   <string name="event_account">"アカウント"</string>
   <string name="event_action_delete">"削除"</string>
   <string name="event_action_edit">"編集"</string>
@@ -231,7 +233,7 @@
   <string name="insert_event_toast_add_failed">"予定を追加できません"</string>
   <string name="insert_event_toast_add_success">"予定を作成しました"</string>
   <string name="install_email_app">"メールアプリをインストール"</string>
-  <string name="install_email_finished">"メールアプリが正常にインストールされました"</string>
+  <string name="install_email_finished">"正常にインストールされました"</string>
   <string name="install_weather_app_error">"アプリの読み込みに失敗しました。"</string>
   <string name="install_weather_app_loading">"読み込み中…"</string>
   <string name="installing_email">"インストールしています…"</string>
@@ -314,9 +316,9 @@
   <string name="no_network">"ネットワークに接続できません"</string>
   <string name="no_network_btn">"再試行"</string>
   <string name="no_title_label">"(無題)"</string>
-  <string name="no_visiable_calendar_message">"カレンダーのアカウントを選択する必要があります。続行するには[アカウントの選択]をタップします。"</string>
-  <string name="no_visiable_calendar_select_account">"アカウントを選択"</string>
-  <string name="no_visiable_calendar_title">"カレンダーアカウントを選択"</string>
+  <string name="no_visiable_calendar_message">"カレンダーのアカウントを追加する必要があります。続行するには[アカウントの選択]をタップします。"</string>
+  <string name="no_visiable_calendar_select_account">"アカウントを追加"</string>
+  <string name="no_visiable_calendar_title">"カレンダーアカウントを追加"</string>
   <string name="not_synced">"未同期"</string>
   <string name="online_reminder_header_text">"通知"</string>
   <string name="path_calendar_settings">"システムアプリ/カレンダー/設定"</string>
@@ -384,7 +386,7 @@
   <string name="response_yes">"はい"</string>
   <string name="rest_day_indication">: )</string>
   <string name="saving_event">"予定を保存しました"</string>
-  <string name="saving_event_with_guest">"アップデートを送信します"</string>
+  <string name="saving_event_with_guest">"更新を送信中…"</string>
   <string name="search">"検索"</string>
   <string name="search_calendar">"Date;Solar Terms;Lunar;Almanac;Fortune;Agenda;Meeting;Reminder;Vacation;Holiday;Birthday;2016;2017;Spring Festival;New Year's Day;International Labour Day;Mid-Autumn Festival"</string>
   <string name="search_calendar_edit_event">Meeting;Reminder;Agenda</string>
@@ -429,6 +431,7 @@ You can also add reminders so you don't miss anything important."</string>
   <string name="swipe_up_guide_hint_text">"詳細を確認するには上にスワイプ"</string>
   <string name="synced">"同期済み"</string>
   <string name="taishen">胎神</string>
+  <string name="talk_back_read_date">The current date is %1$s,%2$s,</string>
   <string name="template_announce_item_index">"%2$s件中%1$s件目の予定"</string>
   <string name="template_week_num">Week %1$s</string>
   <string name="text_day">日</string>
