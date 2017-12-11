@@ -98,8 +98,7 @@
   <string name="baby_album_needs_auto_backup_tip">"Can't turn off automatic backup for Baby album"</string>
   <string name="baby_album_new_photo_remind">"赤ちゃんのアルバムに新しい写真があります。"</string>
   <string name="baby_album_setting_title">"赤ちゃんの情報"</string>
-  <string name="baby_album_sharer_accept_dialog_msg">"Dear %1$s's %2$s,
-%3$s's %4$s shared %5$s's album with you"</string>
+  <string name="baby_album_sharer_accept_dialog_msg">"Dear %1$s's %2$s,\n%3$s's %4$s shared %5$s's album with you"</string>
   <string name="baby_album_sharer_recommand_face">Add existing photos of %1$s?</string>
   <string name="baby_album_sharers_page_title">"家族と共有"</string>
   <string name="baby_birthday">"誕生日"</string>
@@ -181,13 +180,13 @@
   <string name="cannot_send_message_reason">No valid recipients</string>
   <string name="change_to_face_mode">"顔だけ表示する"</string>
   <string name="change_to_photo_mode">Show full previews</string>
-  <string name="change_to_visible">Restore this person?</string>
+  <string name="change_to_visible">"このユーザーを復元しますか？"</string>
   <string name="choose_baby_sexy">"性別"</string>
   <string name="choose_owner_relation">Relationship</string>
   <string name="choose_people">"Choose a person's album"</string>
   <string name="choose_some_people">Choose album with %s</string>
   <string name="click_download_gif">"GIFをダウンロードするにはタップ"</string>
-  <string name="click_top_right">Tap this icon</string>
+  <string name="click_top_right">"このアイコンをタップ"</string>
   <string name="cloud_camera_display_name">Camera photos</string>
   <string name="cloud_guide_auto_backup_title">"バックアップするアルバムを選択"</string>
   <string name="cloud_guide_login_title">"写真や動画を自動的にバックアップ"</string>
@@ -265,11 +264,11 @@
   <string name="delete_album_success">"アルバムを削除しました"</string>
   <string name="delete_finish_format">%d deleted</string>
   <string name="delete_from_all_devices_and_cloud">"すべてのデバイスとMi Cloudから"</string>
-  <string name="delete_from_cloud">Delete items from Mi Cloud</string>
-  <string name="delete_from_devices">All synced devices</string>
+  <string name="delete_from_cloud">"Mi Cloudからアイテムを削除"</string>
+  <string name="delete_from_devices">"すべての同期済みデバイス"</string>
   <string name="delete_from_devices_album">All devices to which the album has been synced</string>
   <string name="delete_from_homepage_album">Albums shown in Gallery</string>
-  <string name="delete_from_this_album_and_cloud">from this album and Mi Cloud</string>
+  <string name="delete_from_this_album_and_cloud">"このアルバムとMi Cloudから"</string>
   <string name="delete_from_web">"ウェブアルバム"</string>
   <string name="delete_in_album">When you delete photos or videos from an album, they will also be deleted from:</string>
   <string name="delete_in_home_page">When you delete photos or videos from Gallery, they will also be deleted from:</string>

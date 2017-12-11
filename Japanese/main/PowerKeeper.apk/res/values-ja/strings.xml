@@ -33,8 +33,7 @@
   <string name="config_restrict_running_title">"バックグラウンドアクティビティを制限"</string>
   <string name="config_restrict_running_warning">"アプリはバックグラウンドで終了します。一部の動作に問題が出る可能性があります。"</string>
   <string name="config_scenario_policies_title">"シーン"</string>
-  <string name="config_suggest_description">"重要なプロセスを維持するためにアプリとアクティビティを識別します。
-バッテリーセーバーは重要なアプリを選択的に扱います。"</string>
+  <string name="config_suggest_description">"重要なプロセスを維持するためにアプリとアクティビティを識別します。\nバッテリーセーバーは重要なアプリを選択的に扱います。"</string>
   <string name="config_suggest_suffix_title">"バッテリーセーバー (推奨)"</string>
   <string name="config_suggest_title">"バッテリーセーバー"</string>
   <string name="confirm">OK</string>
@@ -46,7 +45,7 @@
   <string name="enable_hide_mode">"バッテリーセーバーをオンにする"</string>
   <string name="error_filename_too_long">"入力したファイル名が長すぎます。"</string>
   <string name="extreme_power_config_mode_category">Extreme mode</string>
-  <string name="extreme_power_config_mode_desc">Switch to extreme mode to turn off sync, Bluetooth, GPS, NFC, double tapping, button lights, waking Lock screen for notifications,as well as notification lights. MIUI will focus on saving battery.</string>
+  <string name="extreme_power_config_mode_desc">"Extteme modeに切り替えると、同期、Bluetooth、GPS、NFC、ダブルタップやボタンライトをオフにし、通知を受信してもロック画面やLEDライトを点灯しません。MIUIはバッテリーの節約にフォーカスします。"</string>
   <string name="extreme_power_config_mode_title">Extreme mode</string>
   <string name="failure">"失敗"</string>
   <string name="foreground_change">"アプリはフォアグラウンドで実行されています"</string>

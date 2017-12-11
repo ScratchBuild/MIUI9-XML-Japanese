@@ -19,7 +19,7 @@
   <string name="action_item_modify_info">"情報を編集"</string>
   <string name="action_item_multiple">"編集"</string>
   <string name="action_item_play_all">"すべて再生"</string>
-  <string name="action_item_play_next">Play later</string>
+  <string name="action_item_play_next">"後で再生"</string>
   <string name="action_item_remove">"削除"</string>
   <string name="action_item_remove_from_favorite">"お気に入りから削除"</string>
   <string name="action_item_send">"送信"</string>

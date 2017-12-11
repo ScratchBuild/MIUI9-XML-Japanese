@@ -121,7 +121,7 @@ and then create a shot where everyone looks best."</string>
   <string name="hint_slow_motion">The video you shoot will be played slower.</string>
   <string name="hunt_dual_water_mark">Dual camera watermark will be added automatically.</string>
   <string name="install_confirmed">"インストール"</string>
-  <string name="message_snap_double_confirm">Long pressing the volume button triggers NFC now. Replace this feature?</string>
+  <string name="message_snap_double_confirm">"音量ボタンの長押しには現在、NFCの起動が割り当てられています。この機能を置換えますか？"</string>
   <string name="module_name_beauty">Beauty</string>
   <string name="module_name_capture">Photo</string>
   <string name="module_name_fun">Short video</string>
@@ -371,7 +371,7 @@ and brings out the people in the front."</string>
   <string name="pref_video_speed_entry_normal">"標準"</string>
   <string name="pref_video_speed_entry_slow">"低速"</string>
   <string name="pref_video_speed_fast_title">Time-lapse</string>
-  <string name="pref_video_speed_slow_title">Slow-motion</string>
+  <string name="pref_video_speed_slow_title">"スローモーション"</string>
   <string name="pref_video_speed_title">Video capture speed</string>
   <string name="pref_video_time_lapse_frame_interval_entry_10">"0.3秒間隔 (10回)"</string>
   <string name="pref_video_time_lapse_frame_interval_entry_120">"4秒間隔 (120回)"</string>
@@ -417,7 +417,7 @@ and brings out the people in the front."</string>
   <string name="simple_mode_button_text_tilt_shift">"チルトシフトをオフにする"</string>
   <string name="simple_mode_button_text_ubifocus">Turn off Refocus</string>
   <string name="snap_cancel">"キャンセル"</string>
-  <string name="snap_confirmed">Replace</string>
+  <string name="snap_confirmed">"置き換える"</string>
   <string name="spaceIsLow_content_external_storage_priority">"SDカードの空き容量が不足しています"</string>
   <string name="spaceIsLow_content_primary_storage_priority">"USBストレージの空き容量が不足しています"</string>
   <string name="start_capture">OK</string>
