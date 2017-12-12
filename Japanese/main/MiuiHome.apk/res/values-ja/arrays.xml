@@ -1,23 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="transformation_entries">
-        <item>Slide</item>
-        <item>Crossfade</item>
-        <item>Tumble</item>
-        <item>Page</item>
-        <item>Cascade</item>
-        <item>Rotate</item>
-        <item>Cube</item>
-    </string-array>
-    <string-array name="wallpaper_scroll_entries">
-        <item>"テーマのデフォルト"</item>
-        <item>"中央"</item>
-        <item>"左寄り"</item>
-        <item>"右寄り"</item>
-    </string-array>
-    <string-array name="gadget_weather_theme_type_entries">
-        <item>"デフォルト"</item>
-        <item>"クラシック"</item>
+    <string-array name="editing_mode_entries">
+        <item>"壁紙"</item>
+        <item>"ウィジェット"</item>
+        <item>"設定"</item>
     </string-array>
     <string-array name="gadget_weather_image">
         <item>"晴れ"</item>
@@ -46,9 +32,23 @@
         <item>"ちり"</item>
         <item>"煙霧"</item>
     </string-array>
-    <string-array name="editing_mode_entries">
-        <item>"壁紙"</item>
-        <item>"ウィジェット"</item>
-        <item>"設定"</item>
+    <string-array name="gadget_weather_theme_type_entries">
+        <item>"デフォルト"</item>
+        <item>"クラシック"</item>
+    </string-array>
+    <string-array name="transformation_entries">
+        <item>Slide</item>
+        <item>Crossfade</item>
+        <item>Tumble</item>
+        <item>Page</item>
+        <item>Cascade</item>
+        <item>Rotate</item>
+        <item>Cube</item>
+    </string-array>
+    <string-array name="wallpaper_scroll_entries">
+        <item>"テーマのデフォルト"</item>
+        <item>"中央"</item>
+        <item>"左寄り"</item>
+        <item>"右寄り"</item>
     </string-array>
 </resources>

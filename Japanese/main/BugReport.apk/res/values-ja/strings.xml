@@ -122,6 +122,7 @@
   <string name="from">from %1$s</string>
   <string name="goon_feedback_main">"続行"</string>
   <string name="hint_feedback_main">"問題の説明"</string>
+  <string name="issue_search">"検索"</string>
   <string name="loading_apps">"一覧を読み込み中…"</string>
   <string name="login_system_failed">"ログインできませんでした、もう一度お試しください"</string>
   <string name="logo_title">"フィードバック"</string>

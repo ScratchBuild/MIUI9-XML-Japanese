@@ -310,6 +310,8 @@
   <string name="dtmf_tone_entries_normal">普通</string>
   <string name="dtmf_tones_summary">DTMFトーンの長さを設定します</string>
   <string name="dtmf_tones_title">DTMFトーン</string>
+  <string name="dual_4g_switch_summary">両方のSIMスロットに4G接続を許可します。</string>
+  <string name="dual_4g_switch_title">デュアル4G</string>
   <string name="duration_disable_summary">通話時間の表示はOFFです</string>
   <string name="duration_enable_summary">通話時間の表示はONです</string>
   <string name="editContact">編集</string>
@@ -349,6 +351,7 @@
   <string name="enable_disable_retail_directory">お店情報</string>
   <string name="enable_disable_stock_quotes">株価情報</string>
   <string name="enable_disable_technology_news">テクノロジーニュース</string>
+  <string name="enable_dual_4g_prompt_when_turn_on_volte">VoLTEでは両方のSIMスロットに4G接続が必要です。今すぐデュアル4Gに切り替えますか？</string>
   <string name="enable_fdn">発信番号制限をONにする</string>
   <string name="enable_fdn_ok">発信番号制限をOFFにする</string>
   <string name="enable_in_progress">PINを設定しています...</string>
@@ -1103,6 +1106,8 @@
   <string name="tty_mode_not_allowed_video_call">TTYモードの変更はビデオハングアウト中には行えません</string>
   <string name="tty_mode_option_summary">TTYモードの設定</string>
   <string name="tty_mode_option_title">TTYモード</string>
+  <string name="turn_off_dual_4g_failed">デュアル4Gをオフにできませんでした。</string>
+  <string name="turn_on_dual_4g_failed">デュアル4Gをオンにできませんでした。</string>
   <string name="turnover_mute_summary">"端末が画面を上向きにして水平に置いてある時、端末を裏返すと着信音をミュートできます。"</string>
   <string name="turnover_mute_title">携帯をひっくり返して着信音をミュート</string>
   <string name="undefined">未設定</string>

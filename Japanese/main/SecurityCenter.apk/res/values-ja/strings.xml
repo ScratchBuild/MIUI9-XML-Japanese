@@ -675,8 +675,7 @@
   <string name="firewall_applist">"アプリ"</string>
   <string name="firewall_fragment_nonesys_listempty">Empty</string>
   <string name="firewall_fragment_sys_listempty">Empty</string>
-  <string name="firewall_fragment_tab_title_nonsys">"インストール済み"</string>
-  <string name="firewall_fragment_tab_title_sys">"システム"</string>
+  <string name="firewall_mobile">"モバイルデータ"</string>
   <string name="firewall_mobile_dialog_message">"The installed app won't be able to connect to the internet using mobile data when this switch is off."</string>
   <string name="firewall_network_allow">Allowed %1$s to use %2$s connection</string>
   <string name="firewall_network_restrict_notify_message">"設定を変更するにはタップ。"</string>
@@ -687,9 +686,9 @@
   <string name="firewall_restrict_android_dialog_title">"注意"</string>
   <string name="firewall_restrict_data">"モバイルデータ接続を制限する"</string>
   <string name="firewall_restrict_wlan">"Wi-Fi接続を制限する"</string>
-  <string name="firewall_rule_group_title_mobile">"モバイル"</string>
   <string name="firewall_rule_group_title_roaming">"海外ローミング"</string>
-  <string name="firewall_rule_group_title_wifi">"Wi-Fi"</string>
+  <string name="firewall_system_title">"システムアプリのデータ使用量"</string>
+  <string name="firewall_wifi">Wi-Fi</string>
   <string name="firewall_wifi_dialog_message">"The installed app won't be able to connect to the internet using WLAN when this switch is off.​"</string>
   <string name="five_percent_total_pkg">%s (5%% of monthly data)</string>
   <string name="float_window">"フローティングウインドウ"</string>
@@ -1033,7 +1032,6 @@ Carrier may charge you additional fees if you use mobile data connection again."
   <string name="name">"名前"</string>
   <string name="net_booster">Network speed boost</string>
   <string name="net_booster_expire_notification">Network speed boost session is about to end</string>
-  <string name="net_booster_expire_notification_tip">%d d remaining before Network speed boost session ends. Renew the session to avoid network speed problems.</string>
   <string name="net_booster_overdue_notification">Network speed boost session is about to end</string>
   <string name="net_booster_overdue_notification_tip">Network speed boost session will end soon. Renew the session?</string>
   <string name="net_booster_tip">Turn on Network speed boost to make WLAN connection more stable and reduce network delay.</string>
@@ -1364,6 +1362,8 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
   <string name="pref_key_direction_traffic">Designated mobile data</string>
   <string name="pref_key_half_year_package_start">"開始日"</string>
   <string name="pref_key_half_year_package_switch">Half-year data package</string>
+  <string name="pref_key_tethering_setting">"ワンタイム データ制限"</string>
+  <string name="pref_key_tethering_title">"ワンタイム データ制限"</string>
   <string name="pref_manual_adjust">"データ使用量の統計を手動で設定"</string>
   <string name="pref_mi_sim_settings">"Mi SIMの設定"</string>
   <string name="pref_more_settings">"その他の設定"</string>
@@ -1834,8 +1834,17 @@ While calibrating, MIUI will send a text message to your carrier to receive the 
   <string name="tc_sms_report_type">Report type</string>
   <string name="tc_sms_report_upload_success">"Data usage report SMS submitted. We'll get right on it!"</string>
   <string name="tc_sms_report_upload_when_net">"ご意見ありがとうございます！"</string>
+  <string name="tether_custom_dialog_title">"モバイルデータの上限"</string>
+  <string name="tether_limit_dialog_title">"モバイルデータの上限"</string>
+  <string name="tether_limit_value_custom">"カスタム"</string>
+  <string name="tether_over_limit_dialog_cancle_btn">"テザリングをリセット"</string>
+  <string name="tether_over_limit_dialog_message">"テザリングのデータ上限に達しました。"</string>
+  <string name="tether_over_limit_dialog_title">"データ使用の警告"</string>
+  <string name="tether_over_limit_warning_notify_message">"テザリングをオフにする。"</string>
+  <string name="tether_over_limit_warning_notify_title">"テザリングのデータ上限に達しました"</string>
   <string name="text_button">OK</string>
   <string name="thermal_tips_message">"パフォーマンスでゲームをプレイすると、過熱の問題が発生する場合があります。"</string>
+  <string name="thermal_tips_title">"注意"</string>
   <string name="third_application">"インストール済みアプリ"</string>
   <string name="three_percent_total_pkg">%s (3%% of monthly data)</string>
   <string name="timeshow_h">"%.1f時間"</string>

@@ -63,6 +63,11 @@
   <string name="disable_wallpaper_scroll">"横スクロールをオフにする"</string>
   <string name="download_action">"ダウンロード"</string>
   <string name="edit_folder_title">"フォルダ名を編集"</string>
+  <string name="edit_mode_group">"グループ"</string>
+  <string name="edit_mode_group_error_full">"空きスペースがありません"</string>
+  <string name="edit_mode_group_error_in_folder">"アイコンをグループ化する前にフォルダを閉じる"</string>
+  <string name="edit_mode_group_error_one_folder">"選択したアイコンでフォルダを複製できません"</string>
+  <string name="edit_mode_uninstall">"削除"</string>
   <string name="editing_add_widget_tips">"ウィジェットを編集"</string>
   <string name="editing_mode_enter_tip_text">"ピンチインしてホーム画面を編集"</string>
   <string name="editing_mode_title_empty">"選択してください"</string>
@@ -147,6 +152,8 @@
   <string name="lock_screen_failed_message">"ロック画面の壁紙を設定できません"</string>
   <string name="lock_screen_success_message">"ロック画面に適用しました"</string>
   <string name="lock_screen_wallpaper">"ロック画面の壁紙"</string>
+  <string name="memory_clear_nothing_result">Nothing to clear in cache</string>
+  <string name="memory_clear_result">"%1$sBを解放しました"</string>
   <string name="menu_add">"追加"</string>
   <string name="menu_auto_fill">"空のセルを埋める"</string>
   <string name="menu_back_desktop">"ホーム画面に戻る"</string>

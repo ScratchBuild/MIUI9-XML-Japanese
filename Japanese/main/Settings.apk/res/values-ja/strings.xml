@@ -4042,6 +4042,8 @@ PINが正しくない可能性があります。"</string>
   <string name="testing_usage_stats">使用統計情報</string>
   <string name="testing_wifi_info">Wi-Fiネットワーク情報</string>
   <string name="tether_and_hotspot_title">テザリングとホットスポット</string>
+  <string name="tether_data_usage_limit">ワンタイム データ制限</string>
+  <string name="tether_data_usage_limit_summary">データ制限は、次回テザリングがオンになったときに適用されます</string>
   <string name="tether_devices_management_title">デバイスの管理</string>
   <string name="tether_devices_max_number">接続済みデバイスの上限</string>
   <string name="tether_settings_disabled">ポータブルアクセスポイントはオフです</string>

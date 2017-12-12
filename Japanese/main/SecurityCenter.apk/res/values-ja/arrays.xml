@@ -76,6 +76,10 @@
         <item>"データ使用量"</item>
         <item>"電話の残高"</item>
     </string-array>
+    <string-array name="tether_limit_warn_type">
+        <item>"オフにして通知する"</item>
+        <item>"通知のみ"</item>
+    </string-array>
     <string-array name="alarm_repeat_type">
         <item>Once</item>
         <item>Every day</item>

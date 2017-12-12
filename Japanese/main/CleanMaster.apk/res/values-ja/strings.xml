@@ -361,6 +361,7 @@
   <string name="qq_cache_files">QQ cache</string>
   <string name="qq_clean">QQ cleaner</string>
   <string name="qq_clean_exit_confirm_msg">Stop scanning and exit now?</string>
+  <string name="qq_clean_finish_summary">"選択したファイルを正常に削除しました"</string>
   <string name="qq_data_type_cache">QQ cache</string>
   <string name="qq_data_type_cache_desc">"You'll be able to restore these files after you connect to the internet."</string>
   <string name="qq_data_type_chat">Chat history</string>
@@ -450,11 +451,11 @@
   <string name="toast_uninstall_success">"アンインストールが完了しました"</string>
   <string name="total_clean">Total cleaned: %s</string>
   <string name="total_clean_text">"消去"</string>
+  <string name="unlike">"結構です"</string>
   <string name="update_date_format">yyyy/MM/dd</string>
   <string name="virus_scan">"セキュリティスキャン"</string>
   <string name="vungle_ad_name">"Vungle広告"</string>
   <string name="wechat_cache_files">"WeChatキャッシュ"</string>
-  <string name="wechat_chat_clean_done">Everything looks good</string>
   <string name="wechat_chat_data_type_cache">"WeChatキャッシュ"</string>
   <string name="wechat_chat_data_type_cache_desc">"これらのファイルはインターネットに接続した後、復元することができます。"</string>
   <string name="wechat_chat_data_type_chat">"チャット履歴"</string>
@@ -465,8 +466,11 @@
   <string name="wechat_chat_data_type_other">"その他"</string>
   <string name="wechat_chat_data_type_other_desc">"注意：これらのファイルは削除した後、復元できない場合があります。"</string>
   <string name="wechat_clean">WeChat cleaner</string>
+  <string name="wechat_clean_canceled_empty_summary">"Cleanup wasn't finished, start over."</string>
   <string name="wechat_clean_exit_confirm">"終了しますか？"</string>
   <string name="wechat_clean_exit_confirm_msg">"今すぐスキャンを停止して終了しますか？"</string>
+  <string name="wechat_clean_finish_empty_summary">Everything looks good</string>
+  <string name="wechat_clean_finish_summary">"選択したファイルを正常に削除しました"</string>
   <string name="wechat_clean_stop_confirm">"スキャンを停止しますか？"</string>
   <string name="wechat_clean_stop_confirm_msg">"今すぐスキャンを停止しますか？"</string>
   <string name="wechat_content_bad_pic_file">"ファイルが壊れています"</string>
@@ -475,11 +479,16 @@
   <string name="wechat_copy_video_failed_dialog_title">"エクスポートできません"</string>
   <string name="wechat_copying_video">"エクスポート中…"</string>
   <string name="wechat_copying_video_dialog_checkbox">"エクスポート後にファイルを削除"</string>
-  <string name="wechat_copying_video_dialog_msg">"ファイルは以下のフォルダに保存されます: /DCIM/WeChat"</string>
+  <string name="wechat_copying_video_dialog_msg">"ファイルは以下のフォルダに保存されます: %s"</string>
   <string name="wechat_copying_video_dialog_title">"ギャラリーにエクスポート"</string>
   <string name="wechat_copying_video_empty">"エクスポートする動画はありません"</string>
   <string name="wechat_copying_video_success">"正常にエクスポートされました"</string>
+  <string name="wechat_qq_celan_tab_file">"ファイル"</string>
+  <string name="wechat_qq_celan_tab_image">"画像"</string>
+  <string name="wechat_qq_celan_tab_video">"動画"</string>
+  <string name="wechat_qq_celan_tab_voice">"音声"</string>
   <string name="wechat_qq_chat_files">"チャット履歴"</string>
+  <string name="wechat_qq_deep_clean_button_text">Deep clean</string>
   <string name="wechat_qq_normal_files">"ゴミ箱"</string>
   <string name="white_list_ad_header">"古いファイル: %d"</string>
   <string name="white_list_apk_header">Install packages: %d</string>
@@ -487,6 +496,15 @@
   <string name="white_list_large_file_header">"大きいファイルと動画: %d"</string>
   <string name="white_list_residual_header">"残留ファイル: %d"</string>
   <string name="white_list_title">"例外"</string>
+  <string name="wq_deep_clean_filter_all">"すべて"</string>
+  <string name="wq_deep_clean_filter_month_ago">"1ヶ月前"</string>
+  <string name="wq_deep_clean_filter_three_month_ago">"3か月前"</string>
+  <string name="wq_deep_clean_filter_week_ago">"1週間前"</string>
+  <string name="wq_deep_clean_filter_years_ago">"6ヶ月前"</string>
+  <string name="wqfile_group_chat_file">"その他のファイル"</string>
+  <string name="wqfile_group_chat_pic">"チャット画像"</string>
+  <string name="wqfile_group_chat_video">"チャット動画"</string>
+  <string name="wqfile_group_chat_voice">"チャット音声"</string>
   <string name="year_month_day_format">MMM dd, yyyy</string>
   <string name="yesterday">"昨日"</string>
 </resources>
