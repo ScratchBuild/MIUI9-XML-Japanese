@@ -51,6 +51,9 @@
   <string name="action_menu_toolbox">"ツール"</string>
   <string name="action_menu_useful_page">"ショートカットを追加"</string>
   <string name="action_menu_useful_page_added">"スタートページに追加しました"</string>
+  <string name="action_menu_user_center">"ユーザーセンター"</string>
+  <string name="action_modify_bookmark">"ブックマークを編集"</string>
+  <string name="action_put_in_search_box">"検索ボックスに%sを配置"</string>
   <string name="actionbar_share">"共有"</string>
   <string name="actionbar_textselection_title">"テキストの選択"</string>
   <string name="actionbar_web_search">"ウェブ検索"</string>
@@ -478,9 +481,9 @@
   <string name="miuichromium_error_page_problem_page_not_working_reason_invalid_response">"This page isn't working because %s0 sent an invalid response."</string>
   <string name="miuichromium_error_page_problem_page_not_working_reason_too_many_redirects">"This page isn't working because %s0 redirected you too many times."</string>
   <string name="miuichromium_error_page_problem_security_error_reason_bad_client_cert">"This site can't provide a secure connection because %s0 didn't accept your certificate."</string>
-  <string name="miuichromium_error_page_problem_security_error_reason_bad_server_cert">"This site can't provide a secure connection %s0 doesn't adhere to security standards."</string>
+  <string name="miuichromium_error_page_problem_security_error_reason_bad_server_cert">"This site can't provide a secure connection because %s0 doesn't adhere to security standards."</string>
   <string name="miuichromium_error_page_problem_security_error_reason_invalid_response">"This site can't provide a secure connection because %s0 sent an invalid response."</string>
-  <string name="miuichromium_error_page_problem_security_error_reason_unsupported_protocol">"This site can't provide a secure connection %s0 uses an unsupported protocol."</string>
+  <string name="miuichromium_error_page_problem_security_error_reason_unsupported_protocol">"This site can't provide a secure connection because %s0 uses an unsupported protocol."</string>
   <string name="miuichromium_error_page_problem_server_fault">%s0 is currently unable to handle this request.</string>
   <string name="miuichromium_error_page_reload">"更新"</string>
   <string name="miuichromium_error_page_safe_network">"セーフモード"</string>
@@ -494,7 +497,7 @@
   <string name="miuichromium_error_page_suggestion_clear_cache_and_cookies" formatted="false">"キャッシュとcookieを消去してください (%s1設定%s2 - データを消去、アカウント情報が失われる可能性があります)。"</string>
   <string name="miuichromium_error_page_suggestion_clear_cache_and_cookies_no_invoke">"キャッシュとcookieを消去 (アカウント情報が失われる可能性があります)。"</string>
   <string name="miuichromium_error_page_suggestion_clear_cache_no_invoke">"キャッシュを消去。"</string>
-  <string name="miuichromium_error_page_suggestion_connect_and_retry">"インターネットに接続した後に再読み込みしてください"</string>
+  <string name="miuichromium_error_page_suggestion_connect_and_retry">"インターネットに接続した後に再読み込みしてください。"</string>
   <string name="miuichromium_error_page_suggestion_contact_admin">"システム管理者に問い合わせてください。"</string>
   <string name="miuichromium_error_page_suggestion_correct_url">"入力したアドレスを確認し、正しいURLを使用してもう一度お試しください。"</string>
   <string name="miuichromium_error_page_suggestion_grant_permission">"インターネットへのアクセス許可をブラウザに付与した後に再読み込みしてください。"</string>
@@ -552,7 +555,7 @@
   <string name="open_app_confirm_message">Allow this page to open %s?</string>
   <string name="open_file_explorer_failed">"File Explorerを開くことができません"</string>
   <string name="open_voice_permission">Allow the mic to connect to the internet</string>
-  <string name="opening_file_error">"選択したファイルを開くことができませんでした"</string>
+  <string name="opening_file_error">"選択したファイルを開くことができませんでした。"</string>
   <string name="page_info">"ページ情報"</string>
   <string name="page_info_address">"アドレス:"</string>
   <string name="page_info_view">"ページ情報を表示"</string>
