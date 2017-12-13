@@ -423,7 +423,7 @@
   <string name="js_dialog_before_unload">%s
 
 このページから移動してもよろしいですか？</string>
-  <string name="js_dialog_before_unload_negative_button">このページのまま</string>
+  <string name="js_dialog_before_unload_negative_button">このページに留まる</string>
   <string name="js_dialog_before_unload_positive_button">このページから移動</string>
   <string name="js_dialog_before_unload_title">ナビゲーションの確認</string>
   <string name="js_dialog_title">%s のページ:</string>
@@ -1166,7 +1166,6 @@ To unpin, press and hold Home and the Power button at the same time."</string>
   <string name="ssl_ca_cert_warning">ネットワークが監視される場合があります</string>
   <string name="ssl_certificate">セキュリティ証明書</string>
   <string name="ssl_certificate_is_valid">証明書は有効です。</string>
-  <string name="status_bar_notification_info_overflow">999+</string>
   <string name="stk_cc_ss_to_dial">SSリクエストはDIALリクエストに変更されました。</string>
   <string name="stk_cc_ss_to_ss">SSリクエストは新しいSSリクエストに変更されました。</string>
   <string name="stk_cc_ss_to_ussd">SSリクエストはUSSDリクエストに変更されました。</string>

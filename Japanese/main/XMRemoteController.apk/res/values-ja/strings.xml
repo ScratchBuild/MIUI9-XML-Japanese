@@ -106,7 +106,7 @@
   <string name="append_ok_key_after_num">Add confirmation button after the numeric button</string>
   <string name="application">"アプリ"</string>
   <string name="auto_tune">Auto tune</string>
-  <string name="auto_tune_hint_text">Automatically change the channel after start，the phone will send a certain interval code&lt;Channel+&gt;Button</string>
+  <string name="auto_tune_hint_text">Automatically change the channel after start，the phone will send a certain interval code&lt;Channel+>Button</string>
   <string name="auto_tune_running">Auto tune running…</string>
   <string name="back">"戻る"</string>
   <string name="backup">"バックアップ"</string>
@@ -134,7 +134,7 @@
   <string name="cancel_share">"共有を停止"</string>
   <string name="cancel_share_done">"共有を停止しました"</string>
   <string name="cancel_timer">"タイマーをキャンセル"</string>
-  <string name="cannot_be_used_in_current_mode">"現在のモードでは&lt;%1$s&gt;を使用できません"</string>
+  <string name="cannot_be_used_in_current_mode">"現在のモードでは&lt;%1$s>を使用できません"</string>
   <string name="carrier_data">"キャリア情報"</string>
   <string name="cast_screen">"Mi TV"</string>
   <string name="change_channel">"チャンネルを変更"</string>
@@ -345,10 +345,10 @@
   <string name="from_share">Shared from %1$s</string>
   <string name="gamepad">"ゲームパッド"</string>
   <string name="gamepad_rule">"ゲームパッドモードで横向きに使用することはできません"</string>
-  <string name="gesture_pad_first_line_tips">Use the Volume buttons on your device to adjust volume</string>
-  <string name="gesture_pad_orietaion_tips">Swipe to move in any direction. Tap to confirm.</string>
-  <string name="gesture_pad_sencond_line_tips">Tap &amp; hold the central area of the screen to view the menu. Slide up or down to adjust volume.</string>
-  <string name="gesture_pad_vol_tips">"Use phone's volume buttons to adjust the volume on the connected device"</string>
+  <string name="gesture_pad_first_line_tips">"音量を調節するには、端末の音量ボタンを使用します"</string>
+  <string name="gesture_pad_orietaion_tips">"任意の方向に移動するにはスワイプします。タップして確定。"</string>
+  <string name="gesture_pad_sencond_line_tips">メニューを表示するには画面の中央を長押しします。音量を調節するには上下にスライドしてください。</string>
+  <string name="gesture_pad_vol_tips">"接続したデバイスの音量を調節するには、携帯の音量ボタンを使用します"</string>
   <string name="get_backup_failed">"修復できませんでした、もう一度お試しください"</string>
   <string name="get_backup_succeed">復元が完了しました。 Total: %1$d | Current: %2$d| Restored: %3$d</string>
   <string name="get_data_fail_tips">"データを取得できませんでした、もう一度お試しください"</string>
@@ -437,7 +437,7 @@
   <string name="loading_get">"読み込み中…"</string>
   <string name="loading_hint">"読み込み中…"</string>
   <string name="loading_ir_data">"読み込み中…"</string>
-  <string name="loading_more">Loading more</string>
+  <string name="loading_more">"もっと読み込む"</string>
   <string name="loading_share_info_err">"データを読み込めませんでした"</string>
   <string name="locate_current_place">Find current location</string>
   <string name="location_select">"デバイスの名前を変更"</string>
@@ -467,8 +467,7 @@
   <string name="match_count_frame">Pair %1$d/%2$d remote</string>
   <string name="match_count_tip_frame">"ボタンのテスト (%1$d/%2$d)"</string>
   <string name="match_data">"ペアリング情報"</string>
-  <string name="match_data_error_tips">"情報を取得できませんでした
-続行するには戻る"</string>
+  <string name="match_data_error_tips">"情報を取得できませんでした\n続行するには戻る"</string>
   <string name="match_direction_default">"方向ボタンは動作しますか？"</string>
   <string name="match_dvd_intro_pause">Release when DVD playback pauses</string>
   <string name="match_dvd_intro_play">Release when DVD starts playing</string>
@@ -518,7 +517,7 @@ Then answer the question"</string>
   <string name="match_tip_power_on">Has the device turned on?</string>
   <string name="match_tip_rew">"巻戻しボタンは動作しますか？"</string>
   <string name="match_tip_stop">"停止ボタンは動作しますか？"</string>
-  <string name="match_tip_tvav">Does input source change?</string>
+  <string name="match_tip_tvav">"入力ソースは切り替わりましたか？"</string>
   <string name="match_top_tips">"デバイスが応答するまで若干の時間が必要です、
 アクションの後に少しお待ちください。"</string>
   <string name="match_total_frame">%1$d total</string>
@@ -544,7 +543,7 @@ Then answer the question"</string>
   <string name="milink_device_newfound">New device</string>
   <string name="milink_device_offline">Offline</string>
   <string name="milink_device_online">Online</string>
-  <string name="milink_device_rc_saved">Remote saved</string>
+  <string name="milink_device_rc_saved">"リモコンを保存しました"</string>
   <string name="milink_nowifi">"Wi-Fiに接続されていません"</string>
   <string name="milink_screenshot_done">"TV画面のスクリーンショットを保存しました"</string>
   <string name="milink_screenshot_pic">"スクリーンショット"</string>
@@ -574,7 +573,7 @@ Then answer the question"</string>
   <string name="my_room">My room</string>
   <string name="my_room_underline">My room</string>
   <string name="my_setting">"設定"</string>
-  <string name="my_store">我的商城</string>
+  <string name="my_store">My store</string>
   <string name="my_video_title">My videos</string>
   <string name="name_volume_dec">"音量を下げる"</string>
   <string name="nearby">Nearby</string>
@@ -640,7 +639,7 @@ Then answer the question"</string>
   <string name="passport_back">"戻る"</string>
   <string name="passport_bad_authentication">"ユーザー名かパスワードが無効です"</string>
   <string name="passport_barcode_add_account_prompt">"アカウントに接続するには、ログインした後にQRコードをもう一スキャンしてください。"</string>
-  <string name="passport_change_account">&lt;u&gt;アカウントを変更&lt;/u&gt;</string>
+  <string name="passport_change_account">&lt;u>アカウントを変更&lt;/u></string>
   <string name="passport_change_phone_number">"番号を変更"</string>
   <string name="passport_checking_account">"パスワードを確認中…"</string>
   <string name="passport_checking_input">"入力を確認中…"</string>
@@ -701,7 +700,7 @@ Then answer the question"</string>
   <string name="passport_login_instead_reg_with_email">"このメールアドレスを使用"</string>
   <string name="passport_login_prompt">One Mi Account. All Mi services.</string>
   <string name="passport_login_title">"Mi Accountでログイン"</string>
-  <string name="passport_login_using_other_ways">&lt;u&gt;その他の方法でログイン&lt;/u&gt;</string>
+  <string name="passport_login_using_other_ways">&lt;u>その他の方法でログイン&lt;/u></string>
   <string name="passport_message_dialog_title">SMS with verifying codes</string>
   <string name="passport_next">"次へ"</string>
   <string name="passport_notification_title">Signin error for %1$s</string>
@@ -724,7 +723,7 @@ Then answer the question"</string>
   <string name="passport_reg_success">"アカウントを作成しました"</string>
   <string name="passport_reg_success_summary">%1$s has been bound with your account. You can use it to sign in or to reset your password.</string>
   <string name="passport_reg_type_email">"メールアドレスを使用"</string>
-  <string name="passport_reg_using_other_phone">&lt;u&gt;別の電話番号を使用する&lt;/u&gt;</string>
+  <string name="passport_reg_using_other_phone">&lt;u>別の電話番号を使用する&lt;/u></string>
   <string name="passport_reg_using_other_phone_number_prompt">"Create a new account using "</string>
   <string name="passport_reg_using_phone_number_prompt">"電話番号を使用してアカウントを作成"</string>
   <string name="passport_reg_via_sms_alert">An outgoing SMS message may be required to activate this service. Your carrier will charge you for this message.</string>
@@ -732,7 +731,7 @@ Then answer the question"</string>
   <string name="passport_register">"アカウントを作成"</string>
   <string name="passport_register_account_goto_email">"受信トレイに移動"</string>
   <string name="passport_register_account_verified_confirm">Account verified</string>
-  <string name="passport_register_by_email">"&lt;u&gt;メールアドレスを使用してアカウントを作成&lt;/u&gt;"</string>
+  <string name="passport_register_by_email">"&lt;u>メールアドレスを使用してアカウントを作成&lt;/u>"</string>
   <string name="passport_register_restricted">"この番号に関連付けられているアカウントが多すぎます、別のものを試してみてください"</string>
   <string name="passport_register_restricted_title">"この電話番号は使用できません"</string>
   <string name="passport_registered_phone_user_ID">User ID: %s</string>
@@ -800,7 +799,7 @@ Then answer the question"</string>
   <string name="press_to_continue_match">"続行するにはタップ"</string>
   <string name="press_to_match">"ペアリングするにはタップ"</string>
   <string name="prev_remote">Previous remote</string>
-  <string name="privacy_content">"Read Xiaomi's "&lt;a href="http://www.miui.com/res/doc/privacy/en.html"&gt;Privacy Policy&lt;/a&gt; and &lt;a href="http://www.miui.com/res/doc/eula/en.html"&gt;User Agreement&lt;/a&gt; before using Mi Remote. Access to the internet and location services is required for the app to work normally.</string>
+  <string name="privacy_content">"Read Xiaomi's "&lt;a href="http://www.miui.com/res/doc/privacy/en.html">Privacy Policy&lt;/a> and &lt;a href="http://www.miui.com/res/doc/eula/en.html">User Agreement&lt;/a> before using Mi Remote. Access to the internet and location services is required for the app to work normally.</string>
   <string name="privacy_nohit">"二度と表示しない"</string>
   <string name="privacy_title">"利用規約"</string>
   <string name="program_booking_book_filter_book_status">Booking status</string>
@@ -1032,7 +1031,7 @@ directly from your Lock screen"</string>
   <string name="timer_turn_on">Schedule turn on time</string>
   <string name="title_hot_links">Hot Links</string>
   <string name="title_nodata_feedback">"デバイス情報を取得できませんでした"</string>
-  <string name="to_be_used_in_these_modes">&lt;%1$s&gt; can only be used in %2$s mode</string>
+  <string name="to_be_used_in_these_modes">&lt;%1$s> can only be used in %2$s mode</string>
   <string name="to_qq">Open QQ and join our group</string>
   <string name="to_qq_maintext">Join our QQ group and send us feedback</string>
   <string name="to_qq_subtext">QQ group: 532652329</string>

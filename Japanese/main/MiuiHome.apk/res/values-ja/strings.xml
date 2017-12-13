@@ -54,7 +54,7 @@
   <string name="confirm_uninstall_dialog_title">"デュアルアプリをアンインストールする"</string>
   <string name="current_preview">"プレビュー"</string>
   <string name="current_wallpaper">Current</string>
-  <string name="custom_wallpaper_picker">Browse</string>
+  <string name="custom_wallpaper_picker">"選択する"</string>
   <string name="default_screen_preview_title">"タップしてデフォルト画面を設定"</string>
   <string name="delete">"削除"</string>
   <string name="delete_screen">"画面を削除"</string>
@@ -108,12 +108,12 @@
   <string name="gadget_error_text">"ウィジェットが読み込めません"</string>
   <string name="gadget_google_search_label">"Google検索"</string>
   <string name="gadget_load_error">"読み込み中…"</string>
-  <string name="gadget_mtz_label">Gadgets</string>
+  <string name="gadget_mtz_label">"ウィジェット"</string>
   <string name="gadget_notes_label">"ノート"</string>
-  <string name="gadget_photo_22_label">Image 2x2</string>
-  <string name="gadget_photo_24_label">Image 4x2</string>
-  <string name="gadget_photo_44_label">Image 4x4</string>
-  <string name="gadget_photo_label">Image</string>
+  <string name="gadget_photo_22_label">"画像 2x2"</string>
+  <string name="gadget_photo_24_label">"画像 4x2"</string>
+  <string name="gadget_photo_44_label">"画像 4x4"</string>
+  <string name="gadget_photo_label">"画像"</string>
   <string name="gadget_power_clear_button_label">Deep Clean</string>
   <string name="gadget_search_label">"検索"</string>
   <string name="gadget_weather_app_not_installed">"タップしてMIUIの天気アプリをダウンロード"</string>
@@ -124,7 +124,7 @@
   <string name="gadget_weather_downloading">"アプリのコンテンツをダウンロード中。ダウンロード完了後に、アプリを再起動します。"</string>
   <string name="gadget_weather_loading">"データなし"</string>
   <string name="gadget_weather_low_temp">"最低気温"</string>
-  <string name="gadget_weather_theme_type">Gadget type</string>
+  <string name="gadget_weather_theme_type">"ウィジェットの種類"</string>
   <string name="gadget_weather_time_format">"M月d日 EEEE"</string>
   <string name="gadget_weather_title">"天気"</string>
   <string name="gadget_weather_title_14">"天気"</string>

@@ -429,7 +429,7 @@ To avoid frequent queries, we update balance info once a day."</string>
   <string name="expandCloseViewDescription">"折りたたむ"</string>
   <string name="expandOpenViewDescription">"展開"</string>
   <string name="export_sim_contact_finish">"連絡先をエクスポートしました"</string>
-  <string name="export_sim_contact_finish_msg">%1$d transferred | %2$d duplicated | %3$d remaining %4$s</string>
+  <string name="export_sim_contact_finish_msg">転送済み %1$d件 | 複製済み %2$d件 | 残り %3$d/%4$s件</string>
   <string name="export_to_sdcard">"ストレージへエクスポート"</string>
   <string name="export_to_sim">"SIMカードへエクスポート"</string>
   <string name="export_to_sim1">"SIMカード1へエクスポート"</string>
@@ -559,7 +559,7 @@ To avoid frequent queries, we update balance info once a day."</string>
   <string name="list_filter_all_starred">Starred</string>
   <string name="list_filter_custom">"カスタム"</string>
   <string name="list_filter_customize">Customize</string>
-  <string name="list_filter_phones">All contacts with phone numbers</string>
+  <string name="list_filter_phones">"電話番号付きのすべての連絡先"</string>
   <string name="list_filter_single">"連絡先"</string>
   <string name="loading_accounts">"読み込み中…"</string>
   <string name="loading_group_members">"読み込み中…"</string>
@@ -695,7 +695,7 @@ To avoid frequent queries, we update balance info once a day."</string>
   <string name="missing_name">(名前なし)</string>
   <string name="missing_required_permission">You have disabled a required permission.</string>
   <string name="mobile_equipment_identification">Mobile Equipment Identification</string>
-  <string name="more_call_logs">Listen to all your call recordings at &lt;a href="https://i.mi.com"&gt;i.mi.com&lt;/a&gt;</string>
+  <string name="more_call_logs">Listen to all your call recordings at &lt;a href="https://i.mi.com">i.mi.com&lt;/a></string>
   <string name="move_and_resize">"移動とリサイズ"</string>
   <string name="multi_number_menu_call">"通話"</string>
   <string name="multi_number_menu_delete">"削除"</string>
@@ -1069,8 +1069,8 @@ To add a contact to your list of favorites:
   <string name="starredList">"スター付き"</string>
   <string name="starred_contacts">"お気に入り"</string>
   <string name="status_available">"利用可能"</string>
-  <string name="status_away">Away</string>
-  <string name="status_busy">Busy</string>
+  <string name="status_away">"退席中"</string>
+  <string name="status_busy">"ビジー"</string>
   <string name="strequentList">"お気に入り"</string>
   <string name="success_message_import_from_account">"連絡先をインポートしました"</string>
   <string name="summary_kind_title">Summary</string>
@@ -1079,9 +1079,9 @@ To add a contact to your list of favorites:
   <string name="t9_search_empty_send_sms">"メッセージを送信"</string>
   <string name="t9_search_empty_video_call">"ビデオ通話"</string>
   <string name="t9_search_guide_pinyin_title1">Enter numbers to find contacts</string>
-  <string name="t9_search_guide_pinyin_title2">Enter 9 and 4 to search for &lt;font fgcolor=""&gt;X&lt;/font&gt;avier &lt;font fgcolor=""&gt;H&lt;/font&gt;enry</string>
+  <string name="t9_search_guide_pinyin_title2">Enter 9 and 4 to search for &lt;font fgcolor="">X&lt;/font>avier &lt;font fgcolor="">H&lt;/font>enry</string>
   <string name="t9_search_guide_zhuyin_title1">Enter numbers to find contacts</string>
-  <string name="t9_search_guide_zhuyin_title2">Enter 5 and 6 to search for &lt;font fgcolor=""&gt;J&lt;/font&gt;eff &lt;font fgcolor=""&gt;M&lt;/font&gt;ax</string>
+  <string name="t9_search_guide_zhuyin_title2">Enter 5 and 6 to search for &lt;font fgcolor="">J&lt;/font>eff &lt;font fgcolor="">M&lt;/font>ax</string>
   <string name="take_new_photo">"新しい写真を撮る"</string>
   <string name="take_photo">"写真を撮影"</string>
   <string name="titleJoinContactDataWith">"連絡先の統合"</string>
