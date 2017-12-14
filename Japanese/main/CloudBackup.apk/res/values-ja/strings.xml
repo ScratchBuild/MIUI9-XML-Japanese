@@ -91,6 +91,7 @@
   <string name="desktop_installing">インストール中</string>
   <string name="desktop_wait_wifi">待機中</string>
   <string name="desktop_waiting">待機中</string>
+  <string name="device_corrupt">Mi Phone (データが破損)</string>
   <string name="device_delete_prompt">%sのバックアップを削除しますか？</string>
   <string name="device_xiaomi">Mi Phone</string>
   <string name="dialog_cancel_backup_cancel">キャンセル</string>
@@ -147,10 +148,10 @@
   <string name="restore_task_cancelling">キャンセル中…</string>
   <string name="restore_task_in_process">復元中…</string>
   <string name="restore_unfinished">復元中、後ほど再試行してください</string>
-  <string name="restoreing_file_tile">%d個のファイルを復元中</string>
   <string name="retry">再試行</string>
   <string name="self_phone">"この端末"</string>
   <string name="settings_backup">システム設定</string>
+  <string name="size_unknown">サイズ不明</string>
   <string name="start_backup_to_micloud">"Mi Cloudへアプリをバックアップ"</string>
   <string name="start_recover">Restore %s</string>
   <string name="success_open_cloudbackup">Turned on backups for Home screen apps</string>

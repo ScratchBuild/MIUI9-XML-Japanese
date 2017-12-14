@@ -562,7 +562,9 @@
   <string name="missed_call_notify_times_summary">通知は5分間隔で設定されています</string>
   <string name="missed_call_notify_times_title">不在着信通知</string>
   <string name="missed_call_notify_twice">2回</string>
-  <string name="miui_notification_network_selection_text" formatted="false">SIM %s で選択したネットワーク (%s) は利用できません</string>
+  <string name="miui_network_selection_reset_text">リセット</string>
+  <string name="miui_notification_network_selection_title">通信サービスなし</string>
+  <string name="miui_notification_network_selection_title_by_sim">通信サービスなし (%s)</string>
   <string name="mmiCancelled">MMIコードはキャンセルされました</string>
   <string name="mmiStarted">MMIコードの開始</string>
   <string name="mobile_network_settings_not_available">携帯電話ネットワークの設定は、このユーザーには使用できません</string>
