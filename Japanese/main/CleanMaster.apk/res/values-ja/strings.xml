@@ -486,7 +486,7 @@
   <string name="wechat_qq_celan_tab_file">"ファイル"</string>
   <string name="wechat_qq_celan_tab_image">"画像"</string>
   <string name="wechat_qq_celan_tab_video">"動画"</string>
-  <string name="wechat_qq_celan_tab_voice">"音声"</string>
+  <string name="wechat_qq_celan_tab_voice">"音声メッセージ"</string>
   <string name="wechat_qq_chat_files">"チャット履歴"</string>
   <string name="wechat_qq_deep_clean_button_text">Deep clean</string>
   <string name="wechat_qq_normal_files">"ゴミ箱"</string>
@@ -501,10 +501,10 @@
   <string name="wq_deep_clean_filter_three_month_ago">"3か月前"</string>
   <string name="wq_deep_clean_filter_week_ago">"1週間前"</string>
   <string name="wq_deep_clean_filter_years_ago">"6ヶ月前"</string>
-  <string name="wqfile_group_chat_file">"その他のファイル"</string>
-  <string name="wqfile_group_chat_pic">"チャット画像"</string>
-  <string name="wqfile_group_chat_video">"チャット動画"</string>
-  <string name="wqfile_group_chat_voice">"チャット音声"</string>
+  <string name="wqfile_group_chat_file">"メッセンジャーの送信ファイル"</string>
+  <string name="wqfile_group_chat_pic">"メッセンジャーの画像"</string>
+  <string name="wqfile_group_chat_video">"メッセンジャーの動画"</string>
+  <string name="wqfile_group_chat_voice">"メッセンジャーの音声"</string>
   <string name="year_month_day_format">MMM dd, yyyy</string>
   <string name="yesterday">"昨日"</string>
 </resources>

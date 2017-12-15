@@ -340,8 +340,8 @@
   <string name="theme_apply_audio_dialog_item_alarm">"アラーム"</string>
   <string name="theme_apply_audio_dialog_item_notification">"通知音"</string>
   <string name="theme_apply_audio_dialog_item_ringtone">"着信音"</string>
-  <string name="theme_apply_failured">"ロック画面に壁紙を適用できませんでした"</string>
-  <string name="theme_apply_success">"ロック画面に適用しました"</string>
+  <string name="theme_apply_failured">"適用できませんでした"</string>
+  <string name="theme_apply_success">"正常に適用しました"</string>
   <string name="theme_applying">"適用中…"</string>
   <string name="theme_batch_update_all">"すべて更新"</string>
   <string name="theme_batch_update_dlg_content">Update %1$s and %2$d other themes now?</string>

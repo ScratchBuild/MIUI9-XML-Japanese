@@ -35,6 +35,7 @@
   <string name="msg_do_not_support_fm">"この端末はFMラジオをサポートしていません"</string>
   <string name="msg_fm_starting">"開始中…"</string>
   <string name="msg_noantenna_message">"ヘッドフォンが検出できません。一部の機能が利用できない場合があります。"</string>
+  <string name="msg_try_plug_headset">"ヘッドフォンを接続して、もう一度お試しください。"</string>
   <string name="new_frequency">"新しい周波数"</string>
   <string name="next_station">"次の放送局"</string>
   <string name="notification_rec_title">"録音中を表示するにはタップ"</string>
