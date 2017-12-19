@@ -120,7 +120,6 @@
   <string name="app_install_intercept">Block installation</string>
   <string name="app_install_tips_go_to">"開く"</string>
   <string name="app_install_tips_install_success">"%1$sが正常にインストールされました"</string>
-  <string name="app_maanger_app_uninstalled_toast">"アプリがアンインストールされました"</string>
   <string name="app_manager_advanced_setting">"詳細設定"</string>
   <string name="app_manager_allow">"はい"</string>
   <string name="app_manager_app_ifno_version">"アプリバージョン"</string>
@@ -180,8 +179,6 @@
   <string name="app_manager_have_not_consume">None</string>
   <string name="app_manager_hide_system_server">"システムサービスを非表示"</string>
   <string name="app_manager_install_other_app">"不明なソースからアプリをインストール"</string>
-  <string name="app_manager_instruction">Instruction</string>
-  <string name="app_manager_loading_data">"データを読み込み中…"</string>
   <string name="app_manager_manage_space">"spaceの管理"</string>
   <string name="app_manager_memory">RAM</string>
   <string name="app_manager_menu_clear_data">"データを消去"</string>
@@ -203,9 +200,6 @@
   <string name="app_manager_powerkeeper_no_bg">"バックグラウンドアクティビティを制限"</string>
   <string name="app_manager_powerkeeper_no_restrict">"制限しない"</string>
   <string name="app_manager_powerkeeper_restrict_bg">"バックグラウンドアプリを制限"</string>
-  <string name="app_manager_rebide_wakepath">"制限"</string>
-  <string name="app_manager_reduce_wakepath_dialog">Minimize chain start</string>
-  <string name="app_manager_reduce_wakepath_summary">Restricting autostart will minimize chain start. Restrict autostart for %s?</string>
   <string name="app_manager_reject_count_over">"ブロックを 100000+ 回行いました"</string>
   <string name="app_manager_reset_app_preferences">"アプリの設定をリセット"</string>
   <string name="app_manager_reset_app_preferences_button">"アプリをリセット"</string>
@@ -221,13 +215,6 @@
   <string name="app_manager_show_all_apps">"すべてのアプリを表示"</string>
   <string name="app_manager_show_detail_infos">"すべて表示"</string>
   <string name="app_manager_start_by">Started by %s</string>
-  <string name="app_manager_start_count_over">100000+ times</string>
-  <string name="app_manager_stop_wakepath_dialog_summary">Uninstall %s to restrict chain start?</string>
-  <string name="app_manager_stop_wakepath_dialog_title">Restrict chain start</string>
-  <string name="app_manager_stop_wakepath_dlg_msg_with_xspace_app">Uninstalling this app will restrict chain start. Related Dual apps will be uninstalled as well. Uninstall %s?</string>
-  <string name="app_manager_stop_wakepath_success">Restricted successfully</string>
-  <string name="app_manager_stop_wp_dialog_cancel">"キャンセル"</string>
-  <string name="app_manager_stop_wp_dialog_uninstall">"アンインストール"</string>
   <string name="app_manager_support_uninstall">"これらのアプリをアンインストールできます"</string>
   <string name="app_manager_system_mobile_disable">Turn off data</string>
   <string name="app_manager_title">"アプリを管理"</string>
@@ -238,10 +225,6 @@
   <string name="app_manager_uninstall_xspace_app_dlg_msg">"デュアルアプリをアンインストールするとアプリの全データが削除されます。"</string>
   <string name="app_manager_uninstall_xspace_app_dlg_title">"デュアルアプリをアンインストールしますか？"</string>
   <string name="app_manager_unstall_application">"アンインストール"</string>
-  <string name="app_manager_wake_path_card_title">Chain start history (2 days)</string>
-  <string name="app_manager_wakepath_dialog_buttontext">OK</string>
-  <string name="app_manager_wakepath_dialog_summary">Chain start happens when one app starts another app in the background. It can drain battery and lower the system performance. MIUI would normally block chain start.</string>
-  <string name="app_manager_wakepath_dialog_title">About chain start</string>
   <string name="app_managere_not_have_app">Empty</string>
   <string name="app_mobile">"モバイル"</string>
   <string name="app_name">"アプリロック"</string>

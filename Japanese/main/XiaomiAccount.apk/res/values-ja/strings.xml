@@ -212,6 +212,7 @@
 アカウントを有効にするには、受信トレイに
 送信したメールのリンクをクリックしてください。"</string>
   <string name="passport_completed">"完了"</string>
+  <string name="passport_confirm_login">"続行"</string>
   <string name="passport_confirm_recycle_account">"はい"</string>
   <string name="passport_confirm_recycle_account_msg">"&lt;font color=Red&gt;Looks like&lt;/font&gt; the number %s has been recycled by your carrier, and there's a Mi Account associated with it. Is this account yours?"</string>
   <string name="passport_continue">"続行"</string>

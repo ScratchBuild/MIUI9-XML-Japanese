@@ -25,6 +25,8 @@
   <string name="audio_changed">新しい音声トラック</string>
   <string name="audio_title">音声トラック</string>
   <string name="audio_track">音声トラック</string>
+  <string name="com_permission_desc">"Mi Videoは端末上の動画にアクセスできません。[設定]から権限を許可してください。"</string>
+  <string name="com_permission_title">"アクセス許可が必要"</string>
   <string name="do_not_show_this_again">次回から表示しない</string>
   <string name="lp_advance_sound">Sound enhancement</string>
   <string name="lp_brightness">画面の明るさ</string>

@@ -1,7 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="app_name">Security service plugin</string>
-  <string name="app_not_installed_toast">"アプリはお使いのデバイスにインストールされていません。"</string>
   <string name="cancel_button">"キャンセル"</string>
   <string name="fastboot_locked_answer_1">"FastbootはMiデバイスをフラッシュする伝統的な方法です。端末がFastbootモードになると、端末に保存されているすべてのデータにアクセスして直接消去することができます。Fastbootをロックしておくことで、端末を紛失した場合でもデータが安全に保たれるようにし、Find Device機能の信頼性を保証します。"</string>
   <string name="fastboot_locked_answer_2">"端末を紛失した場合、Fastbootは端末に保存されているアイテムのセキュリティを保証します。Fastbootのロックを解除した場合、端末をリモートからロックしたり、Find Deviceを使用してデータを消去することができなくなります。そのため、Fastbootのロックを解除することはおすすめしません。"</string>
@@ -20,23 +19,6 @@
   <string name="miuishare_title_share">"共有"</string>
   <string name="miuishare_wechat_timeline_title">WeChat Moments</string>
   <string name="miuishare_weibo_title">Weibo</string>
-  <string name="month_report_activity_label">"月次レポート"</string>
-  <string name="month_report_click_reconnect_network">"再試行"</string>
-  <string name="month_report_disconnect_tip">"ネットワークに接続できません"</string>
-  <string name="month_report_follow_service_negative">"結構です"</string>
-  <string name="month_report_follow_service_positive">"購読する"</string>
-  <string name="month_report_follow_service_summary">"MIUIセキュリティアプリの公式アカウントをフォローすることで、セキュリティに関するニュースや情報をお届けします。"</string>
-  <string name="month_report_follow_service_title">"セキュリティアップデート"</string>
-  <string name="month_report_history_activity_label">"レポート履歴"</string>
-  <string name="month_report_network_dialog_description">"このアプリにレポート情報を取得するためのインターネット接続を許可しますか？"</string>
-  <string name="month_report_network_dialog_positive">"許可する"</string>
-  <string name="month_report_network_dialog_title">"レポート情報を取得できません"</string>
-  <string name="month_report_result_share">"共有"</string>
-  <string name="month_report_share_img_fail">"共有できませんでした"</string>
-  <string name="month_report_share_loading">"読み込み中…"</string>
-  <string name="month_report_warning_dialog_description">"月次レポートを表示するには、セキュリティアプリの設定でこの機能をオンにしてください。"</string>
-  <string name="month_report_warning_dialog_positive">"オンにする"</string>
-  <string name="month_report_warning_dialog_title">"月次セキュリティレポート"</string>
   <string name="network_not_available">"ネットワークに接続できません"</string>
   <string name="no_network_btn">"再試行"</string>
   <string name="ok_button">OK</string>

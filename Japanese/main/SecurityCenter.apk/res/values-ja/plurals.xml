@@ -263,10 +263,6 @@ If you turn on mobile data again, your carrier may charge you for additional dat
         <item quantity="other">%d回</item>
         <item quantity="one">%d回</item>
     </plurals>
-    <plurals name="app_manager_reject_count">
-        <item quantity="other">%d回ブロックしました</item>
-        <item quantity="one">%d回ブロックしました</item>
-    </plurals>
     <plurals name="app_usage_day">
         <item quantity="other">%d日前に使用しました</item>
         <item quantity="one">%d日前に使用しました</item>

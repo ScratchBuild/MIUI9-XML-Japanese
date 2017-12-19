@@ -20,6 +20,7 @@
   <string name="backup_to_cloud">アプリをバックアップ</string>
   <string name="btn_back">戻る</string>
   <string name="btn_continue">続行</string>
+  <string name="btn_retry">再確認</string>
   <string name="btn_skip">この手順をスキップ</string>
   <string name="button_cancel">キャンセル</string>
   <string name="button_delete">削除</string>
@@ -126,6 +127,8 @@
   <string name="open_wifi_description">Wi-Fiネットワークに接続してアプリを復元する</string>
   <string name="open_wifi_setting">Wi-Fi設定</string>
   <string name="process_whole_recovery">復元中 \"%s\"</string>
+  <string name="provision_error_connect_msg">ネットワーク接続をテストして、もう一度やり直してください。有効なネットワークがないと、バックアップ機能は利用できません。</string>
+  <string name="provision_error_connect_title">接続できません</string>
   <string name="query_restore_description">Restore Home screen apps and settings using this backup. This will overwrite app data for duplicate apps already installed on this device. Apps not included in the backup will be moved to the last Home screen.</string>
   <string name="query_restore_summary">Found a Mi Cloud backup for this device. Restore Home screen apps and settings or use it as a new device and erase previous Mi Cloud backups?</string>
   <string name="recover_from_micloud">Mi Cloudのバックアップから復元</string>

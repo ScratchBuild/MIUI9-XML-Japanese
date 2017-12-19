@@ -172,7 +172,7 @@
   <string name="cloud_antispam_marked">Flagged</string>
   <string name="cloud_antispam_title">Caller ID</string>
   <string name="cloud_recommend_msg">"Mi Cloudと連絡先を同期するにはタップ。"</string>
-  <string name="cloud_state_disabled">"Mi Cloudをオンにするには"</string>
+  <string name="cloud_state_disabled">"Mi Cloudと連絡先を同期"</string>
   <string name="cloud_state_loading">"読み込み中…"</string>
   <string name="cloud_state_sync_finished">"Mi Cloudと同期しました"</string>
   <string name="cloud_state_syncing">"Mi Cloudと同期しています"</string>
