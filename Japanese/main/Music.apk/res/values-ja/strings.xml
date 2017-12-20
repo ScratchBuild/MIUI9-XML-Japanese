@@ -442,7 +442,6 @@ is mainly provided by Ultimate Inc."</string>
   <string name="ktv_playlist">KTV playlist</string>
   <string name="latest_song">"再生履歴 (%d)"</string>
   <string name="like">Like</string>
-  <string name="list_detail_title">"詳細"</string>
   <string name="list_item_play_FM_radio">"FMラジオを再生するにはタップ"</string>
   <string name="list_item_play_all_tracks">"すべて再生"</string>
   <string name="load_shuffle">"読み込み中…"</string>
@@ -835,10 +834,7 @@ is mainly provided by Ultimate Inc."</string>
   <string name="tab_album_list">"アルバム"</string>
   <string name="tab_artist">"アーティスト"</string>
   <string name="tab_artist_list">"アーティスト"</string>
-  <string name="tab_chinese">Chinese</string>
-  <string name="tab_europa_america">Western</string>
   <string name="tab_folder">Folders</string>
-  <string name="tab_japanese_korean">J-Pop/K-Pop</string>
   <string name="tab_local_folder_list">Folders</string>
   <string name="tab_local_track_list">Songs</string>
   <string name="tab_track">Songs</string>

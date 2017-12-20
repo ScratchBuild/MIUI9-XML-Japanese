@@ -685,12 +685,12 @@ Take more photos of your friends!"</string>
   <string name="photo_print_package_installing">"プラグインの読み込み中…"</string>
   <string name="photomovie_audio_custom">Local</string>
   <string name="photomovie_audio_none">"なし"</string>
-  <string name="photomovie_audio_unsupport">"このオーディオタイプはサポートしていません"</string>
-  <string name="photomovie_cancel_download">"ダウンロードをキャンセル"</string>
+  <string name="photomovie_audio_unsupport">"このオーディオはサポートされていません"</string>
+  <string name="photomovie_cancel_download">"キャンセル"</string>
   <string name="photomovie_delete_disable">"クリップを作成するには、少なくとも3枚の写真が必要です。"</string>
   <string name="photomovie_download">"ダウンロード"</string>
   <string name="photomovie_download_failed">"ダウンロードできませんでした"</string>
-  <string name="photomovie_download_failed_for_notwork">"ダウンロードできませんでした。ネットワーク接続を確認してください。"</string>
+  <string name="photomovie_download_failed_for_notwork">"ダウンロードできませんでした。ネットワークに接続して、もう一度お試しください。"</string>
   <string name="photomovie_download_without_wifi_msg">"モバイルデータ接続を使用してファイルをダウンロードすると、データ使用量が増加します。データ使用量の制限を超えた場合は、キャリアによっては追加料金が発生する場合があります。"</string>
   <string name="photomovie_download_without_wifi_title">"データ使用の警告"</string>
   <string name="photomovie_item_name">"クリップ"</string>

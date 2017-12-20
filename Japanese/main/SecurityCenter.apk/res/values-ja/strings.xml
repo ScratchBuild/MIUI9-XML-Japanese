@@ -595,7 +595,7 @@
   <string name="dlg_import_whitelist">"追加中…"</string>
   <string name="dlg_keyword_ok">"保存"</string>
   <string name="dlg_message_not_open_stranger_identify">"この機能を有効にするには、[設定] &gt; [電話]に移動します。"</string>
-  <string name="dlg_no_block">"この番号のブロックを解除して、この番号からの着信を着信履歴に復元しますか？"</string>
+  <string name="dlg_no_block">"この番号のブロックを解除して、この番号からの着信を着信履歴に復元しますか？ (番号は着信のホワイトリストに追加されます)"</string>
   <string name="dlg_no_block_ok">"ブロックを解除"</string>
   <string name="dlg_remove_address_blacklist">Remove this location from blocklist?</string>
   <string name="dlg_remove_address_whitelist">Remove this location from exceptions?</string>
@@ -1627,6 +1627,7 @@ While calibrating, MIUI will send a text message to your carrier to receive the 
   <string name="st_filter_keywords_setting_summary1">"このリストの単語を含む、不明な番号からのメッセージはブロックされます。"</string>
   <string name="st_filter_keywords_setting_summary2">"(カンマを使用して複数のキーワードを区切る)"</string>
   <string name="st_filter_keywords_setting_title">"キーワードフィルタを設定"</string>
+  <string name="st_filter_keywords_setting_summary3">"このリストの単語を含む不明な番号からのメッセージは許可されます。"</string>
   <string name="st_group_list_management">Manage blocklist</string>
   <string name="st_hint_add_head_number">"プレフィックスを入力"</string>
   <string name="st_hint_add_phonenumber">"電話番号を入力"</string>
@@ -1635,7 +1636,9 @@ While calibrating, MIUI will send a text message to your carrier to receive the 
   <string name="st_message_phone_AntiSpam">"着信を拒否"</string>
   <string name="st_message_phonepass">"着信を許可"</string>
   <string name="st_msg_intercept_contacts">Block SMS from contacts</string>
-  <string name="st_msg_keyword_group">Keyword blocklist</string>
+  <string name="st_msg_keyword_black">"キーワード (ブロックリスト)"</string>
+  <string name="st_msg_keyword_group">"キーワード"</string>
+  <string name="st_msg_keyword_white">"キーワード (例外)"</string>
   <string name="st_msg_other_group">"その他"</string>
   <string name="st_msg_settings">SMS blocklist</string>
   <string name="st_msg_stranger_group">Block SMS from strangers</string>
@@ -1667,7 +1670,8 @@ While calibrating, MIUI will send a text message to your carrier to receive the 
   <string name="st_title_call_wait_setting">Call waiting</string>
   <string name="st_title_editblacklist">"ブロックリストを編集"</string>
   <string name="st_title_editwhitelist">"例外リストを編集"</string>
-  <string name="st_title_keywords_blacklist">"キーワードフィルタ"</string>
+  <string name="st_title_keywords_blacklist">"キーワード (ブラックリスト)"</string>
+  <string name="st_title_keywords_whitelist">"キーワード (ホワイトリスト)"</string>
   <string name="st_title_man_addblacklist">"番号をブロックリストに追加"</string>
   <string name="st_title_man_addwhitelist">"電話番号を例外リストに追加"</string>
   <string name="st_title_man_editblacklist">Choose an area code to add to blocklist</string>
@@ -2008,8 +2012,6 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="virus_auto_update_engine">"自動更新：%s"</string>
   <string name="virus_update_tips_title">"警告"</string>
   <string name="virus_wait_network_dialog_message">"お使いの端末はWi-Fiに接続されていません。モバイルデータ接続を使用しますか？"</string>
-  <string name="vpn_disabled_by_user">"指定されたデータ接続はオフです"</string>
-  <string name="vpn_unbale_get_phonenum">"指定されたデータプランを使用して電話番号を取得できません"</string>
   <string name="wakepath_confirm_start_activity">Allow %1$s to open %2$s?</string>
   <string name="website">"ウェブサイト"</string>
   <string name="white_list_risk_app_header">"危険なアプリ: %d"</string>
