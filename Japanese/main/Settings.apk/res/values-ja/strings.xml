@@ -352,6 +352,7 @@
   <string name="average_used">平均使用（%%）</string>
   <string name="avoid_ui">Touch block</string>
   <string name="awake">端末使用時間</string>
+  <string name="back_button">戻る</string>
   <string name="back_key">戻る</string>
   <string name="background_check_pref">Background check</string>
   <string name="background_check_title">Full background access</string>
