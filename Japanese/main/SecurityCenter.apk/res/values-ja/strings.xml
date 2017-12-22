@@ -379,8 +379,8 @@
   <string name="bl_no_block_call">"ブロックされた通話はありません。"</string>
   <string name="bl_no_block_sms">"ブロックされたメッセージはありません。"</string>
   <string name="blacklist_prefix_add_hint">"このプレフィックスで始まるすべての番号をブロックする"</string>
-  <string name="block_message_number">SMS: &lt;font color=#5fab1b&gt;%d&lt;/font&gt;</string>
-  <string name="block_phone_number">"通話: &lt;font color=#5fab1b&gt;%d&lt;/font&gt;"</string>
+  <string name="block_message_number">SMS: &lt;font color=#5fab1b>%d&lt;/font></string>
+  <string name="block_phone_number">"通話: &lt;font color=#5fab1b>%d&lt;/font>"</string>
   <string name="boost_done">Boosted successfully</string>
   <string name="boost_stop">Turn off speed boost</string>
   <string name="booster_immediately">Boost</string>
@@ -682,7 +682,7 @@
   <string name="foreground_traffic">"フォアグラウンド %s"</string>
   <string name="forget_password_button_text">"<u>パスワードを忘れた場合</u>"</string>
   <string name="forget_password_button_text_normal">パスワードを忘れた場合</string>
-  <string name="forget_pattern">&lt;u&gt;Forgot password&lt;/u&gt;</string>
+  <string name="forget_pattern">&lt;u>Forgot password&lt;/u></string>
   <string name="free_send_net_booster">Free Network speed boost</string>
   <string name="free_send_net_booster_busniess">"Xunlei speed boostを無料で取得"</string>
   <string name="free_send_net_booster_busniess_tip">"受け取るにはタップ"</string>
@@ -744,7 +744,7 @@
   <string name="gs_open_game_booster">Boost speed</string>
   <string name="gs_performance_mode">"パフォーマンスモード"</string>
   <string name="gs_performance_mode_detail">"シームレスなパフォーマンスを確保するためにCPU使用率を向上させる"</string>
-  <string name="guide_get_operator_error">"&lt;font color='#33b4ff'&gt;&lt;U&gt;間違ったキャリア？&lt;/U&gt;&lt;/font&gt;"</string>
+  <string name="guide_get_operator_error">"&lt;font color='#33b4ff'>&lt;U>間違ったキャリア？&lt;/U>&lt;/font>"</string>
   <string name="guide_operator_text">"現在のキャリア: "</string>
   <string name="guide_quck_open">"オンにする"</string>
   <string name="guide_second_text">"携帯通信会社を設定した後、MIUIはモバイルデータ使用量を監視して無料のSMSメッセージを1日ごとに送信します。MIUIがデータ制限の超過を検出すると、ネットワークから切断してあなたにお知らせします。"</string>
@@ -800,7 +800,7 @@
   <string name="item_app_permission">"アプリのパーミッション"</string>
   <string name="item_dev_mode">"開発者向けオプション"</string>
   <string name="item_install_monitor">"インストールモニター"</string>
-  <string name="item_mms">Filter unwanted messages</string>
+  <string name="item_mms">"不要なメッセージをフィルタ"</string>
   <string name="item_system_auto_download">"更新を自動的にダウンロード"</string>
   <string name="item_usb_debug">"USBデバッグ"</string>
   <string name="item_virus_lib">"ウイルス定義を自動的に更新"</string>
@@ -836,7 +836,7 @@ Carrier may charge you additional fees if you use mobile data connection again."
   <string name="load_only_under_wlan">"Wi-Fi接続時のみ読み込む"</string>
   <string name="loading">"読み込み中…"</string>
   <string name="local_ip_exception_summary">"ローカルIPアドレスを取得できませんでした。この問題をMIUIに報告するには、お使いの端末のFeedbackアプリからログを送信してください。"</string>
-  <string name="lock_mode_title">Lock settings</string>
+  <string name="lock_mode_title">"ロックの設定"</string>
   <string name="lock_screen_traffic_guide_notification_summary">%s used at lock screen</string>
   <string name="lock_screen_traffic_guide_notification_title">"データ使用量を管理するにはタップ。"</string>
   <string name="lock_screen_traffic_notify_body">Locked for %2$s at %1$s, data used %3$s</string>
@@ -881,7 +881,7 @@ Carrier may charge you additional fees if you use mobile data connection again."
   <string name="main_alert_message_no_imsi">"SIMカードが検出できません"</string>
   <string name="main_alert_message_open_traffic_ctrl">We recommend restricting data usage</string>
   <string name="main_bill_remained">"通話残高"</string>
-  <string name="main_button_mi_sim_close">Activate Mi SIM</string>
+  <string name="main_button_mi_sim_close">"Mi SIMを有効にする"</string>
   <string name="main_button_mi_sim_open">"詳細を表示"</string>
   <string name="main_button_usage_adjust">"モバイルデータの使用量を同期"</string>
   <string name="main_button_usage_adjust_manual">"データ使用量の制限を設定"</string>
@@ -1005,7 +1005,7 @@ Carrier may charge you additional fees if you use mobile data connection again."
   <string name="mi_service_app_detail">"データ使用量の詳細"</string>
   <string name="mi_service_traffic_detail">"フレームワークの詳細"</string>
   <string name="mian_page_primary_txt">"海外ローミング"</string>
-  <string name="modify_password_mode">&lt;u&gt;パスワードの種類を変更&lt;/u&gt;</string>
+  <string name="modify_password_mode">&lt;u>パスワードの種類を変更&lt;/u></string>
   <string name="modifypassword">"パスワードの変更"</string>
   <string name="monitor_app_add">"追加"</string>
   <string name="monitor_app_more">"その他"</string>
@@ -1041,19 +1041,19 @@ Carrier may charge you additional fees if you use mobile data connection again."
   <string name="network_roaming_exception_tips">"Can't use mobile data while roaming to connect to the network."</string>
   <string name="network_route_exception_detail">"There may be a problem with the router you're connected to:
 
- "&lt;b&gt;1. Public WLAN network issues&lt;/b&gt;"
+ "&lt;b>1. Public WLAN network issues&lt;/b>"
 If you're connected to a public WLAN network, the number of users connected to that network may be slowing it down or creating connectivity problems. Switch to another network and try again.
 
- "&lt;b&gt;2. Internet service provider issues&lt;/b&gt;"
+ "&lt;b>2. Internet service provider issues&lt;/b>"
 Make sure that your account is in good standing with your Internet service provider.
 
- "&lt;b&gt;3. Router hardware issues&lt;/b&gt;"
+ "&lt;b>3. Router hardware issues&lt;/b>"
 Try rebooting your router or checking the admin settings for your router.
 
- "&lt;b&gt;4. Other router issues&lt;/b&gt;"
+ "&lt;b>4. Other router issues&lt;/b>"
 Read the instructions that came with your router and restore your router to its factory settings.
 
- "&lt;b&gt;5. Make sure your router is connected properly&lt;/b&gt;"
+ "&lt;b>5. Make sure your router is connected properly&lt;/b>"
 Try using another Ethernet cable to connect your router. If you suspect there's an issue with the connection in your home, contact your Internet service provider."</string>
   <string name="network_sim_exception_detail">"There may be a problem with your SIM card:
 
@@ -1066,7 +1066,7 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
   <string name="network_speed_for_apps_close_app_dlg_msg">"このアプリを強制停止しますか？"</string>
   <string name="network_speed_for_apps_close_system_app_dlg_msg">"システムアプリを強制停止することはできません。"</string>
   <string name="network_speed_for_apps_others">"その他"</string>
-  <string name="network_speed_for_apps_title">Connection</string>
+  <string name="network_speed_for_apps_title">"接続"</string>
   <string name="network_speed_for_apps_total">"接続速度"</string>
   <string name="network_test_speed">"Wi-Fi速度のテスト"</string>
   <string name="networkchanged_exception_summary">"ネットワーク接続が変更されました。再度テストします。"</string>
@@ -1755,7 +1755,7 @@ While calibrating, MIUI will send a text message to your carrier to receive the 
   <string name="tc_diagnostic_all_error_notification_title">"診断を完了できませんでした"</string>
   <string name="tc_diagnostic_brand_error_notification_summary">"ネットワークの種類を調整するにはタップ"</string>
   <string name="tc_diagnostic_brand_error_notification_title">"間違ったネットワークの種類"</string>
-  <string name="tc_diagnostic_brand_result">"&lt;font color='#CC0000'&gt;結果: 間違ったブランド&lt;br/&gt;&lt;br/&gt;ブランドを設定: &lt;xliff:g id=brand example=UNICOM 3G&gt;%1$s&lt;/xliff:g&gt;&lt;br/&gt;Actual brand: &lt;xliff:g id=location example=UNICOM 4G&gt;%2$s&lt;/xliff:g&gt;&lt;/font&gt;"</string>
+  <string name="tc_diagnostic_brand_result">"&lt;font color='#CC0000'>結果: 間違ったブランド&lt;br/>&lt;br/>ブランドを設定: &lt;xliff:g id=brand example=UNICOM 3G>%1$s&lt;/xliff:g>&lt;br/>Actual brand: &lt;xliff:g id=location example=UNICOM 4G>%2$s&lt;/xliff:g>&lt;/font>"</string>
   <string name="tc_diagnostic_complete">"完了"</string>
   <string name="tc_diagnostic_fragment_default">"About diagnostics
 1. The device will connect to the carrier's network, send a free message, and wait for the carrier's response. This may take up to 5 minutes.
@@ -1768,24 +1768,24 @@ While calibrating, MIUI will send a text message to your carrier to receive the 
   <string name="tc_diagnostic_onekey_repair_botton">"修復"</string>
   <string name="tc_diagnostic_operator_error_notification_summary">"キャリアの設定を変更するにはタップ"</string>
   <string name="tc_diagnostic_operator_error_notification_title">"間違ったキャリア"</string>
-  <string name="tc_diagnostic_operator_result">"&lt;font color='#CC0000'&gt;結果: 間違ったキャリア&lt;br/&gt;&lt;br/&gt;キャリアを設定: &lt;xliff:g id=operator example=CMCC&gt;%1$s&lt;/xliff:g&gt;&lt;br/&gt;Actual carrier: &lt;xliff:g id=location example=UNICOM&gt;%2$s&lt;/xliff:g&gt;&lt;/font&gt;"</string>
+  <string name="tc_diagnostic_operator_result">"&lt;font color='#CC0000'>結果: 間違ったキャリア&lt;br/>&lt;br/>キャリアを設定: &lt;xliff:g id=operator example=CMCC>%1$s&lt;/xliff:g>&lt;br/>Actual carrier: &lt;xliff:g id=location example=UNICOM>%2$s&lt;/xliff:g>&lt;/font>"</string>
   <string name="tc_diagnostic_repair_and_continue">"修復して続行"</string>
-  <string name="tc_diagnostic_repair_location">"&lt;font color='#3EC234'&gt;診断が完了しました、位置情報の問題を修復済み。&lt;/font&gt;"</string>
-  <string name="tc_diagnostic_repair_location_and_operator">"&lt;font color='#3EC234'&gt;診断が完了しました、位置情報とキャリア設定の問題を修復済み。&lt;/font&gt;"</string>
+  <string name="tc_diagnostic_repair_location">"&lt;font color='#3EC234'>診断が完了しました、位置情報の問題を修復済み。&lt;/font>"</string>
+  <string name="tc_diagnostic_repair_location_and_operator">"&lt;font color='#3EC234'>診断が完了しました、位置情報とキャリア設定の問題を修復済み。&lt;/font>"</string>
   <string name="tc_diagnostic_repair_success_toast">"正常に変更されました"</string>
-  <string name="tc_diagnostic_result">"&lt;font color='#CC0000'&gt;結果: 診断を完了できませんでした&lt;br/&gt;&lt;br/&gt;MIUIが診断ツールを改善するのを助けるため、この問題を報告&lt;/font&gt;"</string>
-  <string name="tc_diagnostic_sim_location_result">"&lt;font color='#CC0000'&gt;結果: 間違った位置情報&lt;br/&gt;&lt;br/&gt;位置情報を設定: &lt;xliff:g id=location example=BeiJing&gt;%1$s&lt;/xliff:g&gt;&lt;br/&gt;Actual location: &lt;xliff:g id=location example=ShangHai&gt;%2$s&lt;/xliff:g&gt;&lt;/font&gt;"</string>
+  <string name="tc_diagnostic_result">"&lt;font color='#CC0000'>結果: 診断を完了できませんでした&lt;br/>&lt;br/>MIUIが診断ツールを改善するのを助けるため、この問題を報告&lt;/font>"</string>
+  <string name="tc_diagnostic_sim_location_result">"&lt;font color='#CC0000'>結果: 間違った位置情報&lt;br/>&lt;br/>位置情報を設定: &lt;xliff:g id=location example=BeiJing>%1$s&lt;/xliff:g>&lt;br/>Actual location: &lt;xliff:g id=location example=ShangHai>%2$s&lt;/xliff:g>&lt;/font>"</string>
   <string name="tc_diagnostic_status_error_brand">キャリアネットワークが見つかりません</string>
-  <string name="tc_diagnostic_status_failure">"&lt;font color='#CC0000'&gt;エラー&lt;/font&gt;"</string>
-  <string name="tc_diagnostic_status_no_network">"&lt;font color='#ED9523'&gt;ネットワーク接続なし&lt;/font&gt;"</string>
-  <string name="tc_diagnostic_status_not_get">"&lt;font color='#ED9523'&gt;情報を取得できませんでした&lt;/font&gt;"</string>
-  <string name="tc_diagnostic_status_success">"&lt;font color='#3EC234'&gt;正常&lt;/font&gt;"</string>
-  <string name="tc_diagnostic_status_success_brand">"&lt;font color='#3EC234'&gt;キャリアネットワークからの応答あり&lt;/font&gt;"</string>
-  <string name="tc_diagnostic_status_timeout">"&lt;font color='#CC0000'&gt;タイムアウト&lt;/font&gt;"</string>
+  <string name="tc_diagnostic_status_failure">"&lt;font color='#CC0000'>エラー&lt;/font>"</string>
+  <string name="tc_diagnostic_status_no_network">"&lt;font color='#ED9523'>ネットワーク接続なし&lt;/font>"</string>
+  <string name="tc_diagnostic_status_not_get">"&lt;font color='#ED9523'>情報を取得できませんでした&lt;/font>"</string>
+  <string name="tc_diagnostic_status_success">"&lt;font color='#3EC234'>正常&lt;/font>"</string>
+  <string name="tc_diagnostic_status_success_brand">"&lt;font color='#3EC234'>キャリアネットワークからの応答あり&lt;/font>"</string>
+  <string name="tc_diagnostic_status_timeout">"&lt;font color='#CC0000'>タイムアウト&lt;/font>"</string>
   <string name="tc_diagnostic_status_updating">"テスト中…"</string>
   <string name="tc_diagnostic_success_notification_summary">Report this issue to help MIUI improve diagnostic tools</string>
   <string name="tc_diagnostic_success_notification_title">Carrier network and brand are correct</string>
-  <string name="tc_diagnostic_success_result">"&lt;font color='#CC0000'&gt;結果: Carrier network and brand set correctly&lt;br/&gt;&lt;br/&gt;Couldn't complete adjustment:&lt;br/&gt;1. Carrier stats may not be reliable at the beginning or at the end of the month.&lt;br/&gt;2. Security app features weren't updated.&lt;br/&gt;&lt;br/&gt;Report this issue to help MIUI improve diagnostic tools&lt;/font&gt;"</string>
+  <string name="tc_diagnostic_success_result">"&lt;font color='#CC0000'>結果: Carrier network and brand set correctly&lt;br/>&lt;br/>Couldn't complete adjustment:&lt;br/>1. Carrier stats may not be reliable at the beginning or at the end of the month.&lt;br/>2. Security app features weren't updated.&lt;br/>&lt;br/>Report this issue to help MIUI improve diagnostic tools&lt;/font>"</string>
   <string name="tc_diagnostic_title">"キャリア診断"</string>
   <string name="tc_diagnostic_upload_button">"報告"</string>
   <string name="tc_diagnostic_upload_no_network">"ご意見ありがとうございます！ あなたの報告はネットワークに接続したときに送信されます。"</string>
@@ -1811,7 +1811,7 @@ While calibrating, MIUI will send a text message to your carrier to receive the 
   <string name="tc_sms_report_notify_get_timeout_body">Process timed out. Confirm with your carrier that the SMS enquiry code you entered is correct.</string>
   <string name="tc_sms_report_notify_get_timeout_title">"Can't get data usage SMS"</string>
   <string name="tc_sms_report_receive_content">Data usage report SMS contents (Confirm data usage stats)</string>
-  <string name="tc_sms_report_receive_content_null">"​Help us improve this feature!&lt;br/&gt;Here's how:&lt;br/&gt;1. Go to \"Check command SMS\" and \"Recipient number\"&lt;br/&gt;2. Tap \"Get SMS template\"&lt;br/&gt;3. Wait to receive SMS message from your carrier &lt;br/&gt;4. Tap \"Upload to MIUI\"​"</string>
+  <string name="tc_sms_report_receive_content_null">"​Help us improve this feature!&lt;br/>Here's how:&lt;br/>1. Go to \"Check command SMS\" and \"Recipient number\"&lt;br/>2. Tap \"Get SMS template\"&lt;br/>3. Wait to receive SMS message from your carrier &lt;br/>4. Tap \"Upload to MIUI\"​"</string>
   <string name="tc_sms_report_receive_num">Recipient number</string>
   <string name="tc_sms_report_send_num">Carrier phone #</string>
   <string name="tc_sms_report_summary">Help us improve this feature by sending a report when your data usage info is incorrect or fails to update.</string>
@@ -1951,7 +1951,7 @@ Rolled over extra data"</string>
 Remaining data includes data that has been rolled over from the previous month."</string>
   <string name="traffic_limit_error_alert_title">Data limit reminder %s</string>
   <string name="traffic_none">None</string>
-  <string name="traffic_over_purchase_link">"You've reached your mobile plan's data usage limit.&lt;br/&gt;If you go over your plans data usage limit, your carrier may charge you additional fees.&lt;br/&gt;&lt;br/&gt;&lt;font color='#ccffffff'&gt;&lt;U&gt;Tap to top up your balance.&lt;/U&gt;&lt;/font&gt;"</string>
+  <string name="traffic_over_purchase_link">"You've reached your mobile plan's data usage limit.&lt;br/>If you go over your plans data usage limit, your carrier may charge you additional fees.&lt;br/>&lt;br/>&lt;font color='#ccffffff'>&lt;U>Tap to top up your balance.&lt;/U>&lt;/font>"</string>
   <string name="traffic_purchase_body">"残高をチャージするにはタップ。"</string>
   <string name="traffic_setting_fragment_area">Locale</string>
   <string name="traffic_setting_fragment_brand">"ブランド"</string>
@@ -1959,7 +1959,7 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="traffic_setting_fragment_button2_text">"保存"</string>
   <string name="traffic_setting_fragment_city">"都市"</string>
   <string name="traffic_setting_fragment_default">"選択してください"</string>
-  <string name="traffic_setting_fragment_find_brand">"&lt;font color='#33b4ff'&gt;&lt;U&gt;Not sure about the carrier?&lt;/U&gt;&lt;/font&gt;"</string>
+  <string name="traffic_setting_fragment_find_brand">"&lt;font color='#33b4ff'>&lt;U>Not sure about the carrier?&lt;/U>&lt;/font>"</string>
   <string name="traffic_setting_fragment_loacation_alert_nomore">"二度と表示しない"</string>
   <string name="traffic_setting_fragment_operator">"キャリア"</string>
   <string name="traffic_setting_fragment_operator_setting">"キャリア設定"</string>
@@ -1982,7 +1982,7 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="uninstall_danagerous_msg">\"%s\"は端末に損傷を与える可能性があり、性能を低下させたり再起動を引き起こす恐れがあります。</string>
   <string name="uninstall_danagerous_title">"悪意のあるアプリをアンインストールする"</string>
   <string name="unlike">"結構です"</string>
-  <string name="unlock_pattern">&lt;u&gt;パターン&lt;/u&gt;</string>
+  <string name="unlock_pattern">&lt;u>パターン&lt;/u></string>
   <string name="unlock_pattern_to_bind_fingerprint">"指紋を有効にするためのパスワードを入力"</string>
   <string name="updating_diagnostic_botton">"データを分析中…"</string>
   <string name="usage_sorted_activity_lable">"データ使用量"</string>

@@ -465,8 +465,8 @@
   <string name="wechat_chat_data_type_normal_desc">"それらを削除しても使用には影響しません。"</string>
   <string name="wechat_chat_data_type_other">"その他"</string>
   <string name="wechat_chat_data_type_other_desc">"注意：これらのファイルは削除した後、復元できない場合があります。"</string>
-  <string name="wechat_clean">WeChat cleaner</string>
-  <string name="wechat_clean_canceled_empty_summary">"Cleanup wasn't finished, start over."</string>
+  <string name="wechat_clean">"WeChatクリーナー"</string>
+  <string name="wechat_clean_canceled_empty_summary">"クリーンアップは完了していません、やり直す。"</string>
   <string name="wechat_clean_exit_confirm">"終了しますか？"</string>
   <string name="wechat_clean_exit_confirm_msg">"今すぐスキャンを停止して終了しますか？"</string>
   <string name="wechat_clean_finish_empty_summary">Everything looks good</string>

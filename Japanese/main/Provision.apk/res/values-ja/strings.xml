@@ -58,7 +58,7 @@
   <string name="sim_card_detection">"SIMカードを挿入"</string>
   <string name="sim_card_detection_info">"SIMカードを挿入するには、デバイスに付属の説明書をお読みください。"</string>
   <string name="sim_dectection_next">"続行"</string>
-  <string name="sim_redetection">Check again</string>
+  <string name="sim_redetection">"再確認"</string>
   <string name="skip_underline">"この手順をスキップ"</string>
   <string name="summary_not_set">"未設定"</string>
   <string name="terms_of_use">"利用規約"</string>
