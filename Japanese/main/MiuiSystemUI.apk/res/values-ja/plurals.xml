@@ -33,6 +33,14 @@
         <item quantity="zero">Weather %d degrees</item>
         <item quantity="one">Weather %d degree</item>
     </plurals>
+    <plurals name="notification_group_child_count">
+        <item quantity="other">%1$d個の通知</item>
+        <item quantity="one">%1$d個の通知</item>
+    </plurals>
+    <plurals name="notification_group_overflow_description">
+        <item quantity="other">%s more notifications inside.</item>
+        <item quantity="one">%s more notification inside.</item>
+    </plurals>
     <plurals name="fold_tips_title">
         <item quantity="other">"%d個の重要でない通知"</item>
         <item quantity="one">"%d個の重要でない通知"</item>

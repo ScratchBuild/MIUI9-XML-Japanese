@@ -291,6 +291,8 @@
   <string name="dial_emergency_error">"発信できません。%sは緊急通報番号ではありません！"</string>
   <string name="dial_related_setting_catory">ダイヤルパッド</string>
   <string name="dialerKeyboardHintText">キーボードで番号を入力してください</string>
+  <string name="dialog_alert_title">注意</string>
+  <string name="dialog_cancel">キャンセル</string>
   <string name="dialog_network_priority_title">ネットワークの優先順位</string>
   <string name="disable">OFFにする</string>
   <string name="disable_all_cf">すべての着信呼出転送機能を停止</string>
@@ -569,6 +571,8 @@
   <string name="mmiStarted">MMIコードの開始</string>
   <string name="mobile_network_settings_not_available">携帯電話ネットワークの設定は、このユーザーには使用できません</string>
   <string name="mobile_networks">モバイルネットワーク設定</string>
+  <string name="modem_dialog_body">Mobile network is unstable, causing interruptions or network problems.Send bug report to Mi for analysis? This report may contain Personally Identifiable Information. Your report will be used to help fix this bug and will never be shared in any commercial context.</string>
+  <string name="modem_dialog_title">モバイルネットワークが不安定です</string>
   <string name="msim_apn_not_set">"未設定"</string>
   <string name="msim_disable_sim_card_btn_text">OK</string>
   <string name="msim_disable_sim_card_title">SIMカードの使用を中止</string>
