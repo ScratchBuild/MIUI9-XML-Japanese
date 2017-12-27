@@ -553,6 +553,8 @@
   <string name="ok">OK</string>
   <string name="older">Older</string>
   <string name="open_app_confirm_message">Allow this page to open %s?</string>
+  <string name="open_cloud_sync">"クラウド同期を開く"</string>
+  <string name="open_cloud_sync_desc">"ブックマークを追加しました。クラウド同期をオンにすると、他の端末に保存されたブックマークがこの端末にも同期されます。今すぐログインして開きますか？"</string>
   <string name="open_file_explorer_failed">"File Explorerを開くことができません"</string>
   <string name="open_voice_permission">Allow the mic to connect to the internet</string>
   <string name="opening_file_error">"選択したファイルを開くことができませんでした。"</string>
@@ -793,6 +795,7 @@ That's how we use the data we collect:
 2. Content: Your data helps us provide relevant localized news content.
 Browser needs to connect to the internet to work normally. You must agree to our %2$s and %1$s to be able to use Browser.​"</string>
   <string name="show_security_tip_dialog_title">"プライバシーポリシー"</string>
+  <string name="sign_and_open">"ログインして開く"</string>
   <string name="sign_in_to" formatted="false">"%s1に\"%s2\"でログイン"</string>
   <string name="skip_button_label">"スキップ"</string>
   <string name="skip_current_version">"このバージョンをスキップ"</string>
@@ -843,11 +846,14 @@ Browser needs to connect to the internet to work normally. You must agree to our
   <string name="switchText">"はい"</string>
   <string name="switch_proxy_dialog_msg">"Network hijacking detected. Use MIUI's built-in Security app or report this to your mobile operator."</string>
   <string name="switch_proxy_dialog_title">Network hijacking</string>
+  <string name="sync_and_backup_bookmark">"ブックマークの同期とバックアップ"</string>
+  <string name="sync_and_backup_history">"履歴の同期とバックアップ"</string>
   <string name="sync_cloud_tabs">"同期"</string>
   <string name="tab_hotpage">"ニュースフィード"</string>
   <string name="tab_quicklinks">"スタートページ"</string>
   <string name="tab_yellowpage">"リンク"</string>
   <string name="tabs_description">"タブ"</string>
+  <string name="temp_refuse">"拒否"</string>
   <string name="time_picker_dialog_am">AM</string>
   <string name="time_picker_dialog_pm">PM</string>
   <string name="time_picker_dialog_title">"時刻を設定"</string>

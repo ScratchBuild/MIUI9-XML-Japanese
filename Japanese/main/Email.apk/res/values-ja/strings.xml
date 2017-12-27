@@ -155,7 +155,6 @@
   <string name="account_sync_settings_settings">"連絡先とカレンダーを同期"</string>
   <string name="account_sync_settingstip_description">"同期"</string>
   <string name="account_waiting_for_folders_msg">"フォルダリストを読み込み中…"</string>
-  <string name="actionbar_large_unread_count">"未読 %1$d+"</string>
   <string name="activity_folder_selection">"フォルダを選択"</string>
   <string name="activity_mailbox_selection">"アカウントを選択"</string>
   <string name="ad_merge">"広告と通知"</string>
@@ -210,6 +209,8 @@
   <string name="auto_advance_help_title">After deleting a message, view…</string>
   <string name="auto_advance_label">Delete message flow</string>
   <string name="auto_advance_summary">Choose which message to scroll to after deleting a message</string>
+  <string name="auto_login_fail">Automatic login failed</string>
+  <string name="auto_login_fail_to_retry">Automatic login failed, try again.</string>
   <string name="auto_mail_describe">139 Email Service Automatical Configuring can help you filling in the login information to the mailbox. Do you want to enable this feature?</string>
   <string name="auto_mail_disable_txt">Disabled</string>
   <string name="auto_mail_enable_txt">Start Settings</string>
@@ -497,7 +498,6 @@
   <string name="header_label_general_preferences">"全般"</string>
   <string name="help_and_info">"ヘルプ"</string>
   <string name="help_config">Self configuration</string>
-  <string name="hide_atts_remaining">Hide %1$d attachments</string>
   <string name="hide_elided">▼ Hide quoted text</string>
   <string name="hide_password">"パスワードを隠す"</string>
   <string name="hint_quick_reply_all">"全員に返信"</string>
@@ -519,7 +519,6 @@
   <string name="loading_conversations">"読み込み中…"</string>
   <string name="loading_from_remote">"読み込み中…"</string>
   <string name="local_search">"ローカルを検索"</string>
-  <string name="local_search_result">%s results in synced messages</string>
   <string name="login">"ログイン"</string>
   <string name="login139">"China Mobileでログイン"</string>
   <string name="login_failed_ticker">"%sでログインできませんでした。"</string>
@@ -612,7 +611,6 @@
   <string name="mibill_privacy_policy_link">"By using this feature, you're agreeing to our "<a href="https://www.mipay.com/res/doc/eula/email.html">Terms of Service</a></string>
   <string name="mibill_privacy_policy_title">Manage bills automatically</string>
   <string name="min_payment_text">Minimum payment</string>
-  <string name="more_atts_remaining">%1$d more remaining</string>
   <string name="more_context">More</string>
   <string name="more_string">+%1$s</string>
   <string name="move_to_selection_dialog_title">"別のフォルダに移動"</string>
@@ -626,7 +624,6 @@
   <string name="network_try_again">"ネットワーク接続を確認してもう一度お試しください"</string>
   <string name="network_unavailable">"ネットワークが利用できません"</string>
   <string name="new_incoming_messages_one">"%sからの新着メッセージ"</string>
-  <string name="new_messages">"%1$d件の新着メッセージ"</string>
   <string name="new_signature_has_saved">"正常に保存されました"</string>
   <string name="next_action">"次へ"</string>
   <string name="no">"いいえ"</string>
@@ -782,6 +779,9 @@ to receive reminders about payments and trips"</string>
   <string name="push_wps_confirm_message">"この添付ファイルを開くためにWPS Officeを試す。"</string>
   <string name="push_wps_confirm_title">"WPS Officeを試す"</string>
   <string name="push_wps_no_response_app">"この操作を処理するためのアプリが見つかりませんでした"</string>
+  <string name="qq_auto_login_failed_cpy_pass_success">"正常にコピーされました; ログインページに戻り、パスワードの入力欄に貼り付けてください"</string>
+  <string name="qq_auto_login_failed_dialog_message">"認証コードをコピーしてログインページに戻り、\"ログインするためにはユーザー名とパスワードを入力\"をタップします; 手動でログインするため、パスワードの入力欄に貼り付けます"</string>
+  <string name="qq_auto_login_failed_dialog_positive_label">"認証コードをコピーする"</string>
   <string name="qq_bar_open_imap">Help</string>
   <string name="qq_bar_send_message">Send SMS</string>
   <string name="qq_login_basecode">Signing in to the web QQ Mail. Enter independent password.</string>
@@ -807,7 +807,6 @@ to receive reminders about payments and trips"</string>
   <string name="quick_3">"確認して折り返し連絡します。"</string>
   <string name="quick_4">"この件についてミーティングを行いませんか。"</string>
   <string name="quick_reply_dialog_title">"返信を選択"</string>
-  <string name="quick_reply_hint">Reply to %1$d people</string>
   <string name="quick_reply_hint_bcc">(In BCC)</string>
   <string name="quick_reply_hint_cc">(In CC)</string>
   <string name="quick_reply_hint_reply_only_from">"クイック返信 (送信者のみ)"</string>
@@ -869,7 +868,6 @@ to receive reminders about payments and trips"</string>
   <string name="refreshing_done">"完了"</string>
   <string name="release_to_refresh">"指を離して更新"</string>
   <string name="remind_attachment_size_limit">Your emails should be less than %sMB</string>
-  <string name="remote_search_result">%s results on server</string>
   <string name="remove_account">"アカウントを削除"</string>
   <string name="remove_folder">"%1$sから削除"</string>
   <string name="remove_star">Unstar</string>
@@ -882,6 +880,7 @@ to receive reminders about payments and trips"</string>
   <string name="request_entity_large">"ファイルが大きすぎます"</string>
   <string name="request_permission_activity">Permission Request</string>
   <string name="respond_inline">"   Respond inline"</string>
+  <string name="retry_login">"もう一度ログインしてください"</string>
   <string name="save_action">"保存"</string>
   <string name="save_attachment">"保存"</string>
   <string name="save_draft_failed">"下書きの保存に失敗しました"</string>
@@ -1024,7 +1023,6 @@ to receive reminders about payments and trips"</string>
   <string name="undo">"元に戻す"</string>
   <string name="unknow">"不明"</string>
   <string name="unread_string">"未読のスレッド"</string>
-  <string name="unsent_messages_in_outbox">%1$s unsent in %2$s</string>
   <string name="unzip_file_failed">"ファイルを解凍できませんでした"</string>
   <string name="update_date_format_templete">HH:mm aa, MMMM dd</string>
   <string name="update_to_wps_mail">Enjoy more features with WPS Mail</string>

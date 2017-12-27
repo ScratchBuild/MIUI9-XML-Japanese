@@ -404,8 +404,6 @@
   <string name="oem_unlock_enable_summary">ブートローダーによるロック解除を許可する</string>
   <string name="oldman_airplane_mode_text">機内モード</string>
   <string name="oldman_incall_text">通話に戻る</string>
-  <string name="oldman_status_bar_time_format_12">h:mm</string>
-  <string name="oldman_status_bar_time_format_24">HH:mm</string>
   <string name="overlay_display_devices_title">2次画面シミュレート</string>
   <string name="picture_color_mode">画像の色モード</string>
   <string name="picture_color_mode_desc">sRGBを使用</string>

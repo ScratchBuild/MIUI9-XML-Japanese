@@ -75,6 +75,7 @@
   <string name="impunity_declaration_negative_text">終了</string>
   <string name="impunity_declaration_positive_text">許可</string>
   <string name="impunity_declaration_title">利用規約</string>
+  <string name="init_success">初期化が完了しました</string>
   <string name="keywords_search_code">Scanner;Scan;QR code;QR;Recognition;Barcode;Barcodes;Product;Products;Alipay;WeChat;How to scan QR code;How to scan barcode;How to scan;MIUI Scanner</string>
   <string name="keywords_search_document">Scanner;Scan document;Scan documents;OCR;Scan text;Scan</string>
   <string name="keywords_search_namecard">Scanner;Business card;Business cards;Scan;Scan cards;Card;Cards;Contacts;Contact</string>

@@ -869,6 +869,7 @@
   <string name="clear_uri_btn_text">アクセスをクリア</string>
   <string name="clear_user_data_text">データを消去</string>
   <string name="close_app">現在のアプリを閉じる</string>
+  <string name="close_demo_mode">キャンセル</string>
   <string name="close_gesture">ジェスチャーを使用して閉じる</string>
   <string name="close_miui_optimization_title">MIUIの最適化をオフにする</string>
   <string name="close_miui_optimization_warning_message">この変更を適用するために端末を再起動します。注：この機能をオフにすると、ユーザーインターフェースのレイアウトや他の要素に大きな変化があります。</string>
@@ -2590,6 +2591,8 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="online_resource_entry">オンラインリソース</string>
   <string name="only_one_home_message">ホームの設定は別のホームアプリをインストールするまで表示されません。</string>
   <string name="onscreen_keyboard_settings_summary">画面キーボードを設定する</string>
+  <string name="open_demo_mode">開始</string>
+  <string name="open_demo_mode_warning_message">デモモードをオンにすると、ステータスバーの時計が停止し、バッテリーと電波強度のアイコンは100%として表示されます。元に戻すにはデモモードをオフにするか、端末を再起動してください。</string>
   <string name="open_miui_optimization_title">MIUIの最適化をオンにする</string>
   <string name="open_miui_optimization_warning_message">この変更を適用するために端末を再起動します。</string>
   <string name="open_personal_assistant_dialog_btn_cancel">キャンセル</string>
