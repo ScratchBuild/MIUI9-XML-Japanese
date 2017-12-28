@@ -2432,6 +2432,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="music_title_dolby_control">Dolby Digital Plus</string>
   <string name="music_unsupport_effect_summary">USBヘッドセットはサポートされていません</string>
   <string name="musicfx_title">サウンド効果</string>
+  <string name="mute_music_stream">音楽の再生をミュート</string>
   <string name="mvno_match_data">MVNO値</string>
   <string name="mvno_type">MVNOの種類</string>
   <string name="my_device">My device</string>

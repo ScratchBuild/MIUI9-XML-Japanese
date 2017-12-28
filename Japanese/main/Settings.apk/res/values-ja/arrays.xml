@@ -841,11 +841,13 @@ Note: Only for Ubuntu 8.04!"</item>
     <string-array name="alarm_repeat_type">
         <item>毎日</item>
         <item>平日</item>
+        <item>週末</item>
         <item>カスタム</item>
     </string-array>
     <string-array name="alarm_repeat_type_no_workdays">
         <item>毎日</item>
         <item>平日</item>
+        <item>週末</item>
         <item>カスタム</item>
     </string-array>
     <string-array name="privacy_password_function_specfication_names">

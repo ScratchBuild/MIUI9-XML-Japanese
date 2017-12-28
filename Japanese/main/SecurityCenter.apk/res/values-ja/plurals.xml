@@ -32,6 +32,14 @@
         <item quantity="other">%d個のアプリ</item>
         <item quantity="one">%d個のアプリ</item>
     </plurals>
+    <plurals name="bg_network_allow_count">
+        <item quantity="other">%d個のアプリはバックグラウンドでネットワークに接続できます</item>
+        <item quantity="one">%d個のアプリはバックグラウンドでネットワークに接続できます</item>
+    </plurals>
+    <plurals name="bg_network_restrict_count">
+        <item quantity="other">"%d個のアプリはバックグラウンドでネットワークに接続できません"</item>
+        <item quantity="one">"%d個のアプリはバックグラウンドでネットワークに接続できません"</item>
+    </plurals>
     <plurals name="daily_sim_over_limit_notify_title">
         <item quantity="other">"You've already used %s daily data limits."</item>
         <item quantity="one">"You've already used %s daily data limit."</item>
@@ -59,6 +67,10 @@ If you turn on mobile data again, your carrier may charge you for additional dat
     <plurals name="hints_roaming_found_app_count_title">
         <item quantity="other">%d個のアプリが見つかりました</item>
         <item quantity="one">%d個のアプリが見つかりました</item>
+    </plurals>
+    <plurals name="network_restrict_count">
+        <item quantity="other">"&lt;font color='#ff0000'>%d&lt;/font>個のアプリのネットワークアクセスが制限されています"</item>
+        <item quantity="one">"&lt;font color='#ff0000'>%d&lt;/font>個のアプリのネットワークアクセスが制限されています"</item>
     </plurals>
     <plurals name="om_ill_proc_multi_app_title">
         <item quantity="other">"%d apps don't work properly and drain battery"</item>

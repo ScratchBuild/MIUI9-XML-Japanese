@@ -113,6 +113,7 @@
   <string name="antivirus_update_btn_update">"更新"</string>
   <string name="apn_exception_summary">"携帯通信会社のAPN設定をテストする"</string>
   <string name="apn_exception_title">"APNの設定を確認"</string>
+  <string name="app_bg_restrict_dialog_message">"バックグラウンドのネットワーク接続を制限すると、アプリが正常に動作しなくなる可能性があります(例：メッセージの受信やコンテンツの更新など)。とにかく制限しますか？"</string>
   <string name="app_check_no_issue">Looks like there are no battery issues. Cool!</string>
   <string name="app_detail">"詳細"</string>
   <string name="app_error_tip_for_launcher">"Your device's hardware components or Android system version may cause compatibility issues and make some apps misbehave, freeze, or be force stopped. If you encounter such issues, share your feedback with the app developers."</string>
@@ -190,6 +191,7 @@
   <string name="app_manager_notify_bar">"バッジ"</string>
   <string name="app_manager_notify_floating">"フローティング通知"</string>
   <string name="app_manager_notify_keyguard">"ロック画面"</string>
+  <string name="app_manager_open_show_all_apps_immediate">"すべての結果を表示"</string>
   <string name="app_manager_perm">Permissions</string>
   <string name="app_manager_permission_manager_title">Permissions</string>
   <string name="app_manager_permission_notify_title">"通知"</string>
@@ -212,7 +214,9 @@
 
 アプリのデータが失われることはありません。"</string>
   <string name="app_manager_reset_app_preferences_title">"アプリの設定をリセットしますか？"</string>
+  <string name="app_manager_search_prompt">"何も見つかりませんでしたか？すべてのアプリからの結果を表示してみてください。"</string>
   <string name="app_manager_show_all_apps">"すべてのアプリを表示"</string>
+  <string name="app_manager_show_all_apps_opened">"すべてのアプリからの結果を表示しています…"</string>
   <string name="app_manager_show_detail_infos">"すべて表示"</string>
   <string name="app_manager_start_by">Started by %s</string>
   <string name="app_manager_support_uninstall">"これらのアプリをアンインストールできます"</string>
@@ -330,6 +334,10 @@
   <string name="back_app_name">"アプリロックに戻る"</string>
   <string name="back_description_securitycenter">"戻る"</string>
   <string name="back_modifypassword">"パスワードの変更に戻る"</string>
+  <string name="back_sound_data">"モバイルネットワーク接続が必要です、もう一度お試しください"</string>
+  <string name="back_sound_fail">"失敗"</string>
+  <string name="back_sound_success">"成功"</string>
+  <string name="back_sound_support">"現在のネットワーク事業者はそれをサポートしていません"</string>
   <string name="background_restrict_app_dialog_message">"このアプリのバックグラウンドネットワークアクセスを制限すると、メッセージの受信、コンテンツのダウンロード、その他の機能が正常に動作しなくなる可能性があります。とにかく制限しますか？"</string>
   <string name="background_traffic">"バックグラウンド %s"</string>
   <string name="backsound_set_hint">"不在メッセージを%sに設定しますか？"</string>
@@ -370,6 +378,7 @@
   <string name="battery_temperature_title">"電池温度"</string>
   <string name="begin_date">Usage reset date</string>
   <string name="best_booster_status">Gaming speed is the best available now.</string>
+  <string name="bg_network_exception_title">"制限付きバックグラウンド接続"</string>
   <string name="bind_xiaomi_account_cancel">"キャンセル"</string>
   <string name="bind_xiaomi_account_confirm">"追加"</string>
   <string name="bind_xiaomi_account_dialog_summery">"Mi Account %s を追加しようとしています。パスワードを忘れた場合、このアカウントを使用してパスワードをリセットすることができます。ログアウトするとアカウントは自動的に削除されます。"</string>
@@ -578,6 +587,7 @@
   <string name="dlg_add_blacklist">"この番号をブロックしますか？"</string>
   <string name="dlg_add_blacklist_title">"ブロックリストに追加"</string>
   <string name="dlg_add_keyword">"キーワードを追加"</string>
+  <string name="dlg_add_white">"例外に追加された番号からの新しい着信やメッセージは、通話履歴とメッセージの受信トレイに表示されます。ただし、以前ブロックされたアイテムは表示されません。選択した番号を例外に追加しますか？"</string>
   <string name="dlg_antispam_mode_delete_message">"削除した後、ルールの復元はできません。"</string>
   <string name="dlg_antispam_mode_delete_title">"ルールを削除しますか？"</string>
   <string name="dlg_antispam_using_mode_delete_message">"Delete the rules you're currently using and switch back to blocklist's default rules?"</string>
@@ -597,8 +607,12 @@
   <string name="dlg_import_whitelist">"追加中…"</string>
   <string name="dlg_keyword_ok">"保存"</string>
   <string name="dlg_message_not_open_stranger_identify">"この機能を有効にするには、[設定] &gt; [電話]に移動します。"</string>
-  <string name="dlg_no_block">"この番号のブロックを解除して、この番号からの着信を着信履歴に復元しますか？ (番号は着信のホワイトリストに追加されます)"</string>
+  <string name="dlg_move_to_white">"例外に追加"</string>
+  <string name="dlg_no_block">"この電話番号のブロックを解除しますか？
+例外に追加されますが、以前ブロックされたアイテムは通話履歴に表示されません。"</string>
   <string name="dlg_no_block_ok">"ブロックを解除"</string>
+  <string name="dlg_not_block_call">"選択した番号のブロックを解除しますか？これらは例外に追加されますが、以前ブロックされたアイテムは通話履歴に表示されません。"</string>
+  <string name="dlg_not_block_sms">"選択した番号のブロックを解除しますか？これらは例外に追加されますが、以前ブロックされたアイテムはメッセージの受信ボックスに表示されません。Unblock selected numbers? They will be added to exceptions, but previously blocked items won't appear in Messaging inbox."</string>
   <string name="dlg_remove_address_blacklist">Remove this location from blocklist?</string>
   <string name="dlg_remove_address_whitelist">Remove this location from exceptions?</string>
   <string name="dlg_remove_blacklist">"ブロックリストからこれらの番号を削除しますか？"</string>
@@ -727,6 +741,8 @@
   <string name="gb_description_image_button_reject">"拒否"</string>
   <string name="gb_description_image_button_video_answer">"ビデオ通話"</string>
   <string name="get_sys_info">"情報を取得中…"</string>
+  <string name="gmscore_support_remind">"Gmail、Googleマップ、その他のGoogleアプリの使用に問題が発生した場合は、この機能を有効にしてください。バッテリーの寿命がわずかに短くなります。"</string>
+  <string name="gmscore_support_service">"Googleサービス"</string>
   <string name="go_to">"続行"</string>
   <string name="go_to_setting_fingerprint">"設定"</string>
   <string name="google_base_app_install_choice">"\"%s\"が正常に動作するにはGoogleサービスフレームワークが必要です、今すぐインストールしますか？"</string>
@@ -1242,8 +1258,7 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
   <string name="permission_action_reject">"拒否"</string>
   <string name="permission_close_permission_control_dialog_msg">"When permission manager is off, apps won't ask your permission before reading your contacts, viewing your call history, changing system settings, or accessing camera and other device resources."</string>
   <string name="permission_close_permission_control_dialog_title">Turn off?</string>
-  <string name="permission_exception_summary">"一部のアプリがインターネットへの接続を許可されていません"</string>
-  <string name="permission_exception_title">"ネットワークのアクセス許可を表示"</string>
+  <string name="permission_exception_title">"接続制限付きアプリ"</string>
   <string name="permission_permission_control_closed_desc_dialog_msg">"Apps won't ask your permission before reading your contacts, viewing your call history, changing system settings, or accessing camera and other device resources. You can turn this feature on in Permission settings."</string>
   <string name="permission_permission_control_closed_desc_dialog_title">Permission manager</string>
   <string name="permission_with_SMS_and_MMS">Permissions related to SMS and MMS</string>
@@ -1332,6 +1347,7 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
   <string name="pref_auto_adjust_traffic">Auto adjust data usage stats</string>
   <string name="pref_automatic_adjust">Sync carrier data usage</string>
   <string name="pref_avaible_traffic">"データプラン"</string>
+  <string name="pref_bg_network_title">"バックグラウンド接続"</string>
   <string name="pref_category_daily_package_tile">Daily data plan</string>
   <string name="pref_category_extra_package_tile">Top-up package</string>
   <string name="pref_category_half_year_package_tile">Half-year data package</string>

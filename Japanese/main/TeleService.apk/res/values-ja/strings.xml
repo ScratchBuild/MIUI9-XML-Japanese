@@ -97,8 +97,13 @@
   <string name="callFailed_cdma_activation">SIMカードでサービスが有効になり、スマートフォンのローミング機能が更新されています。</string>
   <string name="callFailed_congestion">ネットワークがビジー状態です</string>
   <string name="callFailed_dialToDial">DIALリクエストは別の番号のDIALに変更されました。</string>
+  <string name="callFailed_dialToDialVideo">DIAL request modified to Video DIAL.</string>
   <string name="callFailed_dialToSs">DIALリクエストはSSリクエストに変更されました。</string>
   <string name="callFailed_dialToUssd">DIALリクエストはUSSDリクエストに変更されました。</string>
+  <string name="callFailed_dialVideoToDial">Video DIAL request modified to DIAL.</string>
+  <string name="callFailed_dialVideoToDialVideo">Video DIAL request modified to Video DIAL with different number.</string>
+  <string name="callFailed_dialVideoToSs">Video DIAL request modified to SS request.</string>
+  <string name="callFailed_dialVideoToUssd">Video DIAL request modified to USSD request.</string>
   <string name="callFailed_dsac_restricted">通話の発信制限が設定されています。</string>
   <string name="callFailed_dsac_restricted_emergency">緊急通報の発信制限が設定されています。</string>
   <string name="callFailed_dsac_restricted_normal">緊急通報以外は発信制限が設定されています。</string>
