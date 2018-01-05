@@ -12,15 +12,18 @@
   <string name="add_to_album_failed">"アルバムに追加できませんでした"</string>
   <string name="add_to_album_success">"アルバムに追加しました"</string>
   <string name="add_to_album_tip">Cloud photos</string>
+  <string name="add_to_favorites_failed">"お気に入りに追加できませんでした"</string>
   <string name="add_to_secret_exist">Photo already exists in hidden album</string>
   <string name="add_to_secret_fail">"Couldn't add to hidden album"</string>
   <string name="add_to_secret_failed_with_reason">"Can't add to hidden album. %1$s."</string>
   <string name="add_to_secret_failed_with_reason_and_count">"%2$s items can't be added to hidden album. %1$s."</string>
   <string name="add_to_secret_successful">Added to hidden album</string>
   <string name="add_to_share_album_not_delete">"共有アルバムから写真を削除することはできません"</string>
+  <string name="added_to_favorites_tip">Added to \"Favorites\" album</string>
   <string name="adding">"追加中…"</string>
   <string name="adding_recipients">"受信者を追加中…"</string>
   <string name="adding_to_album">"写真を追加中…"</string>
+  <string name="adding_to_favorites">"お気に入りに追加中…"</string>
   <string name="adjust_brightness">"明るさ"</string>
   <string name="adjust_contrast">"コントラスト"</string>
   <string name="adjust_saturation">"彩度"</string>
@@ -29,12 +32,17 @@
   <string name="album_already_exists_check">"表示"</string>
   <string name="album_already_exists_msg">"アルバム \"%s\" は既に存在します"</string>
   <string name="album_already_forced_top">Already on top</string>
+  <string name="album_bluetooth">Bluetooth</string>
   <string name="album_camera_name">"カメラ"</string>
+  <string name="album_creative">"編集した写真"</string>
   <string name="album_detail_page_empty">"写真や動画はありません"</string>
+  <string name="album_download">"ダウンロード"</string>
   <string name="album_faces_name">"人物"</string>
+  <string name="album_favorites_name">"お気に入り"</string>
   <string name="album_from_format">From %s</string>
   <string name="album_jump_failed">アルバムがMi Cloudと同期されるまで待ってからもう一度お試しください</string>
   <string name="album_member">Album members %s</string>
+  <string name="album_midrop">Mi Drop</string>
   <string name="album_name">"アルバム名"</string>
   <string name="album_name_locations">"場所"</string>
   <string name="album_name_people">"人物"</string>
@@ -47,6 +55,8 @@
   <string name="album_page_label">"アルバム"</string>
   <string name="album_pano_name">"パノラマ"</string>
   <string name="album_quota_fulfiled">Too many albums. Delete some albums and try again.</string>
+  <string name="album_scanner">"スキャナー"</string>
+  <string name="album_screen_recorder">"スクリーンレコーダー"</string>
   <string name="album_screenshot_name">"スクリーンショット"</string>
   <string name="album_share_exit_confirm">Exit this album?</string>
   <string name="album_share_kicked">%1$s is closed</string>
@@ -65,6 +75,7 @@
   <string name="album_type_share">"共有済みのアルバム"</string>
   <string name="album_type_system">"システムのアルバム"</string>
   <string name="album_videos_name">"動画"</string>
+  <string name="album_wallpaper">"壁紙"</string>
   <string name="alert_secret_album_enter">OK</string>
   <string name="alert_secret_album_message">Swipe down while in the Albums tab to view hidden album.</string>
   <string name="alert_secret_album_message_lower_case">  swipe down in Albums to view</string>
@@ -142,6 +153,7 @@
   <string name="backup_no_wifi_title">"タップしてWi-Fiに接続"</string>
   <string name="backup_only_in_wifi">"写真や動画のバックアップにはWi-Fiのみ使用"</string>
   <string name="backup_only_in_wifi_summary">"写真や動画のバックアップにモバイルデータを使用しない"</string>
+  <string name="backup_only_wifi_dialog_message">"モバイルデータを使用して写真や動画をバックアップしますか？"</string>
   <string name="backup_pause">"バックアップを中断"</string>
   <string name="backup_pause_title">Back up in %s</string>
   <string name="backup_pending">"自動的にバックアップされます"</string>
@@ -178,6 +190,8 @@
   <string name="cannot_remove_creator">"作成者を削除できません"</string>
   <string name="cannot_send_message">"メッセージを送信できません"</string>
   <string name="cannot_send_message_reason">No valid recipients</string>
+  <string name="cast_devices_unavailable_desc">"この端末とプロジェクターが同じWi-Fiネットワークに接続されていることを確認してください"</string>
+  <string name="cast_devices_unavailable_title">"プロジェクターが見つかりませんでした"</string>
   <string name="change_to_face_mode">"顔だけ表示する"</string>
   <string name="change_to_photo_mode">Show full previews</string>
   <string name="change_to_visible">"このユーザーを復元しますか？"</string>
@@ -591,6 +605,8 @@ Take more photos of your friends!"</string>
   <string name="operation_add_picture">"アイテムを追加"</string>
   <string name="operation_add_secret">"非表示"</string>
   <string name="operation_back">"戻る"</string>
+  <string name="operation_cast_connected_format">"キャスト - %s"</string>
+  <string name="operation_cast_connecting_format">"%sに接続中"</string>
   <string name="operation_delete">"削除"</string>
   <string name="operation_detail">"詳細"</string>
   <string name="operation_disable_auto_upload">"Mi Cloudとの同期をオフにする"</string>
@@ -657,11 +673,13 @@ Take more photos of your friends!"</string>
   <string name="photo_editor_miui_beauty_menu_eye_large">Big eyes</string>
   <string name="photo_editor_miui_beauty_menu_face_thin">Slender</string>
   <string name="photo_editor_miui_beauty_menu_lip_beauty">Lips</string>
+  <string name="photo_editor_miui_beauty_menu_nose_thin">Nose contouring</string>
   <string name="photo_editor_miui_beauty_menu_relighting">Fill light</string>
   <string name="photo_editor_miui_beauty_menu_skin_ruddy">Ruddy</string>
   <string name="photo_editor_miui_beauty_menu_skin_white">Tone</string>
   <string name="photo_editor_miui_beauty_menu_smart_beauty">Smart</string>
   <string name="photo_editor_miui_beauty_menu_smooth">Smooth</string>
+  <string name="photo_editor_miui_beauty_no_face">"顔を検出できません"</string>
   <string name="photo_editor_mosaic">"モザイク"</string>
   <string name="photo_editor_navigator_cancel">"キャンセル"</string>
   <string name="photo_editor_navigator_download_network_metered_msg">"%sをダウンロードするには約4MBのモバイルデータが必要です。今すぐダウンロードしますか？"</string>
@@ -722,6 +740,7 @@ Take more photos of your friends!"</string>
   <string name="picker_title_unlimit">"写真を選択"</string>
   <string name="places_album_empty_title">"場所ごとに写真を並べ替えできます"</string>
   <string name="preparing_data">"読み込み中…"</string>
+  <string name="projection_cancel">"キャンセル"</string>
   <string name="projection_checkbox_text">"このプロジェクターを記憶する"</string>
   <string name="projection_device_connection_failed">"プロジェクターに接続できませんでした"</string>
   <string name="projection_local_mobile">This phone</string>
@@ -730,6 +749,8 @@ Take more photos of your friends!"</string>
   <string name="projection_slide_exit">"スライドショーを停止"</string>
   <string name="projection_slide_fail_cause_loading">"写真が読み込まれた後にスライドショーを再開する"</string>
   <string name="projection_slide_playing">Slideshow is playing on %s</string>
+  <string name="projection_stop">"キャストを停止する"</string>
+  <string name="projection_switch_title">"切り替え"</string>
   <string name="projection_video_quit">"終了するにはタップ"</string>
   <string name="public_url_descript">Anyone can view your album using this URL</string>
   <string name="publish_failed">"Couldn't publish"</string>
@@ -757,6 +778,7 @@ Take more photos of your friends!"</string>
   <string name="remove_from_album_message">This photo will no longer be displayed here</string>
   <string name="remove_from_album_title">"このアルバムから削除"</string>
   <string name="remove_from_current_album">"このアルバムから削除"</string>
+  <string name="remove_from_favorites_failed">"お気に入りから削除できませんでした"</string>
   <string name="remove_from_other_albums_tip">"他のアルバムからこのアルバムへ移動しますか？"</string>
   <string name="remove_from_secret_fail">"Couldn't remove from hidden album"</string>
   <string name="remove_from_secret_failed_with_reason">"Can't remove from hidden album. %1$s."</string>
@@ -768,6 +790,7 @@ Take more photos of your friends!"</string>
   <string name="remover_edit_type_line">Lines</string>
   <string name="remover_erase_aera_too_big">"消去する領域が大きすぎます"</string>
   <string name="remover_menu_processing">"処理中"</string>
+  <string name="removing_from_favorites">"お気に入りから削除中…"</string>
   <string name="rename_album">"アルバム名を変更"</string>
   <string name="rename_album_failed">"名前を変更できません"</string>
   <string name="rename_album_succeeded">"名前が変更されました"</string>
@@ -809,7 +832,7 @@ Take more photos of your friends!"</string>
   <string name="search_feedback_task_requesting_award">報酬を受け取っています…</string>
   <string name="search_feedback_user_notice">"I've read and agreed to %s."</string>
   <string name="search_feedback_user_policy">MIUI Gallery AI Algorithm Program Privacy Policy</string>
-  <string name="search_hint">"画像を検索"</string>
+  <string name="search_hint">"タップして検索"</string>
   <string name="search_image_result_title">"検索結果"</string>
   <string name="search_login_now">"ログイン"</string>
   <string name="search_login_sub_title">Sign in to find more photos</string>
@@ -837,6 +860,7 @@ Take more photos of your friends!"</string>
   <string name="search_title_recommend">Recommended</string>
   <string name="search_title_suggestion">"提案"</string>
   <string name="search_title_tag">Objects</string>
+  <string name="searching_cast_devices">"プロジェクターを探しています…"</string>
   <string name="secret_album_card_description">The best place for all your little secrets</string>
   <string name="secret_album_card_title">Try hidden album</string>
   <string name="secret_album_display_name">Hidden album</string>

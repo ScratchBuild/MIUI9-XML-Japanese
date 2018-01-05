@@ -184,8 +184,8 @@ is mainly provided by Ultimate Inc."</string>
   <string name="dialog_file_missing_body">"ダウンロードしたファイルが見つかりませんでした。"</string>
   <string name="dialog_file_missing_title">"ファイルを開くことができません"</string>
   <string name="dialog_hint_music_error">"曲が見つかりませんでした。"</string>
-  <string name="dialog_insufficient_space_on_cache">"ダウンロードを完了できません。内部ストレージに十分な空き領域がありません。"</string>
-  <string name="dialog_insufficient_space_on_external">"ダウンロードを完了できません。SDカードに十分な空き領域がありません。"</string>
+  <string name="dialog_insufficient_space_on_cache">"内部ストレージに十分な空き領域がありません。"</string>
+  <string name="dialog_insufficient_space_on_external">"外部ストレージに十分な空き領域がありません。"</string>
   <string name="dialog_media_not_found">"ダウンロードできません。SDカードは使用できません。"</string>
   <string name="dialog_not_show_again">"二度と表示しない"</string>
   <string name="dialog_queued_body">This file is queued for future download.</string>

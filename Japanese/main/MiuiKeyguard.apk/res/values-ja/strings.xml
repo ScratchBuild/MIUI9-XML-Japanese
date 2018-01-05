@@ -17,8 +17,6 @@
   <string name="face_data_input_msg">"フレームの内側に顔を収めてください"</string>
   <string name="face_data_input_ok">"完了"</string>
   <string name="face_data_input_ok_msg">"画面が点灯したとき、顔データを使用して端末のロックを解除できます。"</string>
-  <string name="face_data_input_ok_msg_angle">"画面が点灯したとき、顔データを使用して端末のロックを解除できます。
-(すべての必要な角度を含む顔データを記録してください。)​"</string>
   <string name="face_data_input_ok_title">"正常に追加されました"</string>
   <string name="face_data_input_title">"顔データを追加"</string>
   <string name="face_data_introduction_msg">"顔データを使用して端末のロックを解除したり、身元を確認することができます。顔データを追加する前にロック画面のパスワードを追加してください。"</string>
@@ -30,9 +28,7 @@
   <string name="face_data_manage_delete_title">"顔データ"</string>
   <string name="face_data_manage_unlock_msg">"顔データを使用して端末のロックを解除する"</string>
   <string name="face_data_manage_unlock_title">"顔データを使用してロックを解除"</string>
-  <string name="face_data_siggesstion_next">"次へ"</string>
-  <string name="face_data_siggesstion_next_time">"次へ(%d秒)"</string>
-  <string name="face_data_suggesstion_first">"セキュリティの問題: 顔データを使用したロックの解除は、PIN、パスワード、またはパターンを使用する場合よりも安全性が低くなります。お使いの端末は、あなたの写真だけでなくあなたに似た人や物によってロックが解除される可能性があります。"</string>
+  <string name="face_data_suggesstion_first">"顔データを使用したロックの解除は、ロック画面のパスワードを使用する場合よりも安全性が低くなります。お使いの端末は、あなたに似た人や物によってロックが解除される可能性があります。"</string>
   <string name="face_data_suggesstion_second">"顔のすべての部分が覆われずにはっきりと見えていることを確認してください。端末の画面にもあなたの顔がよく映っているはずです。"</string>
   <string name="face_unlock_adjust_distance">"顔と画面との間の距離が最適であることを確認してください。"</string>
   <string name="face_unlock_be_on_the_screen">"顔の前で端末を静止してください"</string>
@@ -51,8 +47,6 @@
   <string name="face_unlock_passwork">"パスワードを使用"</string>
   <string name="face_unlock_passwork_and_fingerprint">"パスワードまたは顔データを使用"</string>
   <string name="face_unlock_quality">"顔がはっきりと見えませんでした"</string>
-  <string name="face_unlock_reenter_content">"顔データによるロック解除のアルゴリズムが更新されています。顔データをもう一度記録するにはタップ。"</string>
-  <string name="face_unlock_reenter_title">"顔データをもう一度記録します。"</string>
   <string name="face_unlock_reveal_eye">"目を見えるようにしてください"</string>
   <string name="face_unlock_reveal_mouth">"口を見えるようにしてください"</string>
   <string name="face_unlock_rise">"頭を下げてください"</string>

@@ -25,6 +25,31 @@
         <item>"なぜエアコンのみをオンにでき、オフにはできないのですか？"</item>
         <item>"私はMi 3, Mi 2を使用しています、Redmiの様にリモコンを利用できますか？"</item>
     </string-array>
+    <string-array name="voice_ac_help">
+        <item>Turn on Haier AC in the living room</item>
+        <item>Set the temperature to 25 degrees</item>
+        <item>Set wind direction to \"Up\"</item>
+    </string-array>
+    <string-array name="voice_fan_help">
+        <item>Turn on Gree AC</item>
+        <item>Switch to swinging mode</item>
+        <item>Make AC blow harder</item>
+    </string-array>
+    <string-array name="voice_stb_help">
+        <item>Turn on set-top box</item>
+        <item>I want to watch Hunan TV</item>
+        <item>Go back to channel 15</item>
+    </string-array>
+    <string-array name="voice_tips">
+        <item>Turn on AC</item>
+        <item>I want to watch Shenzhen TV</item>
+        <item>Go back to channel 12</item>
+    </string-array>
+    <string-array name="voice_tv_help">
+        <item>Turn on TV in the bedroom</item>
+        <item>Turn off the TV</item>
+        <item>Turn up the volume on TV</item>
+    </string-array>
     <string-array name="assistant_tab">
         <item>ビデオ</item>
         <item>スクリーンショット</item>
@@ -45,6 +70,31 @@
         <item>TV channels</item>
         <item>HD channels</item>
         <item>Recently watched</item>
+    </string-array>
+    <string-array name="epg_channel_tab_actionbar_v53">
+        <item>All channels</item>
+        <item>Recently watched</item>
+        <item>HD channels</item>
+        <item>TV channels</item>
+        <item>CCTV channels</item>
+    </string-array>
+    <string-array name="epg_channel_tab_v53">
+        <item>All</item>
+        <item>TV</item>
+        <item>CCTV</item>
+        <item>HD</item>
+        <item>Recent</item>
+    </string-array>
+    <string-array name="epg_default_hot_channels">
+        <item>Hunan TV</item>
+        <item>CCTV-6</item>
+        <item>Zhejiang TV</item>
+        <item>CCTV-5</item>
+        <item>CCTV-3</item>
+        <item>Dragon TV</item>
+        <item>Anhui TV</item>
+        <item>Beijing TV</item>
+        <item>Guangdong TV</item>
     </string-array>
     <string-array name="epg_program_genre">
         <item></item>

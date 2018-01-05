@@ -332,6 +332,7 @@
   <string name="launch_defaults_none">既定の設定なし</string>
   <string name="launch_defaults_some">一部デフォルトを設定</string>
   <string name="legacy_dhcp_client_summary">新しいAndroid DHCPクライアントの代わりにLollipopのDHCPクライアントを使用します。</string>
+  <string name="legacy_vpn_name">VPN</string>
   <string name="list_delimeter">", "</string>
   <string name="loading_desktop">"読み込み中…"</string>
   <string name="local_backup_password_summary_change">デスクトップのフルバックアップ用のパスワードを変更または削除する場合にタップします</string>
@@ -365,6 +366,31 @@
   <string name="mock_location_app">仮の現在地情報アプリを選択</string>
   <string name="mock_location_app_not_set">仮の現在地情報アプリが設定されていません</string>
   <string name="mock_location_app_set">仮の現在地情報アプリ: %1$s</string>
+  <string name="monitoring_button_view_policies">ポリシーを見る</string>
+  <string name="monitoring_description_ca_certificate">この端末には認証局がインストールされています。保護されたネットワーク トラフィックが監視、変更される可能性があります。</string>
+  <string name="monitoring_description_managed_profile_ca_certificate">組織によって、あなたの仕事用プロファイルに認証局がインストールされました。保護されたネットワーク トラフィックが監視、変更される場合があります。</string>
+  <string name="monitoring_description_managed_profile_named_vpn">この仕事用プロファイルは %1$s に接続しています。このアプリはあなたのネットワーク アクティビティ（メール、アプリ、ウェブサイトなど）を監視できます。</string>
+  <string name="monitoring_description_management">"この端末は組織によって管理されています。
+
+管理者は、この端末に関連付けられた設定、コーポレート アクセス、アプリ、データと、端末の位置情報を監視、管理できます。
+
+詳しくは管理者にお問い合わせください。"</string>
+  <string name="monitoring_description_management_ca_certificate">組織によってこの端末に認証局がインストールされました。保護されたネットワーク トラフィックが監視、変更される場合があります。</string>
+  <string name="monitoring_description_management_network_logging">管理者がネットワーク ログを有効にしているため、この端末のトラフィックが監視されています。</string>
+  <string name="monitoring_description_named_management">"この端末は %1$s によって管理されています。
+
+管理者は、この端末に関連付けられた設定、コーポレート アクセス、アプリ、データと、端末の位置情報を監視、管理できます。
+
+詳しくは管理者にお問い合わせください。"</string>
+  <string name="monitoring_description_named_vpn">%1$s に接続しています。このアプリはあなたのネットワーク アクティビティ（メール、アプリ、ウェブサイトなど）を監視できます。</string>
+  <string name="monitoring_description_personal_profile_named_vpn">この個人用プロファイルは %1$s に接続しています。このアプリはあなたのネットワーク アクティビティ（メール、アプリ、ウェブサイト）を監視できます。</string>
+  <string name="monitoring_description_two_named_vpns">%1$s と %2$s に接続しています。これらのアプリは、あなたのネットワーク アクティビティ（メール、アプリ、ウェブサイト）を監視できます。</string>
+  <string name="monitoring_description_vpn_settings">VPN 設定を開く</string>
+  <string name="monitoring_subtitle_ca_certificate">CA 証明書</string>
+  <string name="monitoring_subtitle_network_logging">ネットワーク ログ</string>
+  <string name="monitoring_subtitle_vpn">VPN</string>
+  <string name="monitoring_title">ネットワーク監視</string>
+  <string name="monitoring_title_device_owned">端末管理</string>
   <string name="mount_storage">はい</string>
   <string name="nav_guide_cancel">無視</string>
   <string name="nav_guide_message">ソフトボタンの表示/非表示をジェスチャーで使用。</string>
@@ -422,6 +448,21 @@
   <string name="quick_settings_bluetooth_label">Bluetooth</string>
   <string name="quick_settings_connect_success">接続</string>
   <string name="quick_settings_connecting">接続中</string>
+  <string name="quick_settings_disclosure_managed_profile_monitoring">組織は仕事用プロファイルのネットワーク トラフィックを監視することがあります</string>
+  <string name="quick_settings_disclosure_managed_profile_named_vpn">仕事用プロファイルは %1$s に接続しています</string>
+  <string name="quick_settings_disclosure_management">端末は組織によって管理されています</string>
+  <string name="quick_settings_disclosure_management_monitoring">組織がこの端末を管理しています。ネットワーク トラフィックが監視されることもあります</string>
+  <string name="quick_settings_disclosure_management_named_vpn">端末は組織によって管理され、%1$s に接続しています</string>
+  <string name="quick_settings_disclosure_management_vpns">端末は組織によって管理され、VPN に接続しています</string>
+  <string name="quick_settings_disclosure_monitoring">ネットワークが監視されることもあります</string>
+  <string name="quick_settings_disclosure_named_managed_profile_monitoring">%1$s によってこの仕事用プロファイルのネットワーク トラフィックが監視されることもあります</string>
+  <string name="quick_settings_disclosure_named_management">端末は %1$s によって管理されています</string>
+  <string name="quick_settings_disclosure_named_management_monitoring">%1$s がこの端末を管理しています。ネットワーク トラフィックが監視されることもあります</string>
+  <string name="quick_settings_disclosure_named_management_named_vpn">端末は %1$s によって管理され、%2$s に接続しています</string>
+  <string name="quick_settings_disclosure_named_management_vpns">端末は %1$s によって管理され、VPN に接続しています</string>
+  <string name="quick_settings_disclosure_named_vpn">端末は %1$s に接続しています</string>
+  <string name="quick_settings_disclosure_personal_profile_named_vpn">個人用プロファイルは %1$s に接続しています</string>
+  <string name="quick_settings_disclosure_vpns">端末は VPN に接続しています</string>
   <string name="quick_settings_done">完了</string>
   <string name="quick_settings_more_settings">その他の設定</string>
   <string name="quick_settings_wifi_detail_empty_text">利用可能なWi-Fiネットワークがありません</string>

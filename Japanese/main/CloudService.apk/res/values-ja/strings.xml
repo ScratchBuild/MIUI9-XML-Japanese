@@ -105,8 +105,6 @@ If you switch SIM cards, another SMS will be sent automatically to reactivate th
   <string name="find_device_pref_alert_positive">OK</string>
   <string name="find_device_pref_alert_title">Mi Account IDとパスワードを記憶する</string>
   <string name="find_device_pref_initializing">初期化中…</string>
-  <string name="find_device_reading_status">ステータスを読み込み中…</string>
-  <string name="find_device_reading_status_failure">"ステータスを読み込めませんでした。"</string>
   <string name="find_device_send_sms_alert">If you switch SIM cards, another SMS may be sent automatically to reactivate this feature.</string>
   <string name="find_device_service_summary">Visit i.mi.com to locate your device and lock it remotely</string>
   <string name="find_device_service_summary_international">Visit i.mi.com to locate your device and lock it remotely</string>
@@ -294,6 +292,7 @@ To fix this, you can either clean out some old files to make room for new ones, 
   <string name="micloud_main_head_menu_recycle_bin_title">"ゴミ箱"</string>
   <string name="micloud_main_head_menu_state_close">Closed</string>
   <string name="micloud_main_head_menu_state_open">Opened</string>
+  <string name="micloud_main_head_menu_state_unavailable">利用できません</string>
   <string name="micloud_main_last_sync_time">Last synced %s</string>
   <string name="micloud_main_master_sync_on">Sync on</string>
   <string name="micloud_main_memory_low_message">"同期するには、クラウドに保存したアイテムをいくつか削除します。"</string>
@@ -478,6 +477,8 @@ This feature encrypts and sends your device's ID to Mi's servers."</string>
   <string name="pref_title_sync_contacts_title">"連絡先を同期"</string>
   <string name="pref_title_sync_display_photo_on_wifi_only">"写真の同期はWi-Fiのみ使用する"</string>
   <string name="privacy_policy">プライバシーポリシー</string>
+  <string name="reading_status">ステータスを読み込み中…</string>
+  <string name="reading_status_failure">"ステータスを読み込めませんでした。"</string>
   <string name="recommend_open_all_sync">"すべてのアイテムを同期"</string>
   <string name="remind_later">後で</string>
   <string name="restoreSync">今すぐ同期</string>
