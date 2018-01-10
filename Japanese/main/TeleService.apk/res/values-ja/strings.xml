@@ -892,6 +892,7 @@
   <string name="puk_unlock_failed">PUK unlock unsuccessful.</string>
   <string name="puk_unlock_success">PUK unlock successful.</string>
   <string name="puk_unlocked">SIMカードロックを解除しました。端末のロックを解除しています...</string>
+  <string name="quick_dial_setting_title">クイックダイヤル</string>
   <string name="radio_off_error">これらの設定を表示するには無線通信をONにしてください。</string>
   <string name="rc_unlock_failed">RUIM Corporate unlock request unsuccessful.</string>
   <string name="rc_unlock_success">RUIM Corporate unlock successful.</string>

@@ -18,7 +18,7 @@
   <string name="ac_summaryOn">"オンにしました、アプリを開くにはパスワードが必要です"</string>
   <string name="ac_unmask_all_apps">"すべてのアプリを表示"</string>
   <string name="access_control_app_is_launching">"アプリを起動中"</string>
-  <string name="access_control_failed_need_to_unlock_nofingerprint">"新しい指紋を使用するためにロック解除のパターンを描画"</string>
+  <string name="access_control_failed_need_to_unlock_nofingerprint">Enter password before unlocking with a new fingerprint</string>
   <string name="access_control_fingerprint_not_identified_msg">"指紋を読み取れませんでした。"</string>
   <string name="access_control_need_password">"%sが正常に追加されました"</string>
   <string name="access_control_need_to_unlock_nofingerprint">"アプリロックのパスワードを入力"</string>
@@ -26,7 +26,8 @@
   <string name="action_button_text_60">"修復"</string>
   <string name="action_button_text_60_80">"修復"</string>
   <string name="action_button_text_80_100">"最適化"</string>
-  <string name="action_source_sms_title">Blocked SMS</string>
+  <string name="action_source_call_title">Blocked Calls</string>
+  <string name="action_source_sms_title">Blocked Messages</string>
   <string name="activity_title_antispam">"ブロックリスト"</string>
   <string name="activity_title_antivirus">"セキュリティスキャン"</string>
   <string name="activity_title_apps_manager">"アプリ"</string>
@@ -335,7 +336,7 @@
   <string name="back_description_securitycenter">"戻る"</string>
   <string name="back_modifypassword">"パスワードの変更に戻る"</string>
   <string name="back_sound_data">"モバイルネットワーク接続が必要です、もう一度お試しください"</string>
-  <string name="back_sound_fail">"失敗"</string>
+  <string name="back_sound_fail">Failed！By reason of the change of operator interface, you can try to switch current sim card to network card and try again.</string>
   <string name="back_sound_success">"成功"</string>
   <string name="back_sound_support">"現在のネットワーク事業者はそれをサポートしていません"</string>
   <string name="background_restrict_app_dialog_message">"このアプリのバックグラウンドネットワークアクセスを制限すると、メッセージの受信、コンテンツのダウンロード、その他の機能が正常に動作しなくなる可能性があります。とにかく制限しますか？"</string>
@@ -566,6 +567,7 @@
   <string name="deep_save_ontime_boot_shutdown_summary">Schedule time to turn device on and off</string>
   <string name="delete">"削除"</string>
   <string name="delete_from_manual_item_white_list">"例外から削除"</string>
+  <string name="delete_input">"削除"</string>
   <string name="deleted_apps">"削除したアプリ"</string>
   <string name="descx_quick_scan_cancel">"スキャンがキャンセルされました"</string>
   <string name="descx_quick_scan_preparation">"読み込み中…"</string>
@@ -687,6 +689,7 @@
   <string name="firewall_restrict_wlan">"Wi-Fi接続を制限する"</string>
   <string name="firewall_rule_group_title_roaming">"海外ローミング"</string>
   <string name="firewall_system_title">"システムアプリのデータ使用量"</string>
+  <string name="firewall_temp_rule_reason">%2$s restricted internet connection for %1$s​</string>
   <string name="firewall_wifi">Wi-Fi</string>
   <string name="firewall_wifi_dialog_message">"The installed app won't be able to connect to the internet using WLAN when this switch is off.​"</string>
   <string name="five_percent_total_pkg">%s (5%% of monthly data)</string>
@@ -737,6 +740,7 @@
   <string name="gateway_exception_summary">"ルーターを確認してもう一度お試しください。"</string>
   <string name="gateway_exception_summary2">"サーバーに接続できませんでした"</string>
   <string name="gateway_exception_title">"ルーターのテスト"</string>
+  <string name="gb_new_feature">New feature</string>
   <string name="gb_description_image_button_answer">"応答"</string>
   <string name="gb_description_image_button_reject">"拒否"</string>
   <string name="gb_description_image_button_video_answer">"ビデオ通話"</string>
@@ -811,6 +815,7 @@
   <string name="info_unantispam_sms">"メッセージを許可"</string>
   <string name="information_setting">Recommendations</string>
   <string name="input_aviable_traffic">"データ使用量の制限を設定"</string>
+  <string name="input_password_hint_text">"パスワードを入力"</string>
   <string name="input_traffic_pkg">"データ使用量を入力"</string>
   <string name="input_used_hint">"データ使用量を入力"</string>
   <string name="input_used_max_hint">"データ使用量の制限を入力 (%s未満)"</string>
@@ -913,7 +918,7 @@ Carrier may charge you additional fees if you use mobile data connection again."
   <string name="main_button_usage_adjusting_bill">"変更中…"</string>
   <string name="main_button_usage_package_setting">"データ使用量の制限を設定"</string>
   <string name="main_daily_package">Daily data plan</string>
-  <string name="main_indicator_title">Waiting for activation</string>
+  <string name="main_indicator_title">Activation</string>
   <string name="main_leisure_remained">Off-peak data remaining</string>
   <string name="main_month_total_used">Used this month</string>
   <string name="main_month_used">"データプラン"</string>
@@ -1029,6 +1034,14 @@ Carrier may charge you additional fees if you use mobile data connection again."
   <string name="mi_service_app_detail">"データ使用量の詳細"</string>
   <string name="mi_service_traffic_detail">"フレームワークの詳細"</string>
   <string name="mian_page_primary_txt">"海外ローミング"</string>
+  <string name="mixed_need_to_confirm">Enter again to confirm</string>
+  <string name="mixed_password_confirmed_header_confirm">Set successfully. Tap to confirm.</string>
+  <string name="mixed_password_confirmed_header_continue">Set successfully. Tap \"Next\".</string>
+  <string name="mixed_pattern_entered_header">Set password successfully</string>
+  <string name="mixed_recording_incorrect_too_short">Enter at least %d characters.</string>
+  <string name="mixed_recording_intro_header">Enter at least 4 characters</string>
+  <string name="mixed_retry_button_text">"キャンセル"</string>
+  <string name="mixed_settings_help_how_to_record">How to set password</string>
   <string name="modify_password_mode">&lt;u>パスワードの種類を変更&lt;/u></string>
   <string name="modifypassword">"パスワードの変更"</string>
   <string name="monitor_app_add">"追加"</string>
@@ -1124,6 +1137,14 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
   <string name="notify_weekly_traffic_body">To limit data usage automatically, set up your monthly data plan.</string>
   <string name="notify_weekly_traffic_title">Used %s this week</string>
   <string name="notify_weekly_traffic_title_for_slotnum">%1$s used %2$s this week</string>
+  <string name="numeric_need_to_confirm">Enter again to confirm</string>
+  <string name="numeric_password_confirmed_header_confirm">Set successfully. Tap to confirm.</string>
+  <string name="numeric_password_confirmed_header_continue">Set successfully. Tap \"Next\".</string>
+  <string name="numeric_pattern_entered_header">Set PIN successfully</string>
+  <string name="numeric_recording_incorrect_too_short">Enter at least %d digit.</string>
+  <string name="numeric_recording_intro_header">Enter password</string>
+  <string name="numeric_retry_button_text">"キャンセル"</string>
+  <string name="numeric_settings_help_how_to_record">How to set PIN</string>
   <string name="ok">OK</string>
   <string name="ok_button">OK</string>
   <string name="old_sdk_deny_warning">"The app isn't compatible with the latest Android permission requirements. Denied permissions may affect the way this app works."</string>
@@ -1233,7 +1254,9 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
   <string name="password_forget_pattern_title">"注意"</string>
   <string name="password_promotion_not_login_xiaomi_account_message">Add your Mi Account to be able to reset your password in case you forget it.</string>
   <string name="password_promotion_postbutton_text">"設定を開く"</string>
-  <string name="password_promotion_title">Privacy protection password</string>
+  <string name="password_promotion_title">Add Mi Account</string>
+  <string name="password_type">Change password</string>
+  <string name="password_type_underline">&lt;u>Change password&lt;/u></string>
   <string name="path_antispam">システムアプリ/セキュリティ/ブロックリスト</string>
   <string name="path_antivirus">システムアプリ/セキュリティ/ウイルススキャン</string>
   <string name="path_app_permissions">システムアプリ/セキュリティ/パーミッション/App permissions</string>
@@ -1430,6 +1453,7 @@ While calibrating, MIUI will send a text message to your carrier to receive the 
   <string name="quick_optimize_sub_summary_text">Added %s to battery life</string>
   <string name="quick_optimize_suggest_battery_consume_too_fast">The phone is draining battery, fix it</string>
   <string name="quick_optimize_suggest_battery_over_heat">The phone is overheating, fix it</string>
+  <string name="quite_all_string">"キャンセル"</string>
   <string name="read_all_sms">"すべてを既読にする"</string>
   <string name="receive_now">Receive</string>
   <string name="recently_reject_message">Rejected installation of %1$s and %2$d other apps</string>
@@ -1526,6 +1550,9 @@ While calibrating, MIUI will send a text message to your carrier to receive the 
   <string name="security_scan_optimizing">"最適化しています…"</string>
   <string name="see_detail">"詳細"</string>
   <string name="set_applock_password">"パスワードを設定"</string>
+  <string name="set_mixed_password_name">"パスワードを設定"</string>
+  <string name="set_numeric_password_name">"PINを設定"</string>
+  <string name="set_pattern_password_name">"パターンを設定"</string>
   <string name="setting">"設定"</string>
   <string name="setting_alarm_summary">各大平台官方红包活动闹钟提醒</string>
   <string name="setting_privacy_password">"パターンを追加"</string>
@@ -2009,6 +2036,12 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="unlike">"結構です"</string>
   <string name="unlock_pattern">&lt;u>パターン&lt;/u></string>
   <string name="unlock_pattern_to_bind_fingerprint">"指紋を有効にするためのパスワードを入力"</string>
+  <string name="unlock_set_unlock_password_summary">Combine different characters</string>
+  <string name="unlock_set_unlock_password_title">"パスワード"</string>
+  <string name="unlock_set_unlock_pattern_summary">Connect at least 4 dots</string>
+  <string name="unlock_set_unlock_pattern_title">"パターン"</string>
+  <string name="unlock_set_unlock_pin_summary">Enter 4 digits</string>
+  <string name="unlock_set_unlock_pin_title">PIN</string>
   <string name="updating_diagnostic_botton">"データを分析中…"</string>
   <string name="usage_sorted_activity_lable">"データ使用量"</string>
   <string name="usage_sorted_empty_text">Empty</string>
@@ -2058,6 +2091,7 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="wlan_booster">WLAN optimization</string>
   <string name="wlan_change_protection_detail">"モバイルデータに接続しているときは、自動でWi-Fiに切り替えないようにする"</string>
   <string name="wlan_change_protection_title">"ネットワークの切り替え防止"</string>
+  <string name="wrong_password">"パスワードが正しくありません"</string>
   <string name="xunyou_net_booster">Network speed boost</string>
   <string name="xunyou_net_booster_detail">Use Xunyou speed boost services for gaming</string>
   <string name="xunyou_pay_webview">Xunyou services</string>

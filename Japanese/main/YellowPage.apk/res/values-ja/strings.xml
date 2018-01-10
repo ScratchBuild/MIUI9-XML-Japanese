@@ -17,6 +17,14 @@
   <string name="agree_to_turn_on">同意</string>
   <string name="all_services">すべて</string>
   <string name="allow">許可</string>
+  <string name="antispam_curr_version">現在のバージョン: %d</string>
+  <string name="antispam_data_downloading">Downloading Caller ID info. This might take 3-5 seconds.</string>
+  <string name="antispam_data_downloading_error">ネットワークに接続できませんでした</string>
+  <string name="antispam_local_newest">現在のバージョンが最新です。</string>
+  <string name="antispam_network_remind_summary">モバイルデータ接続を使用して更新をダウンロードしますか？</string>
+  <string name="antispam_network_remind_title">データ使用の警告</string>
+  <string name="antispam_pull_newest">バージョン %d に正常に更新されました</string>
+  <string name="antispam_update_version">更新を確認</string>
   <string name="app_label">イエローページ</string>
   <string name="app_recommendation_install">インストール</string>
   <string name="average_price">Average %d RMB</string>

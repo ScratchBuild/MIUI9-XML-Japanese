@@ -325,6 +325,7 @@
   <string name="description_minus_button">"マイナス"</string>
   <string name="description_plus_button">"プラス"</string>
   <string name="description_quick_contact_for">Quick contact for %1$s</string>
+  <string name="description_quick_dial_button">"クイックダイヤル"</string>
   <string name="description_search_button">検索</string>
   <string name="description_send_message">"%1$sさんにメッセージを送信"</string>
   <string name="description_send_text_message">"%1$sさんにSMSを送信"</string>
@@ -376,6 +377,7 @@
   <string name="dialer_empty_text_loading">"読み込み中…"</string>
   <string name="dialer_empty_text_no_call_log">No recent contacts</string>
   <string name="dialer_empty_text_no_search_result">"連絡先が見つかりません"</string>
+  <string name="dialer_firewall_entry_name">"ブロックした通話記録"</string>
   <string name="dialer_menu_description">"メニューを表示"</string>
   <string name="dialer_menu_title">"メニューオプション"</string>
   <string name="dialer_returnToInCallScreen">"通話に戻る"</string>
@@ -899,6 +901,12 @@ To add a contact to your list of favorites:
   <string name="pull_to_refresh_release_label">"指を離して更新"</string>
   <string name="qr_card_card">"QRコード"</string>
   <string name="qrcode_card_title">"QRコード"</string>
+  <string name="quick_dial_setting_delete_dialog_message">"割り当てられたクイックダイヤル番号を削除しますか？"</string>
+  <string name="quick_dial_setting_delete_dialog_option_delete">"削除"</string>
+  <string name="quick_dial_setting_hint">"クイックダイヤルの割り当てや削除を行うにはボタンをタップします。発信するには、割り当てられた番号のボタンを長押ししてください。"</string>
+  <string name="quick_dial_setting_set_dialog_message">"このボタンにクイックダイヤル番号を割り当てますか？"</string>
+  <string name="quick_dial_setting_set_dialog_option_set">"はい"</string>
+  <string name="quick_dial_setting_title">"クイックダイヤル"</string>
   <string name="quickcontact_missing_app">"この操作を行うアプリが見つかりませんでした。"</string>
   <string name="quit_dialog_confirm_message">"You haven't merged any contacts"</string>
   <string name="quit_dialog_confirm_title">"連絡先の統合をキャンセル"</string>
@@ -964,6 +972,7 @@ To add a contact to your list of favorites:
   <string name="search_key_rebuild_t9_index_title">Organize;Contacts;t9</string>
   <string name="search_key_sim_manage">Organize;Contacts</string>
   <string name="search_preference_contacts_filter">Contacts;Display</string>
+  <string name="search_quick_dial_setting">Contacts</string>
   <string name="search_remove_duplicate">Organize;Contacts</string>
   <string name="search_results_searching">"検索しています..."</string>
   <string name="search_settings_description">"連絡先の名前"</string>

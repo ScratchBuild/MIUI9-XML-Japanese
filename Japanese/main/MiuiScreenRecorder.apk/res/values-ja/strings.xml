@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="app_info">記録中、停止するにはタップ</string>
   <string name="app_name">スクリーンレコーダー</string>
+  <string name="app_notification_info">スクリーンレコーダーはバックグラウンドで動作中です</string>
   <string name="app_notification_title">スクリーンレコーダー</string>
   <string name="auto_stop_title">動画が正常に保存されました</string>
   <string name="battery_not_allowed" formatted="false">バッテリーが3%未満の時は記録できません。バッテリーが20%以上充電されている必要があります。</string>
@@ -37,8 +37,7 @@
   <string name="low_battery">記録を開始する前に端末を充電してください</string>
   <string name="low_battery_title">バッテリー不足</string>
   <string name="low_battery_warning">バッテリーが残りわずかです。記録を停止して動画を保存しました。</string>
-  <string name="low_memory">ストレージの空き容量が200MB未満です。今すぐ最大5分まで記録することができます。</string>
-  <string name="low_memory_dior">ストレージの空き容量が500MB未満です。今すぐ最大12分まで記録することができます。</string>
+  <string name="low_memory">ストレージの空き容量が1GB未満です。今すぐ最大20分まで記録することができます。</string>
   <string name="low_memory_title">十分な空き容量がありません</string>
   <string name="low_momery_warning">十分な空き容量がありません。記録を停止して動画を保存しました。</string>
   <string name="memory_not_allowed">空き容量がありません。記録するには空き容量を確保してください。</string>
@@ -51,6 +50,7 @@
   <string name="quit_recording">スクリーンレコーダーを終了</string>
   <string name="recording_failure">記録できませんでした</string>
   <string name="recording_max_size">動画ファイルがサイズの上限に達したため、録画を停止して自動保存しました。録画を続行するには中断したところから録画を開始してください。</string>
+  <string name="recording_without_mic">マイクが塞がっているため、マイクの音声を録音できません</string>
   <string name="resolution">解像度</string>
   <string name="resolution_summary">高解像度にすると動画がより鮮明に見えます</string>
   <string name="screen_orientation">画面の向き</string>

@@ -306,13 +306,16 @@ to enter Second space from Lock screen"</string>
   <string name="wating">"読み込み中…"</string>
   <string name="weibo_send">Send to Weibo</string>
   <string name="weixin_pay">WeChat Pay</string>
-  <string name="weixin_share">Share to Moments</string>
+  <string name="weixin_share_sign">"ログインして共有"</string>
   <string name="xpsace_guide_button">"作成"</string>
   <string name="xspace_account">"デュアルアプリのアカウント"</string>
   <string name="xspace_chocie">"デュアルアプリのサポート"</string>
   <string name="xspace_creating">"デュアルアプリを作成中…"</string>
   <string name="xspace_default_app_summary">"支払い、共有、お気に入りなどのデフォルトアプリを設定します。"</string>
   <string name="xspace_default_app_title">"デフォルトアプリ"</string>
+  <string name="xspace_default_guide_notification_content">"変更するにはタップ"</string>
+  <string name="xspace_default_guide_notification_main_title">"デフォルトアプリを使用"</string>
+  <string name="xspace_default_guide_notification_xspace_title">"デュアルアプリを使用"</string>
   <string name="xspace_default_setting_dialog_title">"デフォルト"</string>
   <string name="xspace_default_setting_label">"デフォルトアプリ"</string>
   <string name="xspace_description">"デュアルアプリを作成して使用します。デュアルアプリはホーム画面上に別々のアイコンを持ちます。"</string>

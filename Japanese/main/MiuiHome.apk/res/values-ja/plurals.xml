@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="announce_for_drag">
+        <item quantity="other">%1$d個のアイテムをドラッグ中</item>
+        <item quantity="one">ドラッグ中</item>
+    </plurals>
     <plurals name="delete_wallpapers_message">
         <item quantity="other">%1$d枚の壁紙を削除しますか？</item>
         <item quantity="one">%1$d枚の壁紙を削除しますか？</item>

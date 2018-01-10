@@ -10,13 +10,13 @@
   <string name="add_to_album_bulk_result">"エラー (%d)"</string>
   <string name="add_to_album_exist">"この写真は既に存在します"</string>
   <string name="add_to_album_failed">"アルバムに追加できませんでした"</string>
+  <string name="add_to_album_failed_with_reason">"アルバムに追加できません。%1$s。"</string>
   <string name="add_to_album_success">"アルバムに追加しました"</string>
   <string name="add_to_album_tip">Cloud photos</string>
   <string name="add_to_favorites_failed">"お気に入りに追加できませんでした"</string>
   <string name="add_to_secret_exist">Photo already exists in hidden album</string>
   <string name="add_to_secret_fail">"Couldn't add to hidden album"</string>
   <string name="add_to_secret_failed_with_reason">"Can't add to hidden album. %1$s."</string>
-  <string name="add_to_secret_failed_with_reason_and_count">"%2$s items can't be added to hidden album. %1$s."</string>
   <string name="add_to_secret_successful">Added to hidden album</string>
   <string name="add_to_share_album_not_delete">"共有アルバムから写真を削除することはできません"</string>
   <string name="added_to_favorites_tip">Added to \"Favorites\" album</string>
@@ -546,6 +546,7 @@ Take more photos of your friends!"</string>
   <string name="loading_image">"画像をダウンロード中…"</string>
   <string name="loading_image_thumbnail">"サムネイルをダウンロード中…"</string>
   <string name="loading_members">Loading members026</string>
+  <string name="loading_processing_tip">"写真の処理中…"</string>
   <string name="loading_suspend">Download paused. Will resume when WLAN is available.</string>
   <string name="loading_video">"動画をダウンロード中…"</string>
   <string name="loading_video_fail_sync_without_network">"ネットワークに接続してメタデータをダウンロードする"</string>
@@ -601,6 +602,7 @@ Take more photos of your friends!"</string>
   <string name="open">"オンにする"</string>
   <string name="open_public_message">Create URL to share with your friends</string>
   <string name="open_public_title">"共有"</string>
+  <string name="operate_processing_file_error">"すべての写真が処理されるまでお待ちください。"</string>
   <string name="operation_add_album">"アルバムに追加"</string>
   <string name="operation_add_picture">"アイテムを追加"</string>
   <string name="operation_add_secret">"非表示"</string>
@@ -782,7 +784,6 @@ Take more photos of your friends!"</string>
   <string name="remove_from_other_albums_tip">"他のアルバムからこのアルバムへ移動しますか？"</string>
   <string name="remove_from_secret_fail">"Couldn't remove from hidden album"</string>
   <string name="remove_from_secret_failed_with_reason">"Can't remove from hidden album. %1$s."</string>
-  <string name="remove_from_secret_failed_with_reason_and_count">"%2$s items can't be removed from hidden album. %1$s."</string>
   <string name="remove_from_secret_successful">Removed from hidden album</string>
   <string name="remove_to_album_title">Merge with</string>
   <string name="remove_to_other_album">Merge with a different person</string>
