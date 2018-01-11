@@ -676,7 +676,7 @@ Then answer the question"</string>
 送信したメールのリンクをクリックしてください。"</string>
   <string name="passport_completed">"完了"</string>
   <string name="passport_confirm_recycle_account">"はい"</string>
-  <string name="passport_confirm_recycle_account_msg">"&lt;font color=Red&gt;Looks like&lt;/font&gt; the number %s has been recycled by your carrier, and there's a Mi Account associated with it. Is this account yours?"</string>
+  <string name="passport_confirm_recycle_account_msg">"&lt;font color=Red>Looks like&lt;/font> the number %s has been recycled by your carrier, and there's a Mi Account associated with it. Is this account yours?"</string>
   <string name="passport_continue">"続行"</string>
   <string name="passport_copy_message_text_success">"正常にコピーされました"</string>
   <string name="passport_copy_message_vcode">"コードをコピー"</string>
@@ -716,7 +716,7 @@ Then answer the question"</string>
   <string name="passport_get_back_pwd">"アカウントのパスワードを取得"</string>
   <string name="passport_get_innetdate_agree">"確認"</string>
   <string name="passport_get_innetdate_disagree">"いいえ"</string>
-  <string name="passport_get_innetdate_msg">&lt;font color=Red&gt;Looks like&lt;/font&gt; the number %s has been recycled by your carrier. Check when the number went online?</string>
+  <string name="passport_get_innetdate_msg">&lt;font color=Red>Looks like&lt;/font> the number %s has been recycled by your carrier. Check when the number went online?</string>
   <string name="passport_get_innetdate_title">Check when the number went online</string>
   <string name="passport_get_verify_code">"コードを取得"</string>
   <string name="passport_getting_activator_phone">Getting SIM info…</string>
@@ -798,14 +798,14 @@ Then answer the question"</string>
   <string name="passport_reset_fail_title">"リセットできませんでした"</string>
   <string name="passport_reset_password_prompt">"パスワードが正しくありません"</string>
   <string name="passport_reset_password_title">"パスワードをリセット"</string>
-  <string name="passport_restart">Start over</string>
+  <string name="passport_restart">"やり直す"</string>
   <string name="passport_restart_register_prompt">Another verification message may be required to create your account.</string>
   <string name="passport_restart_register_title">"Mi Accountを作成"</string>
   <string name="passport_retry">"再試行"</string>
   <string name="passport_select_reg_ways_title">"その他の方法で登録"</string>
-  <string name="passport_select_the_login_account">Select the account to sign in</string>
-  <string name="passport_select_the_recycle_phone_login">Select your account</string>
-  <string name="passport_select_the_register_phone">Select the phone number to create an account</string>
+  <string name="passport_select_the_login_account">"ログインするアカウントを選択"</string>
+  <string name="passport_select_the_recycle_phone_login">"アカウントを選択"</string>
+  <string name="passport_select_the_register_phone">"アカウントの作成に使用する電話番号を選択"</string>
   <string name="passport_send_too_many_code">"この番号に送信された認証コードが多すぎます。24時間待ってからもう一度お試しください。"</string>
   <string name="passport_send_vcode_failed">"Couldn't send code"</string>
   <string name="passport_sending_vcode">Sending code…</string>
@@ -899,9 +899,6 @@ Then answer the question"</string>
   <string name="push_add_desc">Control the nearby %1$s with this remote?</string>
   <string name="quick_add_tv_power">Matched: %1$s TV power switch</string>
   <string name="rc">Remote</string>
-  <string name="rc_add_distance">%1$dm</string>
-  <string name="rc_add_distance_far">>1000km</string>
-  <string name="rc_add_distance_km">%1$skm</string>
   <string name="rc_name">Mi Remote</string>
   <string name="receive_share_cancel">"キャンセル"</string>
   <string name="receive_share_done">Shared successfully. You can use it now.</string>
@@ -926,9 +923,7 @@ Then answer the question"</string>
   <string name="reset">"リセット"</string>
   <string name="respond">Works</string>
   <string name="retry_for_more">Tap to view more</string>
-  <string name="room_guide_tips">"Control multiple devices
- 
-directly from your Lock screen"</string>
+  <string name="room_guide_tips">"ロック画面から複数のデバイスを\n直接コントロールできます"</string>
   <string name="save">"保存"</string>
   <string name="save_share_tips">Like the app? You can rate it.</string>
   <string name="save_share_title">Save the remote on this device?</string>
@@ -979,7 +974,7 @@ Open the remote's settings and tap \"Share\"."</string>
   <string name="search_history">"検索履歴"</string>
   <string name="search_history_clear">"検索履歴を消去"</string>
   <string name="search_history_empty">"検索履歴がありません"</string>
-  <string name="search_menu_title">Search</string>
+  <string name="search_menu_title">"検索"</string>
   <string name="search_more_failed">"結果を読み込めませんでした"</string>
   <string name="search_no_device">"Couldn't find devices"</string>
   <string name="search_no_result">結果がありません</string>

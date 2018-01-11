@@ -120,7 +120,7 @@
   <string name="find_device_bad_response_error">"サーバーエラーが発生しました、後ほど再試行してください"</string>
   <string name="find_device_display_id">Unlock number: %s</string>
   <string name="find_device_error_password_not_confirmed">"Find deviceをオフにできません。もう一度Mi Accountのパスワードを入力してください。"</string>
-  <string name="find_device_error_password_recently_changed">"You've changed your password within last 3 days. Can't turn off Find device now due to security reasons."</string>
+  <string name="find_device_error_password_recently_changed">"過去3日以内にパスワードを変更しました。セキュリティ上の理由により、Find deviceを今すぐオフにできません。"</string>
   <string name="find_device_interrupted">"アクションが中断されました、後ほど再試行してください"</string>
   <string name="find_device_io_error">"ネットワークに接続できません"</string>
   <string name="find_device_locked_account_email" formatted="false">"%s、関連付けられたメールアドレス: %s"</string>
@@ -181,7 +181,7 @@
   <string name="notify_network_restricted_title">"Mi Accountがネットワークに接続できませんでした"</string>
   <string name="oauth_get_scopes_failed">"アカウント情報を取得できませんでした"</string>
   <string name="oauth_getting_scopes">"アカウントを確認中…"</string>
-  <string name="oauth_scopes_intro">&lt;font color=#%1$s&gt;%2$s&lt;/font&gt; will get following permissions:&lt;br&gt; &lt;br&gt; %3$s</string>
+  <string name="oauth_scopes_intro">&lt;font color=#%1$s>%2$s&lt;/font> will get following permissions:&lt;br> &lt;br> %3$s</string>
   <string name="oauth_title">"Mi Accountでログイン"</string>
   <string name="other_devices_title">"その他のデバイス"</string>
   <string name="passport_access_denied">"アクセスが拒否されました"</string>
@@ -214,7 +214,7 @@
   <string name="passport_completed">"完了"</string>
   <string name="passport_confirm_login">"続行"</string>
   <string name="passport_confirm_recycle_account">"はい"</string>
-  <string name="passport_confirm_recycle_account_msg">"&lt;font color=Red&gt;Looks like&lt;/font&gt; the number %s has been recycled by your carrier, and there's a Mi Account associated with it. Is this account yours?"</string>
+  <string name="passport_confirm_recycle_account_msg">"&lt;font color=Red>Looks like&lt;/font> the number %s has been recycled by your carrier, and there's a Mi Account associated with it. Is this account yours?"</string>
   <string name="passport_continue">"続行"</string>
   <string name="passport_copy_message_text_success">"正常にコピーされました"</string>
   <string name="passport_copy_message_vcode">"コードをコピー"</string>
@@ -254,7 +254,7 @@
   <string name="passport_get_back_pwd">"アカウントのパスワードを取得"</string>
   <string name="passport_get_innetdate_agree">Check</string>
   <string name="passport_get_innetdate_disagree">No</string>
-  <string name="passport_get_innetdate_msg">&lt;font color=Red&gt;Looks like&lt;/font&gt; the number %s has been recycled by your carrier. Check when the number went online?</string>
+  <string name="passport_get_innetdate_msg">&lt;font color=Red>Looks like&lt;/font> the number %s has been recycled by your carrier. Check when the number went online?</string>
   <string name="passport_get_innetdate_title">Check when the number went online</string>
   <string name="passport_get_verify_code">"コードを取得"</string>
   <string name="passport_getting_activator_phone">Getting SIM info…</string>
@@ -293,7 +293,7 @@
   <string name="passport_privacy_policy">"プライバシーポリシー"</string>
   <string name="passport_pwd_generate_failure">"パスワードを生成できませんでした"</string>
   <string name="passport_pwd_generating">"生成中…"</string>
-  <string name="passport_querying_phone_info">Requesting account info…</string>
+  <string name="passport_querying_phone_info">"アカウント情報をリクエスト中…"</string>
   <string name="passport_quick_login">"ログイン"</string>
   <string name="passport_quick_login_dialog_step2_title">"2段階認証"</string>
   <string name="passport_quick_login_dialog_title">"パスワードを確認"</string>
@@ -306,14 +306,14 @@
   <string name="passport_recycle_login_other_account">"これは私のアカウントではありません。別のものを使用します。"</string>
   <string name="passport_reg_btn_using_other_phone">"別の電話番号を使用する"</string>
   <string name="passport_reg_failed">"アカウントを登録できません"</string>
-  <string name="passport_reg_new_account">Create account</string>
+  <string name="passport_reg_new_account">"アカウントを作成"</string>
   <string name="passport_reg_prompt">"Mi Accountをお持ちでない？無料で作成できます。"</string>
   <string name="passport_reg_recycle_account_no">"いいえ"</string>
   <string name="passport_reg_recycle_account_yes">"はい"</string>
   <string name="passport_reg_success">"アカウントを作成しました"</string>
   <string name="passport_reg_success_summary">%1$s has been bound with your account. You can use it to sign in or to reset your password.</string>
   <string name="passport_reg_type_email">"メールアドレス"</string>
-  <string name="passport_reg_using_other_phone">&lt;u&gt;別の電話番号を使用する&lt;/u&gt;</string>
+  <string name="passport_reg_using_other_phone">&lt;u>別の電話番号を使用する&lt;/u></string>
   <string name="passport_reg_using_other_phone_number_prompt">"Create a new account using "</string>
   <string name="passport_reg_using_phone_number_prompt">"電話番号を使用してアカウントを作成"</string>
   <string name="passport_reg_via_sms_alert">An outgoing SMS message may be required to activate this service. Your carrier will charge you for this message.</string>
@@ -321,7 +321,7 @@
   <string name="passport_register">"アカウントを作成"</string>
   <string name="passport_register_account_goto_email">"受信トレイに移動"</string>
   <string name="passport_register_account_verified_confirm">Account verified</string>
-  <string name="passport_register_by_email">"&lt;u&gt;メールアドレスを使用してアカウントを作成&lt;/u&gt;"</string>
+  <string name="passport_register_by_email">"&lt;u>メールアドレスを使用してアカウントを作成&lt;/u>"</string>
   <string name="passport_register_restricted">"この番号に関連付けられているアカウントが多すぎます、別のものを試してみてください"</string>
   <string name="passport_register_restricted_title">"この電話番号は使用できません"</string>
   <string name="passport_registered_phone_num">"電話番号: %s"</string>
@@ -341,9 +341,9 @@
   <string name="passport_restart_register_title">"Mi Accountを作成"</string>
   <string name="passport_retry">"再試行"</string>
   <string name="passport_select_reg_ways_title">"その他の方法で登録"</string>
-  <string name="passport_select_the_login_account">Select the account to sign in</string>
-  <string name="passport_select_the_recycle_phone_login">Select your account</string>
-  <string name="passport_select_the_register_phone">Select the phone number to create an account</string>
+  <string name="passport_select_the_login_account">"ログインするアカウントを選択"</string>
+  <string name="passport_select_the_recycle_phone_login">"アカウントを選択"</string>
+  <string name="passport_select_the_register_phone">"アカウントの作成に使用する電話番号を選択"</string>
   <string name="passport_send_too_many_code">"この番号に送信された認証コードが多すぎます。24時間待ってからもう一度お試しください。"</string>
   <string name="passport_send_vcode_failed">"Couldn't send code"</string>
   <string name="passport_sending_vcode">Sending code…</string>
