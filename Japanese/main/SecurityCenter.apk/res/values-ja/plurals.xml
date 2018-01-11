@@ -4,6 +4,10 @@
         <item quantity="other">%2$sやその他から%1$d件の着信</item>
         <item quantity="one">%2$sから%1$d件の着信</item>
     </plurals>
+    <plurals name="fw_blocked_count_call_one">
+        <item quantity="other">%2$sやその他から%1$d件の着信</item>
+        <item quantity="one">%2$sから%1$d件の着信</item>
+    </plurals>
     <plurals name="fw_blocked_count_sms">
         <item quantity="other">%d件のメッセージ</item>
         <item quantity="one">%d件のメッセージ</item>

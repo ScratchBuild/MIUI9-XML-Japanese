@@ -184,8 +184,10 @@
   <string name="app_manager_manage_space">"spaceの管理"</string>
   <string name="app_manager_memory">RAM</string>
   <string name="app_manager_menu_clear_data">"データを消去"</string>
+  <string name="app_manager_mobile_slot1">モバイルデータ (SIM 1)</string>
+  <string name="app_manager_mobile_slot2">モバイルデータ (SIM 2)</string>
   <string name="app_manager_net_control_title">"データ使用量を制限"</string>
-  <string name="app_manager_net_mobile">"データ"</string>
+  <string name="app_manager_net_mobile">"モバイルデータ"</string>
   <string name="app_manager_net_wifi">Wi-Fi</string>
   <string name="app_manager_not_allow">"いいえ"</string>
   <string name="app_manager_not_support_uninstall">"このアプリをアンインストールできません"</string>
