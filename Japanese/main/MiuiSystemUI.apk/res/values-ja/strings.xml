@@ -1,5 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="accessibility_action_divider_bottom_full">下部全画面</string>
+  <string name="accessibility_action_divider_left_30">左 30%</string>
+  <string name="accessibility_action_divider_left_50">左 50%</string>
+  <string name="accessibility_action_divider_left_70">左 70%</string>
+  <string name="accessibility_action_divider_left_full">左全画面</string>
+  <string name="accessibility_action_divider_right_full">右全画面</string>
+  <string name="accessibility_action_divider_top_30">上 30%</string>
+  <string name="accessibility_action_divider_top_50">上 50%</string>
+  <string name="accessibility_action_divider_top_70">上 70%</string>
+  <string name="accessibility_action_divider_top_full">上部全画面</string>
   <string name="accessibility_airplane_mode">機内モード。</string>
   <string name="accessibility_back">戻る</string>
   <string name="accessibility_battery_level">電池残量: %d%%</string>
@@ -33,7 +43,6 @@
   <string name="accessibility_desc_reconfirm_block">Hide now?</string>
   <string name="accessibility_desc_select_block_notification">Select notifications to hide</string>
   <string name="accessibility_desc_uncheck_block_notification">"Deselect %1$s's notifications"</string>
-  <string name="accessibility_desc_weather_temperature">Weather %1s degrees</string>
   <string name="accessibility_desc_work_lock">Work lock screen</string>
   <string name="accessibility_display_daltonizer_preference_subtitle">この機能は試験運用機能であり、パフォーマンスに影響することがあります。</string>
   <string name="accessibility_display_daltonizer_preference_title">色補正</string>
@@ -80,12 +89,23 @@
   <string name="account_info">ログインしていません</string>
   <string name="activate_usb_message">この機能を有効にするには、SIMカードを挿入してください。</string>
   <string name="activate_usb_title">USB有効化</string>
+  <string name="adb_keys_warning_message">以前に許可したすべてのパソコンからのUSBデバッグへのアクセスを取り消しますか？</string>
+  <string name="adb_warning_message">USBデバッグは開発専用に設計されています。パソコンと端末の間でデータをコピーする場合や、アプリを通知なしで端末にインストールする場合、ログデータを読み取る場合に使用できます。</string>
+  <string name="adb_warning_title">USBデバッグを許可しますか？</string>
+  <string name="allow_mock_location">擬似ロケーションを許可</string>
+  <string name="allow_mock_location_summary">擬似ロケーションを許可する</string>
   <string name="always_use_accessory">このUSBアクセサリを既定で使用する</string>
   <string name="always_use_device">このUSBデバイスを既定で使用する</string>
+  <string name="animator_duration_scale_title">Animator再生時間スケール</string>
+  <string name="apn_settings_not_available">このユーザーはアクセスポイント名設定を利用できません</string>
   <string name="app_label">システムUI</string>
+  <string name="app_process_limit_title">バックグラウンドプロセスの上限</string>
+  <string name="as_important">Important</string>
+  <string name="as_unimportant">Unimportant</string>
   <string name="audio_effect_custom">設定</string>
   <string name="audio_effect_info">オーディオの最適化</string>
   <string name="audio_effect_settings">ヘッドフォンタイプを選択してください</string>
+  <string name="available_via_passpoint">%1$s経由で使用可能</string>
   <string name="battery_info_status_charging">充電中</string>
   <string name="battery_info_status_charging_ac">ACで充電しています</string>
   <string name="battery_info_status_charging_ac_short">充電しています</string>
@@ -97,7 +117,6 @@
   <string name="battery_info_status_full">充電完了</string>
   <string name="battery_info_status_not_charging">充電していません</string>
   <string name="battery_info_status_unknown">不明</string>
-  <string name="available_via_passpoint">%1$s経由で使用可能</string>
   <string name="battery_low_percent_format">残り %d%%</string>
   <string name="battery_low_title">充電をしてください</string>
   <string name="battery_profiles">バッテリープロファイルを使用する</string>
@@ -183,6 +202,8 @@
   <string name="clear_adb_keys">USBデバッグの許可の取り消し</string>
   <string name="click_expand">タップして展開</string>
   <string name="click_to_return_multi_window">分割画面モードに戻るにはタップ</string>
+  <string name="confirm_enable_oem_unlock_text">警告: この設定をONにしている場合、この端末では端末保護機能を利用できません。</string>
+  <string name="confirm_enable_oem_unlock_title">OEMロック解除の許可</string>
   <string name="connected_via_passpoint">"%1$s経由で接続しました"</string>
   <string name="connected_via_wfa">"Wi-Fiアシスタント経由で接続しました"</string>
   <string name="convert_to_fbe_warning">"データ パーティションをファイルベースの暗号化に変換します。
@@ -192,6 +213,12 @@
   <string name="convert_to_file_encryption">ファイル暗号化に変換する</string>
   <string name="convert_to_file_encryption_done">ファイルは既に暗号化済みです</string>
   <string name="convert_to_file_encryption_enabled">変換…</string>
+  <string name="daltonizer_mode_deuteranomaly">第二色弱（赤緑）</string>
+  <string name="daltonizer_mode_disabled">無効</string>
+  <string name="daltonizer_mode_monochromacy">全色盲</string>
+  <string name="daltonizer_mode_protanomaly">第一色弱（赤緑）</string>
+  <string name="daltonizer_mode_tritanomaly">第三色弱（青黄）</string>
+  <string name="daltonizer_type_overridden">%1$sによって上書き済み</string>
   <string name="data_usage_disabled_dialog">"指定したデータ使用量に達しました。データ通信を再度有効にすると、通信事業者より料金を追加請求される場合があります。"</string>
   <string name="data_usage_disabled_dialog_3g_title">2G-3Gデータ通信無効</string>
   <string name="data_usage_disabled_dialog_4g_title">4Gデータ通信無効</string>
@@ -250,6 +277,11 @@
   <string name="enable_freeform_support_summary">外部のフリーフォーム ウィンドウのサポートを有効にします。</string>
   <string name="enable_opengl_traces_title">OpenGLトレースを有効化</string>
   <string name="enable_power_save_mode">バッテリーセーバーをオンにします</string>
+  <string name="enable_terminal_summary">ローカルシェルアクセスを提供するターミナルアプリを有効にします</string>
+  <string name="enable_terminal_title">ローカルターミナル</string> 
+  <string name="enable_webview_multiprocess">マルチプロセスWebView</string>
+  <string name="enable_webview_multiprocess_desc">WebViewレンダラを個別に実行する</string>
+  <string name="enabled_by_admin">管理者により有効にされています</string>
   <string name="expanded_confirm_disable_notification">非表示</string>
   <string name="expanded_notification_manager">通知の管理</string>
   <string name="ext_media_badremoval_notification_message">データ損失を避けるため、取り外し前にSDカードをアンマウントしてください。</string>
@@ -294,12 +326,20 @@
   <string name="fsg_demo_go_on">使い方</string>
   <string name="gps_notification_found_text">GPS測位完了</string>
   <string name="gps_notification_searching_text">GPS検索中</string>
+  <string name="hdcp_checking_dialog_title">HDCPチェック動作を設定</string>
+  <string name="hdcp_checking_title">HDCPチェック</string>
+  <string name="help_feedback_label">ヘルプとフィードバック</string>
+  <string name="home">Settings Home</string>
   <string name="hour_minute_time_format">HH:mm</string>
   <string name="how_to_back_home">ホーム画面に戻る</string>
   <string name="how_to_switch_recents">タスク履歴を開く</string>
   <string name="how_to_use_fsg">ジェスチャーを使用してこれらのアクションを実行できます:</string>
   <string name="immediately_destroy_activities">アクティビティを保持しない</string>
   <string name="immediately_destroy_activities_summary">ユーザーが離れたアクティビティを直ちに破棄する</string>
+  <string name="important_desc">すべての重要な通知は、通知シェードに直接表示されます。</string>
+  <string name="inactive_app_active_summary">有効です。タップすると切り替わります。</string>
+  <string name="inactive_app_inactive_summary">無効です。タップすると切り替わります。</string>
+  <string name="inactive_apps_title">休止中のアプリ</string>
   <string name="invalid_charger">"USB充電はサポートしていません。
 付属の充電器を使用してください。"</string>
   <string name="keep_screen_on">スリープモードにしない</string>
@@ -317,10 +357,7 @@
   <string name="keyboard_shortcut_group_applications_calendar">カレンダー</string>
   <string name="keyboard_shortcut_group_applications_contacts">連絡先</string>
   <string name="keyboard_shortcut_group_applications_email">メール</string>
-  <string name="keyboard_shortcut_group_applications_im">IM</string>
-  <string name="keyboard_shortcut_group_applications_music">Music</string>
-  <string name="keyboard_shortcut_group_applications_sms">SMS</string>
-  <string name="keyboard_shortcut_group_applications_youtube">YouTube</string>
+  <string name="keyboard_shortcut_group_applications_music">音楽</string>
   <string name="keyboard_shortcut_group_system">システム</string>
   <string name="keyboard_shortcut_group_system_back">戻る</string>
   <string name="keyboard_shortcut_group_system_home">ホーム</string>
