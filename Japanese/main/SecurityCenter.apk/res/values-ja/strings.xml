@@ -22,6 +22,7 @@
   <string name="access_control_fingerprint_not_identified_msg">"指紋を読み取れませんでした。"</string>
   <string name="access_control_need_password">"%sが正常に追加されました"</string>
   <string name="access_control_need_to_unlock_nofingerprint">"アプリロックのパスワードを入力"</string>
+  <string name="accessibility_gameboosterservice_description">"ゲームをプレイしている時に他のアプリからの着信呼び出しを無音にする"</string>
   <string name="action_button_text_100">"最適化"</string>
   <string name="action_button_text_60">"修復"</string>
   <string name="action_button_text_60_80">"修復"</string>
@@ -75,7 +76,6 @@
   <string name="after_the_lock_screen">"アプリは画面と一緒にロックする"</string>
   <string name="all_address_choose_hint">All numbers in this province</string>
   <string name="already_close_gamebooster">Gaming speed boost is off</string>
-  <string name="anim_gamebooster_text">"読み込み中…"</string>
   <string name="anti_disturb_msg_detail">"着信を除くすべての通知をオフにする"</string>
   <string name="anti_disturb_msg_title">DND</string>
   <string name="antispam_mode_details">"ブロックリストの詳細"</string>
