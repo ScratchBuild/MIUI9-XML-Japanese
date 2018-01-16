@@ -4239,9 +4239,7 @@ Android端末をUSBケーブルでコンピューターにつなぐことで、�
   <string name="unlock_disable_frp_warning_content_pin_fingerprint">"PINがないと、端末保護機能は利用できません。
   
 保存してある指紋もこの端末から削除されるため、指紋認証を使用してスマートフォンのロック解除、購入の許可、アプリへのログインを行うことはできなくなります。"</string>
-  <string name="unlock_disable_frp_warning_content_profile">"Profile protection features will not work without your password.
-
- You won't be able to unlock your profile, authorize purchases, or sign in to apps with them."</string>
+  <string name="unlock_disable_frp_warning_content_profile">パスワードがないと、プロフィール保護機能は利用できません。</string>
   <string name="unlock_disable_frp_warning_content_unknown">"画面ロックがないと、端末保護機能は利用できません。"</string>
   <string name="unlock_disable_frp_warning_content_unknown_fingerprint">"画面ロックがないと、端末保護機能は利用できません。
   

@@ -83,7 +83,7 @@
   <string name="confirm_export_dialog_description">この宛先との以前のスレッドは非表示になりません。</string>
   <string name="confirm_export_dialog_title">プライベートの連絡先から削除</string>
   <string name="confirm_no_block_positive">ブロックを解除</string>
-  <string name="confirm_no_block_title">"この番号のブロックを解除して、この番号から送信されたすべてのメッセージを復元しますか？ (番号はメッセージのホワイトリストに追加されます)"</string>
+  <string name="confirm_no_block_title">"この番号から送信されたすべてのメッセージのブロックを解除して復元しますか？ (番号は例外に追加されます)"</string>
   <string name="confirm_rate_limit">大量のマルチメディアメッセージを送信してもよろしいですか？</string>
   <string name="confirm_restore_all_title">この番号から送信されたすべてのメッセージを復元しますか？</string>
   <string name="confirm_restore_checkbox">ブロックされたメッセージを復元</string>

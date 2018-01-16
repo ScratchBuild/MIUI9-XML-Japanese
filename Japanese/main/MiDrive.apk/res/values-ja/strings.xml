@@ -25,10 +25,10 @@
   <string name="downloading">"ダウンロード中"</string>
   <string name="downloading_in_3g">"3Gでダウンロード中…"</string>
   <string name="downloading_in_wifi">"ダウンロード中…"</string>
-  <string name="drive_low_memory_description_content">Mobile phone storage space is insufficient, please go to the phone garbage clean up to release more storage space?</string>
-  <string name="drive_low_memory_description_title">Low memory Warning</string>
-  <string name="drive_low_memory_description_toast">Mobile phone storage space is insufficient, please clean up after the use of MiDrive</string>
-  <string name="drive_low_memory_positive_content">"クリーンアップ"</string>
+  <string name="drive_low_memory_description_content">"空き容量が不足しているため、Mi Driveを使用できません。"</string>
+  <string name="drive_low_memory_description_title">"空き領域が不足しています"</string>
+  <string name="drive_low_memory_description_toast">"空き容量が不足しているため、Mi Driveを使用できません。空き領域を確保してから、もう一度お試しください。"</string>
+  <string name="drive_low_memory_positive_content">"解放する"</string>
   <string name="empty_file_download">"空のファイルはサポートされていません。"</string>
   <string name="empty_file_upload">"空のファイルはサポートされていません。"</string>
   <string name="file_already_downlaoded">\"%1$s\"にファイルを保存しました</string>

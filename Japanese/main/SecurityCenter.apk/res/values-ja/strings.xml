@@ -1308,6 +1308,7 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
   <string name="power_btn_analyze">"電池使用量を分析"</string>
   <string name="power_cell">"セルスタンバイ"</string>
   <string name="power_center_auto_shutdown">Schedule power on/off</string>
+  <string name="power_center_back">Back power</string>
   <string name="power_center_charge_time">"フル充電まで%1$s"</string>
   <string name="power_center_ontime_boot">Power on time</string>
   <string name="power_center_ontime_shutdown">Power off time</string>

@@ -14,7 +14,7 @@
   <string name="all_topic">"すべてのトピック"</string>
   <string name="already_liked">"You've already starred this item"</string>
   <string name="apk_installing">正在安装...</string>
-  <string name="app_name">Explorer</string>
+  <string name="app_name">Mi File Manager</string>
   <string name="app_name_bluetooth">Bluetooth</string>
   <string name="app_name_camera">Camera</string>
   <string name="app_name_downloadedrom">Packages</string>
@@ -125,7 +125,7 @@
   <string name="data_consumption_checkbox_hint">"二度と表示しない"</string>
   <string name="data_consumption_confirm">OK</string>
   <string name="data_consumption_message">"このアプリが正常に動作するには、インターネットへの接続が必要です。"</string>
-  <string name="data_consumption_message1">"Explorerが正常に動作するには、Wi-Fiを使用してインターネットへの接続が必要です。"</string>
+  <string name="data_consumption_message1">"Mi File Managerが正常に動作するには、Wi-Fiを使用してインターネットへの接続が必要です。"</string>
   <string name="data_consumption_title">"インターネット接続"</string>
   <string name="decompress_cancel">"キャンセル"</string>
   <string name="decompress_confirm">"解凍"</string>
@@ -183,7 +183,7 @@
   <string name="encrypt_error">"Couldn't hide files, try again"</string>
   <string name="encrypt_prefix">HIDDEN</string>
   <string name="encrypt_success">Hidden successfully</string>
-  <string name="encrypt_success_first_five">"Encrypted and hid file. You can view hidden files by pulling down on the Explorer's start page."</string>
+  <string name="encrypt_success_first_five">"Encrypted and hid file. You can view hidden files by pulling down on the Mi File Manager's start page."</string>
   <string name="encrypting">"暗号化しています…"</string>
   <string name="error_contains_sharer_path">"/MIUI/Gallery/cloud/sharer フォルダ内のファイルは暗号化できません。ファイルを別のフォルダに移動して、もう一度お試しください。"</string>
   <string name="error_create_dir">"フォルダを作成できません"</string>
@@ -343,7 +343,7 @@
   <string name="month_day_format">MMM dd</string>
   <string name="more_hot_text">更多热门</string>
   <string name="move_failed">"切り取りできません"</string>
-  <string name="move_icon_to_desktop_hint">"Explorerで効率的にファイルを管理するためのショートカットをホーム画面に作成します。"</string>
+  <string name="move_icon_to_desktop_hint">"Mi File Managerで効率的にファイルを管理するためのショートカットをホーム画面に作成します。"</string>
   <string name="move_icon_to_desktop_success">"ホーム画面にショートカットを追加しました。"</string>
   <string name="move_to">"移動先を指定…"</string>
   <string name="msg_notify_setting">"通知設定"</string>
@@ -353,7 +353,7 @@
   <string name="my_follows">My feed</string>
   <string name="name_empty">"名前を入力"</string>
   <string name="need_login">"初めにログイン"</string>
-  <string name="need_read_storage_permission">"Explorerが正常に動作するには、デバイスの内部ストレージへのアクセス許可が必要です。"</string>
+  <string name="need_read_storage_permission">"Mi File Managerが正常に動作するには、デバイスの内部ストレージへのアクセス許可が必要です。"</string>
   <string name="net_error_text">"ネットワークエラー"</string>
   <string name="network_dialog_checkbox_tip">"二度と表示しない"</string>
   <string name="network_not_available">"ネットワークに接続できません"</string>
@@ -365,7 +365,7 @@
   <string name="no_apk">"アプリを入手するにはタップ"</string>
   <string name="no_app_tags">"何もありません"</string>
   <string name="no_comment">"コメントはありません"</string>
-  <string name="no_content">"人気の動画を表示するにはもう一度Explorerを開く"</string>
+  <string name="no_content">"人気の動画を表示するにはもう一度Mi File Managerを開く"</string>
   <string name="no_daren_tip">"ここには何もありません"</string>
   <string name="no_downloaded_sticker_tip">"Couldn't find downloaded stickers. Check out the stickers shared by Mi fans."</string>
   <string name="no_enough_storage_indication">"デバイスのストレージがいっぱいです。"</string>
@@ -447,8 +447,8 @@
   <string name="path_hot_video">View popular short videos for free</string>
   <string name="path_kuai_chuan">Peer-to-peer file transfers</string>
   <string name="path_recent_file">Manage files on your device</string>
-  <string name="permission_denial">"ファイルにアクセスできませんでした。Explorerがファイルにアクセスできるよう [設定] から許可してください。"</string>
-  <string name="permission_required">"ファイルにアクセスできませんでした。Explorerがファイルにアクセスできるよう [設定] から許可してください。"</string>
+  <string name="permission_denial">"ファイルにアクセスできませんでした。Mi File Managerがファイルにアクセスできるよう [設定] から許可してください。"</string>
+  <string name="permission_required">"ファイルにアクセスできませんでした。Mi File Managerがファイルにアクセスできるよう [設定] から許可してください。"</string>
   <string name="phone">"内部ストレージ"</string>
   <string name="phone_bind_skip">"スキップ"</string>
   <string name="phone_bind_tip">Add phone number to participate in rankings and win awards</string>
@@ -475,7 +475,7 @@
   <string name="phone_storage_image_title">Images: </string>
   <string name="phone_storage_info_str">%1$s of %2$s available</string>
   <string name="phone_storage_other_title">Other: </string>
-  <string name="phone_storage_size_tip">"Explorer's storage accounting may differ from other apps"</string>
+  <string name="phone_storage_size_tip">"Mi File Manager's storage accounting may differ from other apps"</string>
   <string name="phone_storage_video_title">Videos: </string>
   <string name="phone_storage_zip_title">Archives: </string>
   <string name="phone_valid_code_tip">The code has been entered too many times, try to get a new one</string>

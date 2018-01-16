@@ -134,9 +134,9 @@ If you switch SIM cards, another SMS will be sent automatically to reactivate th
   <string name="ks_download_success">Downloaded successfully</string>
   <string name="ks_fingerprint_payment">Fingerprint payments</string>
   <string name="ks_fingerprint_status">Payment status</string>
-  <string name="ks_name_alipay">IFAA</string>
+  <string name="ks_name_alipay">Alipay</string>
   <string name="ks_name_fido">FIDO</string>
-  <string name="ks_name_soter">Soter</string>
+  <string name="ks_name_soter">WeChat Pay</string>
   <string name="ks_status_available">Available</string>
   <string name="ks_status_unavailable">Not available</string>
   <string name="ks_update_certificate">Certificate</string>
@@ -163,7 +163,7 @@ If you switch SIM cards, another SMS will be sent automatically to reactivate th
   <string name="micloud_battery_low_notification_message">"同期するには充電器に接続してください"</string>
   <string name="micloud_battery_low_notification_title">Low battery</string>
   <string name="micloud_buy_member">Mi Cloudメンバーシップを購入</string>
-  <string name="micloud_buy_member_safe">"Mi Cloudストレージの拡張"</string>
+  <string name="micloud_buy_member_safe">"Mi Cloudストレージをもっと入手"</string>
   <string name="micloud_check_sim_notify_text">"Look's like you've changed SIM cards. Sign in
 to your Mi Account to reactivate Mi Cloud."</string>
   <string name="micloud_check_sim_notify_title">Reactivate Mi Cloud</string>
@@ -287,11 +287,11 @@ To fix this, you can either clean out some old files to make room for new ones, 
   <string name="micloud_main_error_activated_fail">SIMカードを有効にしてください。</string>
   <string name="micloud_main_error_network_disallowed">インターネットへのアクセスを許可してください。</string>
   <string name="micloud_main_error_permission_limit">Mi Cloudにストレージへのアクセスを許可してください。</string>
-  <string name="micloud_main_head_menu_cloud_backup">Cloud Backup</string>
-  <string name="micloud_main_head_menu_recycle_bin_summary">ReBackup Contacts,Photos</string>
-  <string name="micloud_main_head_menu_recycle_bin_title">"ゴミ箱"</string>
-  <string name="micloud_main_head_menu_state_close">Closed</string>
-  <string name="micloud_main_head_menu_state_open">Opened</string>
+  <string name="micloud_main_head_menu_cloud_backup">ホーム画面のバックアップ</string>
+  <string name="micloud_main_head_menu_recycle_bin_summary">削除したアイテムを復元する</string>
+  <string name="micloud_main_head_menu_recycle_bin_title">削除したアイテム</string>
+  <string name="micloud_main_head_menu_state_close">オフ</string>
+  <string name="micloud_main_head_menu_state_open">オン</string>
   <string name="micloud_main_head_menu_state_unavailable">利用できません</string>
   <string name="micloud_main_last_sync_time">Last synced %s</string>
   <string name="micloud_main_master_sync_on">Sync on</string>
