@@ -1082,7 +1082,6 @@ Go to Home page &gt; \"+\" &gt; Scanner."</string>
   <string name="start_auto_tune">Automatically tune channel on power on</string>
   <string name="start_diagnosis">Test</string>
   <string name="start_match">Pair</string>
-  <string name="status_bar_notification_info_overflow">999+</string>
   <string name="stb">Set-top box</string>
   <string name="stb_power">STB on/off</string>
   <string name="steps">Attempt #%d</string>

@@ -89,7 +89,6 @@
   <string name="sort_date">更新日順</string>
   <string name="sort_name">名前順</string>
   <string name="sort_size">サイズ順</string>
-  <string name="status_bar_notification_info_overflow">999+</string>
   <string name="title_open">次から開く:</string>
   <string name="title_save">次に保存:</string>
   <string name="toast_failed_delete">一部のドキュメントを削除できません</string>

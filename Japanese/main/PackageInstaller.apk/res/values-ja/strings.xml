@@ -121,7 +121,6 @@
   <string name="screen_overlay_title">"画面オーバーレイを検出"</string>
   <string name="security_settings_desc">"このアプリに許可する権限:"</string>
   <string name="settings">"設定"</string>
-  <string name="status_bar_notification_info_overflow">999+</string>
   <string name="system_warning">"この権限を許可しないと、お使いの端末の基本的な機能が意図されたとおりに動作しなくなる可能性があります。"</string>
   <string name="uninstall_activity_text">"%1$sは次のアプリの一部です:"</string>
   <string name="uninstall_application_text">"このアプリをアンインストールしますか？"</string>
