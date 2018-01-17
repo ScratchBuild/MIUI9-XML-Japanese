@@ -487,6 +487,7 @@
   <string name="wechat_copying_video_dialog_title">"ギャラリーにエクスポート"</string>
   <string name="wechat_copying_video_empty">"エクスポートする動画はありません"</string>
   <string name="wechat_copying_video_success">"正常にエクスポートされました"</string>
+  <string name="wechat_qq_activity_title">Deep clean</string>
   <string name="wechat_qq_celan_tab_file">"ファイル"</string>
   <string name="wechat_qq_celan_tab_image">"画像"</string>
   <string name="wechat_qq_celan_tab_video">"動画"</string>

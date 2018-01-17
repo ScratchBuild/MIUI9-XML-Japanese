@@ -114,7 +114,7 @@
   <string name="antivirus_update_btn_update">"更新"</string>
   <string name="apn_exception_summary">"携帯通信会社のAPN設定をテストする"</string>
   <string name="apn_exception_title">"APNの設定を確認"</string>
-  <string name="app_bg_restrict_dialog_message">"バックグラウンドのネットワーク接続を制限すると、アプリが正常に動作しなくなる可能性があります(例：メッセージの受信やコンテンツの更新など)。とにかく制限しますか？"</string>
+  <string name="app_bg_restrict_dialog_message">"バックグラウンドのネットワーク接続を制限すると、アプリが正常に動作しなくなる可能性があります(例：メッセージの受信やコンテンツの更新など)。"</string>
   <string name="app_check_no_issue">Looks like there are no battery issues. Cool!</string>
   <string name="app_detail">"詳細"</string>
   <string name="app_error_tip_for_launcher">"Your device's hardware components or Android system version may cause compatibility issues and make some apps misbehave, freeze, or be force stopped. If you encounter such issues, share your feedback with the app developers."</string>
@@ -337,10 +337,10 @@
   <string name="back_app_name">"アプリロックに戻る"</string>
   <string name="back_description_securitycenter">"戻る"</string>
   <string name="back_modifypassword">"パスワードの変更に戻る"</string>
-  <string name="back_sound_data">"モバイルネットワーク接続が必要です、もう一度お試しください"</string>
-  <string name="back_sound_fail">Failed！By reason of the change of operator interface, you can try to switch current sim card to network card and try again.</string>
-  <string name="back_sound_success">"成功"</string>
-  <string name="back_sound_support">"現在のネットワーク事業者はそれをサポートしていません"</string>
+  <string name="back_sound_data">"モバイルデータをオンにして、もう一度お試しください"</string>
+  <string name="back_sound_fail">"設定できませんでした。キャリア設定が変更されました。現在のSIMカードをデータ接続用に設定し、ネットワークに接続してからもう一度お試しください。"</string>
+  <string name="back_sound_success">"正常に設定されました"</string>
+  <string name="back_sound_support">"ご利用の通信事業者は、この設定をサポートしていません。"</string>
   <string name="background_restrict_app_dialog_message">"このアプリのバックグラウンドネットワークアクセスを制限すると、メッセージの受信、コンテンツのダウンロード、その他の機能が正常に動作しなくなる可能性があります。とにかく制限しますか？"</string>
   <string name="background_traffic">"バックグラウンド %s"</string>
   <string name="backsound_set_hint">"不在メッセージを%sに設定しますか？"</string>
@@ -1539,7 +1539,7 @@ While calibrating, MIUI will send a text message to your carrier to receive the 
   <string name="sc_allow_network_dialog_message">"このアプリが正常に動作するには、インターネットへの接続が必要です。"</string>
   <string name="sc_allow_network_dialog_tiltle">"この機能は使用できません"</string>
   <string name="sc_system_risk_fix_info_xspace">"Secound spaceではこの問題を解決できません、First spaceでやり直してください。"</string>
-  <string name="sc_warning_updater_not_found">"Updaterアプリが見つからないため、更新できません！"</string>
+  <string name="sc_warning_updater_not_found">"Updaterアプリが見つかりません"</string>
   <string name="scan_installed_games">"インストール済みゲームの確認中…"</string>
   <string name="scan_status_risk">"危険"</string>
   <string name="scan_status_safe">"安全"</string>
@@ -1726,7 +1726,7 @@ While calibrating, MIUI will send a text message to your carrier to receive the 
   <string name="st_title_editblacklist">"ブロックリストを編集"</string>
   <string name="st_title_editwhitelist">"例外リストを編集"</string>
   <string name="st_title_keywords_blacklist">"キーワード (ブラックリスト)"</string>
-  <string name="st_title_keywords_whitelist">"キーワード (ホワイトリスト)"</string>
+  <string name="st_title_keywords_whitelist">"キーワード (例外)"</string>
   <string name="st_title_man_addblacklist">"番号をブロックリストに追加"</string>
   <string name="st_title_man_addwhitelist">"電話番号を例外リストに追加"</string>
   <string name="st_title_man_editblacklist">Choose an area code to add to blocklist</string>

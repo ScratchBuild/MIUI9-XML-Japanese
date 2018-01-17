@@ -51,7 +51,7 @@
   <string name="action_menu_toolbox">"ツール"</string>
   <string name="action_menu_useful_page">"ショートカットを追加"</string>
   <string name="action_menu_useful_page_added">"スタートページに追加しました"</string>
-  <string name="action_menu_user_center">"ユーザーセンター"</string>
+  <string name="action_menu_user_center">"プロフィール"</string>
   <string name="action_modify_bookmark">"ブックマークを編集"</string>
   <string name="action_put_in_search_box">"検索ボックスに%sを配置"</string>
   <string name="actionbar_share">"共有"</string>
@@ -382,6 +382,7 @@
   <string name="keep_queued_download">"保持"</string>
   <string name="last_month">"先月"</string>
   <string name="license_activity_title">"システムのWebViewライセンス"</string>
+  <string name="loading_dialog_title">"移動中…"</string>
   <string name="loading_tips">"下に引っ張って更新"</string>
   <string name="local_bookmarks">"ローカル"</string>
   <string name="login_failed_toast">"ログインできませんでした、更新してもう一度お試しください"</string>
@@ -553,8 +554,8 @@
   <string name="ok">OK</string>
   <string name="older">Older</string>
   <string name="open_app_confirm_message">Allow this page to open %s?</string>
-  <string name="open_cloud_sync">"クラウド同期を開く"</string>
-  <string name="open_cloud_sync_desc">"ブックマークを追加しました。クラウド同期をオンにすると、他の端末に保存されたブックマークがこの端末にも同期されます。今すぐログインして開きますか？"</string>
+  <string name="open_cloud_sync">"Mi Cloudとの同期をオンにする"</string>
+  <string name="open_cloud_sync_desc">"ブックマークを正常に追加しました。他の端末に保存されたブックマークを同期するには、Mi Cloudとの同期をオンにしてください。今すぐログインしてオンにしますか？"</string>
   <string name="open_file_explorer_failed">"File Explorerを開くことができません"</string>
   <string name="open_voice_permission">Allow the mic to connect to the internet</string>
   <string name="opening_file_error">"選択したファイルを開くことができませんでした。"</string>
@@ -795,7 +796,7 @@ That's how we use the data we collect:
 2. Content: Your data helps us provide relevant localized news content.
 Browser needs to connect to the internet to work normally. You must agree to our %2$s and %1$s to be able to use Browser.​"</string>
   <string name="show_security_tip_dialog_title">"プライバシーポリシー"</string>
-  <string name="sign_and_open">"ログインして開く"</string>
+  <string name="sign_and_open">"ログインしてオンにする"</string>
   <string name="sign_in_to" formatted="false">"%s1に\"%s2\"でログイン"</string>
   <string name="skip_button_label">"スキップ"</string>
   <string name="skip_current_version">"このバージョンをスキップ"</string>
@@ -803,6 +804,7 @@ Browser needs to connect to the internet to work normally. You must agree to our
   <string name="snapshot_failed">"ページを保存できませんでした"</string>
   <string name="snapshot_successed">"保存したページを表示するには ブックマークと履歴-&gt;LOCAL を開いてください"</string>
   <string name="soft_toast_see_view">"表示"</string>
+  <string name="speech_engine_not_install">"音声エンジンがインストールされていません"</string>
   <string name="ssl_bad_clock_date_settings">"日付を設定"</string>
   <string name="ssl_bad_clock_warning" formatted="false">"端末の日付と時刻(%s2)が正しくないため、%s1へのプライベート接続を確立できません。"</string>
   <string name="ssl_certificate">"セキュリティ証明書"</string>
@@ -847,13 +849,13 @@ Browser needs to connect to the internet to work normally. You must agree to our
   <string name="switch_proxy_dialog_msg">"Network hijacking detected. Use MIUI's built-in Security app or report this to your mobile operator."</string>
   <string name="switch_proxy_dialog_title">Network hijacking</string>
   <string name="sync_and_backup_bookmark">"ブックマークの同期とバックアップ"</string>
-  <string name="sync_and_backup_history">"履歴の同期とバックアップ"</string>
+  <string name="sync_and_backup_history">"同期とバックアップの履歴"</string>
   <string name="sync_cloud_tabs">"同期"</string>
   <string name="tab_hotpage">"ニュースフィード"</string>
   <string name="tab_quicklinks">"スタートページ"</string>
   <string name="tab_yellowpage">"リンク"</string>
   <string name="tabs_description">"タブ"</string>
-  <string name="temp_refuse">"拒否"</string>
+  <string name="temp_refuse">"結構です"</string>
   <string name="time_picker_dialog_am">AM</string>
   <string name="time_picker_dialog_pm">PM</string>
   <string name="time_picker_dialog_title">"時刻を設定"</string>

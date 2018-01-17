@@ -9,6 +9,7 @@
   <string name="cm_terms_content">"In order to improve the services provided to you, the mobile network operator of your choice may upload your personal data and the info about this device to its servers using WLAN networks or mobile data connection. This information will only be used for statistical purposes in order to improve the quality of the services and provide more personalized content. This information won't be used to identify you personally and won't be disclosed to third parties."</string>
   <string name="cm_terms_title">Mobile Network Operator Agreement</string>
   <string name="congratulation_label">"You're ready to rock!​"</string>
+  <string name="congratulation_swipe">"上にスワイプしてホーム画面に戻る"</string>
   <string name="congratulation_title">"セットアップ完了"</string>
   <string name="content_description_complete">"完了"</string>
   <string name="content_description_miui_version">MIUI 9</string>
@@ -35,6 +36,9 @@
   <string name="miui_terms_no_network">"インターネットに接続していません。View the Terms of Service at %s."</string>
   <string name="multisim_settings_category">"SIMカードの設定"</string>
   <string name="multisim_settings_title">"2つのSIMカードが検出されました"</string>
+  <string name="navigation_picker_gesture_guide">"ジェスチャーガイド"</string>
+  <string name="navigation_picker_radio_text_full_screen">"フルスクリーンモード"</string>
+  <string name="navigation_picker_radio_text_virtual_key">"仮想ボタンモード"</string>
   <string name="next">"次へ"</string>
   <string name="next_fingerprint">Next</string>
   <string name="other_settings">"その他の設定"</string>
@@ -54,6 +58,7 @@
   <string name="setting_locale">"地域を設定中…"</string>
   <string name="shut_down">"シャットダウン"</string>
   <string name="sim_card_detecting">"SIMカードを確認中…"</string>
+  <string name="sim_card_detecting_check">"SIMカードが見つかりませんでした。SIMカードが正しく挿入されているか、十分な残高があるかをそれぞれ確認してください。"</string>
   <string name="sim_card_detecting_title">"SIMカードを確認"</string>
   <string name="sim_card_detection">"SIMカードを挿入"</string>
   <string name="sim_card_detection_info">"SIMカードを挿入するには、デバイスに付属の説明書をお読みください。"</string>
@@ -61,6 +66,7 @@
   <string name="sim_redetection">"再確認"</string>
   <string name="skip_underline">"この手順をスキップ"</string>
   <string name="summary_not_set">"未設定"</string>
+  <string name="system_navigation_mode">"システムナビゲーションモード"</string>
   <string name="terms_of_use">"利用規約"</string>
   <string name="terms_of_use_label">"Your privacy is very important to us. Read our Terms of Service and Privacy Policy to understand what information we collect, how we use it, and what choices are available to you.
 
