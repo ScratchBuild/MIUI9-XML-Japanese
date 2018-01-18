@@ -7,6 +7,7 @@
   <string name="cal_edit_mode">編集モード</string>
   <string name="cal_paste">貼り付け</string>
   <string name="cal_text_copied">テキストをコピーしました</string>
+  <string name="cancel">キャンセル</string>
   <string name="choose_currency">通貨を選択</string>
   <string name="choose_unit">単位を選択</string>
   <string name="city">都市</string>
@@ -27,6 +28,7 @@
   <string name="currency_update_time_format">Exchange rates are provided by Webull (%s)</string>
   <string name="dateformat">yyyy/MM/dd</string>
   <string name="day">日</string>
+  <string name="degDesc">角度</string>
   <string name="deleteDesc">削除</string>
   <string name="description_content">電卓では基本的な機能に加えて、多機能な単位変換、ローン計算や税金計算を使用することができます。Make sure you can do without these features before you uninstall the app.</string>
   <string name="description_title">電卓について</string>
@@ -42,6 +44,8 @@
   <string name="from_unit_short">km/h</string>
   <string name="golbal_search_path_calculator_setting">システムアプリ/電卓/設定</string>
   <string name="home_title_calculator">電卓</string>
+  <string name="install">インストール</string>
+  <string name="install_scanner_to_continued_use">スキャナーはアンインストールされています。もう一度インストールしますか？</string>
   <string name="item_title_aa_payment">割り勘</string>
   <string name="item_title_area_conversion">面積</string>
   <string name="item_title_calculator">電卓</string>
@@ -123,11 +127,18 @@
   <string name="preference_settings">設定</string>
   <string name="preference_use_degress_summary">三角関数の角度でラジアンを代入する</string>
   <string name="preference_use_degress_title">角度を使用する</string>
+  <string name="radDesc">ラジアン</string>
   <string name="rate_data_provider">Interest rates are provided by hexun.com</string>
+  <string name="reciprocalDesc">Reciprocal</string>
+  <string name="reverceDesc">arc</string>
   <string name="rightParenDesc">右丸括弧</string>
+  <string name="scannerDesc">スキャナー</string>
+  <string name="scanner_had_been_uninstalled">スキャナーはアンインストールされています</string>
+  <string name="secondFunctionDesc">Switch to the second function</string>
   <string name="settingsDesc">設定</string>
   <string name="sinDesc">正弦(サイン)</string>
   <string name="sqrtDesc">平方根</string>
+  <string name="switchDesc">切り替え</string>
   <string name="tanDesc">正接(タンジェント)</string>
   <string name="tax_accumulation_fund">積立金</string>
   <string name="tax_annual_bonus_hint">税込ボーナス額を入力</string>

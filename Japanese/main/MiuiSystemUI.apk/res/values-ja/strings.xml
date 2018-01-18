@@ -430,9 +430,9 @@
   <string name="monitoring_title_device_owned">端末管理</string>
   <string name="mount_storage">はい</string>
   <string name="nav_guide_cancel">無視</string>
-  <string name="nav_guide_message">ソフトボタンの表示/非表示をジェスチャーで使用。</string>
+  <string name="nav_guide_message">画面ボタンの表示/非表示をジェスチャーで使用。</string>
   <string name="nav_guide_ok">設定する</string>
-  <string name="nav_guide_title">ソフトボタンの非表示</string>
+  <string name="nav_guide_title">画面ボタンの非表示</string>
   <string name="no_application">なし</string>
   <string name="no_multi_window_app">分割画面をサポートするアプリはありません</string>
   <string name="no_notification_tips">通知はありません。</string>

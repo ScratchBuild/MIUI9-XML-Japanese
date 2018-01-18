@@ -42,6 +42,7 @@
   <string name="heavy_snow">大雪</string>
   <string name="hksar_establishment_day">"香港成立記念日"</string>
   <string name="hoar_frost_falls">霜降</string>
+  <string name="incomingmessage">受信メッセージ</string>
   <string name="insects_awaken">惊蛰</string>
   <string name="international_womens_day">"女性の日"</string>
   <string name="labour_day">"レイバー・デー"</string>
@@ -51,6 +52,7 @@
   <string name="menu_add_frequent_phrases">"追加"</string>
   <string name="menu_delete">"削除"</string>
   <string name="menu_edit">"編集"</string>
+  <string name="messagesent">メッセージの送信</string>
   <string name="national_day">"国慶節"</string>
   <string name="national_father_day">"建国の父の日"</string>
   <string name="new_years_day">元旦</string>

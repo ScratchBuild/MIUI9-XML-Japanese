@@ -1,82 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="group_name_translate">
-        <item>Default</item>
-        <item>Hide mode</item>
-        <item>Reader mode</item>
-        <item>Media mode</item>
-    </string-array>
-    <string-array name="event_name_translate">
-        <item>App running in foreground</item>
-        <item>Display on</item>
-        <item>Display off</item>
-        <item>Display off over 10 minutes</item>
-        <item>Full screen</item>
-        <item>Exit full screen</item>
-        <item>App running in background</item>
-        <item>Phone is charging</item>
-        <item>"Phone isn't charging"</item>
-        <item>Phone is idle</item>
-    </string-array>
-    <string-array name="action_name_translate">
-        <item>Max display brightness</item>
-        <item>Max CPU frequency</item>
-        <item>Display mode</item>
-        <item>"CPU使用状況"</item>
-        <item>"データ接続"</item>
-        <item>"位置情報"</item>
-        <item>First notification</item>
-        <item>"ロック画面の通知"</item>
-        <item>"バックグラウンドのデータ接続を制限"</item>
-    </string-array>
-    <string-array name="action_param_translate">
-        <item>"なし"</item>
-        <item>"デフォルト"</item>
-        <item>"画像"</item>
-        <item>"動画"</item>
-        <item>"バッテリーセーバー"</item>
-        <item>"バランス"</item>
-        <item>"パフォーマンス"</item>
-        <item>"オン"</item>
-        <item>"オフ"</item>
-        <item>"すぐに"</item>
-        <item>"10分後"</item>
-        <item>"30分後"</item>
-        <item>"画面を消灯した後"</item>
-    </string-array>
-    <string-array name="app_groups">
-        <item>In this mode</item>
-        <item>Not selected</item>
-        <item>In other modes selected</item>
-    </string-array>
     <string-array name="hmode_app_groups">
         <item>Custom</item>
         <item>Battery saver</item>
-    </string-array>
-    <string-array name="power_checker_group_prefix">
-        <item>Now</item>
-        <item>Background</item>
-        <item>Recently</item>
-    </string-array>
-    <string-array name="power_checker_running_group_titles">
-        <item>Blocking deep sleep mode</item>
-        <item>Blocking sleep mode</item>
-        <item>Wi-Fiを検索</item>
-        <item>GPSを使用</item>
-        <item>CPUを占有</item>
-        <item>デバイスを頻繁に起動</item>
-    </string-array>
-    <string-array name="power_checker_recent_group_titles">
-        <item>Blocking deep sleep mode</item>
-        <item>Blocking sleep mode</item>
-        <item>Wi-Fiを検索</item>
-        <item>GPSを使用</item>
-        <item>CPUを占有</item>
-        <item>デバイスを頻繁に起動</item>
-    </string-array>
-    <string-array name="invisible_app_groups">
-        <item>selected</item>
-        <item>unselected</item>
     </string-array>
     <string-array name="thermal_entries">
         <item>"温度制御モード(デフォルト)"</item>

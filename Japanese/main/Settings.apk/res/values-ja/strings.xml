@@ -2600,7 +2600,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="online_resource_entry">オンラインリソース</string>
   <string name="only_one_home_message">ホームの設定は別のホームアプリをインストールするまで表示されません。</string>
   <string name="onscreen_keyboard_settings_summary">画面キーボードを設定する</string>
-  <string name="open_demo_mode">開始</string>
+  <string name="open_demo_mode">オンにする</string>
   <string name="open_demo_mode_warning_message">デモモードをオンにすると、ステータスバーの時計が停止し、バッテリーと電波強度のアイコンは100%として表示されます。元に戻すにはデモモードをオフにするか、端末を再起動してください。</string>
   <string name="open_miui_optimization_title">MIUIの最適化をオンにする</string>
   <string name="open_miui_optimization_warning_message">この変更を適用するために端末を再起動します。</string>
@@ -3770,7 +3770,7 @@ PINが正しくない可能性があります。"</string>
   <string name="spellchecker_security_warning">このスペルチェッカーを選択すると、入力する全文字列の収集をアプリ（%1$s）に許可することになります。これにはパスワードやクレジットカード番号などの個人情報も含まれます。このスペルチェッカーを使用しますか？</string>
   <string name="spellchecker_switch_title">スペルチェッカーをオンにする</string>
   <string name="spellcheckers_settings_title">スペルチェック</string>
-  <string name="split_screen">分割画面モードに切り替え</string>
+  <string name="split_screen">分割画面を開く</string>
   <string name="ssid_label">SSID:</string>
   <string name="ssl_ca_cert_dialog_title">ネットワーク監視</string>
   <string name="ssl_ca_cert_info_message">"この端末は%sによって管理されています。
@@ -3795,7 +3795,7 @@ PINが正しくない可能性があります。"</string>
   <string name="status_bar_app_enable_keyguard">ロック画面</string>
   <string name="status_bar_app_enable_message">バッジ</string>
   <string name="status_bar_key_position_custom">ボタンの配置を変更</string>
-  <string name="status_bar_screen_button_force_immersive_desc">ボタンを表示するには画面の下から上に向かってスワイプします</string>
+  <string name="status_bar_screen_button_force_immersive_desc">画面ボタンを表示するには画面の下から上に向かってスワイプします</string>
   <string name="status_bar_screen_button_key_force_immersive">画面ボタンを非表示</string>
   <string name="status_bar_screen_button_key_can_hide">画面ボタンは非表示にできます</string>
   <string name="status_bar_screen_key_back">戻るボタン</string>
@@ -4688,6 +4688,7 @@ Android端末をUSBケーブルでコンピューターにつなぐことで、�
   <string name="wifi_calling_suggestion_title">Wi-Fi 通話の有効化</string>
   <string name="wifi_cancel">キャンセル</string>
   <string name="wifi_certificate">証明書</string>
+  <string name="wifi_click_login_wlan">ログインまたは許可が必要	</string>
   <string name="wifi_click_share_wlan">タップしてパスワードを共有</string>
   <string name="wifi_config_info">Wi-Fiネットワーク設定</string>
   <string name="wifi_configure_titlebar">Wi‑Fi の設定</string>

@@ -570,13 +570,13 @@
   <string name="missed_call_notify_times_title">不在着信通知</string>
   <string name="missed_call_notify_twice">2回</string>
   <string name="miui_network_selection_reset_text">リセット</string>
-  <string name="miui_notification_network_selection_title">通信サービスなし</string>
-  <string name="miui_notification_network_selection_title_by_sim">通信サービスなし (%s)</string>
+  <string name="miui_notification_network_selection_title">SIM: 通信サービスなし</string>
+  <string name="miui_notification_network_selection_title_by_sim">SIM %s: 通信サービスなし</string>
   <string name="mmiCancelled">MMIコードはキャンセルされました</string>
   <string name="mmiStarted">MMIコードの開始</string>
   <string name="mobile_network_settings_not_available">携帯電話ネットワークの設定は、このユーザーには使用できません</string>
   <string name="mobile_networks">モバイルネットワーク設定</string>
-  <string name="modem_dialog_body">Mobile network is unstable, causing interruptions or network problems.Send bug report to Mi for analysis? This report may contain Personally Identifiable Information. Your report will be used to help fix this bug and will never be shared in any commercial context.</string>
+  <string name="modem_dialog_body">Mobile network is unstable which results in interruptions and network problems. Send feedback to Mi for analysis? This report may contain personally identifiable information. Your report will be used to help us fix this bug and will never be shared in any commercial context.</string>
   <string name="modem_dialog_title">モバイルネットワークが不安定です</string>
   <string name="msim_apn_not_set">"未設定"</string>
   <string name="msim_disable_sim_card_btn_text">OK</string>

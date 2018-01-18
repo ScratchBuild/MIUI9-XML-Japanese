@@ -75,7 +75,7 @@
   <string name="adjust_traffic_data">"データ使用量を設定"</string>
   <string name="after_the_lock_screen">"アプリは画面と一緒にロックする"</string>
   <string name="all_address_choose_hint">All numbers in this province</string>
-  <string name="already_close_gamebooster">Gaming speed boost is off</string>
+  <string name="already_close_gamebooster">Game speed booster is off</string>
   <string name="anti_disturb_msg_detail">"着信を除くすべての通知をオフにする"</string>
   <string name="anti_disturb_msg_title">DND</string>
   <string name="antispam_mode_details">"ブロックリストの詳細"</string>
@@ -190,7 +190,7 @@
   <string name="app_manager_net_mobile">"モバイルデータ"</string>
   <string name="app_manager_net_wifi">Wi-Fi</string>
   <string name="app_manager_not_allow">"いいえ"</string>
-  <string name="app_manager_not_support_uninstall">"このアプリをアンインストールできません"</string>
+  <string name="app_manager_not_support_uninstall">"これらのアプリをアンインストールできません"</string>
   <string name="app_manager_notify_bar">"バッジ"</string>
   <string name="app_manager_notify_floating">"フローティング通知"</string>
   <string name="app_manager_notify_keyguard">"ロック画面"</string>
@@ -468,7 +468,7 @@
   <string name="card_main_deepclean_wechat_action">"消去"</string>
   <string name="card_main_deepclean_wechat_summary">"空き領域を確保するためWeChatのキャッシュを消去する"</string>
   <string name="card_main_deepclean_wechat_title">"WeChatのキャッシュ"</string>
-  <string name="card_main_gamebooster_title">Gaming speed boost</string>
+  <string name="card_main_gamebooster_title">Game speed booster</string>
   <string name="card_main_monthreport_action">"表示"</string>
   <string name="card_main_netcheck_action">"テスト"</string>
   <string name="card_main_netcheck_summary">"ネットワーク接続の問題をテストする"</string>
@@ -707,7 +707,7 @@
   <string name="free_send_net_booster">Free Network speed boost</string>
   <string name="free_send_net_booster_busniess">"Xunlei speed boostを無料で取得"</string>
   <string name="free_send_net_booster_busniess_tip">"受け取るにはタップ"</string>
-  <string name="free_send_net_booster_tip">Enjoy smooth gaming with the free Network speed boost.</string>
+  <string name="free_send_net_booster_tip">Enjoy smooth gaming with the free network speed boost.</string>
   <string name="free_time_traffic">Off-peak data limit</string>
   <string name="free_time_traffic_hint">Enter off-peak data limit</string>
   <string name="free_time_traffic_settings">Off-peak data limit</string>
@@ -769,7 +769,7 @@
   <string name="gs_game_net_priority">"接続の優先度"</string>
   <string name="gs_game_net_priority_detail">"ダウンロード速度を制限してゲームのために十分な帯域幅を確保する"</string>
   <string name="gs_game_performance">"パフォーマンス"</string>
-  <string name="gs_game_shortcut">Enjoy a more fluid game experience</string>
+  <string name="gs_game_shortcut">Improve your gaming experience</string>
   <string name="gs_only_self_start_for_list">"バックグラウンドプロセスを制限してゲームのためにバッテリーを節約する"</string>
   <string name="gs_open_game_booster">Boost speed</string>
   <string name="gs_performance_mode">"パフォーマンスモード"</string>
@@ -1308,7 +1308,7 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
   <string name="power_btn_analyze">"電池使用量を分析"</string>
   <string name="power_cell">"セルスタンバイ"</string>
   <string name="power_center_auto_shutdown">Schedule power on/off</string>
-  <string name="power_center_back">Back power</string>
+  <string name="power_center_back">Back to Power</string>
   <string name="power_center_charge_time">"フル充電まで%1$s"</string>
   <string name="power_center_ontime_boot">Power on time</string>
   <string name="power_center_ontime_shutdown">Power off time</string>
