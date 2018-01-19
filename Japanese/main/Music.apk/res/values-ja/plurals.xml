@@ -117,6 +117,18 @@
         <item quantity="other">%d items selected</item>
         <item quantity="one">%d item selected</item>
     </plurals>
+    <plurals name="notif_title_multiple_downloading">
+        <item quantity="other">%1$d曲をダウンロード中</item>
+        <item quantity="one">%1$d曲をダウンロード中</item>
+    </plurals>
+    <plurals name="notification_download_failed_more">
+        <item quantity="other">%1$d曲をダウンロードできませんでした</item>
+        <item quantity="one">%1$d曲をダウンロードできませんでした</item>
+    </plurals>
+    <plurals name="notification_download_success_more">
+        <item quantity="other">%1$d曲</item>
+        <item quantity="one">%1$d曲</item>
+    </plurals>
     <plurals name="reader_count">
         <item quantity="other">%d人のフォロワー</item>
         <item quantity="one">%d人のフォロワー</item>

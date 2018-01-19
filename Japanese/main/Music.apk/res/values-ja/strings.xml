@@ -7,7 +7,7 @@
   <string name="action_item_add_to_current_playlist">"現在のプレイリスト"</string>
   <string name="action_item_add_to_favorite_playlist">"お気に入りのプレイリスト"</string>
   <string name="action_item_add_to_new_playlist">"新規"</string>
-  <string name="action_item_as_ring">Set as ring</string>
+  <string name="action_item_as_ring">"着信音として設定"</string>
   <string name="action_item_cancel">"キャンセル"</string>
   <string name="action_item_delete">"削除"</string>
   <string name="action_item_download">"ダウンロード"</string>
@@ -189,7 +189,7 @@ is mainly provided by Ultimate Inc."</string>
   <string name="dialog_media_not_found">"ダウンロードできません。SDカードは使用できません。"</string>
   <string name="dialog_not_show_again">"二度と表示しない"</string>
   <string name="dialog_queued_body">This file is queued for future download.</string>
-  <string name="dialog_show_more_backup">Backup local songs</string>
+  <string name="dialog_show_more_backup">Back up local songs</string>
   <string name="dialog_show_more_optimize_all">"曲の情報を最適化する"</string>
   <string name="dialog_song_sort_type">"曲を並べ替え"</string>
   <string name="dialog_song_sort_type_name">"名前順"</string>
@@ -293,7 +293,7 @@ is mainly provided by Ultimate Inc."</string>
   <string name="downloaded_empty">"なし"</string>
   <string name="downloading_apk">ダウンロード中… 進捗状況を通知領域で表示。</string>
   <string name="downloading_empty">"なし"</string>
-  <string name="downloading_pause_apk">Paused. Resume doenload in the Notification shade.</string>
+  <string name="downloading_pause_apk">Paused. Resume download in the Notification shade.</string>
   <string name="downloads_operating">"作業中…"</string>
   <string name="editmode_menu_delete">"削除"</string>
   <string name="editmode_menu_share">"共有"</string>
@@ -399,7 +399,7 @@ is mainly provided by Ultimate Inc."</string>
   <string name="global_search_title_movie">Movie soundtracks</string>
   <string name="global_search_title_prenatal">Prenatal music</string>
   <string name="global_search_title_radar">Music recognition</string>
-  <string name="go_to_settings">"設定"</string>
+  <string name="go_to_settings">"設定に移動"</string>
   <string name="handle_later">"後で"</string>
   <string name="hide_album">"アルバムカバーを非表示"</string>
   <string name="hide_lyric">"歌詞を非表示"</string>
@@ -410,7 +410,7 @@ is mainly provided by Ultimate Inc."</string>
   <string name="hot_icon_in_fast_indexer">H</string>
   <string name="i_know">OK</string>
   <string name="i_know_it">OK</string>
-  <string name="impunity_declaration_content1">"同意をタップすることで、あなたは我々の"</string>
+  <string name="impunity_declaration_content1">"\"同意\"をタップすることで、あなたは我々の"</string>
   <string name="impunity_declaration_content2">"利用規約"</string>
   <string name="impunity_declaration_content3">" と "</string>
   <string name="impunity_declaration_content4">"プライバシーポリシー"</string>
@@ -419,13 +419,13 @@ is mainly provided by Ultimate Inc."</string>
   <string name="impunity_declaration_negative_text">"終了"</string>
   <string name="impunity_declaration_positive_text">"同意"</string>
   <string name="impunity_declaration_settings">"利用規約を表示"</string>
-  <string name="impunity_declaration_summary">"Musicアプリを開くたびにBaidu Online Music Serviceの利用規約をポップアップで表示します"</string>
+  <string name="impunity_declaration_summary">"Musicアプリを開くたびに利用規約をポップアップで表示する"</string>
   <string name="impunity_declaration_title">"利用規約"</string>
   <string name="in_searching_please_wait">"検索中…"</string>
   <string name="individuation_recommend_message">Turn on recommendations to receive personalized suggestions based on your preferences.</string>
   <string name="individuation_recommend_switch_message">Turning this feature off will affect personalized Mi Music services. Turn off anyway?</string>
   <string name="individuation_recommend_title">Recommendations</string>
-  <string name="input_hint_prefix">"%1$sを入力してください"</string>
+  <string name="input_hint_prefix">"%1$sを入力"</string>
   <string name="installing_apk">"インストール中…"</string>
   <string name="insufficient_space">"お使いの端末の内部ストレージに十分な空き領域がありません"</string>
   <string name="intelligent_recognize">"アルバムカバーと歌詞"</string>
@@ -451,7 +451,7 @@ is mainly provided by Ultimate Inc."</string>
   <string name="local_music">Offline</string>
   <string name="local_music_empty">"ローカルプレイリストは空です"</string>
   <string name="local_music_empty_goto_online">"曲が見つかりませんでした"</string>
-  <string name="local_music_is_not_available">Local music is not available.</string>
+  <string name="local_music_is_not_available">"お使いの端末上に曲が見つかりません。"</string>
   <string name="local_page_album_more">"すべて表示"</string>
   <string name="local_page_artist">Followed artists</string>
   <string name="local_page_artist_more">More songs by %s</string>
@@ -582,14 +582,11 @@ is mainly provided by Ultimate Inc."</string>
   <string name="notif_text_engine_off">"Xunlei acceleratorはオフです。"</string>
   <string name="notif_text_engine_on">Accelerating…</string>
   <string name="notif_title_file_size">%1$d total</string>
-  <string name="notif_title_multiple_downloading">"%1$d曲をダウンロード中"</string>
   <string name="notif_title_single_downloading">"%1$sをダウンロード中"</string>
   <string name="notification_des_next_song">"次の曲: %s"</string>
   <string name="notification_des_no_song">Mi Music. New every day.</string>
   <string name="notification_download_complete">"ダウンロード完了"</string>
   <string name="notification_download_failed">"ダウンロードできませんでした"</string>
-  <string name="notification_download_failed_more">"%1$d曲をダウンロードできませんでした"</string>
-  <string name="notification_download_success_more">%1$d downloaded</string>
   <string name="notification_need_wifi_for_size">"ダウンロードにはWi-Fi接続が必要です。"</string>
   <string name="notification_play_summary">"現在および次の曲を表示して、ホーム画面に歌詞を表示します"</string>
   <string name="notification_play_title">"通知シェードのウィジェット"</string>
@@ -597,7 +594,7 @@ is mainly provided by Ultimate Inc."</string>
   <string name="notification_recommend_title">"重要な通知"</string>
   <string name="notification_setting">"通知設定"</string>
   <string name="notification_title_no_song">"Check out what everyone's listening to!"</string>
-  <string name="nowplaying_circle_style">Play circle style</string>
+  <string name="nowplaying_circle_style">"再生ボタンのスタイル"</string>
   <string name="nowplaying_circle_style_rainbow">Rainbow</string>
   <string name="nowplaying_circle_style_wave">Wave</string>
   <string name="nowplaying_dialog_title_delete_tracks">"現在のプレイリストを消去しますか？"</string>
@@ -623,8 +620,8 @@ is mainly provided by Ultimate Inc."</string>
   <string name="open_download">"開く"</string>
   <string name="open_online_service">You need to turn on online services to use this feature. Turn on now?</string>
   <string name="open_service">"オンにする"</string>
-  <string name="optimize_all_until_optimized">Optimize song info, album and lyric</string>
-  <string name="optimize_all_until_scanned">Scanning local song, please try later</string>
+  <string name="optimize_all_until_optimized">"新しいカバーと歌詞を適用中…"</string>
+  <string name="optimize_all_until_scanned">"Musicアプリが端末上の曲をチェックし終えるまでお待ちください。"</string>
   <string name="order_pending">Awaiting confirmation</string>
   <string name="order_process_fail">"Couldn't authorize your account. Wait a few minutes and try again."</string>
   <string name="other_filter">"その他"</string>
@@ -640,7 +637,7 @@ is mainly provided by Ultimate Inc."</string>
   <string name="paused_waiting_to_retry">"再試行を待っています"</string>
   <string name="pay">"支払う:"</string>
   <string name="pay_now">Current service</string>
-  <string name="payment_fail">"支払い失敗"</string>
+  <string name="payment_fail">"支払いを完了できませんでした"</string>
   <string name="payment_success">"支払い完了"</string>
   <string name="pending_apk">Pending…</string>
   <string name="permission_declaration_message">"Musicを正常に使用できるよう、[セキュリティ] > [アクセス許可] > [アクセス許可] > [ストレージ] > [Music]からストレージへのアクセスを許可します。"</string>
@@ -659,7 +656,7 @@ is mainly provided by Ultimate Inc."</string>
   <string name="playlist_type_fm">FM</string>
   <string name="playlist_type_my">My playlists</string>
   <string name="playlist_type_recommend">Featured playlists</string>
-  <string name="playlist_unavailable">"Sorry, the playlist isn't available. To delete it, press and hold, then choose delete."</string>
+  <string name="playlist_unavailable">"プレイリストは利用できません。削除するには長押ししてから\"削除\"を選択してください。"</string>
   <string name="please_download_first">"この曲を着信音として設定するには、この曲をダウンロードする必要があります"</string>
   <string name="please_search_or_select">"検索またはフィールドを選択"</string>
   <string name="please_select_song">"初めに曲を選択してください"</string>
@@ -809,7 +806,7 @@ is mainly provided by Ultimate Inc."</string>
   <string name="song_is_empty">Song name can not be empty.</string>
   <string name="song_name">Song</string>
   <string name="song_not_find">"この曲は利用できません。"</string>
-  <string name="song_offline">"申し訳ありませんが、この曲は利用できなくなりました。"</string>
+  <string name="song_offline">"この曲は利用できなくなりました。"</string>
   <string name="song_unit">items</string>
   <string name="sort_by_name">"名前"</string>
   <string name="sort_by_time">"日付"</string>
@@ -841,10 +838,15 @@ is mainly provided by Ultimate Inc."</string>
   <string name="tab_track_list">Songs</string>
   <string name="take_effect_afater_restart">"この設定を有効にするには、アプリを再起動する必要があります。"</string>
   <string name="talkback_back">"戻る"</string>
+  <string name="talkback_cloud_setting">"設定"</string>
   <string name="talkback_device">"他の端末で再生する"</string>
   <string name="talkback_download">"ダウンロード"</string>
   <string name="talkback_favorite">Like this song</string>
+  <string name="talkback_follow">Follow</string>
+  <string name="talkback_followed">Unfollow</string>
+  <string name="talkback_header_search">"Search "</string>
   <string name="talkback_karaoke">Karaokeを開く</string>
+  <string name="talkback_like">Like</string>
   <string name="talkback_mode">Loop</string>
   <string name="talkback_mode_repeat_all">Loop mode</string>
   <string name="talkback_mode_repeat_current">Repeat mode</string>
@@ -859,6 +861,7 @@ is mainly provided by Ultimate Inc."</string>
   <string name="talkback_radar">Music recognition</string>
   <string name="talkback_search">"検索"</string>
   <string name="talkback_share">"共有"</string>
+  <string name="talkback_unlike">Unlike</string>
   <string name="task_already_exist">"タスクが既に存在します"</string>
   <string name="ticket_summary">"ショー、コンサート、演劇、その他イベントのチケットを購入する"</string>
   <string name="ticket_title">"チケットを表示"</string>
@@ -932,8 +935,8 @@ is mainly provided by Ultimate Inc."</string>
   <string name="warning_tip_ok">Pause</string>
   <string name="warning_tip_title">"データ使用の警告"</string>
   <string name="welcome_to_new_music">"Mi Musicの新バージョンにようこそ"</string>
-  <string name="wifi_required_body" formatted="false">"You should use WLAN to complete this %s download. 
+  <string name="wifi_required_body" formatted="false">"Connect to Wi-Fi to complete this %s download.
 
-Tap %s to start this download the next time you're connected to a WLAN network."</string>
+Tap %s to start this download the next time you're connected to a Wi-Fi network."</string>
   <string name="wifi_required_title">"このファイルをダウンロードするにはWi-Fiに接続する必要があります"</string>
 </resources>

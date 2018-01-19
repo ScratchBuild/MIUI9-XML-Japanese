@@ -459,7 +459,7 @@
   <string name="cancel">"キャンセル"</string>
   <string name="cancel_button">"キャンセル"</string>
   <string name="card_main_applock_action">"オンにする"</string>
-  <string name="card_main_applock_summary">"アプリロックでプライベートなアイテムを保護する"</string>
+  <string name="card_main_applock_summary">"選択したアプリをパスワードで保護します。メッセージ、写真、メモなどを非表示にします。"</string>
   <string name="card_main_applock_title">"アプリロック"</string>
   <string name="card_main_deepclean_action">"消去"</string>
   <string name="card_main_deepclean_qq_title">QQ cleaner</string>
@@ -1033,6 +1033,7 @@ Carrier may charge you additional fees if you use mobile data connection again."
   <string name="menu_text_power_manager">"電池使用量"</string>
   <string name="menu_text_power_percent_title">"バッテリー %s"</string>
   <string name="menu_wh_remove">"例外から削除"</string>
+  <string name="menu_white">"例外"</string>
   <string name="mi_service_app_detail">"データ使用量の詳細"</string>
   <string name="mi_service_traffic_detail">"フレームワークの詳細"</string>
   <string name="mian_page_primary_txt">"海外ローミング"</string>

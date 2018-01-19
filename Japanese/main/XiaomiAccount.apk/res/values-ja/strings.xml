@@ -355,7 +355,7 @@
   <string name="passport_skip_setup_account_msg">"後から[設定]でMi Accountをセットアップすることができます。"</string>
   <string name="passport_skip_setup_account_title">"セットアップをスキップ"</string>
   <string name="passport_sms_send_success">Sent</string>
-  <string name="passport_sms_verification_code_login">"SMSの認証コードでログイン"</string>
+  <string name="passport_sms_verification_code_login">"SMSを使用してログイン"</string>
   <string name="passport_sync_account_data">"アカウント情報を同期しています…"</string>
   <string name="passport_sync_account_data_failed_warning">"アカウント情報を同期をしています、Mi Account IDを使用してログインすることができます。電話番号またはメールアドレスでログインする場合は、同期が完了するまでお待ちください。"</string>
   <string name="passport_title_reg">"アカウントを作成"</string>

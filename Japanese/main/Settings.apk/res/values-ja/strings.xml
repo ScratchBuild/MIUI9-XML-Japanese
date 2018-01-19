@@ -2391,6 +2391,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="music_audio_effect_optimize_summary_with_hifi">Dirac、Hi-Fi、ヘッドフォン、その他のオーディオ設定</string>
   <string name="music_audio_effect_settings">エフェクト設定</string>
   <string name="music_dirac_control">音質を最適化</string>
+  <string name="music_dirac_mode_cancelling">Mi Noise Cancelling (3.5mm)</string>
   <string name="music_dirac_mode_capsule">Mi Capsule</string>
   <string name="music_dirac_mode_earbuds">Mi Earbuds</string>
   <string name="music_dirac_mode_general">General</string>
@@ -2409,7 +2410,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="music_dirac_mode_piston_color">Color Edition</string>
   <string name="music_dirac_mode_piston_standard">Standard Edition</string>
   <string name="music_dirac_mode_piston_youth">Youth Edition</string>
-  <string name="music_dirac_mode_reduction_noise">ノイズを低減 (USB-C)</string>
+  <string name="music_dirac_mode_reduction_noise">Mi Noise Cancelling (TypeC)</string>
   <string name="music_dolby_mode_movie">Video</string>
   <string name="music_dolby_mode_music">Music</string>
   <string name="music_dolby_mode_off">Off</string>
@@ -2446,6 +2447,8 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="my_device">My device</string>
   <string name="my_device_disclaimer">Note: Hardware info, including CPU, battery capacity, screen size and resolution, and camera, is provided by Xiaomi labs, designers, and suppliers.</string>
   <string name="n_cacrts">CA証明書%d件</string>
+  <string name="navigation_guide_app_summary">画面上部の端から左または右にスワイプする</string>
+  <string name="navigation_guide_app_title">アプリのアクションをトリガーする</string>
   <string name="navigation_guide_back_anim_summary">画面の端からスワイプしている間にアニメーションを表示する</string>
   <string name="navigation_guide_back_anim_title">\"戻る\"ジェスチャーをアニメーション表示</string>
   <string name="navigation_guide_back_summary">画面の端から右または左にスワイプする</string>
@@ -4688,7 +4691,7 @@ Android端末をUSBケーブルでコンピューターにつなぐことで、�
   <string name="wifi_calling_suggestion_title">Wi-Fi 通話の有効化</string>
   <string name="wifi_cancel">キャンセル</string>
   <string name="wifi_certificate">証明書</string>
-  <string name="wifi_click_login_wlan">ログインまたは許可が必要	</string>
+  <string name="wifi_click_login_wlan">接続しました。認証が必要です。</string>
   <string name="wifi_click_share_wlan">タップしてパスワードを共有</string>
   <string name="wifi_config_info">Wi-Fiネットワーク設定</string>
   <string name="wifi_configure_titlebar">Wi‑Fi の設定</string>

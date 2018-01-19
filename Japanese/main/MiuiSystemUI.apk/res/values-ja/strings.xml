@@ -47,6 +47,7 @@
   <string name="accessibility_display_daltonizer_preference_subtitle">この機能は試験運用機能であり、パフォーマンスに影響することがあります。</string>
   <string name="accessibility_display_daltonizer_preference_title">色補正</string>
   <string name="accessibility_divider">Split screen divider</string>
+  <string name="accessibility_drag_hint_message">アイテムを画面の上部にドラッグする</string>
   <string name="accessibility_home">ホーム</string>
   <string name="accessibility_ime_switch_button">入力方法切り替えボタン</string>
   <string name="accessibility_managed_profile">仕事用プロファイル</string>
@@ -63,8 +64,10 @@
   <string name="accessibility_recent">最近使ったアプリ</string>
   <string name="accessibility_recent_task_exit">履歴を閉じました</string>
   <string name="accessibility_recent_task_locked">ロックされています、下にスワイプでロックを解除。</string>
+  <string name="accessibility_recent_task_locked_state">ロックされています</string>
   <string name="accessibility_recent_task_memory_info">合計 RAM: %2$s | 空き RAM: %1$s。ダブルタップで消去。</string>
   <string name="accessibility_recent_task_unlocked">ロックを解除しました</string>
+  <string name="accessibility_recent_task_unlocked_state">ロックを解除しました</string>
   <string name="accessibility_recents_all_items_dismissed">最近のアプリケーションをすべて消去しました。</string>
   <string name="accessibility_recents_item_dismissed">%sは削除されました。</string>
   <string name="accessibility_recents_item_launched">%sを開始しています。</string>

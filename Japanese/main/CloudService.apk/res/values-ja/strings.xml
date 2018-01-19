@@ -134,9 +134,9 @@ If you switch SIM cards, another SMS will be sent automatically to reactivate th
   <string name="ks_download_success">Downloaded successfully</string>
   <string name="ks_fingerprint_payment">Fingerprint payments</string>
   <string name="ks_fingerprint_status">Payment status</string>
-  <string name="ks_name_alipay">Alipay</string>
+  <string name="ks_name_alipay">IFAA</string>
   <string name="ks_name_fido">FIDO</string>
-  <string name="ks_name_soter">WeChat Pay</string>
+  <string name="ks_name_soter">Soter</string>
   <string name="ks_status_available">Available</string>
   <string name="ks_status_unavailable">Not available</string>
   <string name="ks_update_certificate">Certificate</string>
@@ -413,8 +413,7 @@ To fix this, you can either clean out some old files to make room for new ones, 
   <string name="micloud_sync_alert_dialog_title">Mi Cloudを使用</string>
   <string name="micloud_sync_off">Mi Cloudとの同期はオフです</string>
   <string name="micloud_sync_prompt_for_no_gallery_sync">連絡先、カレンダー、ノートは自動的に同期されます。その他のアイテムを同期するには、Mi Cloudの設定に移動してください。</string>
-  <string name="micloud_title_dspt" formatted="false">"%s 合計
- %s 使用 | %s 残り"</string>
+  <string name="micloud_title_dspt" formatted="false">"使用 %s/合計 %s,"</string>
   <string name="micloud_title_dspt_remain">"%s 残り"</string>
   <string name="micloud_title_full_dspt">"You've reached your storage limit"</string>
   <string name="micloud_unlogin_for_time_summary"/>
@@ -520,7 +519,7 @@ This feature encrypts and sends your device's ID to Mi's servers."</string>
   <string name="sub_sync_item_sms_title_wifi_only">"MMSの同期にWi-Fiのみ使用する"</string>
   <string name="success_upgraded_space">%s を追加しました</string>
   <string name="sync_dspt">同期</string>
-  <string name="sync_dspt_entrance_provision">"Mi Cloudは複数の端末間で写真や連絡先を同期するのに役立ちます。任意のブラウザで %s にアクセスすることで同期したアイテムを確認できます。"</string>
+  <string name="sync_dspt_entrance_provision">"写真、連絡先、通話履歴、メッセージをすべての端末で同期します。 %s にブラウザでアクセスすることで同期したアイテムを確認できます。"</string>
   <string name="sync_dspt_entrance_provision_2">詳細</string>
   <string name="sync_dspt_entrance_provision_confirm_close">使用しない</string>
   <string name="sync_dspt_entrance_provision_confirm_content">"MIUIの内蔵アプリは、Mi Cloudが写真、連絡先、ノートなどをバックアップするために必要です。Mi Cloudは無料ですぐに使用できます。"</string>
@@ -569,10 +568,10 @@ This feature encrypts and sends your device's ID to Mi's servers."</string>
   <string name="virtual_sim_desc">"Mi SIMをオンにして、SIMカードなしで端末を検索する"</string>
   <string name="voip_choose_sim">Choose phone number to activate Mi Voice</string>
   <string name="wipe_data_dialog_button_check_sync">Check if synced</string>
-  <string name="wipe_data_dialog_msg">"%s weren't synced and will stay on your phone."</string>
+  <string name="wipe_data_dialog_msg">"一部のアイテム %s は同期されていません。これらはお使いの端末に保存されており、削除されません。"</string>
   <string name="wipe_data_dialog_msg_and_on">, and some other items</string>
   <string name="wipe_data_dialog_msg_separator">, </string>
-  <string name="wipe_data_dialog_title">"一部のアイテムが同期されていません"</string>
+  <string name="wipe_data_dialog_title">"アイテムは同期されていません"</string>
   <string name="wipe_secret_photo_dialog_title">"非表示の写真は同期されません"</string>
   <string name="xiaomi_cloud_service">Mi Cloud</string>
   <string name="xiaomi_cloud_service_subtitle">"すべての重要なアイテムを1ヶ所で管理"</string>

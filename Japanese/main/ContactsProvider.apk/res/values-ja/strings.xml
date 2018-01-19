@@ -21,6 +21,7 @@
   <string name="send_sms">"メッセージを送る"</string>
   <string name="sharedUserLabel">"Android Core Apps"</string>
   <string name="third_party_delete_contact_info">"\"%s\" is trying to delete your contacts. This action can't be carried out by third-party apps. To delete contacts, use MIUI's built-in Contacts app instead."</string>
+  <string name="update_accounts_changed">"アカウントが変更されました"</string>
   <string name="upgrade_msg">"連絡先データベースをアップグレードしています。"</string>
   <string name="upgrade_out_of_memory_notification_text">"アップグレードを完了するにはタップしてください。"</string>
   <string name="upgrade_out_of_memory_notification_ticker">"連絡先のアップグレードに必要なメモリが不足しています。"</string>
