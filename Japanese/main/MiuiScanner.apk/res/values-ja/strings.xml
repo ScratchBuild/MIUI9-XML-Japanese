@@ -113,7 +113,6 @@
   <string name="namecard_recognize_failed_tip">カードを読み取れませんでした</string>
   <string name="namecard_recognizing">読み取り中…</string>
   <string name="namecard_title">Put the card inside the frame</string>
-  <string name="namecard_vendor_info">Powered by CamCard</string>
   <string name="nickname">ニックネーム:</string>
   <string name="no_network">ネットワークに接続できません</string>
   <string name="no_storage">内部ストレージがありません</string>
@@ -152,14 +151,12 @@
   <string name="settings">設定</string>
   <string name="shopping_searching">検索中…</string>
   <string name="shopping_title">製品の写真を撮る</string>
-  <string name="shopping_vendor_info">Powered by Taobao</string>
   <string name="spaceIsLow_content">"内部ストレージに十分な空き領域がありません。空き領域を確保してください。"</string>
   <string name="study_report_title">Report</string>
   <string name="study_rotate_picture">Processing the photo</string>
   <string name="study_scan_result">Result</string>
   <string name="study_searching">Searching for result</string>
   <string name="study_title">Take a photo of the problem</string>
-  <string name="study_vendor_info">Powered by Master Learner</string>
   <string name="tips_message">"Connect to the internet to check if the website you're about to visit is secure."</string>
   <string name="title">Title:</string>
   <string name="translation_language_chinese">中国語</string>
@@ -184,7 +181,6 @@
   <string name="url_is_safety">このウェブサイトは安全です</string>
   <string name="url_is_unknown">ウェブサイトが安全か確認することができません</string>
   <string name="url_is_unsafety">このウェブサイトは安全ではありません</string>
-  <string name="vender_info_translation_kingsoft">Powered by Kingsoft</string>
   <string name="view_study_report">View report</string>
   <string name="web">ウェブサイト:</string>
   <string name="website_details">ウェブサイト:</string>

@@ -27,7 +27,6 @@
   <string name="already_voted">"投票済み"</string>
   <string name="already_voted_toast">"今日の天気は既に選択済みです"</string>
   <string name="app_name">"天気"</string>
-  <string name="aqi_data_source">Powered by Colorful Clouds</string>
   <string name="aqi_desc">Air Quality Index</string>
   <string name="aqi_detail_24_hours">"1時間ごとの予報"</string>
   <string name="aqi_detail_5_days">"5日間の予報"</string>
@@ -71,7 +70,7 @@
   <string name="content_desc_activity_main_more_settings">"その他の設定"</string>
   <string name="daily_forcast_drawer_on_bottom">"非表示"</string>
   <string name="daily_forcast_no_stable_direction">"そよ風"</string>
-  <string name="daily_forcast_weather_transfer">%1$s. %2$s later.</string>
+  <string name="daily_forcast_weather_transfer">"%1$s のち %2$s"</string>
   <string name="daily_forcast_whirl_wind">"つむじ風"</string>
   <string name="daily_forecast_detail">"予報の詳細"</string>
   <string name="daily_forecast_no_data">"気象情報の取得に失敗しました

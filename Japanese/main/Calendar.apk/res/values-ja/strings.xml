@@ -237,7 +237,7 @@
   <string name="install_weather_app_error">"アプリの読み込みに失敗しました。"</string>
   <string name="install_weather_app_loading">"読み込み中…"</string>
   <string name="installing_email">"インストールしています…"</string>
-  <string name="item_num_selected">%1$d selected</string>
+  <string name="item_num_selected">"%1$d件選択済み"</string>
   <string name="joke_card_click_toast">"ジョークをコピーするには長押し"</string>
   <string name="joke_card_icon_text">%1$s 人笑过</string>
   <string name="joke_card_long_click_toast">已复制，长按输入框即可粘贴</string>
@@ -484,7 +484,6 @@ You can also add reminders so you don't miss anything important."</string>
   <string name="travel_item_weather_forecast">"旅行先の予報"</string>
   <string name="travel_item_weather_now">"旅行先の天気"</string>
   <string name="travel_load_failed">"読み込み失敗"</string>
-  <string name="travel_loaded">Powered by Veryzhun</string>
   <string name="travel_loading">"読み込み中…"</string>
   <string name="travel_local">"行き先"</string>
   <string name="travel_seat_number_text">"座席番号"</string>
