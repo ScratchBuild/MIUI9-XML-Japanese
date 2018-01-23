@@ -91,10 +91,14 @@
   <string name="device_corrupt">Mi Phone (データが破損しています)</string>
   <string name="device_delete_prompt">%sのバックアップを削除しますか？</string>
   <string name="device_xiaomi">Mi Phone</string>
+  <string name="dialog_btn_next">次へ</string>
+  <string name="dialog_btn_restore_skip">後で復元</string>
   <string name="dialog_cancel_backup_cancel">キャンセル</string>
   <string name="dialog_cancel_backup_confirm">OK</string>
   <string name="dialog_cancel_backup_msg">スイッチを切り替えると、実行中のバックアップが停止します。</string>
   <string name="dialog_cancel_backup_title">実行中のバックアップをキャンセルしますか？</string>
+  <string name="dialog_msg_restore_require_wlan">バックアップを復元するにはWi-Fi接続が必要です。</string>
+  <string name="dialog_title_require_wlan">Wi-Fi接続が必要</string>
   <string name="dir_date_format">HHmmss_MMddyyyy</string>
   <string name="doing_restore_home">ホーム画面と設定を復元中…</string>
   <string name="done_remove">正常に削除されました</string>

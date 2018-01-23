@@ -881,7 +881,7 @@
   <string name="close_sdcard_optimization_warning_message">この変更を適用するために端末を再起動します。</string>
   <string name="cloud_backup_section_title">Mi Cloudバックアップ</string>
   <string name="cloud_backup_settings_section_title">バックアップの設定</string>
-  <string name="cloud_restore_section_summary">アプリ、ホーム画面のレイアウト、システム設定を復元する</string>
+  <string name="cloud_restore_section_summary">システム設定、ホーム画面のレイアウトやアプリを復元する</string>
   <string name="cloud_restore_section_title">Mi Cloudから復元</string>
   <string name="cmcc_hardware_version">ハードウェアバージョン</string>
   <string name="collect_diagnostics_summary">トラブルシューティングのために診断データを収集する</string>
