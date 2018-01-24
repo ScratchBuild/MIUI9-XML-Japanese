@@ -506,6 +506,6 @@
   <string name="wqfile_group_chat_pic">"メッセンジャーの画像"</string>
   <string name="wqfile_group_chat_video">"メッセンジャーの動画"</string>
   <string name="wqfile_group_chat_voice">"メッセンジャーの音声"</string>
-  <string name="year_month_day_format">MMM dd, yyyy</string>
+  <string name="year_month_day_format">"yyyy年M月d日"</string>
   <string name="yesterday">"昨日"</string>
 </resources>

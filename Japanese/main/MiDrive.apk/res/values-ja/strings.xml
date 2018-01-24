@@ -124,6 +124,6 @@
   <string name="wangpan_root_path">My drive</string>
   <string name="xiaomi_drive_description_content">"Mi Driveではファイルをオンラインに保存して端末のストレージを解放することができます。Mi Driveの使用を停止しますか？"</string>
   <string name="xiaomi_drive_description_title">"Mi Driveについて"</string>
-  <string name="year_month_day_format">MMM dd, yyyy</string>
+  <string name="year_month_day_format">"yyyy年M月d日"</string>
   <string name="yesterday">"昨日"</string>
 </resources>

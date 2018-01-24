@@ -4,8 +4,8 @@
     <string name="date_time_12">M月d日 EEEE</string>
     <string name="language">ja</string>
     <string name="desc_date_format">M月d日 EEEE</string>
-    <string name="desc_time">'current time' + #hour12+' '+ifelse(#minute,#minute,'oclock')+', double tap to enter clock app'</string>
-    <string name="desc_time_1">'current time' + #hour12+' '+ifelse(#minute,#minute,'oclock')+', double tap to enter clock app'</string>
+    <string name="desc_time">'現在時刻は' + #hour12+' '+ifelse(#minute,#minute,'時')+'です、時計アプリを開くにはダブルタップ'</string>
+    <string name="desc_time_1">'現在時刻は' + #hour12+' '+ifelse(#minute,#minute,'時')+'です、時計アプリを開くにはダブルタップ'</string>
     <string name="weather_type_0">晴れ</string>
     <string name="weather_type_1">曇り</string>
     <string name="weather_type_2">霞み</string>

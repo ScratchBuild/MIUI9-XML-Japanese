@@ -314,7 +314,7 @@
   <string name="resource_trial_end_purchase">"購入"</string>
   <string name="resource_trial_end_restore">Finish trial</string>
   <string name="resource_trial_end_time">(trial until %1$s)</string>
-  <string name="resource_trial_end_time_format">hh:mma MMM d</string>
+  <string name="resource_trial_end_time_format">M月d日 HH:mm</string>
   <string name="resource_trial_end_title">"試用期限切れ"</string>
   <string name="resource_trial_fail_cancel">OK</string>
   <string name="resource_trial_fail_go_settings">"設定"</string>

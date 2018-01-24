@@ -1024,7 +1024,7 @@ to receive reminders about payments and trips"</string>
   <string name="unknow">"不明"</string>
   <string name="unread_string">"未読のスレッド"</string>
   <string name="unzip_file_failed">"ファイルを解凍できませんでした"</string>
-  <string name="update_date_format_templete">HH:mm aa, MMMM dd</string>
+  <string name="update_date_format_templete">M月d日 HH:mm</string>
   <string name="update_to_wps_mail">Enjoy more features with WPS Mail</string>
   <string name="updated_at">Refreshed at %1$s</string>
   <string name="upload_log">"ログをアップロード"</string>

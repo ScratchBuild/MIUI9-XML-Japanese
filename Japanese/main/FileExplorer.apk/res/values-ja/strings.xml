@@ -825,7 +825,7 @@
   <string name="xiaomi_btn_bind">Mi Account</string>
   <string name="xiaomi_btn_str">Mi</string>
   <string name="xiaomi_login_btn_str">Mi Account</string>
-  <string name="year_month_day_format">MMM dd, yyyy</string>
+  <string name="year_month_day_format">"yyyy年M月d日"</string>
   <string name="yes">"はい"</string>
   <string name="yesterday">"昨日"</string>
   <string name="you_liao_god_desc">Upload videos regularly and expand your fan base to gain the Gentleman status</string>

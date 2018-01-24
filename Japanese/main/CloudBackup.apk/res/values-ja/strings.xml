@@ -81,7 +81,7 @@
   <string name="confirm_restore_summary">"Wi-Fiに接続されるとアプリが自動でダウンロードされ、ホーム画面が再起動します"</string>
   <string name="confirm_restore_title">"復元"</string>
   <string name="customization">&lt;u&gt;カスタマイズ&lt;/u&gt;</string>
-  <string name="date_format">HH:mm:ss MM-dd-yyyy</string>
+  <string name="date_format">yyyy/MM/dd HH:mm:ss</string>
   <string name="deskclock_backup">Alarm clock</string>
   <string name="desktop_downloading">ダウンロード中</string>
   <string name="desktop_failed">失敗しました</string>
@@ -99,7 +99,7 @@
   <string name="dialog_cancel_backup_title">実行中のバックアップをキャンセルしますか？</string>
   <string name="dialog_msg_restore_require_wlan">バックアップを復元するにはWi-Fi接続が必要です。</string>
   <string name="dialog_title_require_wlan">Wi-Fi接続が必要</string>
-  <string name="dir_date_format">HHmmss_MMddyyyy</string>
+  <string name="dir_date_format">yyyyMMdd_HHmmss</string>
   <string name="doing_restore_home">ホーム画面と設定を復元中…</string>
   <string name="done_remove">正常に削除されました</string>
   <string name="download_home_data">ホーム画面のレイアウトをダウンロード中…</string>
