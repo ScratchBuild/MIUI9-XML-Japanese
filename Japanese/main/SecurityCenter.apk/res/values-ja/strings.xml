@@ -893,6 +893,8 @@ Carrier may charge you additional fees if you use mobile data connection again."
   <string name="lockpattern_too_many_failed_confirmation_attempts_header">"誤った回数が多すぎます！"</string>
   <string name="lockpattern_tutorial_cancel_label">"キャンセル"</string>
   <string name="lockpattern_tutorial_continue_label">"次へ"</string>
+  <string name="lockpattern_tutorial_continue_label_confirm">"[OK]をタップ"</string>
+  <string name="lockpattern_tutorial_continue_label_next">"[次へ]をタップ"</string>
   <string name="lockscreen_access_pattern_cell_added">"セルを追加しました"</string>
   <string name="lockscreen_access_pattern_cleared">"パターンを消去しました"</string>
   <string name="lockscreen_access_pattern_detected">"パターンの描画が完了しました"</string>

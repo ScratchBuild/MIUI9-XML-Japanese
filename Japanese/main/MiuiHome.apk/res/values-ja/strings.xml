@@ -130,6 +130,7 @@
   <string name="gadget_clock_12_label">"時計 2x1"</string>
   <string name="gadget_clock_14_label">"時計 4x1"</string>
   <string name="gadget_clock_24_label">"時計 4x2"</string>
+  <string name="gadget_clock_34_label">"時計 4x3"</string>
   <string name="gadget_clock_label">"時計"</string>
   <string name="gadget_error_text">"ウィジェットが読み込めません"</string>
   <string name="gadget_google_search_label">"Google検索"</string>
