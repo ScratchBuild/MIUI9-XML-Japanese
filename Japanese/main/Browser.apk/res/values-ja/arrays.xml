@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="menu_theme_setting">
-        <item>"白"</item>
-        <item>"黄"</item>
-        <item>"灰"</item>
-        <item>"茶"</item>
-        <item>"緑"</item>
-        <item>"青"</item>
+    <string-array name="pref_fling_on_border_gesture_entries">
+        <item>"前のページへ戻る"</item>
+        <item>"タブを切り替える"</item>
+        <item>"なし"</item>
     </string-array>
     <string-array name="pref_homepage_choices">
         <item>"スタートページ"</item>
@@ -41,9 +38,49 @@
         <item>Message from Browser</item>
         <item>Follow the Olympics with Mi</item>
     </string-array>
-    <string-array name="pref_fling_on_border_gesture_entries">
-        <item>"前のページへ戻る"</item>
-        <item>"タブを切り替える"</item>
-        <item>"なし"</item>
+    <string-array name="suggestion_weather_condition_message">
+        <item>Clear</item>
+        <item>Partly cloudy</item>
+        <item>Cloudy</item>
+        <item>Shower</item>
+        <item>Thunderstorms</item>
+        <item>Hail</item>
+        <item>Sleet</item>
+        <item>Light rain</item>
+        <item>Moderate rain</item>
+        <item>Heavy rain</item>
+        <item>Rainstorm</item>
+        <item>Torrential rain</item>
+        <item>Extraordinary storm</item>
+        <item>Snow shower</item>
+        <item>Light snow</item>
+        <item>Moderate snow</item>
+        <item>Heavy snow</item>
+        <item>Blizzard</item>
+        <item>Fog</item>
+        <item>Freezing rain</item>
+        <item>Sandstorm</item>
+        <item>Small to moderate rain</item>
+        <item>Medium to heavy rain</item>
+        <item>Heavy to torrential rain</item>
+        <item>Torrential rain to downpour</item>
+        <item>Downpour to extreme rainstorm</item>
+        <item>Light to moderate snow</item>
+        <item>Moderate to heavy snow</item>
+        <item>Heavy to blizzard</item>
+        <item>Floating dust</item>
+        <item>Raising sand</item>
+        <item>Sandstorm</item>
+        <item>Dense fog</item>
+        <item>Strong fog</item>
+        <item>Haze</item>
+        <item>Moderate haze</item>
+        <item>Heavy haze</item>
+        <item>Severe haze</item>
+        <item>Dense fog</item>
+        <item>Strong dense fog</item>
+        <item>Nothing</item>
+        <item>Rain</item>
+        <item>Snow</item>
     </string-array>
 </resources>

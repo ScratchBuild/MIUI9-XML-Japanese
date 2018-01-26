@@ -459,7 +459,7 @@
   <string name="cancel">"キャンセル"</string>
   <string name="cancel_button">"キャンセル"</string>
   <string name="card_main_applock_action">"オンにする"</string>
-  <string name="card_main_applock_summary">"選択したアプリをパスワードで保護します。メッセージ、写真、メモなどを非表示にします。"</string>
+  <string name="card_main_applock_summary">"パスワードでメッセージ、写真、その他のアイテムを保護します。"</string>
   <string name="card_main_applock_title">"アプリロック"</string>
   <string name="card_main_deepclean_action">"消去"</string>
   <string name="card_main_deepclean_qq_title">QQ cleaner</string>
@@ -893,8 +893,8 @@ Carrier may charge you additional fees if you use mobile data connection again."
   <string name="lockpattern_too_many_failed_confirmation_attempts_header">"誤った回数が多すぎます！"</string>
   <string name="lockpattern_tutorial_cancel_label">"キャンセル"</string>
   <string name="lockpattern_tutorial_continue_label">"次へ"</string>
-  <string name="lockpattern_tutorial_continue_label_confirm">"[OK]をタップ"</string>
-  <string name="lockpattern_tutorial_continue_label_next">"[次へ]をタップ"</string>
+  <string name="lockpattern_tutorial_continue_label_confirm">"\"OK\"をタップ"</string>
+  <string name="lockpattern_tutorial_continue_label_next">"\"次へ\"をタップ"</string>
   <string name="lockscreen_access_pattern_cell_added">"セルを追加しました"</string>
   <string name="lockscreen_access_pattern_cleared">"パターンを消去しました"</string>
   <string name="lockscreen_access_pattern_detected">"パターンの描画が完了しました"</string>
@@ -1311,7 +1311,7 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
   <string name="power_btn_analyze">"電池使用量を分析"</string>
   <string name="power_cell">"セルスタンバイ"</string>
   <string name="power_center_auto_shutdown">Schedule power on/off</string>
-  <string name="power_center_back">Back to Power</string>
+  <string name="power_center_back">"電池使用量に戻る"</string>
   <string name="power_center_charge_time">"フル充電まで%1$s"</string>
   <string name="power_center_ontime_boot">Power on time</string>
   <string name="power_center_ontime_shutdown">Power off time</string>
@@ -1320,7 +1320,7 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
   <string name="power_center_state_on">ON</string>
   <string name="power_center_time_to_boot">Power on time</string>
   <string name="power_center_time_to_shutdown">Power off time</string>
-  <string name="power_center_title">Power</string>
+  <string name="power_center_title">"電池使用量"</string>
   <string name="power_consume_hardware_total_format">"ハードウェア: %s"</string>
   <string name="power_consume_other">"その他"</string>
   <string name="power_consume_rank_hardware">"ハードウェア"</string>
