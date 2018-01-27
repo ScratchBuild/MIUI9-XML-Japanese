@@ -143,6 +143,17 @@
         <item>Forwards</item>
         <item>Backwards</item>
     </string-array>
+    <string-array name="default_reminder_labels">
+        <item>予定の時刻</item>
+        <item>5分前</item>
+        <item>10分前</item>
+        <item>15分前</item>
+        <item>30分前</item>
+        <item>1時間前</item>
+        <item>1日前</item>
+        <item>2日前</item>
+        <item>1週間前</item>
+    </string-array>
     <string-array name="gemini_info">
         <item>gemini</item>
         <item>双子座</item>
@@ -238,8 +249,8 @@
     </string-array>
     <string-array name="repeat_countdown">
         <item>Never</item>
-        <item>Monthly</item>
-        <item>Yearly</item>
+        <item>毎月</item>
+        <item>毎年</item>
     </string-array>
     <string-array name="repeat_frequency_spinner">
         <item>day</item>

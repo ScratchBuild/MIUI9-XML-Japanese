@@ -160,14 +160,14 @@
   <string name="edit_event_reminder_3_days_before">"3日前に通知"</string>
   <string name="edit_event_reminder_summary">"当日の%1$s"</string>
   <string name="edit_event_reminder_summary_3_days_before">"3日前と当日の%1$sに通知"</string>
-  <string name="edit_event_reminder_text">On %1$s at %2$s</string>
+  <string name="edit_event_reminder_text">"%1$sの%2$s"</string>
   <string name="edit_event_reminder_time">"通知の時間"</string>
-  <string name="edit_event_reminder_with_another_day_text">On %1$s, %2$s at %3$s</string>
+  <string name="edit_event_reminder_with_another_day_text">"%1$sと%2$sの%3$s"</string>
   <string name="edit_event_show_all">"すべて表示"</string>
   <string name="edit_event_tab_anniversary">"記念日"</string>
   <string name="edit_event_tab_birthday">"誕生日"</string>
   <string name="edit_event_tab_countdown">"カウントダウン"</string>
-  <string name="edit_event_tab_event">"イベント"</string>
+  <string name="edit_event_tab_event">"予定"</string>
   <string name="edit_event_to_label">"終了"</string>
   <string name="email_guests_label">"ゲストにメールを送信"</string>
   <string name="email_install_hint">"メールアプリがアンインストールされました。再インストールすることで、カレンダーアカウントのデータを復元したり、新しいアカウントを追加することができます。"</string>
@@ -451,7 +451,7 @@ You can also add reminders so you don't miss anything important."</string>
   <string name="taishen">胎神</string>
   <string name="talk_back_read_date">Current date: %1$s (%2$s according to lunar calendar).</string>
   <string name="template_announce_item_index">"%2$s件中%1$s件目の予定"</string>
-  <string name="template_week_num">Week %1$s</string>
+  <string name="template_week_num">"第%1$s週"</string>
   <string name="text_day">日</string>
   <string name="text_year">年</string>
   <string name="ticket_card_date">%1$s月%2$s日</string>
