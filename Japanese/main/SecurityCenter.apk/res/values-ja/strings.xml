@@ -1068,6 +1068,8 @@ Carrier may charge you additional fees if you use mobile data connection again."
   <string name="network_blocked_connected_open_wifi">Connected to public network</string>
   <string name="network_blocked_notification_summary">"ネットワーク診断"</string>
   <string name="network_blocked_switch_wifi">"ネットワークを切り替える"</string>
+  <string name="network_changed_noti_summary">"モバイルデータを使用"</string>
+  <string name="network_changed_noti_title">"Wi-Fiから切断しました"</string>
   <string name="network_connected_exception_title">"ネットワーク診断"</string>
   <string name="network_control">"アプリの設定を表示"</string>
   <string name="network_diagnostics">"ネットワーク診断"</string>

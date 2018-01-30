@@ -5,11 +5,9 @@
   <string name="alert_message_delete_record_title">"録音を削除しますか？"</string>
   <string name="app_name">"レコーダー"</string>
   <string name="back">"戻る"</string>
-  <string name="btn_clear_records">"録音を削除 (%d個のアイテム)"</string>
   <string name="button_queue_for_wifi">"待機"</string>
   <string name="button_start_now">"ダウンロード"</string>
   <string name="call_record">Recorded calls</string>
-  <string name="choose_call_records_count">"%d個のアイテム"</string>
   <string name="clear_records">"同期した録音を削除"</string>
   <string name="cloud_record_open">"録音を同期"</string>
   <string name="cloud_record_tip">"Mi Cloudと録音を同期します"</string>
@@ -64,7 +62,6 @@
   <string name="notification_recording_ticker">Phone muted</string>
   <string name="notification_stopped">"録音を停止しました"</string>
   <string name="notification_title_all_paused">Download paused</string>
-  <string name="notification_warning">Storage low (less than %d minutes)</string>
   <string name="path_soundrecorder_setting">"システムアプリ/レコーダー"</string>
   <string name="pause">Pause</string>
   <string name="playback_delete_records">"録音を削除"</string>

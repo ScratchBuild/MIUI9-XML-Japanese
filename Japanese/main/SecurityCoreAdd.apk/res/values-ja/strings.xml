@@ -320,7 +320,7 @@ to enter Second space from Lock screen"</string>
   <string name="xspace_default_setting_label">"デフォルトアプリ"</string>
   <string name="xspace_description">"デュアルアプリを作成して使用します。デュアルアプリはホーム画面上に別々のアイコンを持ちます。"</string>
   <string name="xspace_guide_des">"2つのアカウントを切り替えずに使用する"</string>
-  <string name="xspace_guide_title">"%sのデュアルアプリを作成"</string>
+  <string name="xspace_guide_title">"デュアルアプリを作成"</string>
   <string name="xspace_header">"デュアルアプリ"</string>
   <string name="xspace_install_completed">"ホーム画面にアイコンを追加しました"</string>
   <string name="xspace_install_failed">"作成できませんでした"</string>

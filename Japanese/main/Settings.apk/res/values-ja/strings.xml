@@ -2507,6 +2507,10 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="nfc_quick_toggle_title">NFC</string>
   <string name="nfc_se_route_title">セキュアエレメントの位置</string>
   <string name="nfc_se_wallet_title">既定のウォレット</string>
+  <string name="night_light">ナイトライト</string>
+  <string name="night_light_brightness">ナイトライトの明るさ</string>
+  <string name="night_light_color">ナイトライトの色</string>
+  <string name="night_light_summary">低照度環境ではバックライトを最小限に抑えてナイトライトモードに切り替える</string>
   <string name="night_mode_auto">自動</string>
   <string name="night_mode_no">ライト</string>
   <string name="night_mode_title">テーマ</string>
@@ -2693,6 +2697,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="paper_mode_get_location_dlg_negative_btn_text">キャンセル</string>
   <string name="paper_mode_get_location_dlg_positive_btn_text">設定に移動</string>
   <string name="paper_mode_get_location_dlg_title">現在地を設定</string>
+  <string name="paper_mode_side_effect_hint">強度を上げるとコンテンツの表示方法に影響を与える可能性があります。</string>
   <string name="paper_mode_start_time_title">オンにする</string>
   <string name="passpoint_content">%1$sの認証情報</string>
   <string name="passpoint_label">保存</string>

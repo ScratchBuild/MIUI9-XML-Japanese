@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="abrupt_weather_settings_summary_type_a">"異常気象警報を切り替える"</string>
+  <string name="abrupt_weather_settings_summary_type_b">"異常気象警報を切り替える"</string>
+  <string name="abrupt_weather_settings_title">"異常気象警報"</string>
   <string name="act_find_city_hint">"都市名を入力"</string>
   <string name="act_find_city_hot_attractions_title">Popular sites</string>
   <string name="act_find_city_hot_city_title">"人気の都市"</string>
@@ -68,6 +71,9 @@
   <string name="content_desc_activity_main_add_city">"都市を追加"</string>
   <string name="content_desc_activity_main_add_city_manage">"都市を管理"</string>
   <string name="content_desc_activity_main_more_settings">"その他の設定"</string>
+  <string name="content_desc_back_button">"戻る"</string>
+  <string name="content_desc_close_button">"閉じる"</string>
+  <string name="content_desc_edit_city_manage">"都市を管理"</string>
   <string name="daily_forcast_drawer_on_bottom">"非表示"</string>
   <string name="daily_forcast_no_stable_direction">"そよ風"</string>
   <string name="daily_forcast_weather_transfer">"%1$s のち %2$s"</string>
@@ -126,8 +132,8 @@
   <string name="location_tag">Locate</string>
   <string name="menu_add_city">"場所の編集"</string>
   <string name="menu_location">"位置情報"</string>
-  <string name="menu_minute_rain">"今後2時間の降水量予測"</string>
   <string name="menu_speeker">Voice broadcast</string>
+  <string name="minute_rain">"詳細"</string>
   <string name="minute_rain_after_an_hour">"1時間後"</string>
   <string name="minute_rain_after_two_hour">"2時間後"</string>
   <string name="minute_rain_feedback_subtitle">"現在の天気を教えてください"</string>
@@ -139,6 +145,7 @@
   <string name="minute_rain_progress_indicator_original_time">- -</string>
   <string name="minute_rain_pull_down_refresh">"引っ張って更新"</string>
   <string name="minute_rain_refreshing_now">"更新中…"</string>
+  <string name="missing_required_permission">"必要なアクセス許可が無効になっています。"</string>
   <string name="more_details">"さらに詳しく"</string>
   <string name="network_not_available">"ネットワークに接続できませんでした"</string>
   <string name="network_unavailable">"ネットワークに接続できませんでした。"</string>
