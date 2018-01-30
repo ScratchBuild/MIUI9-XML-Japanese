@@ -181,9 +181,9 @@
   <string name="unit_data_display_area_ha">ヘクタール</string>
   <string name="unit_data_display_area_mu">Mu</string>
   <string name="unit_data_display_area_qing">Qing</string>
-  <string name="unit_data_display_area_sq.chi">Square chi</string>
+  <string name="unit_data_display_area_sq.chi">平方尺</string>
   <string name="unit_data_display_area_sq.cm">平方センチメートル</string>
-  <string name="unit_data_display_area_sq.cun">Square cun</string>
+  <string name="unit_data_display_area_sq.cun">平方寸</string>
   <string name="unit_data_display_area_sq.dm">平方デシメートル</string>
   <string name="unit_data_display_area_sq.ft">平方フィート</string>
   <string name="unit_data_display_area_sq.gongli">平方キロメートル</string>
@@ -197,9 +197,9 @@
   <string name="unit_data_display_area_sq.yd">平方ヤード</string>
   <string name="unit_data_display_currency_cnh">オフショア人民元</string>
   <string name="unit_data_display_length_au">天文単位</string>
-  <string name="unit_data_display_length_chi">Chi</string>
+  <string name="unit_data_display_length_chi">尺</string>
   <string name="unit_data_display_length_cm">センチメートル</string>
-  <string name="unit_data_display_length_cun">Cun</string>
+  <string name="unit_data_display_length_cun">寸</string>
   <string name="unit_data_display_length_dm">デシメートル</string>
   <string name="unit_data_display_length_fen">Fen</string>
   <string name="unit_data_display_length_fm">ファゾム</string>
@@ -209,7 +209,7 @@
   <string name="unit_data_display_length_hao">Hao</string>
   <string name="unit_data_display_length_in">インチ</string>
   <string name="unit_data_display_length_km">キロメートル</string>
-  <string name="unit_data_display_length_ld">Lunar distance</string>
+  <string name="unit_data_display_length_ld">月距</string>
   <string name="unit_data_display_length_li">Li</string>
   <string name="unit_data_display_length_lii">Lii</string>
   <string name="unit_data_display_length_ly">光年</string>
