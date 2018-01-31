@@ -37,8 +37,8 @@
   <string name="multisim_settings_category">"SIMカードの設定"</string>
   <string name="multisim_settings_title">"2つのSIMカードが検出されました"</string>
   <string name="navigation_picker_gesture_guide">"ジェスチャーガイド"</string>
-  <string name="navigation_picker_radio_text_full_screen">"フルスクリーンモード"</string>
-  <string name="navigation_picker_radio_text_virtual_key">"仮想ボタンモード"</string>
+  <string name="navigation_picker_radio_text_full_screen">"フルスクリーンジェスチャー"</string>
+  <string name="navigation_picker_radio_text_virtual_key">"ボタン"</string>
   <string name="next">"次へ"</string>
   <string name="next_fingerprint">Next</string>
   <string name="other_settings">"その他の設定"</string>

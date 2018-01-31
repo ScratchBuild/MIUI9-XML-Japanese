@@ -265,6 +265,7 @@
   <string name="submit_dialog_cancel">"キャンセル"</string>
   <string name="submit_dialog_confirm">"送信"</string>
   <string name="submit_dialog_content">"あなたのフィードバックは添付ファイルと共にMIUIのサーバーに送信されます。これには個人情報と位置データが含まれる場合があります。"</string>
+  <string name="submit_dialog_content_global">"あなたのフィードバックは添付ファイルと共にMIUIのサーバーに送信されます。これには個人情報と位置データが含まれる場合があります。ログを送信しないようにするには、対応するチェックボックスをオフにします。"</string>
   <string name="submit_dialog_title">"レポートを送信"</string>
   <string name="submit_feedback_info_failed">"レポートを送信できませんでした"</string>
   <string name="suggestion_description">"ここに説明を追加"</string>

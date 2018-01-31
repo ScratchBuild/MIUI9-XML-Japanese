@@ -336,6 +336,8 @@ and brings out the people in the front."</string>
   <string name="pref_camera_whitebalance_entry_manual">"手動"</string>
   <string name="pref_camera_whitebalance_entry_measure">"測定"</string>
   <string name="pref_camera_whitebalance_title">"ホワイトバランス"</string>
+  <string name="pref_camera_zoom_mode_entry_high_pixel">"高画素"</string>
+  <string name="pref_camera_zoom_mode_entry_standard">"標準"</string>
   <string name="pref_camera_zoom_mode_entry_tele">tele</string>
   <string name="pref_camera_zoom_mode_entry_wide">wide</string>
   <string name="pref_camera_zoom_mode_title">Lens</string>

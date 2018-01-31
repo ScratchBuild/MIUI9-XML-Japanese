@@ -459,7 +459,7 @@
   <string name="cancel">"キャンセル"</string>
   <string name="cancel_button">"キャンセル"</string>
   <string name="card_main_applock_action">"オンにする"</string>
-  <string name="card_main_applock_summary">"パスワードでメッセージ、写真、その他のアイテムを保護します。"</string>
+  <string name="card_main_applock_summary">"パスワードで選択したアプリを保護します。"</string>
   <string name="card_main_applock_title">"アプリロック"</string>
   <string name="card_main_deepclean_action">"消去"</string>
   <string name="card_main_deepclean_qq_title">QQ cleaner</string>
