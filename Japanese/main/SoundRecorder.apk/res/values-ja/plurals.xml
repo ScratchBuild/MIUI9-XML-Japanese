@@ -17,8 +17,8 @@
         <item quantity="one">%d not synced</item>
     </plurals>
     <plurals name="btn_clear_records">
-        <item quantity="other">録音を削除 (%d個のアイテム)</item>
-        <item quantity="one">録音を削除 (%d個のアイテム)</item>
+        <item quantity="other">%d件の録音を削除</item>
+        <item quantity="one">%d件の録音を削除</item>
     </plurals>
     <plurals name="choose_call_records_count">
         <item quantity="other">%d個のアイテム</item>

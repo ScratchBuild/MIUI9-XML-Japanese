@@ -565,6 +565,13 @@ Take more photos of your friends!"</string>
   <string name="main_discard_negative_btn">"破棄"</string>
   <string name="main_discard_positive_btn">"保存と終了"</string>
   <string name="main_save_error_msg">"エラーのため変更を保存できませんでした"</string>
+  <string name="mark_myself_default_name">"私"</string>
+  <string name="mark_myself_suggestion_load_more">"私ではありません"</string>
+  <string name="mark_myself_suggestion_title">"顔で写真を選別してギャラリーを\nパーソナライズする"</string>
+  <string name="mark_operation_failed">"追加できませんでした"</string>
+  <string name="mark_operation_processing">"処理中…"</string>
+  <string name="mark_operation_succeeded">"正常に追加されました"</string>
+  <string name="mark_people_ignore_info_message">"ユーザをグループに追加するには写真を長押ししてください"</string>
   <string name="menu_album_new_album">New album</string>
   <string name="menu_item_sort_date">"日付"</string>
   <string name="menu_item_sort_name">"名前"</string>

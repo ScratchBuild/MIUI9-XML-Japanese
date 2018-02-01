@@ -20,6 +20,7 @@
   <string name="search_the_yellowpage">"イエローページを検索"</string>
   <string name="send_sms">"メッセージを送る"</string>
   <string name="sharedUserLabel">"Android Core Apps"</string>
+  <string name="sim_state_changed">"SIMカードが変更されました"</string>
   <string name="third_party_delete_contact_info">"\"%s\" is trying to delete your contacts. This action can't be carried out by third-party apps. To delete contacts, use MIUI's built-in Contacts app instead."</string>
   <string name="update_accounts_changed">"アカウントが変更されました"</string>
   <string name="upgrade_msg">"連絡先データベースをアップグレードしています。"</string>
@@ -27,5 +28,6 @@
   <string name="upgrade_out_of_memory_notification_ticker">"連絡先のアップグレードに必要なメモリが不足しています。"</string>
   <string name="upgrade_out_of_memory_notification_title">"連絡先用ストレージのアップグレード"</string>
   <string name="video_call">"ビデオハングアウト"</string>
+  <string name="voicemail_cleanup">"ボイスメールをクリーンアップ"</string>
   <string name="voicemail_from_column">"受信ボイスメール: "</string>
 </resources>
