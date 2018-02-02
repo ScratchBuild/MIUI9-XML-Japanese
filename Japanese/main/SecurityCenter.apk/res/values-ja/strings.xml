@@ -1119,7 +1119,7 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
   <string name="news_change">"変更"</string>
   <string name="nickname">"ニックネーム"</string>
   <string name="no_game">"ゲームが見つかりません"</string>
-  <string name="note">"ノート"</string>
+  <string name="note">"メモ"</string>
   <string name="note_call_none">"着信はありません"</string>
   <string name="note_list_none">"リストは空です"</string>
   <string name="note_sms_none">"メッセージはありません"</string>

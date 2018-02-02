@@ -95,7 +95,7 @@
   <string name="call_work">職場に発信</string>
   <string name="call_work_mobile">携帯端末（職場）に発信</string>
   <string name="call_work_pager">ポケベル（職場）に発信</string>
-  <string name="calllog_call_note_menu">Call notes</string>
+  <string name="calllog_call_note_menu">通話メモ</string>
   <string name="calllog_call_record_menu">Recorded calls</string>
   <string name="calllog_menu_blacklist">"ブロック"</string>
   <string name="calllog_menu_edit_before_call">"編集"</string>
@@ -109,7 +109,7 @@
   <string name="callrecordview_item_op_time_short_incoming">"着信: "</string>
   <string name="callrecordview_item_op_time_short_outgoing">"発信: "</string>
   <string name="callrecordview_item_op_video">Video</string>
-  <string name="callrecordview_menu_add_call_note">Add call note</string>
+  <string name="callrecordview_menu_add_call_note">"通話メモを追加"</string>
   <string name="callrecordview_menu_batch_delete">"一括消去"</string>
   <string name="callrecordview_menu_blocklist">"ブロックリスト"</string>
   <string name="callrecordview_menu_conference">"グループ通話"</string>
@@ -123,7 +123,7 @@
   <string name="callrecordview_menu_delete_one">"通話履歴から削除"</string>
   <string name="callrecordview_menu_delete_sim">Clear call history records (%s)</string>
   <string name="callrecordview_menu_delete_stranger">"不明な番号を消去"</string>
-  <string name="callrecordview_menu_edit_call_note">Edit call note</string>
+  <string name="callrecordview_menu_edit_call_note">"通話メモを編集"</string>
   <string name="callrecordview_menu_ip">"自動IPダイヤル"</string>
   <string name="callrecordview_menu_livetalk">Top-up package</string>
   <string name="callrecordview_menu_misim">Mi SIM</string>
@@ -196,7 +196,7 @@
   <string name="contact_delete_toast">"連絡先を削除しました"</string>
   <string name="contact_detail_action_item_calllog">"通話履歴"</string>
   <string name="contact_detail_action_item_nocalllog">"通話履歴なし"</string>
-  <string name="contact_detail_calllog_call_note_tips">"ノート"</string>
+  <string name="contact_detail_calllog_call_note_tips">"メモ"</string>
   <string name="contact_detail_calllog_call_record_tips">Recorded call</string>
   <string name="contact_detail_calllog_empty">"通話履歴はありません"</string>
   <string name="contact_detail_menu_delete_miprofile">"カードを削除"</string>
@@ -546,7 +546,7 @@ To avoid frequent queries, we update balance info once a day."</string>
   <string name="label_custom_type">"カスタム"</string>
   <string name="label_duplicate_count">(%1$d)</string>
   <string name="label_no_duplicate_contacts">"重複は見つかりませんでした"</string>
-  <string name="label_notes">"ノート"</string>
+  <string name="label_notes">"メモ"</string>
   <string name="label_sip_address">IP通話</string>
   <string name="launcherDialer">"電話"</string>
   <string name="listCustomView">カスタムビュー内の連絡先</string>

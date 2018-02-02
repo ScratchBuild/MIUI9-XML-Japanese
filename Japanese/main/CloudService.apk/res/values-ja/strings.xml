@@ -250,7 +250,7 @@ to your Mi Account to reactivate Mi Cloud."</string>
   <string name="micloud_find_device_guide_fail_sub_net">"ネットワーク接続を確認して、もう一度やり直してください。"</string>
   <string name="micloud_find_device_guide_fail_sub_timeout">"接続がタイムアウトしました。後ほど再試行してください。"</string>
   <string name="micloud_find_device_guide_micloud">Mi Cloudとの同期をオンにする</string>
-  <string name="micloud_find_device_guide_micloud_sub_content">Mi Cloudと連絡先、写真、ノート、その他を同期する</string>
+  <string name="micloud_find_device_guide_micloud_sub_content">Mi Cloudと連絡先、写真、メモ、その他を同期する</string>
   <string name="micloud_find_device_guide_noti_content">デバイスを紛失した場合でもあなたのデータを保護します</string>
   <string name="micloud_find_device_guide_noti_content_by_app_change_qq">お使いのデバイスを紛失した場合でも、あなたのQQのデータは安全です</string>
   <string name="micloud_find_device_guide_noti_content_by_app_change_wx">お使いのデバイスを紛失した場合でも、あなたのWeChatのデータは安全です</string>
@@ -410,12 +410,12 @@ To fix this, you can either clean out some old files to make room for new ones, 
   <string name="micloud_storage_expires_very_soon_title">Mi Cloud storage expires soon</string>
   <string name="micloud_storage_full">Cloud is full</string>
   <string name="micloud_storage_usage" formatted="false">"使用 %s/合計 %s"</string>
-  <string name="micloud_sync_alert_dialog_message">写真、連絡先、ノートやその他をお使いのすべての端末間で同期します。</string>
+  <string name="micloud_sync_alert_dialog_message">写真、連絡先、メモやその他をお使いのすべての端末間で同期します。</string>
   <string name="micloud_sync_alert_dialog_negative">キャンセル</string>
   <string name="micloud_sync_alert_dialog_positive">OK</string>
   <string name="micloud_sync_alert_dialog_title">Mi Cloudを使用</string>
   <string name="micloud_sync_off">Mi Cloudとの同期はオフです</string>
-  <string name="micloud_sync_prompt_for_no_gallery_sync">連絡先、カレンダー、ノートは自動的に同期されます。その他のアイテムを同期するには、Mi Cloudの設定に移動してください。</string>
+  <string name="micloud_sync_prompt_for_no_gallery_sync">連絡先、カレンダー、メモは自動的に同期されます。その他のアイテムを同期するには、Mi Cloudの設定に移動してください。</string>
   <string name="micloud_title_dspt" formatted="false">"使用 %s/合計 %s,"</string>
   <string name="micloud_title_dspt_remain">"%s 残り"</string>
   <string name="micloud_title_full_dspt">"You've reached your storage limit"</string>
@@ -525,12 +525,12 @@ This feature encrypts and sends your device's ID to Mi's servers."</string>
   <string name="sync_dspt_entrance_provision">"写真、連絡先、通話履歴、メッセージをすべての端末で同期します。 %s にブラウザでアクセスすることで同期したアイテムを確認できます。"</string>
   <string name="sync_dspt_entrance_provision_2">詳細</string>
   <string name="sync_dspt_entrance_provision_confirm_close">使用しない</string>
-  <string name="sync_dspt_entrance_provision_confirm_content">"MIUIの内蔵アプリは、Mi Cloudが写真、連絡先、ノートなどをバックアップするために必要です。Mi Cloudは無料ですぐに使用できます。"</string>
+  <string name="sync_dspt_entrance_provision_confirm_content">"MIUIの内蔵アプリは、Mi Cloudが写真、連絡先、メモなどをバックアップするために必要です。Mi Cloudは無料ですぐに使用できます。"</string>
   <string name="sync_dspt_entrance_provision_confirm_open">Mi Cloudを使用</string>
   <string name="sync_dspt_entrance_provision_confirm_title">"Mi Cloud使用しない？"</string>
   <string name="sync_dspt_entrance_provision_network">"このアプリが正常に動作するには、インターネットへの接続が必要です。データを同期させるには、モバイルデータ接続またはWi-Fiをオンにする必要があります。"</string>
   <string name="sync_dspt_entrance_provision_skip">"この手順をスキップ"</string>
-  <string name="sync_dspt_provision">"写真、連絡先、ノートなどを、同期したすべての端末や "</string>
+  <string name="sync_dspt_provision">"写真、連絡先、メモなどを、同期したすべての端末や "</string>
   <string name="sync_dspt_provision3">" からアクセスしたりできます。この機能はいつでも[設定]からオン/オフを切り替えられます。"</string>
   <string name="sync_dspt_provision_header">同期</string>
   <string name="sync_dspt_provision_title">Mi Cloud</string>

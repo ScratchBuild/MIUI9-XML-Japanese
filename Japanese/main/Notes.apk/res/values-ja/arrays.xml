@@ -23,7 +23,7 @@
         <item>"誕生日"</item>
         <item>"ウェブサイト"</item>
         <item>"住所"</item>
-        <item>"ノート"</item>
+        <item>"メモ"</item>
     </string-array>
     <string-array name="font_size_names">
         <item>小</item>

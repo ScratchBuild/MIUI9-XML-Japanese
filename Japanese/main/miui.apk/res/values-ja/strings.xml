@@ -139,7 +139,7 @@
   <string name="no_network">"ネットワークに接続できません"</string>
   <string name="no_sim">"SIMカードが検出できません。"</string>
   <string name="noon">PM</string>
-  <string name="note">"ノート"</string>
+  <string name="note">"メモ"</string>
   <string name="organization">"所属"</string>
   <string name="perm_payment_dspt">"Mi Pay Serviceを通じてのアプリ支払いを許可する"</string>
   <string name="perm_payment_lab">Mi Pay</string>

@@ -7,7 +7,7 @@
         <item>Find device</item>
     </string-array>
     <string-array name="micloud_entrance_subtitleArray">
-        <item>連絡先、メッセージ、ノート、カレンダーなどを同期する</item>
+        <item>連絡先、メッセージ、メモ、カレンダーなどを同期する</item>
         <item>アプリ、ホーム画面の設定、壁紙などをバックアップする</item>
         <item>Wi-Fiやディスプレイを含む重要な設定をバックアップする</item>
         <item>端末を紛失した場合にリモートからロックする</item>

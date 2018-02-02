@@ -1516,7 +1516,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="fingerprint_add_title">指紋を追加</string>
   <string name="fingerprint_and_password_entrance_title">画面ロックと指紋認証</string>
   <string name="fingerprint_apply_to_privacy_password">プライバシー保護パスワード</string>
-  <string name="fingerprint_apply_to_privacy_password_scenarios">プライバシー保護パスワードはあなたのメッセージ、写真、ファイル、ノート、およびアプリを保護します。</string>
+  <string name="fingerprint_apply_to_privacy_password_scenarios">プライバシー保護パスワードはあなたのメッセージ、写真、ファイル、メモ、およびアプリを保護します。</string>
   <string name="fingerprint_enable_keyguard_toggle_title">画面ロック</string>
   <string name="fingerprint_enroll_button_add">別の指紋を登録</string>
   <string name="fingerprint_enroll_button_next">次へ</string>
@@ -2543,7 +2543,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="normal_smartcover_title">不透明なフロントカバー</string>
   <string name="not_battery_optimizing">電池の最適化を使用しない</string>
   <string name="not_installed">未インストール</string>
-  <string name="notes_privacy_password_role_instruction">プライベートなノートはここに保存されます。</string>
+  <string name="notes_privacy_password_role_instruction">プライベートなメモはここに保存されます。</string>
   <string name="notification_app_settings_button">通知設定</string>
   <string name="notification_breathing_light_color_title">通知LEDの色</string>
   <string name="notification_breathing_light_freq_title">通知LEDを点滅させる</string>
@@ -2861,11 +2861,11 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="privacy_gallery">写真</string>
   <string name="privacy_header_text_less_than_half">小さすぎます。セパレータをもう少しドラッグします。</string>
   <string name="privacy_mms">メッセージ</string>
-  <string name="privacy_mode_dialog_message">メッセージ、ノート、写真、設定、および着信を非表示にしますか？</string>
+  <string name="privacy_mode_dialog_message">メッセージ、メモ、写真、設定、および着信を非表示にしますか？</string>
   <string name="privacy_mode_dialog_title">ゲストモード</string>
-  <string name="privacy_mode_enable_sum">メッセージ、ノート、写真、設定、および着信を非表示にします</string>
+  <string name="privacy_mode_enable_sum">メッセージ、メモ、写真、設定、および着信を非表示にします</string>
   <string name="privacy_mode_enable_title">ゲストモード</string>
-  <string name="privacy_notes">ノート</string>
+  <string name="privacy_notes">メモ</string>
   <string name="privacy_password">プライバシー保護パスワード</string>
   <string name="privacy_password_add_account">追加</string>
   <string name="privacy_password_add_account_info">パスワードを忘れた場合でも再設定できるように、Mi Accountを追加します</string>
@@ -2889,9 +2889,9 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="privacy_password_remind_bindaccount_title">Mi Accountを追加</string>
   <string name="privacy_password_settings">プライバシー保護パスワードを使用</string>
   <string name="privacy_password_settings_next">次へ</string>
-  <string name="privacy_password_settings_titles">プライバシー保護パスワードはあなたのメッセージ、写真、ファイル、およびノートを保護します。</string>
-  <string name="privacy_password_settings_titles_elder_mode">プライバシー保護パスワードはあなたの写真、ファイル、およびノートを保護します。</string>
-  <string name="privacy_password_settings_titles_second_space">プライバシー保護パスワードはあなたのメッセージ、写真、およびノートを保護します。</string>
+  <string name="privacy_password_settings_titles">プライバシー保護パスワードはあなたのメッセージ、写真、ファイル、およびメモを保護します。</string>
+  <string name="privacy_password_settings_titles_elder_mode">プライバシー保護パスワードはあなたの写真、ファイル、およびメモを保護します。</string>
+  <string name="privacy_password_settings_titles_second_space">プライバシー保護パスワードはあなたのメッセージ、写真、およびメモを保護します。</string>
   <string name="privacy_password_title">プライバシー保護パスワード</string>
   <string name="privacy_password_toggle_summary">プライベートなアイテムにアクセスする際にパスワードを要求する。</string>
   <string name="privacy_password_transparent_tiltle"/>

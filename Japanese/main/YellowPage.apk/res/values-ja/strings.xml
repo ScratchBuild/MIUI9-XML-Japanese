@@ -50,7 +50,7 @@
   <string name="confirm_to_add_blacklist">この番号をブロックしますか？</string>
   <string name="confirm_to_remove_blacklist">この番号のブロックを解除しますか？</string>
   <string name="confirm_to_send_to_desktop">ホーム画面に%sを設置しますか？</string>
-  <string name="contact_detail_calllog_call_note_tips">Call notes</string>
+  <string name="contact_detail_calllog_call_note_tips">通話メモ</string>
   <string name="contact_detail_calllog_call_record_tips">Recorded calls</string>
   <string name="content_desc_send_sms">SMSを送信</string>
   <string name="coupon_bought_count">%d bought</string>

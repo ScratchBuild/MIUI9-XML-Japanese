@@ -437,9 +437,9 @@
   <string name="priority_low">低</string>
   <string name="priority_normal">中</string>
   <string name="privacy_mode_hint">"ゲストモードでメッセージの送信はできません"</string>
-  <string name="privacy_password_message1">プライバシー保護パスワードはアプリ、写真、ノート、非表示フォルダに使用されます。</string>
-  <string name="privacy_password_message2">プライバシー保護パスワードを使用します。これはアプリ、写真、ノート、非表示フォルダに使用されます。</string>
-  <string name="privacy_password_message3">メッセージのパスワードは、アプリ、写真、ノート、非表示フォルダに使用されるプライバシー保護パスワードに置き換えられます。</string>
+  <string name="privacy_password_message1">プライバシー保護パスワードはアプリ、写真、メモ、非表示フォルダに使用されます。</string>
+  <string name="privacy_password_message2">プライバシー保護パスワードを使用します。これはアプリ、写真、メモ、非表示フォルダに使用されます。</string>
+  <string name="privacy_password_message3">メッセージのパスワードは、アプリ、写真、メモ、非表示フォルダに使用されるプライバシー保護パスワードに置き換えられます。</string>
   <string name="privacy_password_set_password">設定</string>
   <string name="privacy_password_title1">パスワードを設定</string>
   <string name="privacy_password_title2">プライバシー保護パスワードを使用</string>

@@ -276,7 +276,7 @@
   <string name="resource_ranking_purchase">"有料"</string>
   <string name="resource_ringtone_playing_error">"エラー"</string>
   <string name="resource_ringtone_volume_mute">Ringer is silenced</string>
-  <string name="resource_save_to_note">"ノートに保存"</string>
+  <string name="resource_save_to_note">"メモに保存"</string>
   <string name="resource_search_color_hint_blue">Blue</string>
   <string name="resource_search_color_hint_green">Green</string>
   <string name="resource_search_color_hint_orange">Orange</string>

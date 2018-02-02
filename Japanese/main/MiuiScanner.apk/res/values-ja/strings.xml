@@ -40,7 +40,7 @@
   <string name="document_grayscale_tip_msg">"グレースケールに変換中…"</string>
   <string name="document_ocr">OCR</string>
   <string name="document_ocr_result_copy">テキストをコピー</string>
-  <string name="document_ocr_result_save">ノートに保存</string>
+  <string name="document_ocr_result_save">メモに保存</string>
   <string name="document_ocr_result_title">Document photo</string>
   <string name="document_ocr_tip_msg">読み取り中…</string>
   <string name="document_recognize_fail_tip">"ドキュメントを読み取れませんでした"</string>

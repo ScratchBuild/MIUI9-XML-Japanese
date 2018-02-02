@@ -21,8 +21,8 @@
         <item quantity="one">%d件のメッセージ</item>
     </plurals>
     <plurals name="dirty_note_count">
-        <item quantity="other">%d個のノート</item>
-        <item quantity="one">%d個のノート</item>
+        <item quantity="other">%d個のメモ</item>
+        <item quantity="one">%d個のメモ</item>
     </plurals>
     <plurals name="dirty_image_count">
         <item quantity="other">%d枚の写真</item>

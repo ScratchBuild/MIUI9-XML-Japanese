@@ -11,7 +11,7 @@
         <item>誕生日</item>
         <item>ウェブサイト</item>
         <item>住所</item>
-        <item>ノート</item>
+        <item>メモ</item>
         <item>関連事項</item>
     </string-array>
     <string-array name="resent_via_entries_sms">
