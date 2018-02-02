@@ -777,9 +777,7 @@ Take more photos of your friends!"</string>
   <string name="publish_failed">"Couldn't publish"</string>
   <string name="publish_succeeded">Album published</string>
   <string name="publishing">Publishing…</string>
-  <string name="quotation">\"%s\"</string>
   <string name="recent_album_empty_title">"最近追加された新しい写真はありません"</string>
-  <string name="recipient_editor_count_format">%d</string>
   <string name="recommanded_face_abandon_tip">Removed from suggestions</string>
   <string name="recommanded_face_added_tip">Added to \"%s\"</string>
   <string name="recovery_merge">"統合"</string>

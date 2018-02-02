@@ -8,12 +8,10 @@
   <string name="context_menu_item_edit">"編集"</string>
   <string name="context_menu_item_favorite">"プリセットに追加"</string>
   <string name="context_menu_item_unfavorite">"プリセットから削除"</string>
-  <string name="context_menu_title">%sMHz</string>
   <string name="dialog_sleep_title">"スリープタイマーをセット"</string>
   <string name="exit_fm">"終了"</string>
   <string name="fm_has_turned_off">"FMラジオはオフになっています"</string>
   <string name="fmradio_clear_confirm_msg">"すべてのプリセットが削除されます。"</string>
-  <string name="frequency_mhz_fomart">%sMHz</string>
   <string name="group_favor">"プリセット"</string>
   <string name="group_other">"その他"</string>
   <string name="hint_frequency">"周波数: %1$s ~ %2$s"</string>
@@ -45,7 +43,6 @@
   <string name="search_dialog_title">"放送局をスキャン"</string>
   <string name="set">"設定"</string>
   <string name="station_check_favorite">"プリセットに追加"</string>
-  <string name="station_freq_format">%sMHz</string>
   <string name="stations_list">"放送局リスト"</string>
   <string name="stations_list_empty">"プリセットなし"</string>
   <string name="toast_added_to_list">"リストに追加しました"</string>
