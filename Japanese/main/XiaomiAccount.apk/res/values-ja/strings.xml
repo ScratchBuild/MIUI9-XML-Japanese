@@ -94,8 +94,8 @@
   <string name="current_location_title">"現在地"</string>
   <string name="delete_action">"削除"</string>
   <string name="delete_app">"アプリを削除"</string>
-  <string name="delete_bank_card_message">"ログアウト後、セキュリティ上の理由により銀行カードが削除されます"</string>
-  <string name="delete_bank_card_title">"銀行カードの削除"</string>
+  <string name="delete_bank_card_message">"ログアウト後、Mi Payの銀行カードとNFCカードが削除されます"</string>
+  <string name="delete_bank_card_title">"注意"</string>
   <string name="delete_browser">"ブラウザを削除"</string>
   <string name="delete_device">"デバイスを削除"</string>
   <string name="delete_device_btn">"削除"</string>
@@ -118,7 +118,6 @@
   <string name="find_device_account_error">"アカウントエラーのためステータスを取得できません"</string>
   <string name="find_device_activate_account">Activate account</string>
   <string name="find_device_bad_response_error">"サーバーエラーが発生しました、後ほど再試行してください"</string>
-  <string name="find_device_display_id">Unlock number: %s</string>
   <string name="find_device_error_password_not_confirmed">"Find deviceをオフにできません。もう一度Mi Accountのパスワードを入力してください。"</string>
   <string name="find_device_error_password_recently_changed">"過去3日以内にパスワードを変更しました。セキュリティ上の理由により、Find deviceを今すぐオフにできません。"</string>
   <string name="find_device_interrupted">"アクションが中断されました、後ほど再試行してください"</string>
@@ -268,6 +267,7 @@
   <string name="passport_input_password_hint">"パスワードを入力"</string>
   <string name="passport_input_phone_hint">"電話番号を入力"</string>
   <string name="passport_input_vcode_hint">"認証コードを入力"</string>
+  <string name="passport_input_voice_captcha_hint">"音声認証コードを入力"</string>
   <string name="passport_instant_login">"ログイン"</string>
   <string name="passport_license_host_unreachable">"ネットワークに接続できません。 You can view this page at %s."</string>
   <string name="passport_loading">"読み込み中…"</string>
@@ -365,7 +365,7 @@
   <string name="passport_uplink_slot1_reg">"SIM 1を使用"</string>
   <string name="passport_uplink_slot2_reg">"SIM 2を使用"</string>
   <string name="passport_use_generated_pwd_message">Make sure you remember your password. You can use it to sign in to other Mi services.</string>
-  <string name="passport_use_generated_pwd_title">Remember your password</string>
+  <string name="passport_use_generated_pwd_title">Remember your password!</string>
   <string name="passport_user_agreement">"利用規約"</string>
   <string name="passport_user_agreement_p1">"利用規約"</string>
   <string name="passport_user_agreement_p2">" と "</string>
@@ -435,6 +435,7 @@
   <string name="trusted_browsers">Trusted browsers</string>
   <string name="trusted_browsers_prompt">The browser will no longer be trusted if you delete cookies.</string>
   <string name="turn_off_find_device_failed_title">"Can't turn off Find device"</string>
+  <string name="turning_off_find_device">"Find deviceをオフにしています…"</string>
   <string name="unbind_sns_description">"After you disconnect this account, you won't be able to use your %s Account info to sign to your Mi Account."</string>
   <string name="unlock_help_notice">"Help:
 · If you forgot your password, go to id.mi.com to reset it.

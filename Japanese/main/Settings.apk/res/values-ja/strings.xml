@@ -620,7 +620,7 @@
   <string name="bluetooth_pairing_pin_error_message">PINまたはパスキーが正しくないため、%1$sをペアに設定できませんでした。</string>
   <string name="bluetooth_pairing_rejected_error_message">ペア設定が%1$sに拒否されました。</string>
   <string name="bluetooth_pairing_request">Bluetoothのペア設定リクエスト</string>
-  <string name="bluetooth_pairing_shares_phonebook">連絡先や通話履歴へのアクセスを%1$sに許可する</string>
+  <string name="bluetooth_pairing_shares_phonebook">連絡先や通話履歴へのアクセスを許可する</string>
   <string name="bluetooth_pairing_will_share_phonebook">ペア設定により、接続時に連絡先や通話履歴へのアクセスが許可されます。</string>
   <string name="bluetooth_pan_nap_profile_summary_connected">ローカルインターネット接続をデバイスと共有</string>
   <string name="bluetooth_pan_profile_summary_use_for">インターネットアクセスに使用する</string>
@@ -1628,6 +1628,8 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="free_xiaomi_wifi_connect_summary">タップして%1$sへ接続</string>
   <string name="frequently_fragment_delete">削除</string>
   <string name="frequently_fragment_tempty">使用頻度の高い項目は、ここに表示されます</string>
+  <string name="fsg_mistake_touch_summary">全画面表示中のゲームプレイや動画再生など一部の状況では、ジェスチャーを実行するには二度スワイプする必要があります</string>
+  <string name="fsg_mistake_touch_title">ジェスチャーの再確認</string>
   <string name="full_transparent_smarrcover_title">透明なフロントカバー</string>
   <string name="fullbackup_data_summary">"端末のデータ（Wi-Fiのパスワードや通話履歴など）とアプリのデータ（アプリで保存された設定やファイルなど）を自動的にリモートでバックアップします。
 

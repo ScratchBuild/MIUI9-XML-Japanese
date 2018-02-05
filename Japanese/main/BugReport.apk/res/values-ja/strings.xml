@@ -82,9 +82,17 @@
   <string name="feedback_retest_label">"再現手順"</string>
   <string name="feedback_select_images">"画像を追加"</string>
   <string name="feedback_select_modem_log">"モデムログを追加"</string>
+  <string name="feedback_select_modem_log_not_select_desc">\"モデムログを追加\"を選択していません</string>
+  <string name="feedback_select_modem_log_select_desc">\"モデムログを追加\"を選択しました</string>
   <string name="feedback_select_problem">"問題"</string>
+  <string name="feedback_select_problem_not_select_desc">\"問題\"を選択していません</string>
+  <string name="feedback_select_problem_select_desc">\"問題\"を選択しました</string>
   <string name="feedback_select_suggestion">"提案"</string>
+  <string name="feedback_select_suggestion_not_select_desc">\"提案\"を選択していません</string>
+  <string name="feedback_select_suggestion_select_desc">\"提案\"を選択しました</string>
   <string name="feedback_select_upload_log">"ログを追加"</string>
+  <string name="feedback_select_upload_log_not_select_desc">\"ログを追加\"を選択していません</string>
+  <string name="feedback_select_upload_log_select_desc">\"ログを追加\"を選択しました</string>
   <string name="feedback_status_answered">"回答済み"</string>
   <string name="feedback_status_change_notification_title">"レポートの進捗状況が更新されました"</string>
   <string name="feedback_status_commit_failed_title">"レポートを送信できませんでした"</string>

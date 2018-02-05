@@ -233,6 +233,7 @@ https://appleid.apple.com/#!&amp;page=signin to close"</string>
   <string name="notif_icloud_need_wifi_summary">"Wi-Fiを待機中"</string>
   <string name="notif_icloud_saved_summary">"インポートが完了しました"</string>
   <string name="notif_icloud_saving_summary">"データの復元中…"</string>
+  <string name="notif_miasist_try_to_connect">"Mi PC Suiteがデバイスに接続しようとしています"</string>
   <string name="notif_parse_select_descript_error">"バックアップされたアイテムの一覧を同期できませんでした。"</string>
   <string name="notif_receiving_transingsd">"受信中 %1$s (%2$s)…"</string>
   <string name="notif_restore_complete_title">"復元が完了しました"</string>

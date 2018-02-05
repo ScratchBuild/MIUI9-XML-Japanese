@@ -14,6 +14,12 @@
   <string name="ac_firstUseApplock_subTitle">"システムレベルのより優れたセキュリティツールを使用する"</string>
   <string name="ac_firstUseApplock_title">"アプリを保護するためのパスワードを設定する"</string>
   <string name="ac_mask_all_apps">"すべてのアプリを非表示"</string>
+  <string name="ac_notification_contentText">"オンにするにはタップ"</string>
+  <string name="ac_notification_contentTitle">"アプリロックでアプリを保護する"</string>
+  <string name="ac_post_notification_contentText">"システムレベルの保護を実施する"</string>
+  <string name="ac_post_notification_contentTitle">"アプリロックをオンにする"</string>
+  <string name="ac_pre_notification_contentText">"個人情報を保護する"</string>
+  <string name="ac_pre_notification_contentTitle">"アプリロックを試す"</string>
   <string name="ac_summaryOff">"オフにしました、アプリを開くのにパスワードは不要です"</string>
   <string name="ac_summaryOn">"オンにしました、アプリを開くにはパスワードが必要です"</string>
   <string name="ac_unmask_all_apps">"すべてのアプリを表示"</string>
@@ -1127,12 +1133,10 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
   <string name="notification_battery_consume_abnormal_title">"バッテリーの消耗が早すぎます"</string>
   <string name="notification_exit_power_save_mode">"バッテリーセーバーをオフにしました"</string>
   <string name="notification_exit_power_save_mode_subtitle">Battery %s charged.</string>
-  <string name="notification_item">"アプリロックでアプリを保護する"</string>
   <string name="notification_mask_summary">"ロック画面と通知シェードで通知内容を非表示にする"</string>
   <string name="notification_mask_title">"内容を非表示"</string>
   <string name="notification_masked_item">"通知を非表示"</string>
   <string name="notification_masked_subtitle">"アプリロックで保護されているアプリからの通知を非表示"</string>
-  <string name="notification_subtitle">"オンにするにはタップ"</string>
   <string name="notification_summary_cmcc_app_check">"詳細を表示するにはタップ。"</string>
   <string name="notify_daily_data_usage_body">To limit data usage automatically, set up your monthly data plan.</string>
   <string name="notify_daily_limit_body">Tap to set data limit.</string>
