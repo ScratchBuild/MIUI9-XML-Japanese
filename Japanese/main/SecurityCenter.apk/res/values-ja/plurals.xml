@@ -57,8 +57,8 @@ If you turn on mobile data again, your carrier may charge you for additional dat
 If you turn on mobile data again, your carrier may charge you for additional data."</item>
     </plurals>
     <plurals name="search_app_count_txt_na">
-        <item quantity="other">Search %d apps</item>
-        <item quantity="one">Search %d app</item>
+        <item quantity="other">%d個のアプリを検索</item>
+        <item quantity="one">%d個のアプリを検索</item>
     </plurals>
     <plurals name="hints_roaming_enable_title">
         <item quantity="other">%d apps can use data roaming</item>
@@ -81,16 +81,16 @@ If you turn on mobile data again, your carrier may charge you for additional dat
         <item quantity="one">"%d app doesn't work properly and drains battery"</item>
     </plurals>
     <plurals name="power_center_battery_day">
-        <item quantity="other">"%d days "</item>
-        <item quantity="one">"%d day "</item>
+        <item quantity="other">"%d日 "</item>
+        <item quantity="one">"%d日 "</item>
     </plurals>
     <plurals name="power_center_battery_hour">
-        <item quantity="other">"%d hr "</item>
-        <item quantity="one">"%d hr "</item>
+        <item quantity="other">"%d時間 "</item>
+        <item quantity="one">"%d時間 "</item>
     </plurals>
     <plurals name="power_center_battery_minute">
-        <item quantity="other">"%d min "</item>
-        <item quantity="one">"%d min "</item>
+        <item quantity="other">"%d分 "</item>
+        <item quantity="one">"%d分 "</item>
     </plurals>
     <plurals name="deep_clean_auto_memory_clean">
         <item quantity="other">In %1$d minutes</item>
