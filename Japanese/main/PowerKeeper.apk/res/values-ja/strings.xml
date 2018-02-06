@@ -65,6 +65,7 @@
   <string name="scenario_policies_summary">"さまざまなシーンに応じて最適な省電力モードを適用します。"</string>
   <string name="scenario_policies_title">"スマートシーン"</string>
   <string name="scenario_policies_warmcontrol">"温度制御"</string>
+  <string name="search_result_text">"アプリが見つかりませんでした"</string>
   <string name="show_system_app">"システムアプリを表示"</string>
   <string name="sleep_config_enhance_description">"MIUIがスリープ中であることを検出すると、バックグラウンドアプリを終了し、NFC、Bluetooth、GPS、モバイルデータやWi-Fiを制限して、通知のために画面を点灯しません。"</string>
   <string name="sleep_config_enhance_description_non_nfc">"MIUIがスリープ中であることを検出すると、バックグラウンドアプリを終了し、Bluetooth、GPS、モバイルデータやWi-Fiを制限して、通知のために画面を点灯しません。"</string>

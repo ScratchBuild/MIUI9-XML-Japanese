@@ -336,6 +336,8 @@
   <string name="hour_minute_time_format">HH:mm</string>
   <string name="how_to_back_home">ホーム画面に戻る</string>
   <string name="how_to_switch_recents">タスク履歴を開く</string>
+  <string name="how_to_use_drawer">アプリのスライド機能の使い方</string>
+  <string name="how_to_use_drawer_summary">左上からスワイプする</string>
   <string name="how_to_use_fsg">ジェスチャーを使用してこれらのアクションを実行できます:</string>
   <string name="immediately_destroy_activities">アクティビティを保持しない</string>
   <string name="immediately_destroy_activities_summary">ユーザーが離れたアクティビティを直ちに破棄する</string>
