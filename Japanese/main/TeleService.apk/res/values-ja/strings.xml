@@ -1136,9 +1136,9 @@
   <string name="ussdRunning">USSDコードを実行中...</string>
   <string name="vibrate_after_connected_summary">応答時にバイブレーションする</string>
   <string name="vibrate_after_connected_title">接続後にバイブレーション</string>
-  <string name="vice_slot_volte_data_switch_prompt">VoLTE通話中はsecondary SIMを使用して端末がモバイルデータネットワークに接続します。これにより、追加料金が発生する場合があります。データプランの詳細については、携帯通信会社にお問い合わせください。</string>
-  <string name="vice_slot_volte_data_switch_summary">VoLTE通話中、端末はsecondary SIMを使用してモバイルデータネットワークに接続します</string>
-  <string name="vice_slot_volte_data_switch_title">VoLTE通話中はsecondary SIMでモバイルデータ接続する</string>
+  <string name="vice_slot_volte_data_switch_prompt">VoLTE通話中は2枚目のSIMを使用して端末がモバイルデータネットワークに接続します。これにより、追加料金が発生する場合があります。データプランの詳細については、携帯通信会社にお問い合わせください。</string>
+  <string name="vice_slot_volte_data_switch_summary">VoLTE通話中、端末は2枚目のSIMを使用してモバイルデータネットワークに接続します</string>
+  <string name="vice_slot_volte_data_switch_title">VoLTE通話中は2枚目のSIMでモバイルデータ接続する</string>
   <string name="vm_change_failed">"ボイスメール番号を変更できませんでした。\nこの問題が続くようであれば携帯通信会社にお問い合わせください。"</string>
   <string name="vm_changed">ボイスメールの番号が変更されました。</string>
   <string name="voice_privacy">音声のプライバシー</string>
