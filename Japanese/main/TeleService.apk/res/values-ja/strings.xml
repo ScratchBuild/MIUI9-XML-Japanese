@@ -412,7 +412,7 @@
   <string name="fdn_summary">FDN(発信先固定)リストに記載されているか、特定のプレフィックスを持つ番号への発信を制限</string>
   <string name="fdn_with_label">発信番号制限 (%s)</string>
   <string name="flash_when_ring_summary">着信時に通知LEDを点滅させます。</string>
-  <string name="flash_when_ring_title">着信時にLED点滅</string>
+  <string name="flash_when_ring_title">着信時にLEDを点滅</string>
   <string name="fw_change_failed">"転送番号を変更できませんでした。\nこの問題が続くようであれば携帯通信会社にお問い合わせください。"</string>
   <string name="fw_get_in_vm_failed">"現在の転送先番号設定の取得と保存ができませんでした。\nかまわず新しい携帯通信会社に切り替えますか？"</string>
   <string name="general_news_settings">一般ニュース</string>
@@ -733,7 +733,7 @@
   <string name="path_enable_antispam_strange_title">Phone/着信呼出の設定/Mute first ring</string>
   <string name="path_enable_proximity_title">システムアプリ/電話/着信呼出の設定/近接センサー</string>
   <string name="path_fdn">システムアプリ/電話/詳細設定/Fixed Dialing Numbers</string>
-  <string name="path_flash_when_ring_title">システムアプリ/電話/着信呼出の設定/Flash when ringing</string>
+  <string name="path_flash_when_ring_title">システムアプリ/電話/着信呼出の設定/着信時にLEDを点滅</string>
   <string name="path_handon_ringer_title">システムアプリ/電話/着信呼出の設定/Quiet ringer when lifted</string>
   <string name="path_missed_call_notify_times_title">システムアプリ/電話/詳細設定/不在着信通知</string>
   <string name="path_preference_dial_pad_touch_tone_title">システムアプリ/電話/詳細設定/ダイヤルパッドの操作音</string>
@@ -741,11 +741,11 @@
   <string name="path_reject_via_sms">システムアプリ/電話/詳細設定/クイック返信</string>
   <string name="path_sip_settings">システムアプリ/電話/詳細設定/SIP設定</string>
   <string name="path_t9_indexing_method_title">システムアプリ/電話/詳細設定/T9検索入力</string>
-  <string name="path_telocation_auto_country_code">システムアプリ/電話/Location/Add country code</string>
-  <string name="path_telocation_contacts_countrycode">システムアプリ/電話/Location/Default country code</string>
+  <string name="path_telocation_auto_country_code">システムアプリ/電話/Location/国コードを追加</string>
+  <string name="path_telocation_contacts_countrycode">システムアプリ/電話/Location/デフォルトの国コード</string>
   <string name="path_telocation_custom_location_title">システムアプリ/電話/Location/My locations</string>
   <string name="path_telocation_enable_title">システムアプリ/電話/Location/Show location</string>
-  <string name="path_turnover_mute_title">システムアプリ/電話/着信呼出の設定/Flip to silence ringer</string>
+  <string name="path_turnover_mute_title">システムアプリ/電話/着信呼出の設定/端末を裏返して着信音をミュート</string>
   <string name="path_voicemail_settings">システムアプリ/電話/詳細設定/ボイスメールの設定</string>
   <string name="pause_prompt_no">いいえ</string>
   <string name="pause_prompt_str">"番号送信\n"</string>
@@ -1109,7 +1109,6 @@
   <string name="time_end_minute">終了時間(分)</string>
   <string name="time_formate_am">AM</string>
   <string name="time_formate_pm">PM</string>
-  <string name="time_interval_char">:</string>
   <string name="time_start">開始</string>
   <string name="time_start_hour">開始時間(時)</string>
   <string name="time_start_minute">開始時間(分)</string>
@@ -1121,7 +1120,7 @@
   <string name="turn_off_dual_4g_failed">デュアル4Gをオフにできませんでした。</string>
   <string name="turn_on_dual_4g_failed">デュアル4Gをオンにできませんでした。</string>
   <string name="turnover_mute_summary">"端末が画面を上向きにして水平に置いてある時、端末を裏返すと着信音をミュートできます。"</string>
-  <string name="turnover_mute_title">携帯をひっくり返して着信音をミュート</string>
+  <string name="turnover_mute_title">端末を裏返して着信音をミュート</string>
   <string name="undefined">未設定</string>
   <string name="unknown">通知不可能</string>
   <string name="unlock_failed">ネットワークロックを解除できませんでした。</string>

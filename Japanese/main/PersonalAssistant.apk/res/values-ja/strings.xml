@@ -440,7 +440,7 @@
   <string name="dummy_tip">请将银行卡片正面置于此区域尝试对齐边缘。</string>
   <string name="duokan_open">Add Duokan card</string>
   <string name="duokan_setting_brief">Keep reading from the place you left off.</string>
-  <string name="edit_amount_hint">Enter amount</string>
+  <string name="edit_amount_hint">金額を入力</string>
   <string name="edit_category_dialog_title">Select payment category</string>
   <string name="edit_comment_hint">Remark</string>
   <string name="edit_delete_dialog_message">この履歴を削除しますか？</string>
@@ -1002,7 +1002,7 @@
   <string name="miuishare_account_need_activate">Sharing to Weibo requires the Weibo account which is associated with your Mi Account. Activate your Mi Account to continue.</string>
   <string name="miuishare_account_need_login">Sharing to Weibo requires the Weibo account which is associated with your Mi Account. Sign in to your Mi Account to continue.</string>
   <string name="miuishare_app_name">MIUI Share</string>
-  <string name="miuishare_no_network">"Couldn't connect to the network."</string>
+  <string name="miuishare_no_network">ネットワークに接続できませんでした。</string>
   <string name="miuishare_publish">送信</string>
   <string name="miuishare_qzone_title">Qzone</string>
   <string name="miuishare_share_done">Shared successfully</string>
@@ -1015,7 +1015,7 @@
   <string name="month_day_hour_minute_format_en">MM/dd HH:mm</string>
   <string name="month_format_en">MM/dd</string>
   <string name="month_list_activity_label">Statement for account %1$s</string>
-  <string name="month_record_list_money">Amount</string>
+  <string name="month_record_list_money">金額</string>
   <string name="month_record_list_time">Time</string>
   <string name="month_report_month_no_data">No data for this month</string>
   <string name="month_statement_category_detail_title">Statement</string>
@@ -1104,7 +1104,7 @@
   <string name="no_install">Not installed</string>
   <string name="no_more_result">No more items</string>
   <string name="no_settings">Not set</string>
-  <string name="not_install_c1">"This app isn't installed on your phone. Download and install it?"</string>
+  <string name="not_install_c1">このアプリはお使いの端末にインストールされていません。今すぐダウンロードしてインストールしますか？</string>
   <string name="not_install_c3">ダウンロード</string>
   <string name="not_install_c4">結構です</string>
   <string name="not_installed">Not installed</string>
@@ -1165,9 +1165,9 @@
   <string name="payment_pref_enabled_summary">Record all payments automatically</string>
   <string name="payment_pref_enabled_title">Allow payments</string>
   <string name="payment_pref_notification_enabled_title">Notify about successful and unsuccessful records</string>
-  <string name="payment_pref_privacy_category_title">Privacy</string>
+  <string name="payment_pref_privacy_category_title">プライバシー</string>
   <string name="payment_pref_privacy_security_summary">Use MIUI Privacy protection password to hide your account details</string>
-  <string name="payment_pref_privacy_security_title">Password</string>
+  <string name="payment_pref_privacy_security_title">パスワード</string>
   <string name="payment_pref_report_category_title">Report</string>
   <string name="payment_pref_report_failed_record_title">Report unprocessed bills</string>
   <string name="payment_pref_source_alipay_summary">Get payment info from Alipay</string>
@@ -1206,11 +1206,11 @@
   <string name="personalAssistant_mainpage">Home page</string>
   <string name="pie_chart_label_atm">ATMの引き出し:</string>
   <string name="pie_chart_label_catering">食費:</string>
-  <string name="pie_chart_label_education">Education:</string>
-  <string name="pie_chart_label_entertainment">Entertainment:</string>
+  <string name="pie_chart_label_education">教育:</string>
+  <string name="pie_chart_label_entertainment">娯楽:</string>
   <string name="pie_chart_label_go_dutch">Go Dutch:</string>
-  <string name="pie_chart_label_life">Life:</string>
-  <string name="pie_chart_label_medical">Healthcare:</string>
+  <string name="pie_chart_label_life">生活費:</string>
+  <string name="pie_chart_label_medical">医療費:</string>
   <string name="pie_chart_label_other">その他:</string>
   <string name="pie_chart_label_red_packet">Red packages:</string>
   <string name="pie_chart_label_remain">Remaining:</string>
@@ -1218,7 +1218,7 @@
   <string name="pie_chart_label_shopping">Shopping:</string>
   <string name="pie_chart_label_spending">Payments:</string>
   <string name="pie_chart_label_telephone_charge">通信費:</string>
-  <string name="pie_chart_label_tenement">Rent:</string>
+  <string name="pie_chart_label_tenement">家賃:</string>
   <string name="pie_chart_label_traffic">交通費:</string>
   <string name="place_label">Frequent places</string>
   <string name="plan">Scheduled</string>
@@ -1286,7 +1286,7 @@
   <string name="setting_common_private">セキュリティとプライバシー</string>
   <string name="setting_dialog_cancel">キャンセル</string>
   <string name="setting_dialog_quit">終了</string>
-  <string name="setting_dialog_title">All changes will be lost. Exit now?</string>
+  <string name="setting_dialog_title">すべての変更は失われます。今すぐ終了しますか？</string>
   <string name="setting_didi_always_sdk">Always use DiDi</string>
   <string name="setting_didi_default_way">Default taxi route</string>
   <string name="setting_disable">オフ</string>
@@ -1360,8 +1360,6 @@
   <string name="sport">Sport</string>
   <string name="sport_open">Show Mi Fit card</string>
   <string name="start_download">ダウンロードを開始します…</string>
-  <string name="step_cal_unit">Cal.</string>
-  <string name="step_km">km</string>
   <string name="step_setting_tip">歩数の取得元</string>
   <string name="step_vip_action_bar">歩数</string>
   <string name="steps">歩数</string>

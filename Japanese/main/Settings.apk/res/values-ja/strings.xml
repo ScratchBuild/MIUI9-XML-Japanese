@@ -148,7 +148,7 @@
   <string name="agps_roaming_dia_title">ローミング時にA-GPSを使用する</string>
   <string name="agps_roaming_summary">ローミング時にモバイルデータでA-GPSを使用する</string>
   <string name="airplane_mode">機内モード</string>
-  <string name="alarm_ringtone_title">Default alarm ringtone</string>
+  <string name="alarm_ringtone_title">デフォルトのアラーム音</string>
   <string name="alarm_sound_dialog_title">アラーム音を選択</string>
   <string name="alarm_sound_title">アラーム音</string>
   <string name="alarm_stop">Turn off Silent mode when alarm goes off</string>
@@ -354,8 +354,8 @@
   <string name="awake">端末使用時間</string>
   <string name="back_button">戻る</string>
   <string name="back_key">戻る</string>
-  <string name="background_check_pref">Background check</string>
-  <string name="background_check_title">Full background access</string>
+  <string name="background_check_pref">バックグラウンド チェック</string>
+  <string name="background_check_title">バックグラウンドへのフルアクセス</string>
   <string name="background_data">バックグラウンドデータ</string>
   <string name="background_data_dialog_message">バックグラウンドデータを無効にすると、データの使用量が減るため電池を節約できます。一部のアプリでは引き続きバックグラウンドデータの接続を使用します。</string>
   <string name="background_data_dialog_title">バックグラウンドを無効化</string>
@@ -366,7 +366,7 @@
   <string name="backup_configure_account_title">バックアップアカウント</string>
   <string name="backup_data_summary">アプリのデータ、Wi-Fiパスワード、その他の設定をGoogleサーバーにバックアップする</string>
   <string name="backup_data_title">データのバックアップ</string>
-  <string name="backup_disabled">Back up disabled</string>
+  <string name="backup_disabled">バックアップは無効です</string>
   <string name="backup_erase_dialog_message">Wi-Fiパスワード、ブックマーク、その他の設定とアプリのデータのバックアップを停止し、Googleサーバー上のすべてのコピーを消去しますか？</string>
   <string name="backup_erase_dialog_title"/>
   <string name="backup_inactive_title">バックアップサービスは無効</string>
@@ -553,7 +553,7 @@
   <string name="bluetooth_disable_absolute_volume_summary">リモート端末で音量に関する問題（音量が大きすぎる、制御できないなど）が発生した場合に、Bluetooth の絶対音量の機能を無効にする。</string>
   <string name="bluetooth_disable_profile_message">次のプロファイルが無効になります:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;対象デバイス:&lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt;</string>
   <string name="bluetooth_disable_profile_title">プロファイルを無効にしますか？</string>
-  <string name="bluetooth_disabled">Disabled</string>
+  <string name="bluetooth_disabled">他の端末には非表示</string>
   <string name="bluetooth_disconnect_a2dp_profile">%1$sはメディアの音声から切断されます。</string>
   <string name="bluetooth_disconnect_all_profiles">この操作を行うと、次のデバイスとの接続が切断されます:&lt;br>&lt;b>%1$s&lt;/b></string>
   <string name="bluetooth_disconnect_headset_profile">%1$sはハンズフリー音声デバイスから切断されます。</string>
@@ -787,7 +787,7 @@
   <string name="calls_title">通話</string>
   <string name="camera_double_tap_power_gesture_desc">画面のロックを解除せずにカメラをすばやく開きます</string>
   <string name="camera_double_tap_power_gesture_title">電源ボタンを2回押してカメラを起動する</string>
-  <string name="camera_gesture_desc">Open the camera app by twisting your wrist twice</string>
+  <string name="camera_gesture_desc">端末を持ったまま手首を2回ひねるとカメラを開きます</string>
   <string name="camera_gesture_title">Double twist for camera</string>
   <string name="camera_key_action_app_title">アプリを起動</string>
   <string name="camera_key_action_category_title">カメラが使用できません</string>
@@ -1174,7 +1174,6 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="debug_hw_drawing_category">ハードウェアアクセラレーテッドレンダリング</string>
   <string name="debug_hw_overdraw">GPUオーバードローをデバッグ</string>
   <string name="debug_input_category">入力</string>
-  <string name="debug_intent_sender_label">Debug intent sender</string>
   <string name="debug_layout">レイアウト境界を表示</string>
   <string name="debug_layout_summary">クリップの境界線、マージンなどを表示</string>
   <string name="debug_monitoring_category">監視</string>
@@ -1394,7 +1393,6 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="emergency_tone_title">緊急時の音</string>
   <string name="emergency_tone_vibrate">バイブレーション</string>
   <string name="empty_list_msg">サードパーティ製のアプリはインストールされていません。</string>
-  <string name="enableNetwork">enableNetwork</string>
   <string name="enable_adb">USBデバッグ</string>
   <string name="enable_adb_summary">USB接続時はデバッグモードにする</string>
   <string name="enable_compatibility">アプリを拡大/縮小</string>
@@ -1627,7 +1625,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="free_wifi_connect_summary">タップして%1$sへ接続</string>
   <string name="free_wifi_connect_title">利用可能なWi-Fi</string>
   <string name="free_wifi_connected">free Wi-Fiに接続</string>
-  <string name="free_wifi_connected_time">Duration: %1$s</string>
+  <string name="free_wifi_connected_time">期間: %1$s</string>
   <string name="free_wifi_connecting">接続中…</string>
   <string name="free_wifi_login_again">もう一度ログイン</string>
   <string name="free_wifi_manage_summary">タップして%1$sを表示。</string>
@@ -1636,7 +1634,6 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="free_wifi_user_agreement">ネットワークに接続するためにWiWideを使用すると、電話番号が身元を確認するために使用されます。</string>
   <string name="free_wifi_user_agreement_allow">許可</string>
   <string name="free_wifi_user_agreement_title">プライバシーの警告</string>
-  <string name="free_wifi_wiwide_provider">WiWide</string>
   <string name="free_xiaomi_wifi_connect_summary">タップして%1$sへ接続</string>
   <string name="frequently_fragment_delete">削除</string>
   <string name="frequently_fragment_tempty">使用頻度の高い項目は、ここに表示されます</string>
@@ -1904,7 +1901,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="launch_by_default">既定で開く</string>
   <string name="launch_camera">カメラを起動</string>
   <string name="launch_defaults_none">既定の設定なし</string>
-  <string name="launch_defaults_some">Some defaults set</string>
+  <string name="launch_defaults_some">一部デフォルトを設定</string>
   <string name="launch_google_search">Googleアシスタントを起動</string>
   <string name="launch_recents">履歴を起動</string>
   <string name="launch_voice_assistant">音声アシスタントを起動</string>
@@ -2196,8 +2193,8 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="manageapplications_settings_summary">インストール済みアプリを管理、削除する</string>
   <string name="manageapplications_settings_title">アプリを管理</string>
   <string name="managed_device_admin_title">職場</string>
-  <string name="managed_profile_contact_search_summary">Allow contact searches by your organization to identify callers and contacts</string>
-  <string name="managed_profile_contact_search_title">Contact search</string>
+  <string name="managed_profile_contact_search_summary">発信者や連絡先を特定するために組織による連絡先の検索を許可します</string>
+  <string name="managed_profile_contact_search_title">連絡先の検索</string>
   <string name="managed_profile_device_admin_info">仕事用プロファイルへの%1$sのアクセスを停止するには、[設定] &gt; [アカウント]でプロファイルを削除します</string>
   <string name="managed_profile_location_category">仕事用プロファイル</string>
   <string name="managed_profile_location_switch_lockdown">会社がOFFに設定しています</string>
@@ -3130,7 +3127,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="resolver_settings_label">並べ替え</string>
   <string name="resource_ringtone_volume_mute">現在の着信音量はミュートされています</string>
   <string name="restr_pin_enter_admin_pin">管理者PINを入力</string>
-  <string name="restrict_background_blacklisted">Background data is turned off</string>
+  <string name="restrict_background_blacklisted">バックグラウンド データは無効になっています</string>
   <string name="restrict_max_aspect_ratio_title">これらのアプリはフルスクリーンモードではうまく動作しません</string>
   <string name="restriction_bluetooth_config_summary">Bluetoothのペア設定や設定の変更を許可する</string>
   <string name="restriction_bluetooth_config_title">Bluetooth</string>
@@ -3496,7 +3493,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="search_storage_settings">ストレージ;メモリ</string>
   <string name="search_sync_settings">Sync;Auto;WLAN only</string>
   <string name="search_system_app_settings">システムアプリ</string>
-  <string name="search_theme_settings_title">テーマ;Personalization;Personalize</string>
+  <string name="search_theme_settings_title">テーマ;カスタマイズ</string>
   <string name="search_touch_assistant">Quick ball;Touch assistant</string>
   <string name="search_touch_sensitive_title">手袋モード;手袋</string>
   <string name="search_trusted_credentials">信頼できる認証情報;App signature;App signatures;Credentials;Signature</string>
@@ -3545,7 +3542,6 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="security_encryption_attention_3">新しいロック画面のパスワードを設定する必要があります。</string>
   <string name="security_encryption_attention_4">"ロック画面のパスワードを覚えておいてください。万一忘れた場合には、完全にリセットするために端末上のすべてのデータを消去する必要があります。"</string>
   <string name="security_encryption_attention_info">アカウント、設定、ダウンロードしたアプリやそれのデータ、メディア、その他のファイルを暗号化できます。</string>
-  <string name="security_encryption_attention_symbol">•</string>
   <string name="security_encryption_attention_title">重要</string>
   <string name="security_encryption_close_dialog_info">ロック画面のパスワードを使用して端末を暗号化しないことを選択すると、一部のGoogleサービスが利用できなくなる可能性があります。</string>
   <string name="security_encryption_close_dialog_title">デフォルトのパスワード保護に戻る</string>
@@ -4927,8 +4923,8 @@ Android端末をUSBケーブルでコンピューターにつなぐことで、�
   <string name="wifi_security_none">なし</string>
   <string name="wifi_select_assistant_dialog_title">アシスタントの選択</string>
   <string name="wifi_select_network">Wi-Fiを選択</string>
-  <string name="wifi_set_priority_settings_summary">Click to set priority of each access point</string>
-  <string name="wifi_set_priority_settings_title">AP priority settings</string>
+  <string name="wifi_set_priority_settings_summary">タップして各アクセスポイントの優先度を設定します</string>
+  <string name="wifi_set_priority_settings_title">アクセスポイントの優先度設定</string>
   <string name="wifi_setting_category">利用可能なネットワーク</string>
   <string name="wifi_setting_connect_type_error">There was a problem setting the connect type.</string>
   <string name="wifi_setting_frequency_band_error">周波数帯域の設定中に問題が発生しました。</string>
@@ -5134,7 +5130,7 @@ Android端末をUSBケーブルでコンピューターにつなぐことで、�
   <string name="xiaomi_router_notif_title">Mi WiFiルーター通知</string>
   <string name="xspace">デュアルアプリ</string>
   <string name="yes">はい</string>
-  <string name="zen_access_disabled_package_warning">Must stay turned on because notification access is on</string>
+  <string name="zen_access_disabled_package_warning">通知アクセスが ON になっているため ON のままにしておく必要があります</string>
   <string name="zen_access_empty_text">夜間モードへのアクセスをリクエストしたインストール済みアプリはありません</string>
   <string name="zen_access_revoke_warning_dialog_summary">このアプリで作成された夜間モードのルールはすべて削除されます。</string>
   <string name="zen_access_revoke_warning_dialog_title">%1$sの夜間モードへのアクセス許可を取り消しますか？</string>
