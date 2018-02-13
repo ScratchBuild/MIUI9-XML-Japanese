@@ -177,7 +177,7 @@
   <string name="real_time_sunrise">"日の出 %1$s"</string>
   <string name="real_time_sunset">"日の入 %1$s"</string>
   <string name="realtime_aqi_title">Air Quality Index</string>
-  <string name="realtime_humidity_title">"相対湿度"</string>
+  <string name="realtime_humidity_title">"湿度"</string>
   <string name="refresh_fail">"ネットワークに接続できませんでした"</string>
   <string name="reminder_from_xiaomi_weather_app">Mi Weather alert</string>
   <string name="retry">"再試行"</string>

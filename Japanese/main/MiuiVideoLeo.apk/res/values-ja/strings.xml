@@ -47,7 +47,7 @@
   <string name="app_wifi_mode">"自動的に更新"</string>
   <string name="app_wifi_mode_summary">"アプリの起動時、Wi-Fiに接続している場合は自動的にアプリを更新する"</string>
   <string name="authenticated_failed">"ログインできませんでした"</string>
-  <string name="authenticating">&lt;CDATA&gt;認証中&amp;#8230;&lt;/CDATA&gt;</string>
+  <string name="authenticating">&lt;CDATA>認証中&#8230;&lt;/CDATA></string>
   <string name="authenticating_manually">"認証できませんでした"</string>
   <string name="average_score">"平均評価"</string>
   <string name="bestv">Bestv</string>
@@ -102,8 +102,8 @@
   <string name="debug_mode_desc">"デバッグモードでアプリを実行し、左上の隅に動画IDを表示する"</string>
   <string name="declaration">"利用規約"</string>
   <string name="declaration_allow">"同意"</string>
-  <string name="declaration_content">"1. By using this application including Sohu Video, iQiyi and other content providers' service，you are agreeing to "&lt;a href="http://www.miui.com/res/doc/eula.html"&gt;User Agreement&lt;/a&gt; and &lt;a href="http://www.miui.com/res/doc/privacy.html"&gt;Privacy Policy&lt;/a&gt;".
-2. To improve your user experience, we'll collect some data about your device and the content you watch. Sohu and iQiyi will also collect your device's IMEI.&amp;#8203;
+  <string name="declaration_content">"1. By using this application including Sohu Video, iQiyi and other content providers' service，you are agreeing to "&lt;a href="http://www.miui.com/res/doc/eula.html">User Agreement&lt;/a> and &lt;a href="http://www.miui.com/res/doc/privacy.html">Privacy Policy&lt;/a>".
+2. To improve your user experience, we'll collect some data about your device and the content you watch. Sohu and iQiyi will also collect your device's IMEI.&#8203;
 3. Our HD Vvideo plug-in will be installed automatically.
 4. このアプリが正常に動作するには、インターネットへの接続が必要です。"</string>
   <string name="declaration_content_td_custom">"このアプリが正常に動作するには、インターネットへの接続が必要です。"</string>
@@ -197,7 +197,7 @@
   <string name="lekan">Lekan</string>
   <string name="letv">Letv</string>
   <string name="live">Live</string>
-  <string name="loading">"&lt;CDATA&gt;読み込み中 &lt;/CDATA&gt;"</string>
+  <string name="loading">"&lt;CDATA>読み込み中 &lt;/CDATA>"</string>
   <string name="loading_video_netplay_label">"読み込み中…"</string>
   <string name="loading_video_netplay_label_v5">"読み込み中…"</string>
   <string name="local_favorite_empty_title">"お気に入りはありません"</string>
@@ -293,7 +293,7 @@
   <string name="passport_back">"戻る"</string>
   <string name="passport_bad_authentication">"無効なユーザー名またはパスワード"</string>
   <string name="passport_barcode_add_account_prompt">"アカウントに接続するには、ログインした後にQRコードをもう一スキャンしてください。"</string>
-  <string name="passport_change_account">"&lt;u&gt;アカウントを変更&lt;/u&gt;"</string>
+  <string name="passport_change_account">"&lt;u>アカウントを変更&lt;/u>"</string>
   <string name="passport_change_phone_number">"番号を変更"</string>
   <string name="passport_checking_account">"パスワードを確認中…"</string>
   <string name="passport_checking_input">"入力を確認中…"</string>
@@ -377,7 +377,7 @@
   <string name="passport_reg_success">"アカウントを作成しました"</string>
   <string name="passport_reg_success_summary">%1$s has been bound with your account. You can use it to sign in or to reset your password.</string>
   <string name="passport_reg_type_email">"メールアドレスを使用"</string>
-  <string name="passport_reg_using_other_phone">&lt;u&gt;別の電話番号を使用する&lt;/u&gt;</string>
+  <string name="passport_reg_using_other_phone">&lt;u>別の電話番号を使用する&lt;/u></string>
   <string name="passport_reg_using_other_phone_number_prompt">"Create a new account using "</string>
   <string name="passport_reg_using_phone_number_prompt">"電話番号を使用してアカウントを作成"</string>
   <string name="passport_reg_via_sms_alert">Your carrier may charge for an SMS message used to activate this service.</string>
@@ -385,7 +385,7 @@
   <string name="passport_register">"アカウントを作成"</string>
   <string name="passport_register_account_goto_email">"受信トレイに移動"</string>
   <string name="passport_register_account_verified_confirm">Account verified</string>
-  <string name="passport_register_by_email">"&lt;u&gt;メールアドレスを使用してアカウントを作成&lt;/u&gt;"</string>
+  <string name="passport_register_by_email">"&lt;u>メールアドレスを使用してアカウントを作成&lt;/u>"</string>
   <string name="passport_register_restricted">"この番号に関連付けられているアカウントが多すぎます、別のものを試してみてください"</string>
   <string name="passport_register_restricted_title">"この電話番号は使用できません"</string>
   <string name="passport_registered_phone_user_ID">"ユーザーID: %s"</string>
@@ -563,7 +563,7 @@
   <string name="video_plugin">Video plug-in</string>
   <string name="video_plugin_downloading">"ダウンロード中 (%1$s)"</string>
   <string name="video_plugin_prepare">"読み込み中…"</string>
-  <string name="video_pre_play_tip">You can free preview play %1$d minutes，play complete please <Data>&amp;lt;font color=#04b4fd&amp;gt;purchase immediately &amp;gt;&amp;lt;/font&amp;gt;</Data></string>
+  <string name="video_pre_play_tip">You can free preview play %1$d minutes，play complete please <Data>&lt;font color=#04b4fd>purchase immediately >&lt;/font></Data></string>
   <string name="video_vip">vip</string>
   <string name="vip_package">vip package</string>
   <string name="vip_rights">Vip rights and interests</string>
@@ -609,8 +609,8 @@
   <string name="vp_hint">"注意"</string>
   <string name="vp_install">"インストール"</string>
   <string name="vp_install_title">"インストール"</string>
-  <string name="vp_loading">&lt;CDATA&gt;Downloading&lt;/CDATA&gt;</string>
-  <string name="vp_loading_download">&lt;CDATA&gt;Downloading&amp;#8230;&lt;/CDATA&gt;</string>
+  <string name="vp_loading">&lt;CDATA>Downloading&lt;/CDATA></string>
+  <string name="vp_loading_download">&lt;CDATA>Downloading&#8230;&lt;/CDATA></string>
   <string name="vp_loading_video">"読み込み中…"</string>
   <string name="vp_low_definition">LOW</string>
   <string name="vp_maintitlearea">Watch HD video anywhere</string>
@@ -665,7 +665,7 @@
   <string name="vp_using_4_3">Force 4:3</string>
   <string name="vp_video_bad_network_condition">"インターネット接続が不安定です。しばらくしてからもう一度お試しください。"</string>
   <string name="vp_video_invalid_cp_info">Invalid information of video provider, please restart application</string>
-  <string name="vp_video_loading">&lt;CDATA&gt;読み込み中&amp;#8230;&lt;/CDATA&gt;</string>
+  <string name="vp_video_loading">&lt;CDATA>読み込み中&#8230;&lt;/CDATA></string>
   <string name="vp_video_plugin_installation">"%1$sをインストール中…"</string>
   <string name="waiting_to_download">"待機中"</string>
   <string name="wasu">Wasu</string>
