@@ -42,6 +42,8 @@
   <string name="next">"次へ"</string>
   <string name="next_fingerprint">Next</string>
   <string name="other_settings">"その他の設定"</string>
+  <string name="other_settings_ad_enable">"パーソナライズされた広告を提案"</string>
+  <string name="other_settings_ad_enable_summary">"行動データに基づいてパーソナライズされた広告を提案します"</string>
   <string name="other_settings_auto_update">"自動的にインストール"</string>
   <string name="other_settings_auto_update_summary">"MIUIは更新のインストールに最適な時間を選択します。"</string>
   <string name="other_settings_location">"位置情報"</string>

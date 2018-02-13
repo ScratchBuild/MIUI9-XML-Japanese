@@ -4419,7 +4419,8 @@ Android端末をUSBケーブルでコンピューターにつなぐことで、�
   <string name="usb_use_power_only_desc">接続されている他のデバイスを充電する</string>
   <string name="use_location_summary">検索結果やサービスの品質向上にGoogleが現在地情報を使用することを許可する</string>
   <string name="use_location_title">位置情報とGoogle検索</string>
-  <string name="use_personalized_ad_service">"広告識別子を使用する"</string>
+  <string name="use_personalized_ad_service">パーソナライズされた広告を提案</string>
+  <string name="use_personalized_ad_service_summary">おすすめ機能がオフになっている場合でも、オンの時と同程度の広告が表示されますが、あなたの行動データや個人情報に基づいたものではありません。</string>
   <string name="use_privacy_password_immediate">使用する</string>
   <string name="use_system_language_to_select_input_method_subtypes">システムの言語を使用</string>
   <string name="use_this_wlan">接続を維持する</string>

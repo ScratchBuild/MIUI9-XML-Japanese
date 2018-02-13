@@ -332,6 +332,9 @@
   <string name="floating_toolbar_close_overflow_description">オーバーフローを閉じる</string>
   <string name="floating_toolbar_open_overflow_description">その他のオプション</string>
   <string name="force_close">OK</string>
+  <string name="foreground_service_app_in_background">%1$sはバッテリーを使用しています</string>
+  <string name="foreground_service_apps_in_background">%1$d個のアプリはバッテリーを使用していますy</string>
+  <string name="foreground_service_tap_for_details">バッテリーとデータ使用量の詳細を表示するにはタップ</string>
   <string name="forward_intent_to_owner">仕事用プロファイルの外部でこのアプリを使用しています</string>
   <string name="forward_intent_to_work">仕事用プロファイルでこのアプリを使用しています</string>
   <string name="gadget_host_error_inflating">ウィジェットを追加できませんでした。</string>

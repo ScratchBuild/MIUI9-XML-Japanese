@@ -280,7 +280,7 @@
   <string name="passport_login_recycle_account_no">"いいえ"</string>
   <string name="passport_login_recycle_account_yes">"はい"</string>
   <string name="passport_login_title">"Mi Accountにログイン"</string>
-  <string name="passport_login_using_other_ways">"<u>その他の方法でログイン</u>"</string>
+  <string name="passport_login_using_other_ways">"その他の方法でログイン"</string>
   <string name="passport_message_dialog_title">SMS with verifying codes</string>
   <string name="passport_next">"次へ"</string>
   <string name="passport_no">"いいえ"</string>
@@ -440,7 +440,7 @@
   <string name="unlock_help_notice">"Help:
 · If you forgot your password, go to id.mi.com to reset it.
 · If you can't unlock the device, go to i.mi.com to turn off Find device.
-· Tell this unlock number to the customer service: %s"</string>
+· Your unlock number: %s"</string>
   <string name="update_contacts">"連絡先を更新"</string>
   <string name="update_email_address_dialog_message">You need to verify your identity before you can update email.</string>
   <string name="update_email_address_dialog_title">"メールアドレスを更新"</string>

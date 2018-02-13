@@ -793,6 +793,7 @@ To add a contact to your list of favorites:
   <string name="path_key_rebuild_t9_index_title">システムアプリ/連絡先/連絡先を整理/インデックスデータを再構築</string>
   <string name="path_key_sim_manage">システムアプリ/連絡先/連絡先を整理/SIMカード</string>
   <string name="path_preference_contacts_filter">システムアプリ/連絡先/Display preferences/連絡先リストの設定</string>
+  <string name="path_quick_dial_setting">システムアプリ/Phone/高度な設定/クイックダイヤル</string>
   <string name="path_remove_duplicate">システムアプリ/連絡先/連絡先を整理/Merge duplicate contacts</string>
   <string name="path_share_visible_contacts">システムアプリ/連絡先/インポート/Export contacts/Share contacts</string>
   <string name="path_sim_capacity">システムアプリ/連絡先/SIM card storage</string>
@@ -851,12 +852,14 @@ To add a contact to your list of favorites:
   <string name="preference_contacts_display">Display preferences</string>
   <string name="preference_contacts_filter">"連絡先リストの設定"</string>
   <string name="preference_contacts_more">"連絡先を整理する"</string>
+  <string name="preference_contacts_moresetting">"その他"</string>
   <string name="preference_dial_pad_touch_tone_human">Voice</string>
   <string name="preference_dial_pad_touch_tone_piano">Piano keys</string>
   <string name="preference_dial_pad_touch_tone_switch">Dial pad tones</string>
   <string name="preference_dial_pad_touch_tone_title">Dial pad tones</string>
   <string name="preference_display">"表示"</string>
   <string name="preference_displayOptions">"表示オプション"</string>
+  <string name="preference_display_contact">"表示オプション"</string>
   <string name="preference_export">"エクスポート"</string>
   <string name="preference_import">"インポート"</string>
   <string name="preference_import_export">"インポート/エクスポート"</string>
@@ -972,7 +975,7 @@ To add a contact to your list of favorites:
   <string name="search_key_rebuild_t9_index_title">Organize;Contacts;t9</string>
   <string name="search_key_sim_manage">Organize;Contacts</string>
   <string name="search_preference_contacts_filter">Contacts;Display</string>
-  <string name="search_quick_dial_setting">Contacts</string>
+  <string name="search_quick_dial_setting">Phone</string>
   <string name="search_remove_duplicate">Organize;Contacts</string>
   <string name="search_results_searching">"検索しています..."</string>
   <string name="search_settings_description">"連絡先の名前"</string>
