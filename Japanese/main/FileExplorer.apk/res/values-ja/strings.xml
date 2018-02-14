@@ -340,7 +340,7 @@
   <string name="mobile_network_dialog_confirm">OK</string>
   <string name="mobile_network_dialog_tip">"モバイルデータ接続を使用してこのページを表示しますか？ご契約中のキャリアからモバイルデータ料金が請求されます。"</string>
   <string name="mobile_network_dialog_title">"モバイルデータの警告"</string>
-  <string name="month_day_format">MMM dd</string>
+  <string name="month_day_format">"M月d日"</string>
   <string name="more_hot_text">更多热门</string>
   <string name="move_failed">"切り取りできません"</string>
   <string name="move_icon_to_desktop_hint">"Mi File Managerで効率的にファイルを管理するためのショートカットをホーム画面に作成します。"</string>
@@ -547,12 +547,12 @@
   <string name="search_guid_hint">"ファイルを検索"</string>
   <string name="search_hint">"検索"</string>
   <string name="search_history">"検索履歴"</string>
-  <string name="search_hot_sticker">Stickers; Download stickers</string>
+  <string name="search_hot_sticker">ステッカー; ステッカーをダウンロード</string>
   <string name="search_hot_video">Popular videos;Upload videos;Upload video;Short video;Short videos;Small video;Small videos</string>
-  <string name="search_keyword">Tags</string>
-  <string name="search_kuai_chuan">Mi Drop;Transfer</string>
+  <string name="search_keyword">タグ</string>
+  <string name="search_kuai_chuan">Mi Drop;転送</string>
   <string name="search_popup_tip">"ユーザーやトピックを検索できます"</string>
-  <string name="search_recent_file">File explorer;Explorer;File;Files;Manage files;File manager</string>
+  <string name="search_recent_file">File explorer;Explorer;ファイル;ファイルを管理;ファイルマネージャー</string>
   <string name="search_result">"結果"</string>
   <string name="search_result_more">More</string>
   <string name="search_statistic_appname">source</string>

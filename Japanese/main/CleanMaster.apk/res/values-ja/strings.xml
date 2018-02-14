@@ -287,7 +287,7 @@
   <string name="menu_clear">"消去"</string>
   <string name="menu_install">"このアプリをインストール"</string>
   <string name="menu_view">"ファイルの場所を表示"</string>
-  <string name="month_day_format">MMM dd</string>
+  <string name="month_day_format">"M月d日"</string>
   <string name="msg_cleanup_db_update_checking">"アップデートの確認中…"</string>
   <string name="msg_cleanup_db_update_time_unknown">"最終更新 不明"</string>
   <string name="msg_update_error_code_already_running">"更新中…"</string>

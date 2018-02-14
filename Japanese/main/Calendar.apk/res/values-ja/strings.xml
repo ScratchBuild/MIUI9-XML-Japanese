@@ -405,9 +405,9 @@
   <string name="saving_event">"予定を保存しました"</string>
   <string name="saving_event_with_guest">"更新を送信中…"</string>
   <string name="search">"検索"</string>
-  <string name="search_calendar">"Date;Solar Terms;Lunar;Almanac;Fortune;Agenda;Meeting;Reminder;Vacation;Holiday;Birthday;2016;2017;Spring Festival;New Year's Day;International Labour Day;Mid-Autumn Festival"</string>
-  <string name="search_calendar_edit_event">Meeting;Reminder;Agenda</string>
-  <string name="search_calendar_settings">Calendar;Agenda;Reminder</string>
+  <string name="search_calendar">"Date;Solar Terms;Lunar;Almanac;Fortune;予定;ミーティング;リマインダー;休暇;祝日;誕生日;2017;2018;Spring Festival;New Year's Day;Mid-Autumn Festival"</string>
+  <string name="search_calendar_edit_event">ミーティング;リマインダー;予定</string>
+  <string name="search_calendar_settings">カレンダー;予定;リマインダー</string>
   <string name="select_date">"日付を選択"</string>
   <string name="select_synced_calendars_title">"カレンダーと同期"</string>
   <string name="set_as_wallpaper">"壁紙に設定"</string>

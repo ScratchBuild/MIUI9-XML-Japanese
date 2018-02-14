@@ -572,7 +572,7 @@ Then answer the question"</string>
   <string name="mode">Mode</string>
   <string name="model_name">Device model</string>
   <string name="month">月</string>
-  <string name="month_day_format">MMM dd</string>
+  <string name="month_day_format">"M月d日"</string>
   <string name="more">More</string>
   <string name="more_fav_channel">More favorites</string>
   <string name="more_function">More functions</string>
@@ -974,7 +974,7 @@ Open the remote's settings and tap \"Share\"."</string>
   <string name="search_history_empty">"検索履歴がありません"</string>
   <string name="search_menu_title">"検索"</string>
   <string name="search_more_failed">"結果を読み込めませんでした"</string>
-  <string name="search_no_device">"Couldn't find devices"</string>
+  <string name="search_no_device">"デバイスが見つかりませんでした"</string>
   <string name="search_no_result">結果がありません</string>
   <string name="search_page_all_app_result">"すべて表示"</string>
   <string name="search_page_clear_history">"履歴を消去"</string>

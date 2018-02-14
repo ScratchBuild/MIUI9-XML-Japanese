@@ -51,7 +51,7 @@
   <string name="load_err">"読み込めませんでした"</string>
   <string name="login_reg_content">"ファイルを保存し、複数のデバイス間で同期します。"</string>
   <string name="login_reg_title">Use Mi Drive from anywhere.</string>
-  <string name="month_day_format">MMM dd</string>
+  <string name="month_day_format">"M月d日"</string>
   <string name="move_failed">"切り取りできませんでした"</string>
   <string name="move_failed_retry">"切り取りできません、%1$sを待ってからもう一度お試しください"</string>
   <string name="need_get_accounts_permission">"Mi Driveが正常に動作するにはアカウントへのアクセスが必要です。"</string>
