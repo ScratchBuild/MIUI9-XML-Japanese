@@ -429,7 +429,7 @@
   <string name="operation_unfavorite">"お気に入りから削除"</string>
   <string name="original_user_desc">Upload original videos regularly to gain the Creator status</string>
   <string name="original_user_qq_group">Join Talent team QQ group</string>
-  <string name="original_user_register">• &lt;font color=#fc7050&gt;%1$s&lt;/font&gt; joined the community</string>
+  <string name="original_user_register">• &lt;font color=#fc7050>%1$s&lt;/font> joined the community</string>
   <string name="original_user_signal">Talent team</string>
   <string name="original_user_title">Congratulations on becoming a member of the Talent team!</string>
   <string name="original_user_verify">• Thank you for sticking around!</string>
@@ -661,7 +661,7 @@
   <string name="top_videos">"共有ランキング"</string>
   <string name="topic_follow">Follow</string>
   <string name="topic_followed">Following</string>
-  <string name="topic_message">&lt;font color=#fc7050&gt;%1$s: &lt;/font&gt;%2$s</string>
+  <string name="topic_message">&lt;font color=#fc7050>%1$s: &lt;/font>%2$s</string>
   <string name="topic_title">"トピック"</string>
   <string name="transfer_done">Files moved successfully.</string>
   <string name="transfer_private_data">Moving hidden folders from SD card…</string>

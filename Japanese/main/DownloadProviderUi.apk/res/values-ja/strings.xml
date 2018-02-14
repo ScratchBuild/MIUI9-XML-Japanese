@@ -188,7 +188,7 @@
   <string name="menu_title_settings">"設定"</string>
   <string name="mi_money">Mi Credits</string>
   <string name="mi_money_">Mi Credits</string>
-  <string name="missing_title">"&lt;不明&gt;"</string>
+  <string name="missing_title">"&lt;不明>"</string>
   <string name="net_error">"ネットワークに接続できません、もう一度お試しください。"</string>
   <string name="network_error">"ネットワークに接続できません"</string>
   <string name="new_add">New download</string>
@@ -324,7 +324,7 @@ across all your devices with Xunlei"</string>
   <string name="sniff_result_num_prefix">Found</string>
   <string name="sniff_result_num_video_suffix">items</string>
   <string name="sniff_result_num_website_suffix">websites</string>
-  <string name="sniff_result_website_intro">Total &lt;font color=\"#6699ff\"&gt;%1$d&lt;/font&gt; items | Source: %2$s</string>
+  <string name="sniff_result_website_intro">Total &lt;font color=\"#6699ff\">%1$d&lt;/font> items | Source: %2$s</string>
   <string name="sniff_search_assoicate_sizeinfo">Size: %1$s</string>
   <string name="sniff_search_install">"インストール"</string>
   <string name="sniff_shortcut_cloudconfig_btn">OK</string>

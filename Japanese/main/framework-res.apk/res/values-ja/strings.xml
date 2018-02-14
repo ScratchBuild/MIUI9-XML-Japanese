@@ -943,7 +943,7 @@ To unpin, press and hold Home and the Power button at the same time."</string>
   <string name="permlab_writeSettings">システム設定の変更</string>
   <string name="permlab_writeSyncSettings">同期のON/OFFの切り替え</string>
   <string name="perms_description_app">%1$sで提供されます。</string>
-  <string name="perms_new_perm_prefix">&lt;font size="12" fgcolor="#ff33b5e5"&gt;NEW: &lt;/font&gt;</string>
+  <string name="perms_new_perm_prefix">&lt;font size="12" fgcolor="#ff33b5e5">NEW: &lt;/font></string>
   <string name="phoneTypeAssistant">アシスタント</string>
   <string name="phoneTypeCallback">コールバック</string>
   <string name="phoneTypeCar">クルマ</string>
@@ -1148,7 +1148,7 @@ To unpin, press and hold Home and the Power button at the same time."</string>
   <string name="sipAddressTypeOther">その他</string>
   <string name="sipAddressTypeWork">勤務先</string>
   <string name="skip_button_label">スキップ</string>
-  <string name="sms_control_message">&lt;b&gt;%1$s&lt;/b&gt;が大量のSMSメッセージを送信しています。このアプリにこのままメッセージの送信を許可しますか？</string>
+  <string name="sms_control_message">&lt;b>%1$s&lt;/b>が大量のSMSメッセージを送信しています。このアプリにこのままメッセージの送信を許可しますか？</string>
   <string name="sms_control_no">許可しない</string>
   <string name="sms_control_title">SMSメッセージの送信中</string>
   <string name="sms_control_yes">許可する</string>
@@ -1156,7 +1156,7 @@ To unpin, press and hold Home and the Power button at the same time."</string>
   <string name="sms_short_code_confirm_allow">送信</string>
   <string name="sms_short_code_confirm_always_allow">常に許可する</string>
   <string name="sms_short_code_confirm_deny">キャンセル</string>
-  <string name="sms_short_code_confirm_message">&lt;b&gt;%1$s&lt;/b&gt;が、&lt;b&gt;%2$s&lt;/b&gt;にメッセージを送信しようとしています。</string>
+  <string name="sms_short_code_confirm_message">&lt;b>%1$s&lt;/b>が、&lt;b>%2$s&lt;/b>にメッセージを送信しようとしています。</string>
   <string name="sms_short_code_confirm_never_allow">許可しない</string>
   <string name="sms_short_code_details">モバイルアカウントへの請求が発生する可能性があります。</string>
   <string name="sms_short_code_remember_choice">この選択を保存</string>
@@ -1214,7 +1214,7 @@ To unpin, press and hold Home and the Power button at the same time."</string>
   <string name="unpin_target">固定を解除</string>
   <string name="unsupported_display_size_message">「%1$s」は現在の [表示サイズ] 設定に対応していないため、予期しない動作が発生するおそれがあります。</string>
   <string name="unsupported_display_size_show">常に表示</string>
-  <string name="untitled">&lt;新規&gt;</string>
+  <string name="untitled">&lt;新規></string>
   <string name="upload_file">ファイルを選択</string>
   <string name="usb_accessory_notification_title">USBアクセサリを接続しました</string>
   <string name="usb_cd_installer_notification_title">インストーラとして接続</string>

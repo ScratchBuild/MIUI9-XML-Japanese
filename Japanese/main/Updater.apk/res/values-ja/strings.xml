@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="app_name">Updater</string>
-  <string name="battery_islow">&lt;font color=#f37981&gt;充電器に接続してください&lt;/font&gt;</string>
+  <string name="battery_islow">&lt;font color=#f37981>充電器に接続してください&lt;/font></string>
   <string name="battery_islow_desc">"ZIPファイルを安全にインストールするためにはバッテリー残量が低すぎます、充電器に接続して後ほどお試しください。"</string>
   <string name="btn_changelog">"変更履歴"</string>
   <string name="btn_download">"ダウンロード (%1$s)"</string>
@@ -25,7 +25,7 @@
   <string name="download_fail_desc">"MD5チェックサムが一致しません…"</string>
   <string name="downloading">"ダウンロード中:"</string>
   <string name="downloading_desc">"ダウンロードを実行中です、通知領域から状態を確認できます。"</string>
-  <string name="install_desc">端末をリカバリーモードで再起動して選択したファイルをインストールします: &lt;b&gt;%1$s&lt;/b&gt;"
+  <string name="install_desc">端末をリカバリーモードで再起動して選択したファイルをインストールします: &lt;b>%1$s&lt;/b>"
 データは消去されません。"</string>
   <string name="install_title">"続行してもよろしいですか？"</string>
   <string name="menu_title_current_version_log">What is new?</string>

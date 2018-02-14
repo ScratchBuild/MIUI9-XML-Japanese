@@ -27,7 +27,7 @@
   <string name="can_not_backup_in_lite_mode">"Lite modeではバックアップできません"</string>
   <string name="can_not_restore_in_lite_mode">"Lite modeでは復元できません"</string>
   <string name="cancel_backup">バックアップをキャンセル中…</string>
-  <string name="cancel_recover_settings">&lt;u&gt;キャンセル&lt;/u&gt;</string>
+  <string name="cancel_recover_settings">&lt;u>キャンセル&lt;/u></string>
   <string name="cancel_restore_home">キャンセル中…</string>
   <string name="click_try_to_restore_again">"タップして再試行"</string>
   <string name="cloud_app_backup_success">"アプリのバックアップが完了しました"</string>
@@ -80,7 +80,7 @@
   <string name="confirm_restore">"復元"</string>
   <string name="confirm_restore_summary">"Wi-Fiに接続されるとアプリが自動でダウンロードされ、ホーム画面が再起動します"</string>
   <string name="confirm_restore_title">"復元"</string>
-  <string name="customization">&lt;u&gt;カスタマイズ&lt;/u&gt;</string>
+  <string name="customization">&lt;u>カスタマイズ&lt;/u></string>
   <string name="date_format">yyyy/MM/dd HH:mm:ss</string>
   <string name="deskclock_backup">Alarm clock</string>
   <string name="desktop_downloading">ダウンロード中</string>

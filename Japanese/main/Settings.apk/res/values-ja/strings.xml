@@ -551,7 +551,7 @@
   <string name="bluetooth_devices">Bluetooth端末</string>
   <string name="bluetooth_disable_absolute_volume">絶対音量を無効にする</string>
   <string name="bluetooth_disable_absolute_volume_summary">リモート端末で音量に関する問題（音量が大きすぎる、制御できないなど）が発生した場合に、Bluetooth の絶対音量の機能を無効にする。</string>
-  <string name="bluetooth_disable_profile_message">次のプロファイルが無効になります:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;対象デバイス:&lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt;</string>
+  <string name="bluetooth_disable_profile_message">次のプロファイルが無効になります:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>対象デバイス:&lt;br>&lt;b>%2$s&lt;/b></string>
   <string name="bluetooth_disable_profile_title">プロファイルを無効にしますか？</string>
   <string name="bluetooth_disabled">他の端末には非表示</string>
   <string name="bluetooth_disconnect_a2dp_profile">%1$sはメディアの音声から切断されます。</string>
@@ -1608,7 +1608,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="force_touch_enable_tips">3D Touchが有効になっている間、ランチャー上でアプリアイコンを強く押すとショートカットメニューが表示されます。</string>
   <string name="forget">切断</string>
   <string name="forget_password_button_text"><u>パスワードを忘れた場合</u></string>
-  <string name="forget_pattern">&lt;u&gt;Forgot pattern?&lt;/u&gt;</string>
+  <string name="forget_pattern">&lt;u>Forgot pattern?&lt;/u></string>
   <string name="forget_privacy_password_setting">Mi Accountを追加</string>
   <string name="forget_privacy_password_summary">Mi Accountを使用してパスワードをリセット</string>
   <string name="forget_wifi_message">お使いの端末はこのネットワークへの自動接続を停止します。</string>
@@ -2210,8 +2210,8 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
 以下のアカウントにログインしています:
 "</string>
   <string name="master_clear_all">内部ストレージからすべてのデータを消去しますか？この操作は元に戻すことができません！</string>
-  <string name="master_clear_apply_step_1">&lt;b&gt;&amp;#8220;Factory data reset&amp;#8221; will erase all data on your phone&lt;/b&gt;, including photos, songs, notes, and other personal data. Make sure you back up all the important items to your computer.</string>
-  <string name="master_clear_apply_step_2">Make sure all the important items are backed up to your computer. All the data on this device will be erased during the reset. &lt;b&gt;You wont be able to restore the items you havent backed up.&lt;/b&gt;</string>
+  <string name="master_clear_apply_step_1">&lt;b>&amp;#8220;Factory data reset&amp;#8221; will erase all data on your phone&lt;/b>, including photos, songs, notes, and other personal data. Make sure you back up all the important items to your computer.</string>
+  <string name="master_clear_apply_step_2">Make sure all the important items are backed up to your computer. All the data on this device will be erased during the reset. &lt;b>You wont be able to restore the items you havent backed up.&lt;/b></string>
   <string name="master_clear_apply_title">注意</string>
   <string name="master_clear_button_text">携帯端末をリセット</string>
   <string name="master_clear_confirm_title">リセットしますか？</string>

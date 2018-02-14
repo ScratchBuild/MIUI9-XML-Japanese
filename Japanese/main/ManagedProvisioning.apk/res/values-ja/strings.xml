@@ -59,7 +59,7 @@
   <string name="progress_set_owner">端末の所有者を設定しています…</string>
   <string name="provisioning">プロビジョニングしています</string>
   <string name="provisioning_error_title">エラー</string>
-  <string name="read_more_delete_profile">次に進む前に&lt;a href="#read_this_link"&gt;&amp;#12371;&amp;#12385;&amp;#12425;&amp;#12434;&amp;#12372;&amp;#35239;&amp;#12367;&amp;#12384;&amp;#12373;&amp;#12356;&lt;/a&gt;&amp;#12290;</string>
+  <string name="read_more_delete_profile">次に進む前に&lt;a href="#read_this_link">&amp;#12371;&amp;#12385;&amp;#12425;&amp;#12434;&amp;#12372;&amp;#35239;&amp;#12367;&amp;#12384;&amp;#12373;&amp;#12356;&lt;/a>&amp;#12290;</string>
   <string name="set_up">セットアップ</string>
   <string name="setting_up_workspace">仕事用プロファイルをセットアップしています…</string>
   <string name="setup_device_encryption">端末のセットアップ: 暗号化</string>

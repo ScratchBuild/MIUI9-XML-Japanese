@@ -9,5 +9,5 @@
   <string name="legacy_title">VPN接続済み</string>
   <string name="prompt">接続リクエスト</string>
   <string name="session">セッション:</string>
-  <string name="warning">%sがネットワークトラフィックを監視するためVPN接続をセットアップしようとしています。ソースを信頼できる場合にのみ許可してください。&lt;br /&gt; &lt;br /&gt; VPNがアクティブになると画面の上部に&lt;img src=vpn_icon /&gt;が表示されます。</string>
+  <string name="warning">%sがネットワークトラフィックを監視するためVPN接続をセットアップしようとしています。ソースを信頼できる場合にのみ許可してください。&lt;br /> &lt;br /> VPNがアクティブになると画面の上部に&lt;img src=vpn_icon />が表示されます。</string>
 </resources>

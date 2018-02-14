@@ -197,7 +197,7 @@
   <string name="guild_add_attachments">タップして顔文字・その他のアイテムを追加</string>
   <string name="guild_add_recipients">タップして連絡先に宛先を追加</string>
   <string name="guild_msim_switcher">タップしてSIMカードを切替</string>
-  <string name="has_invalid_recipient">"不明な宛先: &lt;%1$s&gt;"</string>
+  <string name="has_invalid_recipient">"不明な宛先: &lt;%1$s>"</string>
   <string name="hidden_sender_address">差出人アドレス非表示</string>
   <string name="hold_to_talk">Hold to talk</string>
   <string name="hybrid_check_network">"ネットワーク設定"</string>
@@ -636,7 +636,7 @@
   <string name="url_fraud_dangerous_alert">"アクセスしようとしているウェブサイトは危険かもしれません。お使いの携帯端末とデータに損傷を与える可能性があります。とにかくアクセスしますか？\n%s"</string>
   <string name="url_fraud_risky_alert">"アクセスしようとしているウェブサイトは危険かもしれません。 とにかくアクセスしますか？\n%s"</string>
   <string name="url_fraud_title">偽装されたウェブサイトの可能性があります</string>
-  <string name="url_fraud_visit">&lt;u&gt;とにかくアクセスする&lt;/u&gt;</string>
+  <string name="url_fraud_visit">&lt;u>とにかくアクセスする&lt;/u></string>
   <string name="url_result_safe">このURLは安全です</string>
   <string name="url_scanning">URLを確認中...</string>
   <string name="verification_code_list_title">認証コード</string>
