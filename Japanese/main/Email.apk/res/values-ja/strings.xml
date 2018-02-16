@@ -228,7 +228,7 @@
   <string name="back">"戻る"</string>
   <string name="bank_card_detail">"クレジットカードの詳細"</string>
   <string name="battery_saver">"バッテリーセーバー"</string>
-  <string name="battery_saver_keywords">battery saver;mail battery</string>
+  <string name="battery_saver_keywords">バッテリーセーバー;mail battery</string>
   <string name="bill_center_setting">Billing settings</string>
   <string name="bill_center_setting_head">Import info from these accounts</string>
   <string name="bill_cycle_text">Billing cycle</string>
@@ -397,7 +397,7 @@
   <string name="email_netease">NetEase Mail</string>
   <string name="email_qq">QQ Mail</string>
   <string name="email_setting">"メール"</string>
-  <string name="email_setting_keywords">Accounts;Add account;mail accounts;add mail account;confirm before deleting;delete confirm;confirm before sending;send confirm;delete message flow;delete redirect;conversation view;mail conversation;battery saver;mail battery;send feedback;upload logs</string>
+  <string name="email_setting_keywords">アカウント;アカウントを追加;メールアカウント;メールアカウントを追加;削除前に確認する;削除確認;送信前に確認する;送信確認;delete message flow;delete redirect;conversation view;mail conversation;バッテリーセーバー;mail battery;フィードバックを送信;ログをアップロード</string>
   <string name="email_sina">Sina Mail</string>
   <string name="eml_parse_message">"emlファイルを開いています…"</string>
   <string name="empty_account_tip">"アカウントが見つかりませんでした"</string>

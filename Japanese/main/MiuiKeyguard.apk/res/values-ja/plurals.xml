@@ -17,8 +17,8 @@
         <item quantity="one">%d分後にもう一度お試しください</item>
     </plurals>
     <plurals name="new_notifications_msg">
-        <item quantity="other">%d new notifications</item>
-        <item quantity="one">%d new notification</item>
+        <item quantity="other">%d件の新しい通知</item>
+        <item quantity="one">%d件の新しい通知</item>
     </plurals>
     <plurals name="keyguard_charging_info_charging_full_need_min_time__text">
         <item quantity="other">フル充電まで%d分</item>

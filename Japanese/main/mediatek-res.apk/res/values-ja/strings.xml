@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="Default_Account_Selection_Content">Default Account Selection</string>
+  <string name="Default_Account_Selection_Content">デフォルトのアカウントを選択</string>
   <string name="MMRejectCause13">緊急通報のみ</string>
   <string name="MMRejectCause2">SIM not provisioned MM #2</string>
   <string name="MMRejectCause3">SIM not allowed MM #3</string>
@@ -162,9 +162,9 @@
   <string name="wifi_display_bt_hdmi_off_wfd_on">ワイヤレスディスプレイがオンになると、HDMIはオフになります。続行しますか？</string>
   <string name="wifi_display_build_connection">Building connection.</string>
   <string name="wifi_display_change_resolution_reminder">解像度を変更すると、ワイヤレスディスプレイが自動的に再接続されます。</string>
-  <string name="wifi_display_channel_confliction">Channel confliction</string>
+  <string name="wifi_display_channel_confliction">チャンネルの競合</string>
   <string name="wifi_display_confirm_connection">wants to build connection with you.</string>
-  <string name="wifi_display_connected_to_wifi_network">Connected to WLAN network %1$s.</string>
+  <string name="wifi_display_connected_to_wifi_network">Wi-Fiネットワーク %1$s に接続しました。</string>
   <string name="wifi_display_connection_is_not_steady">The current connection of wireless display is not steady.</string>
   <string name="wifi_display_disconnect_then_reconnect">ワイヤレスディスプレイが切断されました。再接続しますか？</string>
   <string name="wifi_display_disconnected">ワイヤレスディスプレイが切断されました。</string>
@@ -178,7 +178,7 @@
   <string name="wifi_display_wfd_off_hdmi_on">HDMIがONになると、ワイヤレスディスプレイはOFFになります。続行しますか？</string> 
   <string name="wifi_display_wifi_ap_affects_quality">Current WLAN AP may affect the quality of Wireless display.</string>
   <string name="wifi_display_wifi_network_cannot_coexist">Current WLAN network cant coexist with cast screen connection.</string>
-  <string name="wifi_display_wifi_network_disconnected">WLAN network %1$s disconnected.</string>
+  <string name="wifi_display_wifi_network_disconnected">Wi-Fiネットワーク %1$s から切断しました。</string>
   <string name="wifi_display_wifi_p2p_disconnect_wfd_connect">ワイヤレスディスプレイデバイスに接続されている間は、現在のWi-Fiダイレクト接続は外されます。続行しますか？</string>
   <string name="wifi_p2p_frequency_conflict_message">"The phone will temporarily disconnect from WLAN while it's connected to %1$s (only if changing channel band and ID of current WLAN access points to %2$s)"</string>
   <string name="wifi_wps_failed_overlap">別のWPSセッションが検出されました。数分後にもう一度お試しください。</string>
