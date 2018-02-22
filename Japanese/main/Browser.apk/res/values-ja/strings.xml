@@ -406,7 +406,7 @@
   <string name="mw_abc_searchview_description_voice">"音声検索"</string>
   <string name="mw_abc_shareactionprovider_share_with">"共有"</string>
   <string name="mw_abc_shareactionprovider_share_with_application">"%sと共有"</string>
-  <string name="mw_abc_toolbar_collapse_description">Collapse</string>
+  <string name="mw_abc_toolbar_collapse_description">"折りたたむ"</string>
   <string name="mw_accessibility_date_picker_month">"月"</string>
   <string name="mw_accessibility_date_picker_week">"週"</string>
   <string name="mw_accessibility_date_picker_year">"年"</string>
@@ -677,7 +677,7 @@
   <string name="mw_payments_delivery_address_label">配送先住所</string>
   <string name="mw_payments_delivery_option_label">配送方法</string>
   <string name="mw_payments_delivery_summary_label">配送</string>
-  <string name="mw_payments_edit_address">Edit address</string>
+  <string name="mw_payments_edit_address">住所を編集</string>
   <string name="mw_payments_edit_button">編集</string>
   <string name="mw_payments_edit_card">カードを編集</string>
   <string name="mw_payments_edit_contact_details_label">連絡先情報の編集</string>
@@ -689,7 +689,7 @@
   <string name="mw_payments_loading_message">読み込み中</string>
   <string name="mw_payments_method_of_payment_label">お支払い</string>
   <string name="mw_payments_more_information_required">その他の情報が必要です</string>
-  <string name="mw_payments_name_field_in_contact_details">Name</string>
+  <string name="mw_payments_name_field_in_contact_details">名前</string>
   <string name="mw_payments_name_on_card_required">名義人名が必要です</string>
   <string name="mw_payments_name_required">名前は必須です</string>
   <string name="mw_payments_order_summary_label">注文の概要</string>
