@@ -199,6 +199,8 @@
   <string name="contact_detail_calllog_call_note_tips">"メモ"</string>
   <string name="contact_detail_calllog_call_record_tips">Recorded call</string>
   <string name="contact_detail_calllog_empty">"通話履歴はありません"</string>
+  <string name="contact_detail_entry_pay">Pay</string>
+  <string name="contact_detail_entry_pay_dialog_title">Select phone number</string>
   <string name="contact_detail_menu_delete_miprofile">"カードを削除"</string>
   <string name="contact_detail_miprofile_accept">"連絡先カードを交換"</string>
   <string name="contact_detail_miprofile_accept_fail_toast">"連絡先カードを交換できませんでした"</string>

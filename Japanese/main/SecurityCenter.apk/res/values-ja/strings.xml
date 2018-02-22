@@ -1545,7 +1545,7 @@ While calibrating, MIUI will send a text message to your carrier to receive the 
   <string name="safepay_alert_dialog_button_fix">"修復"</string>
   <string name="save_energy_text">"Restrict autostart and sync for apps in the background to get the most out of your device's battery"</string>
   <string name="save_energy_title">"バッテリーを最適化"</string>
-  <string name="sc_allow_network_dialog_message">"このアプリが正常に動作するには、インターネットへの接続が必要です。"</string>
+  <string name="sc_allow_network_dialog_message">"セキュリティアプリのネットワーク接続と位置情報へのアクセスが制限されています。この機能を使用するには、セキュリティアプリに必要なアクセス権限を許可してください。"</string>
   <string name="sc_allow_network_dialog_tiltle">"この機能は使用できません"</string>
   <string name="sc_system_risk_fix_info_xspace">"Secound spaceではこの問題を解決できません、First spaceでやり直してください。"</string>
   <string name="sc_warning_updater_not_found">"Updaterアプリが見つかりません"</string>
