@@ -2320,6 +2320,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="menu_stats_unplugged">電池使用時間: %1$s</string>
   <string name="menu_use_uss">Ussを使用</string>
   <string name="mi_shopping_mall">Mi Store</string>
+  <string name="mi_upi_settings">Mi Pay Account</string>
   <string name="misc_files">その他のファイル</string>
   <string name="misc_files_selected_count">選択済み: %1$d/%2$d件</string>
   <string name="misc_files_selected_count_bytes">%1$s/%2$s</string>

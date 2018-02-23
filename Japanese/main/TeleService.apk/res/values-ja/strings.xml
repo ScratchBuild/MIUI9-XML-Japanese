@@ -226,6 +226,13 @@
   <string name="cfb_title">話し中のときは転送</string>
   <string name="cfnrc_title">繋がらないときは転送</string>
   <string name="cfnrc_title_cta">繋がらないときは転送</string>
+  <string name="cfnry_time_fifteen_sec">15秒</string>
+  <string name="cfnry_time_five_sec">5秒</string>
+  <string name="cfnry_time_setting_title">待ち時間を設定</string>
+  <string name="cfnry_time_ten_sec">10秒</string>
+  <string name="cfnry_time_thirty_sec">30秒</string>
+  <string name="cfnry_time_twenty_five_sec">25秒</string>
+  <string name="cfnry_time_twenty_sec">20秒</string>
   <string name="cfnry_title">不在のときは転送</string>
   <string name="cfu_title">常に転送</string>
   <string name="change_data_preference_4g_only_prompt">"4GのみのSIMカードを持っているように見えます。モバイルデータのデフォルトとして設定しますか？"</string>
