@@ -15,7 +15,7 @@
   <string name="cancel_edit">キャンセル</string>
   <string name="cannot_change_parames">記録中にパラメータの変更はできません</string>
   <string name="cannot_record">記録できませんでした、後ほど再試行してください。</string>
-  <string name="description_content">Screen recording provides system-level recording capabilities. This action means that you will discard the screen recording feature. Confirm Continue.</string>
+  <string name="description_content">"Screen recorder provides system-level recording capabilities. You won't be able to use Screen recorder if you continue. Confirm to continue."</string>
   <string name="description_title">"スクリーンレコーダーについて"</string>
   <string name="deselect_all">すべて選択を解除</string>
   <string name="error_open_file_failed_no_app_found">このファイルを開くためのアプリが見つかりませんでした</string>
@@ -47,7 +47,7 @@
   <string name="quit_recording">スクリーンレコーダーを終了</string>
   <string name="recording_failure">記録できませんでした</string>
   <string name="recording_max_size">動画ファイルがサイズの上限に達したため、録画を停止して自動保存しました。録画を続行するには中断したところから録画を開始してください。</string>
-  <string name="recording_without_mic">マイクが塞がっているため、マイクの音声を録音できません</string>
+  <string name="recording_without_mic">マイクを使用中のため、音声を録音できません</string>
   <string name="resolution">解像度</string>
   <string name="resolution_summary">高解像度にすると動画がより鮮明に見えます</string>
   <string name="screen_orientation">画面の向き</string>

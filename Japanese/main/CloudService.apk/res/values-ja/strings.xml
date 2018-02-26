@@ -96,6 +96,8 @@ Last backed up on %2$s"</string>
   <string name="find_device_error_password_changed">"アカウントのパスワードが変更されました。"</string>
   <string name="find_device_error_server">サーバーエラー</string>
   <string name="find_device_error_unknown">不明なエラー。</string>
+  <string name="find_device_gdpr_prompt">Find deviceを有効にすると、\ "プライバシーポリシー\"に同意したことになります。プライバシー保護を取り消す必要がある場合は、この機能をオフにしてください。</string>
+  <string name="find_device_gdpr_prompt_policy_doc_name">\"プライバシーポリシー\"</string>
   <string name="find_device_notice_p1">Go to</string>
   <string name="find_device_notice_p3">"to locate, lock, or restore your phone.
 If you switch SIM cards, another SMS will be sent automatically to reactivate this feature."</string>
@@ -368,6 +370,7 @@ To fix this, you can either clean out some old files to make room for new ones, 
   <string name="micloud_notif_content_master_depend_wifi">初めにWi-Fiに接続。</string>
   <string name="micloud_notif_content_memory_low">十分な空き領域がありません。</string>
   <string name="micloud_notif_content_multi_user_error">First spaceと同じアカウントでログインしました。</string>
+  <string name="micloud_notif_content_privacy_reopen_failed">詳細を表示</string>
   <string name="micloud_notif_content_sync_finish">"アカウント"</string>
   <string name="micloud_notif_content_sync_not_finish">"詳細"</string>
   <string name="micloud_notif_content_sync_with_off">"今すぐデバイスを同期するにはタップ。"</string>
@@ -377,11 +380,21 @@ To fix this, you can either clean out some old files to make room for new ones, 
   <string name="micloud_notif_title_master_depend_wifi">"Mi Cloudと同期できません"</string>
   <string name="micloud_notif_title_memory_low">"Mi Cloudと同期できません"</string>
   <string name="micloud_notif_title_multi_user_error">"Mi Cloudと同期できません"</string>
+  <string name="micloud_notif_title_privacy_reopen_failed">クラウドサービスを開始できませんでした</string>
   <string name="micloud_notif_title_sync_finish">"同期済み"</string>
   <string name="micloud_notif_title_sync_not_finish">"一部のアイテムが同期されていません"</string>
   <string name="micloud_notif_title_sync_progress">同期中</string>
   <string name="micloud_notif_title_sync_with_off">"Mi Cloudと同期"</string>
   <string name="micloud_other_product_price">価格を比較</string>
+  <string name="micloud_privacy_cloud_off">同期をオフ</string>
+  <string name="micloud_privacy_cloud_sync">Mi Cloudを有効にする</string>
+  <string name="micloud_privacy_explanation">Active Mi Cloud after enabling the authorization</string>
+  <string name="micloud_privacy_licence_agreed">Mi Cloudのプライバシーポリシーに同意します。</string>
+  <string name="micloud_privacy_licence_privacy_policy">プライバシーポリシー</string>
+  <string name="micloud_privacy_more">more</string>
+  <string name="micloud_privacy_warning_button">戻る</string>
+  <string name="micloud_privacy_warning_content">Mi Cloudを有効にできません。後ほど再試行してください。</string>
+  <string name="micloud_privacy_warning_title">ヒント</string>
   <string name="micloud_proceed">続行</string>
   <string name="micloud_request_permission_confirm">OK</string>
   <string name="micloud_request_permission_content">"Mi Cloudがデータを同期するにはアクセス許可が必要です。Mi Cloudにカレンダー、連絡先、Mi Account、SIMカードの状態、通話履歴やメッセージへのアクセスを許可します。"</string>
@@ -552,7 +565,7 @@ This feature encrypts and sends your device's ID to Mi's servers."</string>
   <string name="sync_sub_int_dspt">An outgoing international SMS message may be required to activate this service. Your carrier will charge you for this message.</string>
   <string name="title_back">戻る</string>
   <string name="title_reg">Mi Accountを作成</string>
-  <string name="total_space_upgraded_to">Total space:%s</string>
+  <string name="total_space_upgraded_to">Total space: %s</string>
   <string name="trying_to_connect_to_network">ネットワークに接続しています…</string>
   <string name="unactivated_user">ログアウト</string>
   <string name="upgrade_space">Add space</string>

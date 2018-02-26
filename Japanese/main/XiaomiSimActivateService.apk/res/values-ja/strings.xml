@@ -114,5 +114,7 @@
   <string name="phone_verify_processing">"確認中…"</string>
   <string name="phone_verify_text">"%1$sはあなたがお使いの電話番号は取得せず、その番号が有効であることを確認するだけです。同意しますか？"</string>
   <string name="phone_verify_title">"%1$sを許可して電話番号を確認してください"</string>
+  <string name="privacy_revoke_failed_msg">"プライバシーが取り消されました、電話番号を取得できません、有効化に失敗しました"</string>
+  <string name="privacy_revoke_tips">"取り消しを行った場合、SMSの同期は使用できなくなります"</string>
   <string name="sim_unactivated_title">"SIMカードが有効になっていません"</string>
 </resources>

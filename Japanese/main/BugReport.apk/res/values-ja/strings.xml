@@ -9,7 +9,7 @@
   <string name="app_search">"アプリを検索"</string>
   <string name="btn_send">"送信"</string>
   <string name="bugreport_dialog_not_show_again">"次回から表示しない"</string>
-  <string name="bugreport_dialog_submit_content">"フィードバックには個人情報と位置データが含まれる場合があります。"</string>
+  <string name="bugreport_dialog_submit_content">"端末にソフトウェアのログを保存しています。ログには個人情報と位置データが含まれる場合があります。この情報を公開したくない場合は、他のユーザーとログを共有しないでください。"</string>
   <string name="bugreport_dump_complete_notification_summary">"表示するにはタップ。"</string>
   <string name="bugreport_dump_complete_notification_title">"バグレポートを作成"</string>
   <string name="bugreport_dump_start_notification_summary">"これには数分かかります。"</string>
@@ -273,7 +273,7 @@
   <string name="submit_dialog_cancel">"キャンセル"</string>
   <string name="submit_dialog_confirm">"送信"</string>
   <string name="submit_dialog_content">"フィードバックは添付ファイルと共にMIUIのサーバーに送信されます。これには個人情報と位置データが含まれる場合があります。"</string>
-  <string name="submit_dialog_content_global">"フィードバックは添付ファイルと共にMIUIのサーバーに送信されます。これには個人情報と位置データが含まれる場合があります。ログを送信しないようにするには、対応するチェックボックスをオフにします。"</string>
+  <string name="submit_dialog_content_global">"添付ファイル(もしあれば)とログ(アップロードしたくない項目はチェックを外すことができます)は、MIUIのサーバーとMIUIフォーラムの限定されたセクションに送信され、解析と更なるコミュニケーションのため使用されます。ログには個人情報と位置データが含まれる場合があります。"</string>
   <string name="submit_dialog_title">"レポートを送信"</string>
   <string name="submit_feedback_info_failed">"レポートを送信できませんでした"</string>
   <string name="suggestion_description">"ここに説明を追加"</string>

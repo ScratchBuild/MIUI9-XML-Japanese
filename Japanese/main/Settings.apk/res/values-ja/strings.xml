@@ -4128,6 +4128,8 @@ PINが正しくない可能性があります。"</string>
   <string name="testing_usage_stats">使用統計情報</string>
   <string name="testing_wifi_info">Wi-Fiネットワーク情報</string>
   <string name="tether_and_hotspot_title">テザリングとホットスポット</string>
+  <string name="tether_auto_disable_summary">接続されているデバイスがない場合、ホットスポットを自動的に閉じます。</string>
+  <string name="tether_auto_disable_title">自動的にホットスポットを閉じる</string>
   <string name="tether_data_usage_limit">ワンタイム データ制限</string>
   <string name="tether_data_usage_limit_summary">データ制限は、次回テザリングがオンになったときに適用されます</string>
   <string name="tether_devices_management_title">デバイスの管理</string>
