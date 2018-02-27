@@ -1430,6 +1430,8 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="encrypt_talkback_dialog_require_password">パスワードが必要ですか？</string>
   <string name="encrypt_talkback_dialog_require_pattern">パターンが必要ですか？</string>
   <string name="encrypt_talkback_dialog_require_pin">PINが必要ですか？</string>
+  <string name="encryption_and_credential_settings_summary">Phone encrypted</string>
+  <string name="encryption_and_credential_settings_title">Encryption &amp; credentials</string>
   <string name="encryption_continue_button">次へ</string>
   <string name="encryption_interstitial_header">暗号化</string>
   <string name="encryption_interstitial_message_password">"この端末の起動前にパスワードを入力することでこの端末の保護を強化できます。端末が起動するまで、通話、メッセージ、アラームなどの通知を受信することはできません。
@@ -1462,6 +1464,39 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="enter_password">Androidを起動するには、パスワードを入力します</string>
   <string name="enter_pattern">Androidを起動するには、パターンを入力します</string>
   <string name="enter_pin">Androidを起動するには、PINを入力します</string>
+  <string name="enterprise_privacy_always_on_vpn_device">Always-on VPN turned on</string>
+  <string name="enterprise_privacy_always_on_vpn_personal">Always-on VPN turned on in your personal profile</string>
+  <string name="enterprise_privacy_always_on_vpn_work">Always-on VPN turned on in your work profile</string>
+  <string name="enterprise_privacy_apps_count_estimation_info">Number of apps is estimated. It may not include apps installed outside of the Play Store.</string>
+  <string name="enterprise_privacy_bug_reports">Most recent bug report</string>
+  <string name="enterprise_privacy_ca_certs">Trusted credentials</string>
+  <string name="enterprise_privacy_camera_access">Camera permissions</string>
+  <string name="enterprise_privacy_device_access_category">Your access to this device</string>
+  <string name="enterprise_privacy_enterprise_data">Data associated with your work account, such as email and calendar</string>
+  <string name="enterprise_privacy_enterprise_installed_packages">Apps installed</string>
+  <string name="enterprise_privacy_enterprise_set_default_apps">Default apps</string>
+  <string name="enterprise_privacy_exposure_category">Types of information your organization can see</string>
+  <string name="enterprise_privacy_exposure_changes_category">"Changes made by your organization's admin"</string>
+  <string name="enterprise_privacy_failed_password_wipe_device">Failed password attempts before deleting all device data</string>
+  <string name="enterprise_privacy_failed_password_wipe_work">Failed password attempts before deleting work profile data</string>
+  <string name="enterprise_privacy_global_http_proxy">Global HTTP proxy set</string>
+  <string name="enterprise_privacy_header">"To provide access to your work data, your organization may change settings and install software on your device.
+
+For more details, contact your organization's admin."</string>
+  <string name="enterprise_privacy_input_method">Default keyboard</string>
+  <string name="enterprise_privacy_input_method_name">Set to %s</string>
+  <string name="enterprise_privacy_installed_packages">List of apps on your device</string>
+  <string name="enterprise_privacy_location_access">Location permissions</string>
+  <string name="enterprise_privacy_lock_device">Admin can lock the device and reset password</string>
+  <string name="enterprise_privacy_microphone_access">Microphone permissions</string>
+  <string name="enterprise_privacy_network_logs">Most recent network traffic log</string>
+  <string name="enterprise_privacy_none">None</string>
+  <string name="enterprise_privacy_security_logs">Most recent security log</string>
+  <string name="enterprise_privacy_settings">Managed device info</string>
+  <string name="enterprise_privacy_settings_summary_generic">Changes &amp; settings managed by your organization</string>
+  <string name="enterprise_privacy_settings_summary_with_name">Changes &amp; settings managed by %s</string>
+  <string name="enterprise_privacy_usage_stats">Amount of time and data spent in each app</string>
+  <string name="enterprise_privacy_wipe_device">Admin can delete all device data</string>
   <string name="erase_application">アプリを消去する</string>
   <string name="erase_application_description">ダウンロードアプリを消去する</string>
   <string name="erase_data">消去</string>
@@ -1774,6 +1809,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="install_applications_title">アプリの提供元をすべて許可する</string>
   <string name="install_no_market_app_summary">App Store以外からのアプリのインストールを許可します</string>
   <string name="install_no_market_app_title">不明なソース</string>
+  <string name="install_other_apps">Install unknown apps</string>
   <string name="install_preinstall_app">地域を切り替え中…</string>
   <string name="install_text">インストール</string>
   <string name="install_unknown_applications">提供元不明のアプリのインストールを許可する</string>

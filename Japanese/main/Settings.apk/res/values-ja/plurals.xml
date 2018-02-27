@@ -20,6 +20,22 @@
         <item quantity="other">"選択した言語を削除しますか？"</item>
         <item quantity="one">"選択した言語を削除しますか？"</item>
     </plurals>
+    <plurals name="enterprise_privacy_number_ca_certs">
+        <item quantity="other">Minimum %d CA certificates</item>
+        <item quantity="one">Minimum %d CA certificate</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_failed_password_wipe">
+        <item quantity="other">%d attempts</item>
+        <item quantity="one">%d attempt</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_packages">
+        <item quantity="other">%d apps</item>
+        <item quantity="one">%d app</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_packages_lower_bound">
+        <item quantity="other">Minimum %d apps</item>
+        <item quantity="one">Minimum %d app</item>
+    </plurals>
     <plurals name="security_settings_fingerprint_preference_summary">
         <item quantity="other">"%1$d個の指紋を登録済み"</item>
         <item quantity="one">"%1$d個の指紋を登録済み"</item>
