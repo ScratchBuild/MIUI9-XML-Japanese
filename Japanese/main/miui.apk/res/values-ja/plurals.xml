@@ -5,10 +5,10 @@
         <item quantity="one">"%d個のアイテムを選択"</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
-        <item quantity="other">"ちょうど今"</item>
+        <item quantity="other">"たった今"</item>
     </plurals>
     <plurals name="less_than_one_minute_ago">
-        <item quantity="other">"ちょうど今"</item>
+        <item quantity="other">"たった今"</item>
     </plurals>
     <plurals name="abbrev_in_less_than_one_minute">
         <item quantity="other">"すぐに"</item>

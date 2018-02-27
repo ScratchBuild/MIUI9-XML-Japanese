@@ -264,7 +264,7 @@
   <string name="item_title_process_mode">Choose an action</string>
   <string name="junk_tag_RF_EmptyFolders">"空のフォルダ"</string>
   <string name="junk_tag_RF_ImageThumbnails">"ギャラリーのサムネイル"</string>
-  <string name="just_now">"ちょうど今"</string>
+  <string name="just_now">"たった今"</string>
   <string name="label_image_list_none">"なし"</string>
   <string name="label_preserve_the_best_image">Save the sharpest photos</string>
   <string name="last_check_canceled">"前回のスキャンは取り消されました"</string>

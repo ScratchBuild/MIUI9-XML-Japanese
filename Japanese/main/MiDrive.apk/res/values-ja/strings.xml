@@ -47,7 +47,7 @@
   <string name="folder_name_illegal">"無効なフォルダ名"</string>
   <string name="folder_name_invalid">"フォルダ名には次の文字を含めることはできません: /\\:*?&lt;&gt;"</string>
   <string name="image_loading_error">"画像を読み込めませんでした"</string>
-  <string name="just_now">"ちょうど今"</string>
+  <string name="just_now">"たった今"</string>
   <string name="load_err">"読み込めませんでした"</string>
   <string name="login_reg_content">"ファイルを保存し、複数のデバイス間で同期します。"</string>
   <string name="login_reg_title">Use Mi Drive from anywhere.</string>

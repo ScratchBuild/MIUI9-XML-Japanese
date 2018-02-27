@@ -426,8 +426,8 @@
   <string name="ir_device_wifi">"Wi-Fiリモコン"</string>
   <string name="ir_not_supported_devices">"* Mi TV 3/Mi TV Bar/Mi Box 3/Mi Boxは赤外線リモコンをサポートしていません。Wi-Fiリモコンを試してください。"</string>
   <string name="jump_to_mivideo">View on mobile device</string>
-  <string name="just_now">"ちょうど今"</string>
-  <string name="just_used">"ちょうど今"</string>
+  <string name="just_now">"たった今"</string>
+  <string name="just_used">"たった今"</string>
   <string name="key_ff">"早送り"</string>
   <string name="key_next">"次へ"</string>
   <string name="key_pause">"一時停止"</string>
