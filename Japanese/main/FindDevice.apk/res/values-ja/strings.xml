@@ -33,6 +33,7 @@ If you switch SIM cards, another SMS will be sent automatically to reactivate th
   <string name="lock_msg_phone">"連絡先: %s"</string>
   <string name="login_extra_steps">Sign in verification</string>
   <string name="login_failed">"ログインできませんでした。%s。"</string>
+  <string name="open_wifi_settings">"Wi-Fi設定を開く"</string>
   <string name="passport_checking_vcode">パスワードを確認中…</string>
   <string name="passport_error_empty_vcode">"認証コードを入力してください"</string>
   <string name="passport_notification_need_unlock_again">"もう一度ロック解除してください"</string>

@@ -190,7 +190,7 @@
   <string name="current_version_pc">Desktop</string>
   <string name="current_version_phone">Phone</string>
   <string name="custom_head_card_text">Always believe that something wonderful is about to happen</string>
-  <string name="data_monitor">Data monitor</string>
+  <string name="data_monitor">"データ使用量モニター"</string>
   <string name="data_monitor_dialog_message">Looks like something is draining your mobile data. Open the start page to stop this.</string>
   <string name="data_traffic_prompt_message">"モバイルデータ接続を使用して動画を閲覧すると、データ使用量が増加します。データ使用量の制限を超えた場合は、キャリアによっては追加料金が発生する場合があります。"</string>
   <string name="data_traffic_prompt_title">"データ使用の警告"</string>
@@ -562,6 +562,7 @@
   <string name="mw_miuichromium_error_page_problem_connection_interrupted_reason_device_slept">Connection was interrupted when your device went to sleep.</string>
   <string name="mw_miuichromium_error_page_problem_connection_interrupted_reason_network_changed">Connection was interrupted due to a network change.</string>
   <string name="mw_miuichromium_error_page_problem_file_not_found_reason_moved_or_deleted">"Couldn't find file. It might have been moved or deleted."</string>
+  <string name="mw_miuichromium_error_page_problem_file_not_readable_reason_access_denied">"Couldn't read file. File permissions may be preventing access."</string>
   <string name="mw_miuichromium_error_page_problem_gateway_timed_out">It took too long for %s0 to respond.</string>
   <string name="mw_miuichromium_error_page_problem_network_access_denied">"ネットワークアクセスが制限されています"</string>
   <string name="mw_miuichromium_error_page_problem_no_internet_connection_reason_proxy_error">"インターネットに接続できませんでした。Something is wrong with the proxy server, or proxy address is incorrect."</string>
@@ -806,7 +807,6 @@
   <string name="popup_window_attempt">"このサイトにポップアップウィンドウを開くことを許可しますか？"</string>
   <string name="positive_confirm_message">"とにかくオフにする"</string>
   <string name="pref_accept_quicklink_push">News feed</string>
-  <string name="pref_accessibility">"ユーザー補助"</string>
   <string name="pref_accessibility_title">"ユーザー補助"</string>
   <string name="pref_accessibility_url_shortcut_enter_summary">"よく使う組み合わせはアドレスバーに1タップで入力できます。"</string>
   <string name="pref_accessibility_url_shortcut_enter_title">"簡易URL入力"</string>
@@ -1057,7 +1057,7 @@ Browser needs to connect to the internet to work normally. You must agree to our
   <string name="suggest_access_item_app_size">%.2fMB</string>
   <string name="suggest_access_item_app_update">"更新: %s"</string>
   <string name="suggest_access_item_book_mark">BOOKS</string>
-  <string name="suggest_access_item_mina_mark">INSTANT APPS</string>
+  <string name="suggest_access_item_mina_mark">QUICK APPS</string>
   <string name="suggest_access_item_music_mark">"音楽"</string>
   <string name="suggest_access_item_singer_albums">"%d アルバム"</string>
   <string name="suggest_access_item_singer_pop">%d popular songs</string>
@@ -1068,11 +1068,11 @@ Browser needs to connect to the internet to work normally. You must agree to our
   <string name="suggest_access_music">Mi Music</string>
   <string name="suggest_item_delete_text">"削除"</string>
   <string name="suggest_open_app_failed">"このアプリを開くことができませんでした"</string>
-  <string name="suggestion_lottery_detail_pour">%sNOTE</string>
-  <string name="suggestion_lottery_detail_price">EACH NOTE%sYUAN</string>
-  <string name="suggestion_lottery_detail_text">THIS%s</string>
-  <string name="suggestion_lottery_period">NO.%s</string>
-  <string name="suggestion_translation_more">TRANSLATION MORE</string>
+  <string name="suggestion_lottery_detail_pour">%s NOTE</string>
+  <string name="suggestion_lottery_detail_price">EACH NOTE IS WORTH %s YUAN</string>
+  <string name="suggestion_lottery_detail_text">THIS ROUND %s</string>
+  <string name="suggestion_lottery_period">ROUND %s</string>
+  <string name="suggestion_translation_more">VIEW MORE</string>
   <string name="switchText">"はい"</string>
   <string name="switch_proxy_dialog_msg">"Network hijacking detected. Use MIUI's built-in Security app or report this to your mobile operator."</string>
   <string name="switch_proxy_dialog_title">Network hijacking</string>
@@ -1090,10 +1090,10 @@ Browser needs to connect to the internet to work normally. You must agree to our
   <string name="transfer_prompt_0">"動画を再生"</string>
   <string name="transfer_restart">"再開"</string>
   <string name="translation_copy">"コピー"</string>
-  <string name="translation_more">"その他の翻訳"</string>
-  <string name="translation_query_error">No meaning</string>
-  <string name="translation_query_error_network">"検索に失敗しました、ネットワーク接続を確認してください"</string>
-  <string name="translation_result_copy">"翻訳結果をコピーしました"</string>
+  <string name="translation_more">"もっと表示"</string>
+  <string name="translation_query_error">"翻訳できませんでした"</string>
+  <string name="translation_query_error_network">"情報を取得できませんでした。ネットワークに接続して再試行してください。"</string>
+  <string name="translation_result_copy">"クリップボードにコピーしました"</string>
   <string name="unSwitchText">"いいえ"</string>
   <string name="undo">"元に戻す"</string>
   <string name="unknown_title">"不明"</string>

@@ -33,6 +33,7 @@
   <string name="attach_sound">オーディオ</string>
   <string name="attach_subject">件名</string>
   <string name="attach_take_photo">写真撮影</string>
+  <string name="attach_transaction">送金</string>
   <string name="attach_video">動画</string>
   <string name="audio_download_failed">"音声をダウンロードできませんでした"</string>
   <string name="audio_message_expired">"この音声メッセージは期限切れです。"</string>
@@ -510,6 +511,7 @@
   <string name="select_local_audio">音声を選択</string>
   <string name="select_local_video">動画を選択</string>
   <string name="select_message_send_sim">SIMカードを選択</string>
+  <string name="select_phone_number">電話番号を選択</string>
   <string name="select_recipient">宛先を選択</string>
   <string name="select_sim">SIMカードを選択</string>
   <string name="select_top_text">上部のテキスト</string>
