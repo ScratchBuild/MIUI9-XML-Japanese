@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="accessibilty_autoclick_preference_subtitle_extremely_short_delay">
-        <item quantity="other">Extremely short delay (%1$d ms)</item>
-        <item quantity="one">Extremely short delay (%1$d ms)</item>
+        <item quantity="other">極めて短い遅延（%1$dミリ秒）</item>
+        <item quantity="one">極めて短い遅延（%1$dミリ秒）</item>
     </plurals>
     <plurals name="accessibilty_autoclick_preference_subtitle_long_delay">
-        <item quantity="other">Long delay (%1$d ms)</item>
-        <item quantity="one">Long delay (%1$d ms)</item>
+        <item quantity="other">長い遅延（%1$dミリ秒）</item>
+        <item quantity="one">長い遅延（%1$dミリ秒）</item>
     </plurals>
     <plurals name="accessibilty_autoclick_preference_subtitle_short_delay">
-        <item quantity="other">Short delay (%1$d ms)</item>
-        <item quantity="one">Short delay (%1$d ms)</item>
+        <item quantity="other">短い遅延（%1$dミリ秒）</item>
+        <item quantity="one">短い遅延（%1$dミリ秒）</item>
     </plurals>
     <plurals name="accessibilty_autoclick_preference_subtitle_very_long_delay">
-        <item quantity="other">Very long delay (%1$d ms)</item>
-        <item quantity="one">Very long delay (%1$d ms)</item>
+        <item quantity="other">非常に長い遅延（%1$dミリ秒）</item>
+        <item quantity="one">非常に長い遅延（%1$dミリ秒）</item>
     </plurals>
     <plurals name="accessibilty_autoclick_preference_subtitle_very_short_delay">
-        <item quantity="other">Very short delay (%1$d ms)</item>
-        <item quantity="one">Very short delay (%1$d ms)</item>
+        <item quantity="other">非常に短い遅延（%1$dミリ秒）</item>
+        <item quantity="one">非常に短い遅延（%1$dミリ秒）</item>
     </plurals>
     <plurals name="app_notification_listing_summary_others">
-        <item quantity="other">Turned off for %d apps</item>
-        <item quantity="one">Turned off for %d app</item>
+        <item quantity="other">%d 個のアプリで OFF になっています</item>
+        <item quantity="one">%d 個のアプリで OFF になっています</item>
     </plurals>
     <plurals name="auto_disable_screenbuttons_disabled_header_title">
         <item quantity="other">%d個のアプリで無効にしない</item>
@@ -45,28 +45,28 @@
         <item quantity="one">データセーバーが ON のときのデータ無制限使用を 1 個のアプリに許可しました</item>
     </plurals>
     <plurals name="default_camera_app_title">
-        <item quantity="other">Camera apps</item>
-        <item quantity="one">Camera app</item>
+        <item quantity="other">カメラアプリ</item>
+        <item quantity="one">カメラアプリ</item>
     </plurals>
     <plurals name="default_email_app_title">
-        <item quantity="other">Email client apps</item>
-        <item quantity="one">Email client app</item>
+        <item quantity="other">メール クライアント アプリ</item>
+        <item quantity="one">メール クライアント アプリ</item>
     </plurals>
     <plurals name="default_phone_app_title">
-        <item quantity="other">Phone apps</item>
-        <item quantity="one">Phone app</item>
+        <item quantity="other">電話アプリ</item>
+        <item quantity="one">電話アプリ</item>
     </plurals>
     <plurals name="deleted_channels">
-        <item quantity="other">%d categories deleted</item>
-        <item quantity="one">%d category deleted</item>
+        <item quantity="other">%d 件のカテゴリを削除しました</item>
+        <item quantity="one">%d 件のカテゴリを削除しました</item>
     </plurals>
     <plurals name="dlg_remove_locales_title">
-        <item quantity="other">"選択した言語を削除しますか？"</item>
-        <item quantity="one">"選択した言語を削除しますか？"</item>
+        <item quantity="other">選択した言語の削除</item>
+        <item quantity="one">選択した言語の削除</item>
     </plurals>
-    <plurals name="domain_urls_apps_summary">
-        <item quantity="other">"%d個のアプリが対応リンクを開くことが可能"</item>
-        <item quantity="one">"1個のアプリが対応リンクを開くことが可能"</item>
+    <plurals name="domain_urls_apps_summary_on">
+        <item quantity="other">対応リンクを開くことができるアプリは %d 個です</item>
+        <item quantity="one">対応リンクを開くことができるアプリは 1 個です</item>
     </plurals>
     <plurals name="enterprise_privacy_number_ca_certs">
         <item quantity="other">CA 証明書: %d 件以上</item>
@@ -93,8 +93,8 @@
         <item quantity="one">"1個のアプリに電池の最適化を無視することを許可"</item>
     </plurals>
     <plurals name="hours">
-        <item quantity="other">%s hours</item>
-        <item quantity="one">1 hour</item>
+        <item quantity="other">%s時間</item>
+        <item quantity="one">1時間</item>
     </plurals>
     <plurals name="lockpassword_password_requires_letters">
         <item quantity="other">"パスワードには英字が%d文字以上必要です。"</item>
@@ -149,24 +149,24 @@
         <item quantity="one">"%d個のアプリが通知を読み取れます"</item>
     </plurals>
     <plurals name="manage_trust_agents_summary_on">
-        <item quantity="other">%d active trust agents</item>
-        <item quantity="one">1 active trust agent</item>
+        <item quantity="other">有効な信頼エージェント: %d 件</item>
+        <item quantity="one">有効な信頼エージェント: 1 件</item>
     </plurals>
     <plurals name="master_clear_with_account_summary">
-        <item quantity="other">%1$d accounts will be reset</item>
-        <item quantity="one">1 account will be reset</item>
+        <item quantity="other">%1$d 件のアカウントをリセットします</item>
+        <item quantity="one">1 件のアカウントをリセットします</item>
     </plurals>
     <plurals name="memory_usage_apps_summary">
         <item quantity="other">"過去%2$sに%1$d個のアプリがメモリを使用しました"</item>
         <item quantity="one">"過去%2$sに1個のアプリがメモリを使用しました"</item>
     </plurals>
     <plurals name="minutes">
-        <item quantity="other">%s minutes</item>
-        <item quantity="one">1 minute</item>
+        <item quantity="other">%s分</item>
+        <item quantity="one">1分</item>
     </plurals>
     <plurals name="network_restrictions_summary">
-        <item quantity="other">%1$d restrictions</item>
-        <item quantity="one">1 restriction</item>
+        <item quantity="other">%1$d 個の制限</item>
+        <item quantity="one">1 個の制限</item>
     </plurals>
     <plurals name="notification_summary">
         <item quantity="other">%d 個のアプリが送信をブロックされています</item>
@@ -181,8 +181,8 @@
         <item quantity="one">"%d件の権限を付与"</item>
     </plurals>
     <plurals name="print_settings_summary">
-        <item quantity="other">%1$d print services on</item>
-        <item quantity="one">1 print service on</item>
+        <item quantity="other">%1$d 件の印刷サービスが ON です</item>
+        <item quantity="one">1 件の印刷サービスが ON です</item>
     </plurals>
     <plurals name="runtime_permissions_additional_count">
         <item quantity="other">"%d個の追加権限"</item>
@@ -193,16 +193,16 @@
         <item quantity="one">"%1$d/%2$d件の権限を付与"</item>
     </plurals>
     <plurals name="seconds">
-        <item quantity="other">%s seconds</item>
-        <item quantity="one">1 second</item>
+        <item quantity="other">%s秒</item>
+        <item quantity="one">1秒</item>
     </plurals>
     <plurals name="security_settings_fingerprint_preference_summary">
         <item quantity="other">"%1$d個の指紋を登録済み"</item>
         <item quantity="one">"%1$d個の指紋を登録済み"</item>
     </plurals>
     <plurals name="settings_suggestion_header_summary_hidden_items">
-        <item quantity="other">Show %d hidden items</item>
-        <item quantity="one">Show %d hidden item</item>
+        <item quantity="other">%d 件の非表示のアイテムを表示</item>
+        <item quantity="one">%d 件の非表示のアイテムを表示</item>
     </plurals>
     <plurals name="settings_toggle_position_divider_page">
         <item quantity="other">"通知領域に%1$d個のトグルが表示されます"</item>
@@ -225,32 +225,32 @@
         <item quantity="one">"バグレポートの送信まであと%1$dステップです。"</item>
     </plurals>
     <plurals name="special_access_summary">
-        <item quantity="other">%d apps can use unrestricted data</item>
-        <item quantity="one">1 app can use unrestricted data</item>
+        <item quantity="other">データの無制限使用が可能なアプリは %d 個です</item>
+        <item quantity="one">データの無制限使用が可能なアプリは 1 個です</item>
     </plurals>
     <plurals name="ssl_ca_cert_dialog_title">
-        <item quantity="other">Trust or remove certificates</item>
-        <item quantity="one">Trust or remove certificate</item>
+        <item quantity="other">証明書の信頼または削除</item>
+        <item quantity="one">証明書の信頼または削除</item>
     </plurals>
     <plurals name="ssl_ca_cert_info_message">
-        <item quantity="other">"%s has installed certificate authorities for your work profile, which may allow them to monitor work network activity, including emails, apps, and secure websites.
+        <item quantity="other">"%s が、あなたの仕事用プロファイルに認証局をインストールしました。これにより、仕事のネットワーク アクティビティ（メール、アプリ、保護されたウェブサイトなど）が監視される場合があります。
 
-For more information about these certificates, contact your admin."</item>
-        <item quantity="one">"%s has installed a certificate authority for your work profile, which may allow them to monitor work network activity, including emails, apps, and secure websites.
+これらの証明書について詳しくはドメインの管理者までお問い合わせください。"</item>
+        <item quantity="one">"%s が、あなたの仕事用プロファイルに認証局をインストールしました。これにより、仕事のネットワーク アクティビティ（メール、アプリ、保護されたウェブサイトなど）が監視される場合があります。
 
-For more information about this certificate, contact your admin."</item>
+この証明書について詳しくはドメインの管理者までお問い合わせください。"</item>
     </plurals>
     <plurals name="ssl_ca_cert_info_message_device_owner">
-        <item quantity="other">"%s has installed certificate authorities on your device, which may allow them to monitor your device network activity, including emails, apps, and secure websites.
+        <item quantity="other">"%s が、お使いの端末に認証局をインストールしました。これにより、お使いの端末のネットワーク アクティビティ（メール、アプリ、保護されたウェブサイトなど）が監視される場合があります。
 
-For more information about these certificates, contact your admin."</item>
-        <item quantity="one">"%s has installed a certificate authority on your device, which may allow them to monitor your device network activity, including emails, apps, and secure websites.
+これらの証明書について詳しくはドメインの管理者までお問い合わせください。"</item>
+        <item quantity="one">"%s が、お使いの端末に認証局をインストールしました。これにより、お使いの端末のネットワーク アクティビティ（メール、アプリ、保護されたウェブサイトなど）が監視される場合があります。
 
-For more information about this certificate, contact your admin."</item>
+この証明書について詳しくはドメインの管理者までお問い合わせください。"</item>
     </plurals>
     <plurals name="ssl_ca_cert_settings_button">
-        <item quantity="other">Check certificates</item>
-        <item quantity="one">Check certificate</item>
+        <item quantity="other">証明書を確認</item>
+        <item quantity="one">証明書を確認</item>
     </plurals>
     <plurals name="status_bar_settings_disabled_header_title">
         <item quantity="other">"%d個のアプリが通知を表示することができません"</item>
@@ -261,16 +261,16 @@ For more information about this certificate, contact your admin."</item>
         <item quantity="one">"%d個のアプリが通知を表示することができます"</item>
     </plurals>
     <plurals name="uri_permissions_text">
-        <item quantity="other">%d items</item>
-        <item quantity="one">1 item</item>
+        <item quantity="other">%d 件のアイテム</item>
+        <item quantity="one">1 件のアイテム</item>
     </plurals>
     <plurals name="virus_scan_app_find_risk">
         <item quantity="other">%d件のリスクが見つかりました</item>
         <item quantity="one">%d件のリスクが見つかりました</item>
     </plurals>
     <plurals name="wifi_saved_access_points_summary">
-        <item quantity="other">%d networks</item>
-        <item quantity="one">1 network</item>
+        <item quantity="other">ネットワーク: %d 件</item>
+        <item quantity="one">ネットワーク: 1 件</item>
     </plurals>
     <plurals name="wifi_share_count">
         <item quantity="other">%d回線のネットワークを共有中</item>
@@ -281,8 +281,8 @@ For more information about this certificate, contact your admin."</item>
         <item quantity="one">"SIM PINコードが無効です。入力できるのはあと%d回です。この回数を超えると、お使いの端末をロック解除するのに携帯通信会社にお問い合わせいただく必要があります。"</item>
     </plurals>
     <plurals name="zen_mode_settings_summary_on">
-        <item quantity="other">%d automatic rules turned on</item>
-        <item quantity="one">1 automatic rule turned on</item>
+        <item quantity="other">ON になっている自動ルールが %d 件あります</item>
+        <item quantity="one">ON になっている自動ルールが 1 件あります</item>
     </plurals>
     <plurals name="zen_mode_summary_alarms_only_by_hour">
         <item quantity="other">"%2$sまで%1$d時間、アラームのみに変更します"</item>
