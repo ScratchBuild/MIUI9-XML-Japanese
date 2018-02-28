@@ -1,24 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="status_bar_settings_disabled_header_title">
-        <item quantity="other">"%d個のアプリが通知を表示することができません"</item>
-        <item quantity="one">"%d個のアプリが通知を表示することができません"</item>
+    <plurals name="auto_disable_screenbuttons_disabled_header_title">
+        <item quantity="other">%d個のアプリで無効にしない</item>
+        <item quantity="one">1個のアプリで無効にしない</item>
     </plurals>
-    <plurals name="status_bar_settings_enabled_header_title">
-        <item quantity="other">"%d個のアプリが通知を表示することができます"</item>
-        <item quantity="one">"%d個のアプリが通知を表示することができます"</item>
+    <plurals name="auto_disable_screenbuttons_enabled_header_title">
+        <item quantity="other">%d個のアプリで常に無効にする</item>
+        <item quantity="one">1個のアプリで常に無効にする</item>
     </plurals>
-    <plurals name="settings_toggle_position_divider_page">
-        <item quantity="other">"通知領域に%1$d個のトグルが表示されます"</item>
-        <item quantity="one">"通知領域に%1$d個のトグルが表示されます"</item>
+    <plurals name="auto_startup_count">
+        <item quantity="other">%d個のアプリが自動起動を許可されています</item>
+        <item quantity="one">%d個のアプリが自動起動を許可されています</item>
     </plurals>
-    <plurals name="show_dev_countdown">
-        <item quantity="other">"デベロッパーになるまであと%1$dステップです。"</item>
-        <item quantity="one">"デベロッパーになるまであと%1$dステップです。"</item>
+    <plurals name="connected_devices_number">
+        <item quantity="other">%d devices</item>
+        <item quantity="one">%d device</item>
+    </plurals>
+    <plurals name="data_saver_unrestricted_summary">
+        <item quantity="other">データセーバーが ON のときのデータ無制限使用を %1$d 個のアプリに許可しました</item>
+        <item quantity="one">データセーバーが ON のときのデータ無制限使用を 1 個のアプリに許可しました</item>
     </plurals>
     <plurals name="dlg_remove_locales_title">
         <item quantity="other">"選択した言語を削除しますか？"</item>
         <item quantity="one">"選択した言語を削除しますか？"</item>
+    </plurals>
+    <plurals name="domain_urls_apps_summary">
+        <item quantity="other">"%d個のアプリが対応リンクを開くことが可能"</item>
+        <item quantity="zero">"対応リンクを開けるアプリがありません"</item>
+        <item quantity="one">"1個のアプリが対応リンクを開くことが可能"</item>
     </plurals>
     <plurals name="enterprise_privacy_number_ca_certs">
         <item quantity="other">CA 証明書: %d 件以上</item>
@@ -36,9 +45,13 @@
         <item quantity="other">アプリ: %d 個以上</item>
         <item quantity="one">アプリ: %d 個以上</item>
     </plurals>
-    <plurals name="security_settings_fingerprint_preference_summary">
-        <item quantity="other">"%1$d個の指紋を登録済み"</item>
-        <item quantity="one">"%1$d個の指紋を登録済み"</item>
+    <plurals name="free_wifi_connected_count">
+        <item quantity="other">%1$sユーザーが接続</item>
+        <item quantity="one">%1$sユーザーが接続</item>
+    </plurals>
+    <plurals name="high_power_count">
+        <item quantity="other">"%d個のアプリに電池の最適化を無視することを許可"</item>
+        <item quantity="one">"1個のアプリに電池の最適化を無視することを許可"</item>
     </plurals>
     <plurals name="lockpassword_password_requires_letters">
         <item quantity="other">"パスワードには英字が%d文字以上必要です。"</item>
@@ -48,9 +61,9 @@
         <item quantity="other">"パスワードには小文字の英字が%d文字以上必要です。"</item>
         <item quantity="one">"パスワードには小文字の英字が1文字以上必要です。"</item>
     </plurals>
-    <plurals name="lockpassword_password_requires_uppercase">
-        <item quantity="other">"パスワードには大文字の英字が%d文字以上必要です。"</item>
-        <item quantity="one">"パスワードには大文字の英字が1文字以上必要です。"</item>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">"パスワードには記号または数字が%d個以上必要です。"</item>
+        <item quantity="one">"パスワードには記号または数字が1つ以上必要です。"</item>
     </plurals>
     <plurals name="lockpassword_password_requires_numeric">
         <item quantity="other">"パスワードには数字が%d個以上必要です。"</item>
@@ -60,110 +73,21 @@
         <item quantity="other">"パスワードには記号が%d個以上必要です。"</item>
         <item quantity="one">"パスワードには記号が1つ以上必要です。"</item>
     </plurals>
-    <plurals name="lockpassword_password_requires_nonletter">
-        <item quantity="other">"パスワードには記号または数字が%d個以上必要です。"</item>
-        <item quantity="one">"パスワードには記号または数字が1つ以上必要です。"</item>
-    </plurals>
-    <plurals name="wrong_pin_code">
-        <item quantity="other">"SIM PINコードが無効です。入力できるのはあと%d回です。"</item>
-        <item quantity="one">"SIM PINコードが無効です。入力できるのはあと%d回です。この回数を超えると、お使いの端末をロック解除するのに携帯通信会社にお問い合わせいただく必要があります。"</item>
-    </plurals>
-    <plurals name="manage_notification_access_summary_nonzero">
-        <item quantity="other">"%d個のアプリが通知を読み取れます"</item>
-        <item quantity="one">"%d個のアプリが通知を読み取れます"</item>
-    </plurals>
-    <plurals name="zen_mode_summary_alarms_only_by_minute">
-        <item quantity="other">"（%2$sまで）%1$d分間、アラームのみに変更します"</item>
-        <item quantity="one">"%2$sまで1分間、アラームのみに変更します"</item>
-    </plurals>
-    <plurals name="zen_mode_summary_alarms_only_by_hour">
-        <item quantity="other">"%2$sまで%1$d時間、アラームのみに変更します"</item>
-        <item quantity="one">"%2$sまで1時間、アラームのみに変更します"</item>
-    </plurals>
-    <plurals name="permissions_summary">
-        <item quantity="other">"%d件の権限を付与"</item>
-        <item quantity="one">"%d件の権限を付与"</item>
-    </plurals>
-    <plurals name="runtime_permissions_summary">
-        <item quantity="other">"%1$d/%2$d件の権限を付与"</item>
-        <item quantity="one">"%1$d/%2$d件の権限を付与"</item>
-    </plurals>
-    <plurals name="runtime_permissions_additional_count">
-        <item quantity="other">"%d個の追加権限"</item>
-        <item quantity="one">"%d個の追加権限"</item>
-    </plurals>
-    <plurals name="domain_urls_apps_summary">
-        <item quantity="other">"%d個のアプリが対応リンクを開くことが可能"</item>
-        <item quantity="zero">"対応リンクを開けるアプリがありません"</item>
-        <item quantity="one">"1個のアプリが対応リンクを開くことが可能"</item>
-    </plurals>
-    <plurals name="high_power_count">
-        <item quantity="other">"%d個のアプリに電池の最適化を無視することを許可"</item>
-        <item quantity="one">"1個のアプリに電池の最適化を無視することを許可"</item>
-    </plurals>
-    <plurals name="memory_usage_apps_summary">
-        <item quantity="other">"過去%2$sに%1$d個のアプリがメモリを使用しました"</item>
-        <item quantity="one">"過去%2$sに1個のアプリがメモリを使用しました"</item>
-    </plurals>
-    <plurals name="notification_summary">
-        <item quantity="other">%d 個のアプリが送信をブロックされています</item>
-        <item quantity="one">%d 個のアプリが送信をブロックされています</item>
-    </plurals>
-    <plurals name="data_saver_unrestricted_summary">
-        <item quantity="other">データセーバーが ON のときのデータ無制限使用を %1$d 個のアプリに許可しました</item>
-        <item quantity="one">データセーバーが ON のときのデータ無制限使用を 1 個のアプリに許可しました</item>
-    </plurals>
-    <plurals name="virus_scan_app_find_risk">
-        <item quantity="other">%d件のリスクが見つかりました</item>
-        <item quantity="one">%d件のリスクが見つかりました</item>
-    </plurals>
-    <plurals name="auto_startup_count">
-        <item quantity="other">%d個のアプリが自動起動を許可されています</item>
-        <item quantity="one">%d個のアプリが自動起動を許可されています</item>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">"パスワードには大文字の英字が%d文字以上必要です。"</item>
+        <item quantity="one">"パスワードには大文字の英字が1文字以上必要です。"</item>
     </plurals>
     <plurals name="lockpassword_pin_fixed_length">
         <item quantity="other">PINは%d桁で指定してください</item>
         <item quantity="one">PINは%d桁で指定してください</item>
     </plurals>
-    <plurals name="wifi_share_count">
-        <item quantity="other">%d回線のネットワークを共有中</item>
-        <item quantity="one">%d回線のネットワークを共有中</item>
-    </plurals>
-    <plurals name="connected_devices_number">
-        <item quantity="other">%d devices</item>
-        <item quantity="one">%d device</item>
-    </plurals>
-    <plurals name="free_wifi_connected_count">
-        <item quantity="other">%1$sユーザーが接続</item>
-        <item quantity="one">%1$sユーザーが接続</item>
-    </plurals>
-    <plurals name="show_pho_countdown">
-        <item quantity="other">"端末情報の表示まであと%1$dステップです。"</item>
-        <item quantity="one">"端末情報の表示まであと%1$dステップです。"</item>
-    </plurals>
-    <plurals name="show_cit_countdown">
-        <item quantity="other">"CITへの切り替えまであと%1$dステップです"</item>
-        <item quantity="one">"CITへの切り替えまであと%1$dステップです"</item>
-    </plurals>
-    <plurals name="show_rep_countdown">
-        <item quantity="other">"バグレポートの送信まであと%1$dステップです。"</item>
-        <item quantity="one">"バグレポートの送信まであと%1$dステップです。"</item>
-    </plurals>
-    <plurals name="auto_disable_screenbuttons_enabled_header_title">
-        <item quantity="other">%d個のアプリで常に無効にする</item>
-        <item quantity="one">1個のアプリで常に無効にする</item>
-    </plurals>
-    <plurals name="auto_disable_screenbuttons_disabled_header_title">
-        <item quantity="other">%d個のアプリで無効にしない</item>
-        <item quantity="one">1個のアプリで無効にしない</item>
+    <plurals name="lockpassword_pin_too_long">
+        <item quantity="other">PINは%d桁未満で指定してください</item>
+        <item quantity="one">PINは%d桁未満で指定してください</item>
     </plurals>
     <plurals name="lockpassword_pin_too_short">
         <item quantity="other">PINは%d桁以上にしてください</item>
         <item quantity="one">PINは%d桁以上にしてください</item>
-    </plurals>
-    <plurals name="lockpassword_pin_too_long">
-        <item quantity="other">PINは%d桁未満で指定してください</item>
-        <item quantity="one">PINは%d桁未満で指定してください</item>
     </plurals>
     <plurals name="lockpattern_recording_incorrect_too_short">
         <item quantity="other">少なくとも%dつの点を結んでください。</item>
@@ -176,5 +100,81 @@
     <plurals name="lockpattern_too_many_failed_confirmation_attempts_footer">
         <item quantity="other">%d秒後にもう一度お試しください。</item>
         <item quantity="one">%d秒後にもう一度お試しください。</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">"%d個のアプリが通知を読み取れます"</item>
+        <item quantity="one">"%d個のアプリが通知を読み取れます"</item>
+    </plurals>
+    <plurals name="memory_usage_apps_summary">
+        <item quantity="other">"過去%2$sに%1$d個のアプリがメモリを使用しました"</item>
+        <item quantity="one">"過去%2$sに1個のアプリがメモリを使用しました"</item>
+    </plurals>
+    <plurals name="notification_summary">
+        <item quantity="other">%d 個のアプリが送信をブロックされています</item>
+        <item quantity="one">%d 個のアプリが送信をブロックされています</item>
+    </plurals>
+    <plurals name="permissions_summary">
+        <item quantity="other">"%d件の権限を付与"</item>
+        <item quantity="one">"%d件の権限を付与"</item>
+    </plurals>
+    <plurals name="runtime_permissions_additional_count">
+        <item quantity="other">"%d個の追加権限"</item>
+        <item quantity="one">"%d個の追加権限"</item>
+    </plurals>
+    <plurals name="runtime_permissions_summary">
+        <item quantity="other">"%1$d/%2$d件の権限を付与"</item>
+        <item quantity="one">"%1$d/%2$d件の権限を付与"</item>
+    </plurals>
+    <plurals name="security_settings_fingerprint_preference_summary">
+        <item quantity="other">"%1$d個の指紋を登録済み"</item>
+        <item quantity="one">"%1$d個の指紋を登録済み"</item>
+    </plurals>
+    <plurals name="settings_toggle_position_divider_page">
+        <item quantity="other">"通知領域に%1$d個のトグルが表示されます"</item>
+        <item quantity="one">"通知領域に%1$d個のトグルが表示されます"</item>
+    </plurals>
+    <plurals name="show_cit_countdown">
+        <item quantity="other">"CITへの切り替えまであと%1$dステップです"</item>
+        <item quantity="one">"CITへの切り替えまであと%1$dステップです"</item>
+    </plurals>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">"デベロッパーになるまであと%1$dステップです。"</item>
+        <item quantity="one">"デベロッパーになるまであと%1$dステップです。"</item>
+    </plurals>
+    <plurals name="show_pho_countdown">
+        <item quantity="other">"端末情報の表示まであと%1$dステップです。"</item>
+        <item quantity="one">"端末情報の表示まであと%1$dステップです。"</item>
+    </plurals>
+    <plurals name="show_rep_countdown">
+        <item quantity="other">"バグレポートの送信まであと%1$dステップです。"</item>
+        <item quantity="one">"バグレポートの送信まであと%1$dステップです。"</item>
+    </plurals>
+    <plurals name="status_bar_settings_disabled_header_title">
+        <item quantity="other">"%d個のアプリが通知を表示することができません"</item>
+        <item quantity="one">"%d個のアプリが通知を表示することができません"</item>
+    </plurals>
+    <plurals name="status_bar_settings_enabled_header_title">
+        <item quantity="other">"%d個のアプリが通知を表示することができます"</item>
+        <item quantity="one">"%d個のアプリが通知を表示することができます"</item>
+    </plurals>
+    <plurals name="virus_scan_app_find_risk">
+        <item quantity="other">%d件のリスクが見つかりました</item>
+        <item quantity="one">%d件のリスクが見つかりました</item>
+    </plurals>
+    <plurals name="wifi_share_count">
+        <item quantity="other">%d回線のネットワークを共有中</item>
+        <item quantity="one">%d回線のネットワークを共有中</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">"SIM PINコードが無効です。入力できるのはあと%d回です。"</item>
+        <item quantity="one">"SIM PINコードが無効です。入力できるのはあと%d回です。この回数を超えると、お使いの端末をロック解除するのに携帯通信会社にお問い合わせいただく必要があります。"</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_hour">
+        <item quantity="other">"%2$sまで%1$d時間、アラームのみに変更します"</item>
+        <item quantity="one">"%2$sまで1時間、アラームのみに変更します"</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_minute">
+        <item quantity="other">"（%2$sまで）%1$d分間、アラームのみに変更します"</item>
+        <item quantity="one">"%2$sまで1分間、アラームのみに変更します"</item>
     </plurals>
 </resources>
