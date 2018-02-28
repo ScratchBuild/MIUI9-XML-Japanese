@@ -171,8 +171,17 @@
   <string name="dislike_toast">"このような動画はあなたにおすすめしません。"</string>
   <string name="dislike_video">"興味がありません"</string>
   <string name="download">"ダウンロード"</string>
+  <string name="download_complete_txt">"ダウンロードが完了しました"</string>
+  <string name="download_downloading_txt">"ダウンロード中…"</string>
   <string name="download_fail">"ダウンロードできませんでした"</string>
+  <string name="download_install_txt">"インストール"</string>
+  <string name="download_installing_txt">"インストール中"</string>
   <string name="download_notification_title_text">正在下载想看视频</string>
+  <string name="download_now_txt">"今すぐダウンロード"</string>
+  <string name="download_open_txt">"開く"</string>
+  <string name="download_pause_txt">"ダウンロードを中断"</string>
+  <string name="download_resume_txt">"ダウンロードを再開"</string>
+  <string name="download_txt">"ダウンロード"</string>
   <string name="downloaded_sticker_str">"ダウンロード済み"</string>
   <string name="downloading">"ダウンロード中"</string>
   <string name="editor_commend">"編集"</string>
@@ -185,6 +194,7 @@
   <string name="encrypt_success">Hidden successfully</string>
   <string name="encrypt_success_first_five">"Encrypted and hid file. You can view hidden files by pulling down on the File Manager's start page."</string>
   <string name="encrypting">"暗号化しています…"</string>
+  <string name="error">出错了~</string>
   <string name="error_contains_sharer_path">"/MIUI/Gallery/cloud/sharer フォルダ内のファイルは暗号化できません。ファイルを別のフォルダに移動して、もう一度お試しください。"</string>
   <string name="error_create_dir">"フォルダを作成できません"</string>
   <string name="error_create_file">"ファイルを作成できません"</string>
@@ -309,6 +319,7 @@
   <string name="login_expired">"セッションがタイムアウトしました。もう一度ログインしてください。"</string>
   <string name="login_failed_tip">"ログインできませんでした、後ほど再試行してください"</string>
   <string name="login_success_tip">"正常にログインしました"</string>
+  <string name="look_detail">"詳細を表示"</string>
   <string name="make_private">"非表示"</string>
   <string name="make_private_msg_1">"このファイルを非表示にしますか？"</string>
   <string name="make_private_msg_2">"これらのファイルを非表示にしますか？"</string>
@@ -665,6 +676,7 @@
   <string name="topic_title">"トピック"</string>
   <string name="transfer_done">Files moved successfully.</string>
   <string name="transfer_private_data">Moving hidden folders from SD card…</string>
+  <string name="transition_image">transition image</string>
   <string name="type_not_support">"This file format isn't supported. Unpack this file and try again."</string>
   <string name="ui_main_toast_favorite_added">"お気に入りに追加しました"</string>
   <string name="ui_main_toast_favorite_removed">"お気に入りから削除しました"</string>
