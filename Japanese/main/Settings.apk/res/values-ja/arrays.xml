@@ -856,4 +856,12 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>ファイル</item>
         <item>メモ</item>
     </string-array>
+    <string-array name="standard_configuration_version_description_primary">
+        <item>CPU</item>
+        <item>バッテリー容量</item>
+        <item>背面カメラ</item>
+        <item>画面サイズ</item>
+        <item>解像度</item>
+        <item>Androidバージョン</item>
+    </string-array>
 </resources>
