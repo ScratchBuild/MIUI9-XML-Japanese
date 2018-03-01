@@ -877,8 +877,6 @@
   <string name="close_gesture">ジェスチャーを使用して閉じる</string>
   <string name="close_miui_optimization_title">MIUIの最適化をオフにする</string>
   <string name="close_miui_optimization_warning_message">この変更を適用するために端末を再起動します。注：この機能をオフにすると、ユーザーインターフェースのレイアウトや他の要素に大きな変化があります。</string>
-  <string name="close_sdcard_optimization_title">疑似SDカードの最適化をオフにする</string>
-  <string name="close_sdcard_optimization_warning_message">この変更を適用するために端末を再起動します。</string>
   <string name="cloud_backup_section_title">Mi Cloudバックアップ</string>
   <string name="cloud_backup_settings_section_title">バックアップの設定</string>
   <string name="cloud_restore_section_summary">システム設定、ホーム画面のレイアウトやアプリを復元する</string>
@@ -2577,7 +2575,9 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="night_light">読書灯</string>
   <string name="night_light_brightness">読書灯の明るさ</string>
   <string name="night_light_color">読書灯の色温度</string>
+  <string name="night_light_color_tip">読書モードがオフのときに、変更が有効になります</string>
   <string name="night_light_summary">読書灯をオンにすると、暗い場所で画面の明るさを最小限に抑えます。</string>
+  <string name="night_light_tip">読書灯がオンのときに、変更が有効になります</string>
   <string name="night_mode_auto">自動</string>
   <string name="night_mode_no">ライト</string>
   <string name="night_mode_title">テーマ</string>
@@ -2683,8 +2683,6 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="open_personal_assistant_dialog_desc">App vaultを使用したり、更新を受け取ることができません。今すぐオフにしますか？</string>
   <string name="open_personal_assistant_dialog_title">App vaultをオフにする</string>
   <string name="open_personal_assistant_title">App vaultをオンにする</string>
-  <string name="open_sdcard_optimization_title">疑似SDカードの最適化をオンにする</string>
-  <string name="open_sdcard_optimization_warning_message">この変更を適用するために端末を再起動します。</string>
   <string name="open_wifi_connect_summary">タップして詳細を表示</string>
   <string name="open_wifi_connect_title">%1$sに接続しました</string>
   <string name="opening_paragraph_delete_profile_unknown_company">この仕事用プロファイルを管理するアプリ:</string>
@@ -3358,11 +3356,6 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="sd_mount_summary"/>
   <string name="sdcard_changes_instructions">USBケーブルの再接続時に変更が有効になります。</string>
   <string name="sdcard_format">SDカード内データを消去</string>
-  <string name="sdcard_optimization">疑似SDカードの最適化</string>
-  <string name="sdcard_optimization_cancel">キャンセル</string>
-  <string name="sdcard_optimization_close">オフにして再起動</string>
-  <string name="sdcard_optimization_open">オンにする</string>
-  <string name="sdcard_optimization_summary">Make your SD card much faster</string>
   <string name="sdcard_setting">SDカード</string>
   <string name="sdcard_settings_available_bytes_label">利用可能バイト数:</string>
   <string name="sdcard_settings_bad_removal_status">SDカードが使用中に取り外されました。</string>
