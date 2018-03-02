@@ -270,8 +270,8 @@
   <string name="section_err_type">"バグの種類"</string>
   <string name="section_screenshot">"スクリーンショット"</string>
   <string name="select_system_app_tag">"問題を選択"</string>
-  <string name="submit_dialog_cancel">"キャンセル"</string>
-  <string name="submit_dialog_confirm">"送信"</string>
+  <string name="submit_dialog_cancel">"同意しない"</string>
+  <string name="submit_dialog_confirm">"同意する"</string>
   <string name="submit_dialog_content">"フィードバックは添付ファイルと共にMIUIのサーバーに送信されます。これには個人情報と位置データが含まれる場合があります。"</string>
   <string name="submit_dialog_content_global">"添付ファイル(もしあれば)とログ(アップロードしたくない項目はチェックを外すことができます)は、MIUIのサーバーとMIUIフォーラムの限定されたセクションに送信され、解析と更なるコミュニケーションのため使用されます。ログには個人情報と位置データが含まれる場合があります。"</string>
   <string name="submit_dialog_title">"レポートを送信"</string>

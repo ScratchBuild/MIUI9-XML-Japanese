@@ -3561,6 +3561,8 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="search_xiaomi_account">Mi Account; Mi Account ID;Account;Account ID</string>
   <string name="search_xspace">Dual app;Dual apps;Double app;Double apps;Clone app;Clone apps;App clone;App clones;Two accounts;2 accounts</string>
   <string name="second_space">Second space</string>
+  <string name="secondspace_category">Second space</string>
+  <string name="secondspace_delete_space_title">Second spaceを削除</string>
   <string name="secure_keyguard_business_title">画面ロックを設定</string>
   <string name="secure_lock_encryption_warning">ユーザー補助サービスがONに設定されているため、端末データの暗号化の強化に画面ロックは使用されません。</string>
   <string name="security_enable_widgets_disabled_summary">管理者によって無効にされています</string>

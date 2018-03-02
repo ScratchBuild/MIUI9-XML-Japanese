@@ -8,6 +8,7 @@
     <string-array name="date_of_traffic">
         <item>"昨日 "</item>
         <item>"今日 "</item>
+        <item>"先月 "</item>
         <item>"今月 "</item>
     </string-array>
     <string-array name="date_of_traffic_prefix_cmcc">
@@ -18,14 +19,17 @@
     <string-array name="date_of_traffic_prefix">
         <item>"昨日: "</item>
         <item>"今日: "</item>
+        <item>"先月: "</item>
         <item>"今月: "</item>
     </string-array>
     <string-array name="date_of_app_all">
         <item>"昨日 (data)"</item>
         <item>"今日 (data)"</item>
+        <item>"先月 (data)"</item>
         <item>"今月 (data)"</item>
         <item>"昨日 WLAN"</item>
         <item>"今日 WLAN"</item>
+        <item>"先月 WLAN"</item>
         <item>"今月 WLAN"</item>
     </string-array>
     <string-array name="traffic_type">
