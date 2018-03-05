@@ -277,7 +277,6 @@ Otherwise you may not be able to enter Second space from Lock screen."</string>
   <string name="space_create_guide_title_1">"プライバシーを保護する"</string>
   <string name="space_create_guide_title_2">"いつでも自由に作成可能"</string>
   <string name="space_create_guide_title_3">"リスクの無い安全な機能"</string>
-  <string name="space_created_success">"Second spaceが正常に作成されました"</string>
   <string name="space_deleted">"このスペースは削除されました"</string>
   <string name="space_des_default">Isolated space with encrypted data</string>
   <string name="space_finger_sub_text">"より素早く切り替えるには、Second spaceの指紋を設定してください"</string>
