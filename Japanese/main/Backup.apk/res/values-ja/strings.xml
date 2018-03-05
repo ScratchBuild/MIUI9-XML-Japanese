@@ -127,6 +127,7 @@ https://appleid.apple.com/#!&amp;page=signin to close"</string>
   <string name="err_bakfile_broken">"このバックアップは使用できません。"</string>
   <string name="err_filesystem_mount">"ルーターのストレージにアクセスできません"</string>
   <string name="err_low_storage">"十分な空き領域がありません"</string>
+  <string name="err_not_allow">"サポートしていません"</string>
   <string name="err_router_disconnected">"ルーターとの接続を確認してもう一度お試しください。"</string>
   <string name="err_router_files_delete">"ルーターのバックアップファイルを削除できませんでした"</string>
   <string name="err_unknown">"不明なエラー"</string>

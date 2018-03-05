@@ -558,10 +558,16 @@
   <string name="data_usage_leisure_warning_body">"データ使用量の詳細を表示するにはタップ。"</string>
   <string name="data_usage_leisure_warning_title">Off-peak data usage limit</string>
   <string name="data_usage_limit_body">"モバイルデータをオンにするにはタップ。"</string>
+  <string name="data_usage_mobile_dialog_title">"既に5GBのモバイルデータを使用しています。MIUIはモバイルデータを無効にしました。"</string>
   <string name="data_usage_mobile_limit_title">Reached mobile data limit</string>
   <string name="data_usage_no_total_package_body">Tap to set data limit</string>
   <string name="data_usage_no_total_package_body_dual">No data limit set for %s</string>
   <string name="data_usage_no_total_package_title">Set a data usage limit</string>
+  <string name="data_usage_protected_dialog_message">"MIUIはキャリアによる追加料金の発生を防ぐためにモバイルデータ接続を無効にしました。
+
+モバイルデータを再度有効にすると、キャリアから追加料金が請求される場合があります。"</string>
+  <string name="data_usage_protected_notify_message">"MIUIはキャリアによる追加料金の発生を防ぐためにモバイルデータ接続を無効にしました。"</string>
+  <string name="data_usage_protected_notify_title">"既に5GBのモバイルデータを使用しています"</string>
   <string name="data_usage_warning_body">"データ使用量の詳細を表示するにはタップ。"</string>
   <string name="data_usage_warning_body_notify">"詳細を表示するにはタップ"</string>
   <string name="data_usage_warning_title_notify">"データ使用量の制限を超えました"</string>
@@ -587,6 +593,12 @@
   <string name="dialog_msg_auto_start_declare">Some apps may incorrectly indicate that MIUI has prevented them from starting. Check permissions that have been granted to individual apps in Settings &gt; Apps.</string>
   <string name="dialog_msg_stop_virus_scan">"完了前にセキュリティスキャンを停止しますか？"</string>
   <string name="dialog_no_longer_alert">"次回から表示しない"</string>
+  <string name="dialog_restrict_all_mobile_summary">"設定後、すべてのアプリでモバイルデータ接続(%s)が制限されます。"</string>
+  <string name="dialog_restrict_all_mobile_title">"モバイルデータ接続(%s)を制限する"</string>
+  <string name="dialog_restrict_all_wlan_summary">"設定後、すべてのアプリでWi-Fi接続が制限されます。"</string>
+  <string name="dialog_restrict_all_wlan_title">"Wi-Fi接続を制限する"</string>
+  <string name="dialog_restrict_negative">"制限する"</string>
+  <string name="dialog_restrict_positive">"キャンセル"</string>
   <string name="dialog_roaming_message">"海外ローミング中、このアプリにモバイルデータの使用を許可しますか？"</string>
   <string name="dialog_roaming_title">"海外ローミング"</string>
   <string name="dialog_text">"Game speed boosterのショートカットをホーム画面に作成"</string>
@@ -749,6 +761,7 @@
   <string name="gateway_exception_summary2">"サーバーに接続できませんでした"</string>
   <string name="gateway_exception_title">"ルーターのテスト"</string>
   <string name="gb_new_feature">New feature</string>
+  <string name="gdpr_msg">&lt;Data&gt;"In order to use the basic features of Security, you must agree that Xiaomi will collect, process, and use your personal data, including information about the ways you use Security's features (e.g., mobile data usage stats, info about malware, as well as basic info about your device) and other types of information specified in our &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Privacy Policy&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
   <string name="gb_description_image_button_answer">"応答"</string>
   <string name="gb_description_image_button_reject">"拒否"</string>
   <string name="gb_description_image_button_video_answer">"ビデオ通話"</string>

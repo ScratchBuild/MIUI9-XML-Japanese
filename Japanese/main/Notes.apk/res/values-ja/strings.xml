@@ -27,6 +27,7 @@
   <string name="db_downgrade_clear_button">"アプリデータを消去"</string>
   <string name="db_downgrade_clear_date_reminder">"異なるMIUIのバージョンに切り替えるには、メモのアプリデータを消去する必要があります。実行前にはあらかじめMi Cloudへメモをバックアップしておいてください。"</string>
   <string name="delete_folder_dialog_tile">"フォルダを削除"</string>
+  <string name="dialog_privacy_revoke_tips">"権限を取り消すとアプリはデータの収集を停止し、すべての関連データがサーバーから削除されます。これによりアプリは事実上使用できなくなる可能性があります。アカウントのセキュリティを確保するには、Mi Cloudサービスの権限を取り消す前に i.mi.com にログインしてください。"</string>
   <string name="dialog_share_as_pic">"メモを画像として共有"</string>
   <string name="dialog_share_as_text">"メモをテキストとして共有"</string>
   <string name="dialog_share_title">"メモを共有"</string>

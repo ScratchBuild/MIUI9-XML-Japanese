@@ -2914,9 +2914,10 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="priority_storage_settings_summary">SDカードが検出されない場合、自動的に端末の内部ストレージに保存されます。</string>
   <string name="priority_storage_summary">データを保存する場所を選択</string>
   <string name="priority_storage_title">ストレージ設定</string>
+  <string name="privacy_authorize_cloud_msg">"To ensure your account's security, sign in to i.mi.com if you want to revoke authotization for Mi Cloud services (including sync and backups)."</string>
   <string name="privacy_authorize_dialog_agree">同意</string>
   <string name="privacy_authorize_dialog_exit">終了</string>
-  <string name="privacy_authorize_dialog_message">%1$sでは%2$sを読み、同意する必要があります。アプリが正常に動作するには、インターネットへの接続が必要です。同意しますか？</string>
+  <string name="privacy_authorize_dialog_message">&lt;Data>"In order to use the basic features of Mi Cloud services, you must agree that Xiaomi will collect, process, and use your personal data. Refer to our Privacy Policy to learn how we collect and process personal data. Selecting \"Agree\" means that you've read and agreed to our &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&lang=%2$s\">Privacy Policy&lt;/a> and &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&lang=%4$s\">User Agreement&lt;/a>.&#8203;"&lt;/Data></string>
   <string name="privacy_authorize_network_error">ネットワークに接続してもう一度お試しください。</string>
   <string name="privacy_authorize_privacy_policy">プライバシーポリシー</string>
   <string name="privacy_authorize_revoke">取り消し</string>
@@ -4725,6 +4726,9 @@ Android端末をUSBケーブルでコンピューターにつなぐことで、�
   <string name="wfd_menu_teardown">停止</string>
   <string name="wfd_settings_description">Wi-Fiネットワークを使用してディスプレイに接続しますか？</string>
   <string name="wfd_settings_title">ワイヤレスディスプレイ</string>
+  <string name="wfd_status_dialog_disconnect">切断</string>
+  <string name="wfd_status_dialog_message">画面の内容がワイヤレス接続を介して別のディスプレイデバイスに表示されています</string>
+  <string name="wfd_status_dialog_title">ワイヤレスディスプレイ</string>
   <string name="wfd_wps_keypad">キーパッドを使用</string>
   <string name="wfd_wps_pbc">PINコードを入力</string>
   <string name="whetstone_level_reboot">この設定はデバイスの再起動後に有効になります。</string>
