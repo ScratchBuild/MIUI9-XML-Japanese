@@ -38,7 +38,7 @@
   <string name="component_title_wallpaper">"壁紙"</string>
   <string name="current_using_desktop_wallpaper_text">"ホーム画面"</string>
   <string name="current_using_lockscreen_wallpaper_text">"ロック画面"</string>
-  <string name="current_version_incompatible">"このテーマは互換性がありません"</string>
+  <string name="current_version_incompatible">"互換性がありません"</string>
   <string name="deleting">"削除中…"</string>
   <string name="description_author">"作者"</string>
   <string name="description_designer">"デザイナー"</string>
@@ -193,6 +193,7 @@
   <string name="resource_comment_upload_not_logined">"初めにログインする必要があります"</string>
   <string name="resource_comment_upload_success">"あなたのコメントは、簡単な審査の後に表示されます。"</string>
   <string name="resource_continue">"次へ"</string>
+  <string name="resource_current_using_title">"現在のテーマ"</string>
   <string name="resource_data_empty">"アイテムはありません。"</string>
   <string name="resource_delete">"削除"</string>
   <string name="resource_delete_all">"選択した%1$d個のテーマを削除しますか？"</string>
@@ -236,6 +237,8 @@
   <string name="resource_exchange_wrong_format_by_server">"Code was not verified. Make sure you've entered it correctly."</string>
   <string name="resource_expand_full_text">"もっと表示"</string>
   <string name="resource_failed_to_load_list">"テーマを読み込むことができません。"</string>
+  <string name="resource_free_trial_15_days">"15日間無料で試す"</string>
+  <string name="resource_free_use_last_one_day">"試用期限が明日切れます。"</string>
   <string name="resource_get_auth_checking">"検証中…"</string>
   <string name="resource_get_auth_exceed_max_limit_tips">10 devices have already been authorized on this account</string>
   <string name="resource_get_auth_exceed_max_limit_title">Number of authorized devices exceeded</string>
@@ -247,7 +250,9 @@
   <string name="resource_import_failed">"インポートできません"</string>
   <string name="resource_import_successful">"完了"</string>
   <string name="resource_importing">"インポート中…"</string>
+  <string name="resource_is_off_shelf">"利用できません"</string>
   <string name="resource_list_title">Recently selected</string>
+  <string name="resource_local_picker">"端末上の着信音を選択"</string>
   <string name="resource_menu_refresh">"更新"</string>
   <string name="resource_mute">None</string>
   <string name="resource_my">"保存済み"</string>
@@ -256,7 +261,9 @@
   <string name="resource_no_network_text">"ネットワークに接続できません。"</string>
   <string name="resource_no_result">"何も見つかりませんでした"</string>
   <string name="resource_on_trial">"試用中: %1$s"</string>
+  <string name="resource_on_use">使用中: %1$s</string>
   <string name="resource_online">"オンライン"</string>
+  <string name="resource_online_picker">"オンラインの着信音を選択"</string>
   <string name="resource_pack_confirm">"Even though you've already purchased %1$d components in this theme, it's still cheaper if you buy the full bundle."</string>
   <string name="resource_pack_discount_info">"割引き: %1$s"</string>
   <string name="resource_pack_get_auth_has_been_undercarriaged">"このテーマは利用できません。"</string>
@@ -291,6 +298,7 @@
   <string name="resource_select_boot_audio_confirm">"この起動音を選択しますか？"</string>
   <string name="resource_select_notification_audio_confirm">"このアラーム音を選択しますか？"</string>
   <string name="resource_select_ringtone_audio_confirm">"この着信音を選択しますか？"</string>
+  <string name="resource_select_ringtone_confirm">"この着信音を選択しますか？"</string>
   <string name="resource_selected">"おすすめ"</string>
   <string name="resource_send">"送信"</string>
   <string name="resource_server_alert_dialog_title">"We'll be right back…"</string>

@@ -644,7 +644,13 @@
   <string name="dlg_remove_whitelist">"例外からこれらの番号を削除しますか？"</string>
   <string name="dlg_remove_whitelist_ing">"削除中…"</string>
   <string name="dlg_remove_whitelist_title">"削除"</string>
+  <string name="dlg_sec_network_unavailable">"インターネット接続が制限されているため、セキュリティアプリを更新できません。セキュリティアプリにインターネット接続を許可しますか？"</string>
   <string name="dlg_title_not_open_stranger_identify">Caller ID</string>
+  <string name="dlg_update_btn_contiue">"続行"</string>
+  <string name="dlg_update_btn_open">"許可する"</string>
+  <string name="dlg_update_data_content">"Wi-Fiネットワークに接続していません。モバイルデータを使用すると追加料金が発生する場合があります。とにかく続けますか？</string>
+  <string name="dlg_update_date_title">"警告"</string>
+  <string name="dlg_update_updating">"更新中…"</string>
   <string name="dlg_white_address_antispam_message">Add this location to exceptions?</string>
   <string name="dlg_white_antispam_hint">"例外"</string>
   <string name="dlg_white_antispam_message">"この番号を例外に追加しますか？"</string>
@@ -1621,6 +1627,7 @@ While calibrating, MIUI will send a text message to your carrier to receive the 
   <string name="sms_prefix">Prefix blocklist</string>
   <string name="sms_service">Block service SMS</string>
   <string name="sms_smart_engine_update">"SMSフィルタを自動的に更新する"</string>
+  <string name="sms_smart_engine_update_now">"更新"</string>
   <string name="sms_stranger_block">Block SMS from strangers</string>
   <string name="sorted_dialog_title">"並べ替え"</string>
   <string name="sp_background_risk_dialog_summary">, check and fix payment issues.</string>
@@ -1993,6 +2000,10 @@ While calibrating, MIUI will send a text message to your carrier to receive the 
   <string name="toast_root_apply_reject">Denied root access for %s</string>
   <string name="toast_set_success">Turned on successfully</string>
   <string name="toast_show_notification">"通知シェードにピン留めしました"</string>
+  <string name="toast_update_fail">"更新できませんでした"</string>
+  <string name="toast_update_nonetwork">"ネットワークに接続できませんでした"</string>
+  <string name="toast_update_notneed">"更新済み"</string>
+  <string name="toast_update_success">"正常に更新されました"</string>
   <string name="top_game">"人気のゲーム"</string>
   <string name="top_load_fail_detail">"ロードできませんでした、タップして再試行"</string>
   <string name="top_no_network_detial">"ロードできませんでした、ネットワーク接続を確認してもう一度お試しください"</string>
