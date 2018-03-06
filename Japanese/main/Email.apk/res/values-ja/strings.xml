@@ -263,7 +263,6 @@
   <string name="click_to_reload">"更新するには画面をタップ"</string>
   <string name="close">"閉じる"</string>
   <string name="collapse_recipient_details">"受信者の詳細を折りたたむ"</string>
-  <string name="colon">:</string>
   <string name="compose">"作成"</string>
   <string name="compose_attachment_number_limit">"10個以上の添付ファイルを追加することはできません"</string>
   <string name="compose_paste_address_oob">"文字数が多すぎます"</string>
@@ -392,7 +391,6 @@
   <string name="due_date_text">Final repayment</string>
   <string name="edit_quick_response_dialog">"クイック返信"</string>
   <string name="edit_signature">"署名を編集"</string>
-  <string name="elided_padding_token"> </string>
   <string name="email_address">"メールアドレス"</string>
   <string name="email_netease">NetEase Mail</string>
   <string name="email_qq">QQ Mail</string>
@@ -501,7 +499,6 @@
   <string name="hide_elided">▼ Hide quoted text</string>
   <string name="hide_password">"パスワードを隠す"</string>
   <string name="hint_quick_reply_all">"全員に返信"</string>
-  <string name="imap_name">IMAP</string>
   <string name="imap_password_error">"受信メールサーバーのパスワードが間違っています"</string>
   <string name="import_button_text">"インポート"</string>
   <string name="import_from_other_account">"他のアカウントからインポート"</string>
@@ -547,12 +544,6 @@
   <string name="mailbox_settings_mailbox_sync_window_label">"同期するメールの日数"</string>
   <string name="mailbox_settings_sync_enabled_label">"このフォルダを同期"</string>
   <string name="mailbox_settings_sync_enabled_summary">"接続時にメッセージをダウンロード"</string>
-  <string name="maileditor_fontsize_textitem1">8pt</string>
-  <string name="maileditor_fontsize_textitem2">10pt</string>
-  <string name="maileditor_fontsize_textitem3">12pt</string>
-  <string name="maileditor_fontsize_textitem4">14pt</string>
-  <string name="maileditor_fontsize_textitem5">16pt</string>
-  <string name="maileditor_fontsize_textitem6">18pt</string>
   <string name="main_help_context">ttl</string>
   <string name="manual_sync">"今すぐ同期"</string>
   <string name="mark_important">重要マークを付ける</string>
@@ -702,14 +693,14 @@ Try a different inbox."</string>
   <string name="password_expired_ticker">"ロック解除PINまたはパスワードの有効期限が切れました。"</string>
   <string name="path_about_account_setting">"メール/設定/アカウント"</string>
   <string name="path_about_add_account">"メール/設定/アカウントを追加"</string>
-  <string name="path_about_battery_saver">"メール/設定/Battery saver"</string>
+  <string name="path_about_battery_saver">"メール/設定/バッテリーセーバー"</string>
   <string name="path_about_confirm_before_delete">"メール/設定/削除前に確認"</string>
   <string name="path_about_confirm_before_send">"メール/設定/送信前に確認"</string>
   <string name="path_about_conversation_view">"メール/設定/スレッド表示"</string>
   <string name="path_about_delete_message_flow">"メール/設定/Delete message flow"</string>
   <string name="path_about_email_setting">"メール/設定"</string>
   <string name="path_about_send_feed_back">"Mail/設定/フィードバックを送信"</string>
-  <string name="path_about_upload_logs">"メール/設定/Upload logs"</string>
+  <string name="path_about_upload_logs">"メール/設定/ログをアップロード"</string>
   <string name="perference_change_pw_notnull_tips">"パスワードを入力してください"</string>
   <string name="perference_change_pw_ok_tips">"パスワードを変更しました"</string>
   <string name="perference_setup_pop_del">"サーバーからメールを削除する"</string>
@@ -722,7 +713,7 @@ Try a different inbox."</string>
   <string name="permission_tip">Configuration fails, please allow calls and text messages during configuration permissions</string>
   <string name="phone">phone</string>
   <string name="photo_load_failed">"画像を読み込めませんでした"</string>
-  <string name="photo_view_count" formatted="false">%d of %d</string>
+  <string name="photo_view_count" formatted="false">%d/%d</string>
   <string name="please_fill_in_your_mailbox_information2">"受信トレイの情報を入力してください"</string>
   <string name="pls_parse_bill_discribe">"Analyze bills and travel info in your email
 to receive reminders about payments and trips"</string>
@@ -755,7 +746,6 @@ to receive reminders about payments and trips"</string>
   <string name="policy_require_smime">"SMIME形式のメッセージを必須とする"</string>
   <string name="policy_screen_timeout">"画面ロック前のアイドル時間を設定する"</string>
   <string name="policy_text_truncation">"テキストメールのサイズを制限する"</string>
-  <string name="pop3_name">POP3</string>
   <string name="preference_eas_tips">Tap Activate to set up mail server.</string>
   <string name="preference_pop_tips">"POP3では添付ファイルが電子メールと同時にダウンロードされます。これにより、モバイルデータの使用量が増加する可能性があります。"</string>
   <string name="preference_sender_image_description">"受信トレイで送信者名の横にプロフィール画像を表示する"</string>
@@ -914,7 +904,6 @@ to receive reminders about payments and trips"</string>
   <string name="send_feed_back_keywords">"フィードバックを送信"</string>
   <string name="send_mail">"送信"</string>
   <string name="sender_whitelist_cleared">"写真は自動的に表示されません。"</string>
-  <string name="senders_elided">..</string>
   <string name="senders_split_token">, </string>
   <string name="sending">"送信中…"</string>
   <string name="sending_message">"メッセージを送信中…"</string>
@@ -933,7 +922,7 @@ to receive reminders about payments and trips"</string>
   <string name="ser_resp_err_map_ssl">"Choose 'SSL/TLS (Accept all certificates)' in 'Security type'"</string>
   <string name="service_protocol_discribe">"I've read and agree with WPS Mail Service Agreement"</string>
   <string name="service_protocol_title">Service Agreement</string>
-  <string name="set_network">Set network</string>
+  <string name="set_network">"ネットワークを設定"</string>
   <string name="settings_activity_title">"設定"</string>
   <string name="share_choose">"共有するファイルを選択"</string>
   <string name="sharing">"共有"</string>
@@ -952,9 +941,6 @@ to receive reminders about payments and trips"</string>
   <string name="special_text_3">寫道:</string>
   <string name="special_text_4">寫道：</string>
   <string name="special_text_5">wrote:</string>
-  <string name="special_text_colon_en">:</string>
-  <string name="special_text_colon_zh">：</string>
-  <string name="special_text_qq_subscribe">loadScript(_aoFiles){</string>
   <string name="special_text_sender_en">"送信者"</string>
   <string name="special_text_sender_zh">"送信者"</string>
   <string name="storage">"ストレージ"</string>

@@ -39,7 +39,7 @@
   <string name="agree">同意</string>
   <string name="alipay_LoginPassword">パスワードを入力してください</string>
   <string name="alipay_account">アカウント</string>
-  <string name="alipay_agree">同意</string>
+  <string name="alipay_agree">同意する</string>
   <string name="alipay_agree_insurance">同意$insure</string>
   <string name="alipay_alipayAccountHint">手机号/邮箱/淘宝会员名</string>
   <string name="alipay_ant_group_brand">蚂蚁金服旗下品牌</string>
@@ -141,7 +141,7 @@
   <string name="alipay_country_976">モンゴル</string>
   <string name="alipay_country_996">キルギス</string>
   <string name="alipay_data_error">人气太旺啦，稍候再试试</string>
-  <string name="alipay_disagree">不同意</string>
+  <string name="alipay_disagree">同意しない</string>
   <string name="alipay_ensure">OK</string>
   <string name="alipay_enter">进入%1$s(%2$d)</string>
   <string name="alipay_enterWallet">进入支付宝</string>
@@ -1208,7 +1208,7 @@
   <string name="pie_chart_label_catering">食費:</string>
   <string name="pie_chart_label_education">教育:</string>
   <string name="pie_chart_label_entertainment">娯楽:</string>
-  <string name="pie_chart_label_go_dutch">Go Dutch:</string>
+  <string name="pie_chart_label_go_dutch">割り勘:</string>
   <string name="pie_chart_label_life">生活費:</string>
   <string name="pie_chart_label_medical">医療費:</string>
   <string name="pie_chart_label_other">その他:</string>
