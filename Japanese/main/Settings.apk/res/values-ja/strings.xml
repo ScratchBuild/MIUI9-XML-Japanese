@@ -2065,10 +2065,6 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="lock_screen_notifications_summary_show">すべての通知とその内容を表示する</string>
   <string name="lock_screen_notifications_summary_show_profile">すべての通知内容を表示する</string>
   <string name="lock_screen_notifications_title">端末がロックされているとき</string>
-  <string name="lock_screen_secure_after_timeout_immediately_never">パスワードは必要ありません。</string>
-  <string name="lock_screen_secure_after_timeout_immediately_summary">直ぐにパスワードが必要になります</string>
-  <string name="lock_screen_secure_after_timeout_summary">パスワードの要求: %1$s</string>
-  <string name="lock_screen_secure_after_timeout_title">パスワードの要求</string>
   <string name="lock_screen_signature_summary">このメッセージはロック画面に表示されます</string>
   <string name="lock_screen_signature_title">ロック画面の所有者情報</string>
   <string name="lock_screen_unlock_show">ロック画面をスキップする</string>
@@ -2914,7 +2910,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="priority_storage_settings_summary">SDカードが検出されない場合、自動的に端末の内部ストレージに保存されます。</string>
   <string name="priority_storage_summary">データを保存する場所を選択</string>
   <string name="priority_storage_title">ストレージ設定</string>
-  <string name="privacy_authorize_cloud_msg">"To ensure your account's security, sign in to i.mi.com if you want to revoke authotization for Mi Cloud services (including sync and backups)."</string>
+  <string name="privacy_authorize_cloud_msg">"To ensure your account's security, sign in to i.mi.com if you want to revoke authorization for Mi Cloud services (including sync and backups)."</string>
   <string name="privacy_authorize_dialog_agree">同意</string>
   <string name="privacy_authorize_dialog_exit">終了</string>
   <string name="privacy_authorize_network_error">ネットワークに接続してもう一度お試しください。</string>

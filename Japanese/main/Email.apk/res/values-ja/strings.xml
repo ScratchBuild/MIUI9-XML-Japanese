@@ -895,6 +895,7 @@ to receive reminders about payments and trips"</string>
   <string name="security_notification_content_unsupported_title">"ポリシーを満たすことができません"</string>
   <string name="security_notification_content_update_title">"セキュリティの更新が必要です"</string>
   <string name="security_unsupported_ticker_fmt">"アカウント「%s」はセキュリティ要件により同期できません。"</string>
+  <string name="see_more_content">See more content</string>
   <string name="select_attachment_type">Choose attachment from</string>
   <string name="select_no_file">"添付ファイルが選択されていません"</string>
   <string name="select_path">"保存場所を選択"</string>
@@ -931,6 +932,7 @@ to receive reminders about payments and trips"</string>
   <string name="show_images">"写真をダウンロードして表示"</string>
   <string name="show_password">"パスワードを表示"</string>
   <string name="signature">"%s"</string>
+  <string name="signature_black_shark">Sent from my Blackshark phone</string>
   <string name="silent_ringtone">マナーモード</string>
   <string name="single_new_message_notification_big_text">"%1$s %2$s"</string>
   <string name="sms_tip">Authentication fails, check whether the antivirus software to intercept SMS</string>

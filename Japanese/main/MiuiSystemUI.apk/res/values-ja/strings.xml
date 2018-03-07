@@ -291,7 +291,7 @@
   <string name="ext_media_badremoval_notification_title">予期せずにSDカードが取り出されました。</string>
   <string name="ext_media_checking_notification_message">エラーのチェック中です…</string>
   <string name="ext_media_checking_notification_title">SDカードの準備中です</string>
-  <string name="ext_media_mountable_notification_message">Mi File Explorerで開くにはタップ。</string>
+  <string name="ext_media_mountable_notification_message">File Explorerで開くにはタップ。</string>
   <string name="ext_media_mountable_notification_title">USBストレージ接続</string>
   <string name="ext_media_nofs_notification_message">空または未サポートのファイルシステムを持つSDカードです。</string>
   <string name="ext_media_nofs_notification_title">空のSDカード</string>
@@ -336,8 +336,8 @@
   <string name="hour_minute_time_format">HH:mm</string>
   <string name="how_to_back_home">ホーム画面に戻る</string>
   <string name="how_to_switch_recents">タスク履歴を開く</string>
-  <string name="how_to_use_drawer">アプリのスライド機能の使い方</string>
-  <string name="how_to_use_drawer_summary">左上からスワイプする</string>
+  <string name="how_to_use_drawer">スライドメニューを開く方法</string>
+  <string name="how_to_use_drawer_summary">画面の上部で右にスワイプする</string>
   <string name="how_to_use_fsg">ジェスチャーを使用してこれらのアクションを実行できます:</string>
   <string name="immediately_destroy_activities">アクティビティを保持しない</string>
   <string name="immediately_destroy_activities_summary">ユーザーが離れたアクティビティを直ちに破棄する</string>
@@ -511,6 +511,7 @@
   <string name="quick_settings_wifi_detail_empty_text">利用可能なWi-Fiネットワークがありません</string>
   <string name="quick_settings_wifi_label">Wi-Fi</string>
   <string name="quick_settings_wifi_nearby">近くのネットワークを選択してください</string>
+  <string name="recent_cannot_dock">Second spaceでは分割画面に切り替えることができません</string>
   <string name="recent_dock_tip">タップしてアプリを選択</string>
   <string name="recent_task_app_info_text">情報</string>
   <string name="recent_task_cleaning">タスクを消去しています…</string>
