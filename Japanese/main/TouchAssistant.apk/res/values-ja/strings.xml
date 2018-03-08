@@ -36,8 +36,8 @@
   <string name="name_trans_cards">"交通カード"</string>
   <string name="name_wechat_payment_code">WeChat payment</string>
   <string name="name_wechat_scan">WeChat scanner</string>
-  <string name="nfc_all_mipay_card_not_in_use">"Mi Pay isn't activated"</string>
-  <string name="nfc_trans_card_not_in_use">"Transport card isn't activated"</string>
+  <string name="nfc_all_mipay_card_not_in_use">"Mi Payはオフになっています"</string>
+  <string name="nfc_trans_card_not_in_use">"交通カードはオフになっています"</string>
   <string name="not_working">%s (Not working)</string>
   <string name="open">"オンにする"</string>
   <string name="open_panel">"Quick ballを開く"</string>

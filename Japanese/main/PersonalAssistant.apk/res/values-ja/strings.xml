@@ -160,14 +160,14 @@
   <string name="alipay_keyboard">Alipayセキュリティキーボード</string>
   <string name="alipay_language_switch">言語</string>
   <string name="alipay_loggining">ログイン中…</string>
-  <string name="alipay_login">登录</string>
+  <string name="alipay_login">ログイン</string>
   <string name="alipay_loginImmediate">立即登录</string>
   <string name="alipay_loginProblems">遇到问题?</string>
   <string name="alipay_login_cancel">キャンセル</string>
   <string name="alipay_login_error">人气大爆发，一会接待您</string>
   <string name="alipay_login_query_pwd_tip">请为您的账号 %s 设置登录密码，方便以后快速登录支付宝。</string>
-  <string name="alipay_login_rds_suspect">登录失败，请重新登录</string>
-  <string name="alipay_logout_current_account">退出登录</string>
+  <string name="alipay_login_rds_suspect">ログインに失敗しました。再試行してください。</string>
+  <string name="alipay_logout_current_account">ログアウト</string>
   <string name="alipay_logoutting">ログアウト中…</string>
   <string name="alipay_more">その他</string>
   <string name="alipay_msp_bl_bt_shutdown">蓝牙未开启，无法使用智能免密功能</string>
@@ -183,9 +183,9 @@
   <string name="alipay_pre_router_has_auth_account">用已授权账号</string>
   <string name="alipay_processing">読み込み中</string>
   <string name="alipay_protocol">服务协议</string>
-  <string name="alipay_pwd_input_dialog_disc">说明</string>
-  <string name="alipay_pwd_input_dialog_titile">标题</string>
-  <string name="alipay_redo">重试</string>
+  <string name="alipay_pwd_input_dialog_disc">説明</string>
+  <string name="alipay_pwd_input_dialog_titile">タイトル</string>
+  <string name="alipay_redo">再試行</string>
   <string name="alipay_reg_exist_title">已被以下用户使用，请确认是否是你本人</string>
   <string name="alipay_reg_get_lucky_money">领红包</string>
   <string name="alipay_reg_manual_sms_error">验证码不正确，请重新输入</string>
@@ -805,7 +805,7 @@
   <string name="function_video_music_title">Music &amp; video</string>
   <string name="function_youku_record">Recent videos</string>
   <string name="function_youku_title">Youku</string>
-  <string name="function_zhihu_search">Search</string>
+  <string name="function_zhihu_search">検索</string>
   <string name="function_zhihu_title">Zhihu</string>
   <string name="generate_view_failed">全国人民都来了? 稍候再试试</string>
   <string name="go_to_school">To and from work or school</string>
@@ -893,7 +893,7 @@
   <string name="map_msg_sufix">，详情</string>
   <string name="map_office_didi">Go to work</string>
   <string name="map_office_way">Way to the office</string>
-  <string name="map_subway_card">Transport card</string>
+  <string name="map_subway_card">交通カード</string>
   <string name="map_suggestion_desc">Add your frequent destinations to get traffic suggestions before your trips.</string>
   <string name="map_suggestion_negative">後で</string>
   <string name="map_suggestion_positive">追加</string>
@@ -985,7 +985,7 @@
   <string name="mini_phone_no">手机号</string>
   <string name="mini_phone_no_hint">银行预留手机号码</string>
   <string name="mini_quickpay_protocol">《服务协议》</string>
-  <string name="mini_redo">重试</string>
+  <string name="mini_redo">再試行</string>
   <string name="mini_safe_no">安全码</string>
   <string name="mini_safe_no_hint">卡背面末三位数字</string>
   <string name="mini_start_download">开始下载...</string>
@@ -1425,7 +1425,7 @@
   <string name="train_T">T train</string>
   <string name="train_Z">Z train</string>
   <string name="train_normal">Regular train</string>
-  <string name="trans_card">Transport card</string>
+  <string name="trans_card">交通カード</string>
   <string name="transit_subway">Public transport</string>
   <string name="trip_assistant_all_btn">All trips</string>
   <string name="trip_profession">Premium car</string>
