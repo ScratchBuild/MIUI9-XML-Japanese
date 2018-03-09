@@ -24,6 +24,7 @@
   <string name="deleting_message">"削除中…"</string>
   <string name="details">"詳細"</string>
   <string name="dialog_content_storage_full">"端末のストレージに十分な空き領域がないため、録音を停止しました。"</string>
+  <string name="dialog_privacy_revoke_tips">"権限を取り消すとアプリはデータの収集を停止し、すべての関連データがサーバーから削除されます。これによりアプリは事実上使用できなくなる可能性があります。アカウントのセキュリティを確保するには、Mi Cloudサービスの権限を取り消す前に i.mi.com にログインしてください。"</string>
   <string name="dialog_title_storage_full">"十分な空き領域がありません"</string>
   <string name="duration_format_hour">"%s時間"</string>
   <string name="duration_format_minute">"%s分"</string>

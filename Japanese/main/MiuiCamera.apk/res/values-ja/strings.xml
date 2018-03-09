@@ -21,6 +21,7 @@
   <string name="accessibility_video_module_picker">VideoModulePicker</string>
   <string name="accessibility_video_pause_button">VideoPauseButton</string>
   <string name="accessibility_zoom_button">Zoom mode</string>
+  <string name="ai_scene_mode_use_hint_text">"\"AIシーン撮影\"を有効にすると、写真の撮影シーンに基づいて画像を最適化します"</string>
   <string name="audio_focus_exit_button_text">"音声フォーカスをオフにする"</string>
   <string name="beauty_fragment_tab_name_beauty">Beauty</string>
   <string name="beauty_fragment_tab_name_makeup">Advanced</string>
@@ -169,7 +170,7 @@ and brings out the people in the front."</string>
   <string name="pref_burst_shoot_title">"連続撮影"</string>
   <string name="pref_camcorder_settings">"ビデオ"</string>
   <string name="pref_camcorder_settings_category">"カメラ設定"</string>
-  <string name="pref_camera_ai_scene_title">"AIシーン"</string>
+  <string name="pref_camera_ai_scene_title">"AIカメラ"</string>
   <string name="pref_camera_antibanding_entry_0">"オフ"</string>
   <string name="pref_camera_antibanding_entry_1">50 Hz</string>
   <string name="pref_camera_antibanding_entry_2">60 Hz</string>
@@ -234,8 +235,8 @@ and brings out the people in the front."</string>
   <string name="pref_camera_focusmode_entry_manual">"手動"</string>
   <string name="pref_camera_focusmode_entry_normal">"標準"</string>
   <string name="pref_camera_focusmode_title">"フォーカスモード"</string>
-  <string name="pref_camera_front_ai_scene_entry_off">AI scene is off</string>
-  <string name="pref_camera_front_ai_scene_entry_on">AI scene</string>
+  <string name="pref_camera_front_ai_scene_entry_off">AI camera is off</string>
+  <string name="pref_camera_front_ai_scene_entry_on">AI camera</string>
   <string name="pref_camera_gradienter_title">Straighten</string>
   <string name="pref_camera_groupshot_mode_title">Group selfie</string>
   <string name="pref_camera_hand_night_title">HHT</string>
