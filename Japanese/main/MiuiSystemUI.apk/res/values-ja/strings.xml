@@ -486,7 +486,6 @@
   <string name="power_discharging_duration_short">%1$s - %2$s（残り時間）</string>
   <string name="power_remaining_duration_only">あと約 %1$s</string>
   <string name="power_remaining_duration_only_short">%1$s（残り時間）</string>
-  <string name="process_kernel_label">Android OS</string>
   <string name="quick_settings_bluetooth_detail_empty_text">ペアリング可能なデバイスがありません</string>
   <string name="quick_settings_bluetooth_label">Bluetooth</string>
   <string name="quick_settings_connect_success">接続</string>

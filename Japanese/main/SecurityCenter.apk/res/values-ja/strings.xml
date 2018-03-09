@@ -1468,7 +1468,6 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
 
 While calibrating, MIUI will send a text message to your carrier to receive the calibration template."</string>
   <string name="privacy_prompt_upload">"アップロード"</string>
-  <string name="process_kernel_label">Android</string>
   <string name="process_mediaserver_label">"メディアサーバー"</string>
   <string name="promotion">Ad</string>
   <string name="prompt_all">Ask for all</string>

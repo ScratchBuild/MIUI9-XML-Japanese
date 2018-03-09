@@ -2987,7 +2987,6 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="private_sms_recording_intro_header">ロック解除パターンを入力:</string>
   <string name="private_sms_reset_by_account">パスワードをリセットするには、Miアカウントにログインしてください</string>
   <string name="process_dex2oat_label">アプリの最適化</string>
-  <string name="process_kernel_label">Android OS</string>
   <string name="process_mediaserver_label">メディアサーバー</string>
   <string name="process_provider_in_use_description">%1$sプロバイダは使用中です。</string>
   <string name="process_service_in_use_description">サービス%1$sは使用中です。</string>

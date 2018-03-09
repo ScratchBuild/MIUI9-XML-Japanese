@@ -87,7 +87,6 @@ The object shouldn't be further than 2 meters."</string>
   <string name="edit_face_slender">Slender</string>
   <string name="edit_skin_smooth">Smooth</string>
   <string name="edit_skin_white">Tone</string>
-  <string name="empty">" "</string>
   <string name="error_fail_to_start_audio_capture">"録音を開始できませんでした"</string>
   <string name="face_age_info">"年齢: %d"</string>
   <string name="face_analyze_info">"年齢: %2$s (%1$s)"</string>

@@ -546,7 +546,6 @@ To avoid frequent queries, we update balance info once a day."</string>
   <string name="keep_local">"ローカルに保存"</string>
   <string name="keep_local_btn">"端末の内部ストレージを使用"</string>
   <string name="label_custom_type">"カスタム"</string>
-  <string name="label_duplicate_count">(%1$d)</string>
   <string name="label_no_duplicate_contacts">"重複は見つかりませんでした"</string>
   <string name="label_notes">"メモ"</string>
   <string name="label_sip_address">IP通話</string>
@@ -784,7 +783,7 @@ To add a contact to your list of favorites:
   <string name="path_contacts_recovery">システムアプリ/連絡先/Recover contacts</string>
   <string name="path_contacts_setting">システムアプリ/連絡先</string>
   <string name="path_display_only_phones">システムアプリ/連絡先/Display preferences/Hide incomplete numbers</string>
-  <string name="path_display_sim_contacts">システムアプリ/連絡先/Display preferences/Show SIM contacts</string>
+  <string name="path_display_sim_contacts">システムアプリ/連絡先/Display preferences/SIMの連絡先を表示</string>
   <string name="path_export_to_sdcard">システムアプリ/連絡先/インポート/Export contacts/Export from storage</string>
   <string name="path_export_to_sim">システムアプリ/連絡先/インポート/Export contacts/Export from SIM card</string>
   <string name="path_import_export">システムアプリ/連絡先/インポート/Export contacts</string>
@@ -796,8 +795,8 @@ To add a contact to your list of favorites:
   <string name="path_key_sim_manage">システムアプリ/連絡先/連絡先を整理/SIMカード</string>
   <string name="path_preference_contacts_filter">システムアプリ/連絡先/Display preferences/連絡先リストの設定</string>
   <string name="path_quick_dial_setting">システムアプリ/Phone/高度な設定/クイックダイヤル</string>
-  <string name="path_remove_duplicate">システムアプリ/連絡先/連絡先を整理/Merge duplicate contacts</string>
-  <string name="path_share_visible_contacts">システムアプリ/連絡先/インポート/Export contacts/Share contacts</string>
+  <string name="path_remove_duplicate">システムアプリ/連絡先/連絡先を整理/重複する連絡先を統合</string>
+  <string name="path_share_visible_contacts">システムアプリ/連絡先/インポート/Export contacts/連絡先を共有</string>
   <string name="path_sim_capacity">システムアプリ/連絡先/SIM card storage</string>
   <string name="path_simple_mode">システムアプリ/連絡先/Display photos and info</string>
   <string name="path_smart_group_title">システムアプリ/連絡先/Display preferences/Smart groups</string>
@@ -805,7 +804,6 @@ To add a contact to your list of favorites:
   <string name="payphone">公衆電話</string>
   <string name="people">連絡先</string>
   <string name="phoneLabelsGroup">"電話"</string>
-  <string name="phone_info_divider">" ｜ "</string>
   <string name="phone_number_too_long_toast">"番号が長すぎます"</string>
   <string name="phone_primary">Primary</string>
   <string name="photoPickerNotFoundText">"端末内に写真がありません。"</string>
@@ -1004,7 +1002,7 @@ To add a contact to your list of favorites:
   <string name="set_data_package">"初めにデータプランを設定"</string>
   <string name="set_photo_failed_msg">"写真を割り当てることができませんでした"</string>
   <string name="share_error">"この連絡先は共有することができません"</string>
-  <string name="share_over_limit">"Can't share over 1000 contacts"</string>
+  <string name="share_over_limit">"1,000件以上の連絡先を共有できません"</string>
   <string name="share_via">"連絡先の共有ツール"</string>
   <string name="share_visible_contacts">"連絡先を共有"</string>
   <string name="shortcutActivityTitle">"連絡先ショートカットを選択"</string>

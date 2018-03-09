@@ -240,7 +240,6 @@
   <string name="power_discharging_duration_short">%1$s - %2$s（残り時間）</string>
   <string name="power_remaining_duration_only">あと約 %1$s</string>
   <string name="power_remaining_duration_only_short">%1$s（残り時間）</string>
-  <string name="process_kernel_label">Android OS</string>
   <string name="remaining_length_format">あと %1$s</string>
   <string name="remove">削除</string>
   <string name="remove_contact">%1$s を緊急連絡先から削除しますか？</string>

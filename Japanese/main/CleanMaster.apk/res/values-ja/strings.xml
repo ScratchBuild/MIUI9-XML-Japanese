@@ -178,7 +178,6 @@
   <string name="dialog_title_uninstall_apps">"アンインストール"</string>
   <string name="download">"ダウンロード"</string>
   <string name="downloading">"ダウンロード中"</string>
-  <string name="empty">" "</string>
   <string name="empty_content_no_ignore_image">Empty</string>
   <string name="empty_content_no_privacy">Empty</string>
   <string name="empty_content_no_similar_image">No photos</string>
@@ -221,7 +220,6 @@
   <string name="hints_garbage_cleanup_result_safe">Everything looks good</string>
   <string name="hints_garbage_handle_item_content">%1$d items, %2$s</string>
   <string name="hints_garbage_handle_item_empty_content">Empty</string>
-  <string name="hints_header_left">%d</string>
   <string name="hints_installed_app_fewer">"最近使用していない"</string>
   <string name="hints_installed_app_near">"最近使用された"</string>
   <string name="hints_installed_app_never">Never used</string>
