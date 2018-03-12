@@ -831,6 +831,8 @@
   <string name="carrier_enabled">APNの有効/無効</string>
   <string name="carrier_enabled_summaryOff">APNは無効です</string>
   <string name="carrier_enabled_summaryOn">APNは有効です</string>
+  <string name="carrier_show_in_lock_screen">ロック画面にのみ表示</string>
+  <string name="carrier_show_none">キャリア名を表示しない</string>
   <string name="category_personal">個人用</string>
   <string name="category_work">仕事用</string>
   <string name="cdma_security_settings_summary">現在地、画面のロック解除、認証情報ストレージのロックを設定します</string>
@@ -2319,6 +2321,8 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="memory_settings_title">メモリ</string>
   <string name="memory_size">合計容量</string>
   <string name="memory_summary">平均メモリ使用量: %1$s/%2$s</string>
+  <string name="memory_system_rom">システムストレージ</string>
+  <string name="memory_system_space">システムストレージ</string>
   <string name="memory_title">空き容量: %1$s\u0009\u0009合計容量: %2$s</string>
   <string name="memory_usage">メモリ使用量</string>
   <string name="memory_usage_apps">アプリのメモリ使用状況</string>
@@ -4368,7 +4372,7 @@ Android端末をUSBケーブルでコンピューターにつなぐことで、�
   <string name="untitled_apn">無題</string>
   <string name="update_new_version">更新が利用可能</string>
   <string name="update_progress_for_updates">アップデート中... (%s)</string>
-  <string name="upload_debug_log_summary">診断データには、ハードウェア、オペレーティングシステムやアプリケーションの使用状況に関する情報が含まれます。これらのデータはシステム内の問題を特定、分析するために使用され、個人を識別するために使用されることはありません。</string>
+  <string name="upload_debug_log_summary">問題の特定や解決に役立つ使用状況の統計には、ユーザーの個人情報が含まれる場合があります。</string>
   <string name="upload_debug_log_title">診断データを自動的に送信する</string>
   <string name="usage">使用量</string>
   <string name="usage_access">使用状況へのアクセス</string>
@@ -4517,7 +4521,7 @@ Android端末をUSBケーブルでコンピューターにつなぐことで、�
   <string name="user_exit_guest_dialog_remove">削除</string>
   <string name="user_exit_guest_title">ゲストを削除</string>
   <string name="user_experience_program">ユーザーエクスペリエンスプログラム</string>
-  <string name="user_experience_program_summary">匿名の使用統計情報を送信してMIUIの改善に協力する</string>
+  <string name="user_experience_program_summary">使用統計情報を共有して、製品とサービスの改善に協力する</string>
   <string name="user_experience_program_title">ユーザーエクスペリエンスプログラム</string>
   <string name="user_guest">ゲスト</string>
   <string name="user_image_choose_photo">ギャラリーから画像を選ぶ</string>

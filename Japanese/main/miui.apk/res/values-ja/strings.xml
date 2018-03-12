@@ -246,6 +246,7 @@
   <string name="tuesday_short">"火"</string>
   <string name="tuesday_shortest">T</string>
   <string name="user_agreement">"利用規約"</string>
+  <string name="user_experience_program">"ユーザーエクスペリエンスプログラム"</string>
   <string name="user_manual">"ユーザーガイド"</string>
   <string name="web_sso_login_fail">"もう一度ログインする必要があります"</string>
   <string name="web_sso_login_message">"ログイン中…"</string>

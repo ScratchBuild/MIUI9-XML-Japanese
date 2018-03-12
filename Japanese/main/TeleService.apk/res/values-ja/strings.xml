@@ -245,6 +245,7 @@
   <string name="close">オフにする</string>
   <string name="close_dialog">OK</string>
   <string name="close_profile">閉じる</string>
+  <string name="close_volte">VoLTEをオフにする</string>
   <string name="cloud_antispam_title">不明な番号を識別</string>
   <string name="cmcc_ut_data_enable_prompt">このサービスはモバイルデータ接続が必要です。続けるにはモバイルデータ接続をOnにしてください。</string>
   <string name="command_error_fdn_failure">最初にFDN（発信先固定）をOffにしてください。</string>
@@ -794,6 +795,7 @@
   <string name="pin_progress_set_icc_lock">ICCのロック状態を設定中...</string>
   <string name="pin_progress_unlock_icc">SIMカードのロックを解除中...</string>
   <string name="port_title">ポート番号</string>
+  <string name="prefered_network_type_3g_promp">優先ネットワークタイプとして3Gを選択する前に、VoLTEをオフにする必要があります。今すぐオフにしますか？</string>
   <string name="preference_auto_ip_summary_disable">オフ</string>
   <string name="preference_category_ringtone">着信音とバイブレーション</string>
   <string name="preference_data_usage_summary">"データプランを設定して使用量を管理する"</string>
@@ -880,6 +882,7 @@
   <string name="progress_dialog_exiting_ecm">緊急通報待機モードを終了中</string>
   <string name="prompt_to_turnoff_volte_when_failed">VoLTEサービスは利用できません。電話をかけるにはVoLTEをオフにしてください。</string>
   <string name="prompt_to_turnoff_volte_when_supp_service">サービスは利用できません。[設定]からVoLTEをオフにしてください。</string>
+  <string name="prompt_when_turnon_volte_on_3g_prefered">VoLTEをオンにする前に、優先ネットワークタイプとしてLTEを選択してください。</string>
   <string name="propmpt_dialog_do_not_ask">二度と表示しない</string>
   <string name="propmpt_dialog_network_failed_title">通話がタイムアウトしました</string>
   <string name="propmpt_dialog_no_call_back_content">Its taking too long to connect. Switching to regular call for which you might be charged by the carrier.</string>
