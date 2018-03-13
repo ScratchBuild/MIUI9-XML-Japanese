@@ -134,7 +134,6 @@
   <string name="app_manager_app_info_label">"アプリ情報"</string>
   <string name="app_manager_app_info_name">"アプリ名"</string>
   <string name="app_manager_app_info_pkg">"パッケージ名"</string>
-  <string name="app_manager_app_lock">"アプリロック"</string>
   <string name="app_manager_app_power">"バッテリー使用量: "</string>
   <string name="app_manager_app_storage">"ストレージ: "</string>
   <string name="app_manager_app_traffic">"データ使用量: "</string>
@@ -196,7 +195,6 @@
   <string name="app_manager_net_mobile">"モバイルデータ"</string>
   <string name="app_manager_net_wifi">Wi-Fi</string>
   <string name="app_manager_not_allow">"いいえ"</string>
-  <string name="app_manager_not_support_uninstall">"これらのアプリをアンインストールできません"</string>
   <string name="app_manager_notify_bar">"バッジ"</string>
   <string name="app_manager_notify_floating">"フローティング通知"</string>
   <string name="app_manager_notify_keyguard">"ロック画面"</string>
@@ -228,10 +226,10 @@
   <string name="app_manager_show_all_apps_opened">"すべてのアプリからの結果を表示しています…"</string>
   <string name="app_manager_show_detail_infos">"すべて表示"</string>
   <string name="app_manager_start_by">Started by %s</string>
-  <string name="app_manager_support_uninstall">"これらのアプリをアンインストールできます"</string>
   <string name="app_manager_system_mobile_disable">Turn off data</string>
   <string name="app_manager_title">"アプリを管理"</string>
   <string name="app_manager_total_size">"合計"</string>
+  <string name="app_manager_uninstall">"アンインストール"</string>
   <string name="app_manager_uninstall_protected_dlg_msg">"システムアプリをアンインストールすると、一部のMIUIコンポーネントが正常に動作しなくなる可能性があります。 とにかくアンインストールしますか？"</string>
   <string name="app_manager_uninstall_protected_dlg_title">"システムアプリをアンインストール"</string>
   <string name="app_manager_uninstall_with_xspace_app_dlg_msg">"対応するデュアルアプリはアプリのデータと一緒に削除されます。"</string>

@@ -60,7 +60,6 @@
         <item>"使用頻度"</item>
         <item>"ストレージ使用"</item>
         <item>Installation time</item>
-        <item>"アンインストール可能なアプリ"</item>
     </string-array>
     <string-array name="sort_title">
         <item>"状態順"</item>
@@ -68,7 +67,6 @@
         <item>"使用頻度順"</item>
         <item>"ストレージ使用順"</item>
         <item>"インストール時間順"</item>
-        <item>"アンインストール可能なアプリを先頭に表示"</item>
     </string-array>
     <string-array name="title_app_info">
         <item>Installation source</item>

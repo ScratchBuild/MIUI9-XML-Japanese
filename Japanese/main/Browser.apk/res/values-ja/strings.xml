@@ -322,6 +322,7 @@
   <string name="go_supermarket_title">More apps, faster speed, and less data usage in App Store</string>
   <string name="gold_medals">"金メダル"</string>
   <string name="google_bookmarks">Google</string>
+  <string name="green_kid_block_request">"ウェブサイトへの訪問が保護者によって制限されています。"</string>
   <string name="have_sent_bookmark_to_home_screen">"ホーム画面に設置しました"</string>
   <string name="hint">"ヒント"</string>
   <string name="history">"履歴"</string>
@@ -1190,6 +1191,9 @@ Browser needs to connect to the internet to work normally. You must agree to our
   <string name="voice_connect_network">"ネットワークに接続できません"</string>
   <string name="voice_description">"音声検索"</string>
   <string name="voice_network_connection">"音声検索が正常に動作するには、インターネットへの接続が必要です。"</string>
+  <string name="voice_open_permission_baidu">Please go to Settings turn on voice permissions for Speech Recognition Settings</string>
+  <string name="voice_open_permission_xiaoai">Please go to Settings turn on voice permissions for Xiaoai Voice Engine</string>
+  <string name="voice_open_permission_xunfei">Please go to Settings turn on voice permissions for Voice Settings</string>
   <string name="voice_search_permission">"音声検索が正常に動作するには、マイクへのアクセスが必要です。"</string>
   <string name="voice_semantic_analysis">Browser will be able to analyze semantics after you allow it to connect.</string>
   <string name="voice_start_description">"開始"</string>
