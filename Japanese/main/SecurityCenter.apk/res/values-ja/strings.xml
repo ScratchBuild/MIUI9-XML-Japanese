@@ -764,11 +764,24 @@
   <string name="gateway_exception_summary">"ルーターを確認してもう一度お試しください。"</string>
   <string name="gateway_exception_summary2">"サーバーに接続できませんでした"</string>
   <string name="gateway_exception_title">"ルーターのテスト"</string>
-  <string name="gb_new_feature">New feature</string>
-  <string name="gdpr_msg">&lt;Data&gt;"In order to use the basic features of Security, you must agree that Xiaomi will collect, process, and use your personal data, including information about the ways you use Security's features (e.g., mobile data usage stats, info about malware, as well as basic info about your device) and other types of information specified in our &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Privacy Policy&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
   <string name="gb_description_image_button_answer">"応答"</string>
   <string name="gb_description_image_button_reject">"拒否"</string>
   <string name="gb_description_image_button_video_answer">"ビデオ通話"</string>
+  <string name="gb_get_gift_right_now">"今すぐチェックイン"</string>
+  <string name="gb_have_signed">"今日はチェックイン済み"</string>
+  <string name="gb_network_status_bad">"接続エラーが発生しました。"</string>
+  <string name="gb_new_feature">New feature</string>
+  <string name="gb_sign_gift">"報酬を受け取るにはチェックイン"</string>
+  <string name="gb_sign_gift_button_text">"受け取る"</string>
+  <string name="gb_sign_notification_summary">"毎日チェックインしてXunyou boostを受け取る"</string>
+  <string name="gb_sign_notification_title">Boost network speed for games</string>
+  <string name="gb_signed_gift_loading_fail">"読み込めませんでした"</string>
+  <string name="gb_signed_gift_loading_summary">"読み込み中…"</string>
+  <string name="gb_signed_title">"今月のチェックイン日数"</string>
+  <string name="gb_xunyou_gift_type_one">"Xunyou boost (1日分)"</string>
+  <string name="gb_xunyou_gift_type_three">"Xunyou boost (3日分)"</string>
+  <string name="gb_xunyou_gift_type_two">"Xunyou boost (2日分)"</string>
+  <string name="gdpr_msg">&lt;Data>"In order to use the basic features of Security, you must agree that Xiaomi will collect, process, and use your personal data, including information about the ways you use Security's features (e.g., mobile data usage stats, info about malware, as well as basic info about your device) and other types of information specified in our &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Privacy Policy&amp;lt;/a&amp;gt;."&lt;/Data></string>
   <string name="get_sys_info">"情報を取得中…"</string>
   <string name="gmscore_support_remind">"Gmail、Googleマップ、その他のGoogleアプリの使用に問題が発生した場合は、この機能を有効にしてください。バッテリーの寿命がわずかに短くなります。"</string>
   <string name="gmscore_support_service">"Googleサービス"</string>
@@ -795,8 +808,10 @@
   <string name="gs_game_shortcut">Improve your gaming experience</string>
   <string name="gs_only_self_start_for_list">"バックグラウンドプロセスを制限してゲームのためにバッテリーを節約する"</string>
   <string name="gs_open_game_booster">Boost speed</string>
+  <string name="gs_open_game_booster_summary">Boost network speed for games</string>
   <string name="gs_performance_mode">"パフォーマンスモード"</string>
   <string name="gs_performance_mode_detail">"シームレスなパフォーマンスを確保するためにCPU使用率を向上させる"</string>
+  <string name="gs_sign_notification">"毎日午後8時にチェックインのリマインダーを表示"</string>
   <string name="guide_get_operator_error">"&lt;font color='#33b4ff'>&lt;U>間違ったキャリア？&lt;/U>&lt;/font>"</string>
   <string name="guide_operator_text">"現在のキャリア: "</string>
   <string name="guide_quck_open">"オンにする"</string>
@@ -1602,6 +1617,10 @@ While calibrating, MIUI will send a text message to your carrier to receive the 
   <string name="shutdown_cancel_reminder_detail2">"あなたはゲームをプレイ中のように見えます。予定された電源オフはキャンセルされます。"</string>
   <string name="signal_exception_summary">"この地域ではネットワークに接続できません。"</string>
   <string name="signal_exception_title">"信号強度テスト"</string>
+  <string name="signed_rule">"ルール"</string>
+  <string name="signed_rule_one">"1. 毎月10日間、20日間、28日間チェックインすることで、1日～3日分のXunyou boostを取得することができます。"</string>
+  <string name="signed_rule_three">"3. チェックインした日数は、毎月初めにリセットされます。残りの日は持ち越されません。"</string>
+  <string name="signed_rule_two">"2. 1ヶ月ごとに1回のみXunyou boostを受け取ることができます。"</string>
   <string name="sim_location_diagnostic">Location diagnostics</string>
   <string name="sim_location_error_dialog_message">"The SIM you're using is from %1$s. This is different from the location you set manually (%2$s). Change SIM location to %3$s?"</string>
   <string name="sim_location_error_notify_message">Tap to change SIM location.</string>
