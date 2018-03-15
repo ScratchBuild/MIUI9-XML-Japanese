@@ -3,7 +3,7 @@
   <string name="about_hide_mode">"バッテリーセーバーについて"</string>
   <string name="app_list_title">"アプリを選択"</string>
   <string name="app_name">"電池とパフォーマンス"</string>
-  <string name="base_info">Base info</string>
+  <string name="base_info">"基本情報"</string>
   <string name="cloud_addr_info">Cloud info</string>
   <string name="cloud_china_addr">Update Chinese server data</string>
   <string name="cloud_international_addr">Update international server data</string>

@@ -804,7 +804,7 @@
   <string name="guide_wait_setting">"後で"</string>
   <string name="handle_bar_summary_wifi_unknown">"不明"</string>
   <string name="handle_bar_title_system">"システム"</string>
-  <string name="handle_title_network">Wi-Fi Security</string>
+  <string name="handle_title_network">"Wi-Fiセキュリティ"</string>
   <string name="handle_title_pay_env">"支払い環境"</string>
   <string name="handle_title_privacy">"プライバシーとセキュリティ"</string>
   <string name="hide_mode_app_background_setting_text">App battery saver</string>
@@ -966,7 +966,7 @@ Carrier may charge you additional fees if you use mobile data connection again."
   <string name="main_today_used">Used today</string>
   <string name="main_toolbar_firewall">"データ使用量の制限"</string>
   <string name="main_toolbar_internet_by_mobiledata">"モバイルデータ"</string>
-  <string name="main_toolbar_internet_by_pc_brige">USB internet</string>
+  <string name="main_toolbar_internet_by_pc_brige">"USBテザリング"</string>
   <string name="main_toolbar_internet_by_wifi">"Wi-Fi"</string>
   <string name="main_toolbar_purchase">"チャージ"</string>
   <string name="main_toolbar_statistic">Data usage stats</string>

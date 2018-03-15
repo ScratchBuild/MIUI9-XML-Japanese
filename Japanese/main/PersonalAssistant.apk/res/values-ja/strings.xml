@@ -284,7 +284,6 @@
   <string name="ball_football_recent_end">Finished</string>
   <string name="ball_football_recent_end_tip">Results</string>
   <string name="ball_football_recent_ing">In progress</string>
-  <string name="ball_football_recent_middle">:</string>
   <string name="ball_football_recent_text_show">Text commentary</string>
   <string name="ball_football_title">Football</string>
   <string name="ball_football_total_rank">Stats</string>
@@ -675,7 +674,7 @@
   <string name="fav_category_shopping">Shopping</string>
   <string name="fav_category_video">Videos</string>
   <string name="fav_detail_nodata">情報が見つかりませんでした</string>
-  <string name="fav_download">Download and install this app?</string>
+  <string name="fav_download">このアプリをダウンロードしてインストールしますか？</string>
   <string name="fav_init_guide_title">お気に入りについて</string>
   <string name="fav_label">お気に入り</string>
   <string name="fav_more">すべてのお気に入り</string>
@@ -813,7 +812,7 @@
   <string name="greeting_setting_brief">Get weather info and reminders about scheduled events, alarms, and birthdays every morning and evening</string>
   <string name="greeting_setting_brief_notice">You can change the city in the Weather app</string>
   <string name="greeting_weather_desc">%1$s %2$s %3$s %4$s</string>
-  <string name="greeting_weather_desc_from_to">%1$s to %2$s</string>
+  <string name="greeting_weather_desc_from_to">%1$s のち %2$s</string>
   <string name="greeting_weather_prefix_moring">今日</string>
   <string name="greeting_weather_prefix_night">明日</string>
   <string name="greeting_weather_prefix_saturday">土曜</string>
