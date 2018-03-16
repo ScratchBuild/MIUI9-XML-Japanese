@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="remove_numbers_confirm">
-        <item quantity="other">%d件の番号が削除されます。</item>
-        <item quantity="one">%d件の番号が削除されます。</item>
-    </plurals>
     <plurals name="phone_in_ecm_notification_time">
         <item quantity="other">%s分間データ接続できません</item>
         <item quantity="one">%s分間データ接続できません</item>
