@@ -444,8 +444,10 @@
   <string name="no_application">なし</string>
   <string name="no_multi_window_app">分割画面をサポートするアプリはありません</string>
   <string name="no_notification_tips">通知はありません。</string>
+  <string name="no_sim_card">SIMカードなし</string>
   <string name="no_weather_description">天気情報を取得する ></string>
   <string name="not_support_multi_window">現在のアプリは分割画面をサポートしていません</string>
+  <string name="notch_status_bar_date_format_12">M月d日 EEEE</string>
   <string name="notification_header_title">通知</string>
   <string name="notification_hidden_text">新着メッセージがあります</string>
   <string name="notification_low_battery_action_btn">オンにする</string>
@@ -489,6 +491,12 @@
   <string name="power_discharging_duration_short">%1$s - %2$s（残り時間）</string>
   <string name="power_remaining_duration_only">あと約 %1$s</string>
   <string name="power_remaining_duration_only_short">%1$s（残り時間）</string>
+  <string name="prompt_danger">危険</string>
+  <string name="prompt_detecting">検出中</string>
+  <string name="prompt_failure">故障</string>
+  <string name="prompt_return_to_split">分割</string>
+  <string name="prompt_safe">安全</string>
+  <string name="prompt_unknown">不明</string>
   <string name="quick_settings_bluetooth_detail_empty_text">ペアリング可能なデバイスがありません</string>
   <string name="quick_settings_bluetooth_label">Bluetooth</string>
   <string name="quick_settings_connect_success">接続</string>

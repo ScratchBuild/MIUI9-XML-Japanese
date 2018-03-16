@@ -180,6 +180,10 @@
         <item quantity="other">"%d件の権限を付与"</item>
         <item quantity="one">"%d件の権限を付与"</item>
     </plurals>
+    <plurals name="print_jobs_summary">
+        <item quantity="other">%d 個の印刷ジョブ</item>
+        <item quantity="one">1 個の印刷ジョブ</item>
+    </plurals>
     <plurals name="print_settings_summary">
         <item quantity="other">%1$d 件の印刷サービスが ON です</item>
         <item quantity="one">1 件の印刷サービスが ON です</item>

@@ -1850,6 +1850,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="key_gesture_function_preview">ボタンとジェスチャーのプレビュー</string>
   <string name="key_gesture_function_shortcut">ショートカットの機能</string>
   <string name="key_none">なし</string>
+  <string name="key_operation_diagram">操作図</string>
   <string name="key_position_cat">ボタンの配置</string>
   <string name="key_settings">ボタンとジェスチャーのショートカット</string>
   <string name="key_settings_title">ボタンとジェスチャーのショートカット</string>
@@ -2546,7 +2547,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="nfc_how_it_works_got_it">OK</string>
   <string name="nfc_how_it_works_title">端末機器でのお支払い</string>
   <string name="nfc_more_title">その他...</string>
-  <string name="nfc_payment_favor_open">別の決済アプリが起動されている場合を除く</string>
+  <string name="nfc_payment_favor_open">別の決済アプリが起動されている場合はデフォルトアプリを置換える</string>
   <string name="nfc_payment_how_it_works">仕組み</string>
   <string name="nfc_payment_no_apps">店舗でスマートフォンを使用して決済</string>
   <string name="nfc_payment_pay_with">タップ＆ペイ端末で使用するアプリ:</string>
