@@ -3021,6 +3021,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="profiles_settings_title">システムプロファイル</string>
   <string name="progress_scanning">検索中</string>
   <string name="provider_label">プッシュ型登録</string>
+  <string name="provision_activation">有効</string>
   <string name="provision_back">戻る</string>
   <string name="provision_next">次へ</string>
   <string name="provision_page_layout_confirm_message">変更を適用するために再起動する必要があります。約1分かかります。</string>
