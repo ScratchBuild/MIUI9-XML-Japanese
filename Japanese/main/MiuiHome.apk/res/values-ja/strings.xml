@@ -169,13 +169,16 @@
   <string name="invalid_contact_shortcut">"無効な連絡先"</string>
   <string name="is_setting_wallpaper_message">"壁紙を設定中…"</string>
   <string name="is_system_wallpaper_message">"システムリソースは削除できません"</string>
+  <string name="launcher_auto_fill_empty_title">空のセルを埋める</string>
   <string name="launcher_not_exist">"エラーが発生しました、ホーム画面に戻りもう一度やり直してください。"</string>
+  <string name="launcher_title">ホーム画面と履歴</string>
   <string name="like">Favorite</string>
   <string name="liked">Favorited</string>
   <string name="loading_desktop">"読み込み中…"</string>
   <string name="loading_wallpaper">"読み込み中…"</string>
   <string name="local_wallpaper">"ダウンロード済み"</string>
   <string name="lock_screen">"ロック画面"</string>
+  <string name="lock_screen_cells_title">ホーム画面のレイアウトをロック</string>
   <string name="lock_screen_failed_message">"ロック画面の壁紙を設定できません"</string>
   <string name="lock_screen_success_message">"ロック画面に適用しました"</string>
   <string name="lock_screen_wallpaper">"ロック画面の壁紙"</string>
@@ -202,6 +205,7 @@
   <string name="menu_wallpaper">"壁紙"</string>
   <string name="menu_workspace_preview">"ホーム画面をプレビュー"</string>
   <string name="mi_wallpaper">MIUI Theme Store</string>
+  <string name="miui_screen_config_title">ホーム画面の設定</string>
   <string name="mtzgadget_missing_text">"ウィジェットは利用できません"</string>
   <string name="multi_selecting_tips">"アプリのアイコンをここにドラッグ＆ドロップ"</string>
   <string name="no_detail_page">"詳細ページなし"</string>
@@ -210,6 +214,11 @@
   <string name="notification_installed">"正常にインストールされました"</string>
   <string name="notification_open_button">"開く"</string>
   <string name="online_wallpaper">"オンライン"</string>
+  <string name="open_personal_assistant_dialog_btn_cancel">キャンセル</string>
+  <string name="open_personal_assistant_dialog_btn_confirm">オフにする</string>
+  <string name="open_personal_assistant_dialog_desc">App vaultを使用したり、更新を受け取ることができません。今すぐオフにしますか？</string>
+  <string name="open_personal_assistant_dialog_title">App vaultをオフにする</string>
+  <string name="open_personal_assistant_title">App vaultをオンにする</string>
   <string name="out_of_space">"ホーム画面に空きスペースがありません"</string>
   <string name="permdesc_install_shortcut">"ユーザー操作なしでショートカットを追加することをアプリに許可します。"</string>
   <string name="permdesc_install_widget">"ユーザー操作なしでウィジェットを追加することをアプリに許可します。"</string>
@@ -239,6 +248,8 @@
   <string name="pref_wallpaper_scroll_type_title">"壁紙の配置"</string>
   <string name="preferences_general_title">"その他の設定"</string>
   <string name="preferences_title">"ランチャーの設定"</string>
+  <string name="preferred_app_settings_not_selected">選択されていません</string>
+  <string name="recents_config_title">履歴</string>
   <string name="recommend_apps_no_data">"データなし"</string>
   <string name="recommend_apps_notice">おすすめのアプリ</string>
   <string name="recommend_apps_notice_nodata">おすすめのアプリ (データなし)</string>
@@ -246,6 +257,7 @@
   <string name="recommend_apps_tips">"この機能が正常に動作するには、インターネットへの接続が必要です。この機能をオフにするには、フォルダ名をタップします。"</string>
   <string name="recommend_loading">"読み込み中"</string>
   <string name="reset_scene_prompt">"画面はデフォルトのレイアウトにリセットされます。"</string>
+  <string name="screen_cells_config_title">ホーム画面のレイアウト</string>
   <string name="screen_locked_toast">"ホーム画面のレイアウトはロックされています"</string>
   <string name="screen_number">%d screen</string>
   <string name="select_all">"すべて選択"</string>
@@ -257,6 +269,7 @@
   <string name="share">"共有"</string>
   <string name="sharedUserId"/>
   <string name="show_all">"すべて表示"</string>
+  <string name="show_mem_info_title">メモリの状態を表示</string>
   <string name="sort_by_abc">"名前順"</string>
   <string name="sort_by_frequency">"使用順"</string>
   <string name="sort_by_not_defined">"自動整列"</string>

@@ -1182,7 +1182,6 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="debug_networking_category">ネットワーク</string>
   <string name="debug_view_attributes">表示属性検査を有効にする</string>
   <string name="decline_remote_bugreport_action">共有しない</string>
-  <string name="defalut_launcher_title">既定のランチャー</string>
   <string name="default_admin_support_msg">この操作は無効になっています。詳しくは、組織の管理者にお問い合わせください。</string>
   <string name="delete">削除</string>
   <string name="delete_fingerprint_confirm_msg">指紋認証を削除しますか？</string>
@@ -1944,7 +1943,6 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="launch_google_search">Googleアシスタントを起動</string>
   <string name="launch_recents">履歴を起動</string>
   <string name="launch_voice_assistant">音声アシスタントを起動</string>
-  <string name="launcher_auto_fill_empty_title">空のセルを埋める</string>
   <string name="launcher_title">ホーム画面と履歴</string>
   <string name="launching_cit">CITを起動しています</string>
   <string name="launching_pho">端末情報を表示します…</string>
@@ -2056,7 +2054,6 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="lock_profile_wipe_warning_content_pattern">仕事用パターンをあと 1 回間違って入力すると、仕事用プロファイルと関連データはこの端末から削除されます。</string>
   <string name="lock_profile_wipe_warning_content_pin">仕事用 PIN をあと 1 回間違って入力すると、仕事用プロファイルと関連データはこの端末から削除されます。</string>
   <string name="lock_profile_wipe_warning_title">残り 1 回</string>
-  <string name="lock_screen_cells_title">ホーム画面のレイアウトをロック</string>
   <string name="lock_screen_intro_skip_dialog_text">端末保護機能が有効になりません。このスマートフォンの紛失や盗難時に、他人に使用されるのを阻止することはできません。</string>
   <string name="lock_screen_intro_skip_dialog_text_frp">端末保護機能が有効になりません。このスマートフォンの紛失、盗難、データ消去時に、他人に使用されるのを阻止することはできません。</string>
   <string name="lock_screen_notifications_interstitial_message">端末がロックされている場合、通知をどのように表示しますか？</string>
@@ -2378,7 +2375,6 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="miui_lab_slogan">Learn. Explore. Discover.</string>
   <string name="miui_lab_taplus_desc">アイテムを長押ししてアクションをトリガーする</string>
   <string name="miui_lab_taplus_title">起動するアプリ</string>
-  <string name="miui_screen_config_title">ホーム画面の設定</string>
   <string name="miui_updater">システムの更新</string>
   <string name="mms_breathing_light_color_title">メッセージLEDの色</string>
   <string name="mms_breathing_light_freq_title">メッセージLEDを点滅させる</string>
@@ -2681,11 +2677,6 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="open_demo_mode_warning_message">デモモードをオンにすると、ステータスバーの時計が停止し、バッテリーと電波強度のアイコンは100%として表示されます。元に戻すにはデモモードをオフにするか、端末を再起動してください。</string>
   <string name="open_miui_optimization_title">MIUIの最適化をオンにする</string>
   <string name="open_miui_optimization_warning_message">この変更を適用するために端末を再起動します。</string>
-  <string name="open_personal_assistant_dialog_btn_cancel">キャンセル</string>
-  <string name="open_personal_assistant_dialog_btn_confirm">オフにする</string>
-  <string name="open_personal_assistant_dialog_desc">App vaultを使用したり、更新を受け取ることができません。今すぐオフにしますか？</string>
-  <string name="open_personal_assistant_dialog_title">App vaultをオフにする</string>
-  <string name="open_personal_assistant_title">App vaultをオンにする</string>
   <string name="open_sdcard_optimization_title">疑似SDカードの最適化をオンにする</string>
   <string name="open_sdcard_optimization_warning_message">この変更を適用するために端末を再起動します。</string>
   <string name="open_wifi_connect_summary">タップして詳細を表示</string>
@@ -3117,7 +3108,6 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="receiver_clean">空き容量を確保</string>
   <string name="recent_location_requests_summary">位置情報にアクセスを要求しているアプリを表示</string>
   <string name="recent_location_requests_title">位置情報アクセス</string>
-  <string name="recents_config_title">履歴</string>
   <string name="recommend_item_1">スマートフォンケース</string>
   <string name="recommend_item_2">スマートバンド(Mi Band)</string>
   <string name="recommend_item_3">モバイルバッテリー(Power bank)</string>
@@ -3231,7 +3221,6 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="saved_wifi_delete">削除</string>
   <string name="scan_list_label">スキャン結果:</string>
   <string name="screen">画面</string>
-  <string name="screen_cells_config_title">ホーム画面のレイアウト</string>
   <string name="screen_color_and_optimize">色とコントラスト</string>
   <string name="screen_color_and_optimize_disabled">読書モードで色温度の調整はできません</string>
   <string name="screen_color_temperature">色</string>
@@ -3736,7 +3725,6 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="show_ime">仮想キーボードの表示</string>
   <string name="show_ime_summary">物理キーボードが有効になっていても画面に表示されます</string>
   <string name="show_magnifier_when_input">テキスト拡大鏡</string>
-  <string name="show_mem_info_title">メモリの状態を表示</string>
   <string name="show_menu">"メニューを表示"</string>
   <string name="show_non_rect_clip">非矩形クリップ操作をデバッグ</string>
   <string name="show_owner_info_on_lockscreen_label">ロック画面に所有者情報を表示</string>

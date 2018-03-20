@@ -392,7 +392,7 @@
   <string name="long_screenshot_top_msg_manual">完了ボタンをタップしてスクリーン ショットをトリミング</string>
   <string name="low_temperature_button_ok">OK</string>
   <string name="low_temperature_warning_message">端末の温度が低すぎるため、シャットダウンする可能性があります。事前にデータを保存しておいてください。</string>
-  <string name="low_temperature_warning_title">シャットダウン警告</string>
+  <string name="low_temperature_warning_title">低温警告</string>
   <string name="managed_profile_foreground_toast">仕事用プロファイルを使用しています</string>
   <string name="managed_user_title">すべての仕事用アプリ</string>
   <string name="mdb_entering">開始しています…</string>
@@ -491,10 +491,10 @@
   <string name="power_discharging_duration_short">%1$s - %2$s（残り時間）</string>
   <string name="power_remaining_duration_only">あと約 %1$s</string>
   <string name="power_remaining_duration_only_short">%1$s（残り時間）</string>
-  <string name="prompt_danger">危険</string>
+  <string name="prompt_danger">リスク</string>
   <string name="prompt_detecting">検出中</string>
-  <string name="prompt_failure">故障</string>
-  <string name="prompt_return_to_split">分割</string>
+  <string name="prompt_failure">エラー</string>
+  <string name="prompt_return_to_split">分割画面</string>
   <string name="prompt_safe">安全</string>
   <string name="prompt_unknown">不明</string>
   <string name="quick_settings_bluetooth_detail_empty_text">ペアリング可能なデバイスがありません</string>
@@ -521,7 +521,7 @@
   <string name="quick_settings_wifi_detail_empty_text">利用可能なWi-Fiネットワークがありません</string>
   <string name="quick_settings_wifi_label">Wi-Fi</string>
   <string name="quick_settings_wifi_nearby">近くのネットワークを選択してください</string>
-  <string name="recent_cannot_dock">Second spaceでは分割画面に切り替えることができません</string>
+  <string name="recent_cannot_dock">Second spaceでは分割画面を使用できません</string>
   <string name="recent_dock_tip">タップしてアプリを選択</string>
   <string name="recent_task_app_info_text">情報</string>
   <string name="recent_task_cleaning">タスクを消去しています…</string>
