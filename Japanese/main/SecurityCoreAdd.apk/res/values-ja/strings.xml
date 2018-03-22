@@ -7,7 +7,6 @@ Messages will only appear in Second space."</string>
   <string name="PrivacyContactDes2">"If you used private messages in First space,
 this feature will be added to Second space automatically."</string>
   <string name="add_finger_print">"指紋認証を追加"</string>
-  <string name="add_spare_text">"保護中"</string>
   <string name="air_space_created">"Work spaceを作成しました"</string>
   <string name="air_space_deleted">"Work spaceを削除しました"</string>
   <string name="air_space_exit">"spaceを終了"</string>
@@ -16,10 +15,10 @@ this feature will be added to Second space automatically."</string>
   <string name="appData">"インストール済みアプリ"</string>
   <string name="app_name">Security Core Component</string>
   <string name="back">"戻る"</string>
-  <string name="bind_device">"デバイスを関連付ける"</string>
+  <string name="bind_device">"デバイスを追加"</string>
   <string name="can_not_delete_when_calling">"通話中にspaceを削除することはできません"</string>
   <string name="can_not_switch_when_calling">"通話中にspaceを切り替えることはできません"</string>
-  <string name="can_not_switch_when_green_kid_active">"green guardが有効な間はspaceを切り替えることはできません"</string>
+  <string name="can_not_switch_when_green_kid_active">"Second spaceへの切り替えは、ペアレンタルコントロールによって制限されています"</string>
   <string name="cancelClosePassword">"オフにしないでください"</string>
   <string name="cancel_button">"キャンセル"</string>
   <string name="changePassword">"パスワードを変更"</string>
@@ -52,7 +51,6 @@ this feature will be added to Second space automatically."</string>
 to be able to view them anytime"</string>
   <string name="contact_us">"お問い合わせ"</string>
   <string name="continueButton">"続行"</string>
-  <string name="control_and_guarding">"保護の管理"</string>
   <string name="createANewSpace">"お使いの端末に別のスペースを作成します。"</string>
   <string name="createUserFail">"作成できませんでした"</string>
   <string name="create_app_icon_failed">"アイコンを作成できませんでした"</string>
@@ -93,7 +91,7 @@ to be able to view them anytime"</string>
   <string name="err_unknown">"不明なエラー"</string>
   <string name="err_volume_not_enough">"十分な空き領域がありません"</string>
   <string name="exit_private_space">"切り替え"</string>
-  <string name="experience_more_features">"デバイスを関連付けて、より多くの機能を体験"</string>
+  <string name="experience_more_features">"デバイスを追加して、すべての機能を表示する"</string>
   <string name="finger_print_num">"指紋 %d"</string>
   <string name="finger_print_of_use">"指紋認証を使用"</string>
   <string name="fingerprint_number_upper_limit">"失敗したロック解除の試行回数が多すぎます"</string>
@@ -106,10 +104,10 @@ to be able to view them anytime"</string>
   <string name="go_on_import">Keep importing</string>
   <string name="gpg_message">"デュアルアプリを作成するにはGoogle Play ゲームを使用する必要があります。Goolge Play ゲームのデュアルアプリを作成しますか？"</string>
   <string name="gpg_title">"Google Playゲームのデュアルアプリ"</string>
-  <string name="green_guard">"ハニカム"</string>
-  <string name="green_guard_des1">"ワンタップでデバイスを紐付ける、シンプルで簡単な操作"</string>
-  <string name="green_guard_des2">"リアルタイムな現在地を確認し、セキュリティを保護する"</string>
-  <string name="green_guard_des3">"端末のアプリを管理して、使用時間を制限する"</string>
+  <string name="green_guard">"ペアレンタルコントロール"</string>
+  <string name="green_guard_des1">"リモートで管理するデバイスを追加する"</string>
+  <string name="green_guard_des2">"すべての管理するデバイスがどこにあるかを表示する"</string>
+  <string name="green_guard_des3">"インストール済みアプリの管理と、使用を制限する"</string>
   <string name="green_guard_title2">"現在地を表示"</string>
   <string name="green_guard_title3">"アプリの管理"</string>
   <string name="guide_contact_sub_title_desc">"Contacts added to Second space will be private.
@@ -152,6 +150,7 @@ You can also download them separately."</string>
   <string name="msg_switch_photo">Delete these photos in First space after they are moved?</string>
   <string name="needSetKeyguardFirst">"First spaceのパスワードを設定"</string>
   <string name="needSetKeyguardFirstDes">"Second spaceのパスワードを設定する前に、First spaceのパスワードを設定する"</string>
+  <string name="need_network_when_bind">"デバイスを追加する前にネットワークに接続する"</string>
   <string name="need_network_when_create">Connect to the network before creating Work space</string>
   <string name="need_reset_passwd">Reset Work space password before entering Work space</string>
   <string name="need_set_second_space_desc">"Second spaceの指紋認証を追加する前に、Second spaceのパスワードを追加する"</string>
