@@ -356,7 +356,7 @@
   <string name="category_catering">Food</string>
   <string name="category_education">Education</string>
   <string name="category_entertainment">Entertainment</string>
-  <string name="category_go_dutch">Go Dutch</string>
+  <string name="category_go_dutch">割り勘</string>
   <string name="category_life">Life</string>
   <string name="category_medical">Healthcare</string>
   <string name="category_other">その他</string>
@@ -1462,7 +1462,7 @@
   <string name="widget_more">View more</string>
   <string name="widget_no_data">お気に入りはありません。</string>
   <string name="widget_title">Recently added</string>
-  <string name="wx_aa">Go Dutch</string>
+  <string name="wx_aa">割り勘</string>
   <string name="wx_collectioncode">Receive payment</string>
   <string name="wx_name">My card</string>
   <string name="wx_parent">WeChat</string>

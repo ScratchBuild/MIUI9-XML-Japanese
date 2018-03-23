@@ -6,14 +6,13 @@
   <string name="activity_parse_video_title">"動画のリンクを貼り付け"</string>
   <string name="ad_download">"ダウンロード"</string>
   <string name="ad_downloading">"読み込み中…"</string>
-  <string name="add_one">+1</string>
   <string name="add_private">Hide files now</string>
   <string name="add_private_files">"ファイルを追加"</string>
   <string name="album_creator">Created by %s</string>
   <string name="album_name">Daily selection: %s</string>
   <string name="all_topic">"すべてのトピック"</string>
   <string name="already_liked">"You've already starred this item"</string>
-  <string name="apk_installing">正在安装...</string>
+  <string name="apk_installing">"インストール中…"</string>
   <string name="app_name">File Manager</string>
   <string name="app_name_bluetooth">Bluetooth</string>
   <string name="app_name_camera">Camera</string>
@@ -394,7 +393,7 @@
   <string name="no_wifi_hint">No connection</string>
   <string name="not_installed_documentsui">"DocumentsUIがインストールされていません"</string>
   <string name="notif_server_starting">"FTPサーバーを起動中…"</string>
-  <string name="notif_title">"FTP serverFTPサーバーが動作中"</string>
+  <string name="notif_title">"FTPサーバーが動作中"</string>
   <string name="notification_dialog_confirm">OK</string>
   <string name="notification_dialog_content">Automatically notify and organize when files are added or changed in %1$s.</string>
   <string name="notification_dialog_title">"通知"</string>
@@ -693,7 +692,7 @@
   <string name="update_loading">"保存中…"</string>
   <string name="upload_avatar_camera">Camera</string>
   <string name="upload_avatar_failed">"更新できませんでした、もう一度お試しください"</string>
-  <string name="upload_avatar_loading">Uploading…</string>
+  <string name="upload_avatar_loading">"アップロード中…"</string>
   <string name="upload_avatar_local">"ギャラリー"</string>
   <string name="upload_external_action_hint">Paste video link</string>
   <string name="upload_external_notification_failed">"Couldn't publish"</string>
@@ -708,7 +707,7 @@
   <string name="upload_notification_success_content">"Your video should be reviewed before it's shared to other people"</string>
   <string name="upload_notification_title">"動画をアップロード中"</string>
   <string name="upload_popup">Upload videos to win prizes</string>
-  <string name="upload_user_photo">Upload</string>
+  <string name="upload_user_photo">"アップロード"</string>
   <string name="upload_video_failed">"アップロードできませんでした"</string>
   <string name="upload_video_failed_external_progress">"アップロードできませんでした、別のものを試してください"</string>
   <string name="upload_video_failed_progress">"アップロードできませんでした、もう一度お試しください"</string>
@@ -803,9 +802,7 @@
   <string name="video_retry_btn">点击重试</string>
   <string name="video_status_reject">Rejected</string>
   <string name="video_status_review">Being reviewed</string>
-  <string name="video_tag">\# %s #</string>
   <string name="video_tag_search_hint">Customize topic</string>
-  <string name="video_tag_search_lead">\#</string>
   <string name="video_tag_search_title">Select topic</string>
   <string name="video_topic_hint">"ユーザーやトピックを検索"</string>
   <string name="video_upload_btn">"次へ"</string>
