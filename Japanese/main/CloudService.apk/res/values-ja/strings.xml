@@ -349,9 +349,6 @@ To fix this, you can either clean out some old files to make room for new ones, 
   <string name="micloud_manage_space_data">"Mi Cloudデータの管理"</string>
   <string name="micloud_member">Mi Cloud membership</string>
   <string name="micloud_member_advantage">Get more storage space.</string>
-  <string name="micloud_member_buy_content" formatted="false">"Valid until %s-%s-%s
-
-%s Mi Credits"</string>
   <string name="micloud_member_buy_title">注文の確認</string>
   <string name="micloud_member_net_error_alert_message">インターネットに接続していません。</string>
   <string name="micloud_member_net_error_alert_title">ネットワークに接続できません</string>
@@ -445,7 +442,7 @@ To fix this, you can either clean out some old files to make room for new ones, 
   <string name="micloud_warn_low_title">Almost out of space</string>
   <string name="micloud_web_discription_01">Sign in at i.mi.com</string>
   <string name="micloud_web_discription_02">to store and access your files from anywhere</string>
-  <string name="micloud_web_discription_place_holder">Visit %1$s</string>
+  <string name="micloud_web_discription_place_holder">Visit %1$s on your computer to manage your data.</string>
   <string name="micloud_website">Mi Cloud items</string>
   <string name="micloud_wipe_data_confirm_label">"Mi Cloudからデータを削除"</string>
   <string name="micloud_wipe_data_confirm_title">"ログアウトした後、端末からMi Cloudと同期したアイテムを削除しますか？"</string>
@@ -573,10 +570,9 @@ This feature encrypts and sends your device's ID to Mi's servers."</string>
   <string name="upgrade_space_successful">Added %sGB</string>
   <string name="upgrade_space_successful_total">%sGB available</string>
   <string name="user_agreement">"利用規約"</string>
+  <string name="user_agreement_content">"このサービスを利用することで、あなたは %s に同意されたものとみなします。"</string>
+  <string name="user_agreement_link">"Mi Cloud 利用規約"</string>
   <string name="user_agreement_p5">""</string>
-  <string name="user_agreement_p6">"このサービスを利用することで、あなたは "</string>
-  <string name="user_agreement_p7">"Mi Cloud 利用規約"</string>
-  <string name="user_agreement_p8">" に同意されたものとみなします。"</string>
   <string name="user_agreement_title">"Mi Cloud 利用規約"</string>
   <string name="vcode">"認証コード"</string>
   <string name="verify">"確認"</string>

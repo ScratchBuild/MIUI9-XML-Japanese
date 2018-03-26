@@ -214,6 +214,7 @@
   <string name="apn_type">APNタイプ</string>
   <string name="apn_user">ユーザー名</string>
   <string name="app_backup">バックアップ</string>
+  <string name="app_detail">詳細</string>
   <string name="app_data_usage">アプリのデータ使用量</string>
   <string name="app_disable_dlg_positive">アプリを無効にする</string>
   <string name="app_disable_dlg_text">このアプリを無効にすると、他のアプリが意図されたとおりに動作しなくなる可能性があります。</string>
@@ -243,7 +244,9 @@
   <string name="app_list_memory_use">アプリの使用状況</string>
   <string name="app_list_preference_none">なし</string>
   <string name="app_memory_use">メモリ使用</string>
+  <string name="app_mobile">モバイル接続</string>
   <string name="app_name_label">アプリ</string>
+  <string name="app_name_na">データ使用量</string>
   <string name="app_not_found_dlg_text">インストール済みアプリのリストに、このアプリはありません。</string>
   <string name="app_not_found_dlg_title"/>
   <string name="app_notification_block_summary">このアプリからの通知を表示しない</string>
@@ -277,6 +280,8 @@
   <string name="app_special_disable_dlg_title">データを削除し、アプリを無効にしますか？</string>
   <string name="app_switch_key">履歴</string>
   <string name="app_usage_preference">アプリの使用状況の設定</string>
+  <string name="app_version">バージョン</string>
+  <string name="app_wifi">Wi-Fi</string>
   <string name="application_forbid_auto_startup">%sのバックグラウンドでの起動を停止する</string>
   <string name="application_info_label">アプリ情報</string>
   <string name="application_item_already_permission">許可済み</string>
@@ -361,6 +366,8 @@
   <string name="background_data_dialog_title">バックグラウンドを無効化</string>
   <string name="background_data_summary">アプリがデータをいつでも同期、送信、受信可能にする</string>
   <string name="background_process_stop_description">以前のアプリのプロセスです。再度必要になった場合に備えてまだ実行中です。通常は停止する必要はありません。</string>
+  <string name="background_restrict_app_dialog_message">Restricting background network access for this app might make it impossible for the app to work normally, receive messages, download content, etc. Restrict anyway?</string>
+  <string name="background_traffic">バックグラウンド %s</string>
   <string name="backtouch_enable_title">Adjust volume on the back</string>
   <string name="backup_configure_account_default_summary">現在、バックアップデータが保存されたアカウントはありません</string>
   <string name="backup_configure_account_title">バックアップアカウント</string>
@@ -753,6 +760,7 @@
   <string name="bt_rarely_used_device_title">たまに使用する端末 (%d)</string>
   <string name="bt_trace_log">Bluetoothトレースログ</string>
   <string name="bt_trace_log_summary">Bluetoothトレースログ</string>
+  <string name="btn_back">戻る</string>
   <string name="bug_report_settings">フィードバック</string>
   <string name="bugreport_in_power">バグレポートのショートカット</string>
   <string name="bugreport_in_power_summary">電源メニューにバグレポートを取得するボタンを表示する</string>
@@ -1190,9 +1198,11 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="delete_or_keep_legacy_passwords_confirm_msg">この指紋を削除しますか？</string>
   <string name="delete_rule">ルールを削除</string>
   <string name="delete_saved_network">保存されたネットワークを削除</string>
+  <string name="deleted_apps">削除されたアプリ</string>
   <string name="demo_mode">デモモード</string>
   <string name="demo_mode_summary">ステータスバーにデモアイコンを表示する</string>
   <string name="deny">許可しない</string>
+  <string name="detail_app_button">アプリ情報</string>
   <string name="details_subtitle">使用状況の詳細</string>
   <string name="details_title">使用状況の詳細</string>
   <string name="dev_settings_warning_message">これらの設定は開発専用に設計されています。そのため端末や端末上のアプリが故障したり正常に動作しなくなったりする恐れがあります。</string>
@@ -1242,8 +1252,15 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="device_total_memory">合計容量</string>
   <string name="dial_application_title">ダイヤル</string>
   <string name="dial_pad_tones_title">ダイヤルパッドの操作音</string>
+  <string name="dialog_chose_item">表示する項目を選択</string>
   <string name="dialog_content_login">アップデートのためにMiアカウントにログインしますか？</string>
   <string name="dialog_no">いいえ</string>
+  <string name="dialog_restrict_all_mobile_summary">設定後、すべてのアプリでモバイルデータ接続(%s)が制限されます。</string>
+  <string name="dialog_restrict_all_mobile_title">モバイルデータ接続(%s)を制限する</string>
+  <string name="dialog_restrict_all_wlan_summary">設定後、すべてのアプリでWi-Fi接続が制限されます。</string>
+  <string name="dialog_restrict_all_wlan_title">Wi-Fi接続を制限する</string>
+  <string name="dialog_restrict_negative">制限する</string>
+  <string name="dialog_restrict_positive">キャンセル</string>
   <string name="dialog_not_show_again">次回から表示しない</string>
   <string name="dialog_title_color_calibration">色補正プリセット</string>
   <string name="dialog_title_font_size">フォントサイズ</string>
@@ -1593,6 +1610,28 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="finish_application">強制停止</string>
   <string name="finish_button">完了</string>
   <string name="finish_button_label">完了</string>
+  <string name="firewall_allow_all">以下の方法ですべてのアプリに接続を許可する</string>
+  <string name="firewall_allow_data">モバイルデータ接続を許可する</string>
+  <string name="firewall_allow_network">許可する</string>
+  <string name="firewall_allow_wlan">Wi-Fi接続を許可する</string>
+  <string name="firewall_applist">アプリ</string>
+  <string name="firewall_mobile">モバイルデータ</string>
+  <string name="firewall_network_allow">Allowed %1$s to use %2$s connection</string>
+  <string name="firewall_network_restrict_notify_message">設定を変更するにはタップ。</string>
+  <string name="firewall_network_restrict_notify_mobile">モバイルデータ</string>
+  <string name="firewall_partial">Allow some apps to connect using the following method​</string>
+  <string name="firewall_permission">Connection permissions</string>
+  <string name="firewall_restrict_all">以下の方法ですべてのアプリの接続を制限する</string>
+  <string name="firewall_restrict_android_dialog_content">To make sure your device works normally, a few Android system apps will still connect to the internet. These apps will use your mobile data connection and may generate minor charges from your carrier.</string>
+  <string name="firewall_restrict_android_dialog_title">注意</string>
+  <string name="firewall_restrict_data">モバイルデータ接続を制限する</string>
+  <string name="firewall_restrict_notify_title">"%s can't use network"</string>
+  <string name="firewall_restrict_wlan">Wi-Fi接続を制限する</string>
+  <string name="firewall_set_bg_firewall_default_dialog_summary">"If you restrict background connection, new apps won't be able to connect to the internet in the background after you install them. They might be unable to receive messages or download content after this. Restrict anyway?"</string>
+  <string name="firewall_set_bg_firewall_default_dialog_title">Restrict background connection for new apps</string>
+  <string name="firewall_temp_rule_reason">%2$s restricted internet connection for %1$s</string>
+  <string name="firewall_wifi">Wi-Fi</string>
+  <string name="firewall_wifi_dialog_message">"The installed app won't be able to connect to the internet using WLAN when this switch is off."</string>
   <string name="firmware_version">Androidバージョン</string>
   <string name="floating_window_switch_label">フローティングウィンドウを有効にする</string>
   <string name="floating_window_switch_label_disable">フローティングウィンドウを無効にする</string>
@@ -1642,6 +1681,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="force_touch_demo">デモを表示</string>
   <string name="force_touch_enable">3D Touchを有効にする</string>
   <string name="force_touch_enable_tips">3D Touchが有効になっている間、ランチャー上でアプリアイコンを強く押すとショートカットメニューが表示されます。</string>
+  <string name="foreground_traffic">フォアグラウンド %s</string>
   <string name="forget">切断</string>
   <string name="forget_password_button_text"><u>パスワードを忘れた場合</u></string>
   <string name="forget_pattern">&lt;u>Forgot pattern?&lt;/u></string>
@@ -1831,6 +1871,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="invalid_location">インストール先が無効です。</string>
   <string name="invalid_size_value">パッケージのサイズを計算できませんでした。</string>
   <string name="ipaddr_label">IPアドレス:</string>
+  <string name="item_system_app">システムアプリ</string>
   <string name="join_many_items_first">%1$s、%2$s</string>
   <string name="join_many_items_last">%1$s、および%2$s</string>
   <string name="join_many_items_middle">%1$s、%2$s</string>
@@ -1927,6 +1968,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="keywords_wifi">wifi wi-fi ネットワーク 接続</string>
   <string name="keywords_wifi_calling">wifi wi-fi call calling</string>
   <string name="keywords_write_settings">write modify system settings</string>
+  <string name="label_mi_stats">Mi analytics</string>
   <string name="label_global_roaming_settings">ローミング設定</string>
   <string name="language_keyboard_settings_title">言語と入力</string>
   <string name="language_picker_title">言語</string>
@@ -1975,6 +2017,8 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="line_breaking_summary">段落、改行を最適化</string>
   <string name="line_breaking_title">テキストの最適化</string>
   <string name="link_speed_label">接続速度:</string>
+  <string name="list_bg_header_text">"If you restrict background connection, new apps won't be able to connect to the internet in the background after you install them. They might be unable to receive messages or download content after this."</string>
+  <string name="list_empty_text">Empty</string>
   <string name="loading_notification_apps">アプリを読み込んでいます...</string>
   <string name="local_auto_backup_off">オフ</string>
   <string name="local_auto_backup_on">オン</string>
@@ -2207,6 +2251,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="macaddr_label">MACアドレス:</string>
   <string name="main_netcheck_summary">ネットワーク接続の問題をテストする</string>
   <string name="main_running_process_description">使用中のメインプロセスです。</string>
+  <string name="main_toolbar_statistic">Data usage stats</string>
   <string name="make_sure_cancel_update">アップデートを中止しますか？</string>
   <string name="man_add_application">自動起動アプリを追加</string>
   <string name="manage_device_admin">端末管理者</string>
@@ -2353,6 +2398,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="menu_stats_total">合計使用量</string>
   <string name="menu_stats_unplugged">電池使用時間: %1$s</string>
   <string name="menu_use_uss">Ussを使用</string>
+  <string name="mi_service_app_detail">データ使用量の詳細</string>
   <string name="mi_shopping_mall">Mi Store</string>
   <string name="mi_upi_settings">Mi Pay Account</string>
   <string name="misc_files">その他のファイル</string>
@@ -2515,6 +2561,11 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="need_reboot_now">アップデートをインストールするため再起動します。</string>
   <string name="netcheck_title">ネットワーク診断</string>
   <string name="network_assistant">データ使用量</string>
+  <string name="network_changed_noti_summary">モバイルデータを使用</string>
+  <string name="network_changed_noti_title">Wi-Fiから切断しました</string>
+  <string name="network_control">アプリの設定を表示</string>
+  <string name="network_dashboard_summary">Wi-Fi接続、モバイルデータ、データ使用量、テザリング</string>
+  <string name="network_dashboard_title">ネットワークとインターネット</string>
   <string name="network_detail">%sネットワークの詳細</string>
   <string name="network_error">ネットワークエラー</string>
   <string name="network_name_displayed_summary">ステータスバーにキャリア名を表示する</string>
@@ -2526,6 +2577,12 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="network_scorer_change_active_dialog_title">Wi-Fiアシスタントを変更しますか？</string>
   <string name="network_scorer_change_active_no_previous_dialog_text">ネットワーク接続の管理に%sを使用しますか？</string>
   <string name="network_settings_title">モバイルネットワーク</string>
+  <string name="network_speed_for_apps_close">強制停止</string>
+  <string name="network_speed_for_apps_close_app_dlg_msg">このアプリを強制停止しますか？</string>
+  <string name="network_speed_for_apps_close_system_app_dlg_msg">システムアプリを強制停止することはできません。</string>
+  <string name="network_speed_for_apps_others">その他</string>
+  <string name="network_speed_for_apps_title">接続</string>
+  <string name="network_speed_for_apps_total">接続速度</string>
   <string name="network_state_label">ネットワークの状態:</string>
   <string name="networkid_label">ネットワークID:</string>
   <string name="networks">通信事業者の選択</string>
@@ -2781,8 +2838,10 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="permission_settings_title">アプリの権限</string>
   <string name="permissions_label">許可</string>
   <string name="permit_draw_overlay">他のアプリの上に重ねて描画することを許可</string>
+  <string name="permit_running_network">バックグラウンドデータ</string>
   <string name="permit_usage_access">使用状況へのアクセスを許可</string>
   <string name="permit_write_settings">システム設定の変更の許可</string>
+  <string name="person_hotpot">Mobile hotspots</string>
   <string name="personal_data_section_title">個人データ</string>
   <string name="personal_device_admin_title">個人用</string>
   <string name="personal_section_title">パーソナル</string>
@@ -2845,12 +2904,18 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="power_usage_summary_title">電池とパフォーマンス</string>
   <string name="power_wifi">Wi-Fi</string>
   <string name="pre_installed_application">プリインストールアプリ</string>
+  <string name="pref_bg_network_title">バックグラウンド接続</string>
   <string name="pref_button_light">ボタンのライト</string>
   <string name="pref_button_light_summary">メニュー、%1$s、戻るボタンのライトを点灯する</string>
   <string name="pref_button_light_summary_sub">ホーム</string>
   <string name="pref_edge_handgrip">エッジコントロール</string>
+  <string name="pref_key_tethering_setting">ワンタイム データ制限</string>
+  <string name="pref_key_tethering_title">ワンタイム データ制限</string>
+  <string name="pref_manage_bg_network">アプリのバックグラウンドネットワーク接続を管理する</string>
+  <string name="pref_new_installed_preconfig_title">新しいアプリのデフォルト設定</string>
   <string name="pref_operational_key">ナビゲーションボタン</string>
   <string name="pref_title_lang_selection">言語の設定</string>
+  <string name="pref_title_update_notification">データ使用の通知</string>
   <string name="pref_volume_launch_camera_summary">"音量[－]ボタンを2回押すとカメラを起動します"</string>
   <string name="pref_volume_launch_camera_title">高速カメラ起動</string>
   <string name="pref_volume_wake_summary">音量ボタンを押すと端末のスリープを解除します</string>
@@ -3158,6 +3223,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="resource_ringtone_volume_mute">現在の着信音量はミュートされています</string>
   <string name="restr_pin_enter_admin_pin">管理者PINを入力</string>
   <string name="restrict_background_blacklisted">バックグラウンド データは無効になっています</string>
+  <string name="restrict_bg_app">制限</string>
   <string name="restrict_max_aspect_ratio_title">これらのアプリはフルスクリーンモードではうまく動作しません</string>
   <string name="restriction_bluetooth_config_summary">Bluetoothのペア設定や設定の変更を許可する</string>
   <string name="restriction_bluetooth_config_title">Bluetooth</string>
@@ -3189,6 +3255,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="roaming_warning_multiuser">"データローミングを許可すると高額な通信料が発生することがあります。
 
 この設定はこの端末上のすべてのユーザーに影響します。"</string>
+  <string name="root">Root access</string>
   <string name="rssi_label">RSSI:</string>
   <string name="rule_name">名前</string>
   <string name="running_frequency">頻度</string>
@@ -4159,10 +4226,18 @@ PINが正しくない可能性があります。"</string>
   <string name="tether_and_hotspot_title">テザリングとホットスポット</string>
   <string name="tether_auto_disable_summary">接続されているデバイスがない場合、ホットスポットを自動的に閉じます。</string>
   <string name="tether_auto_disable_title">自動的にホットスポットを閉じる</string>
+  <string name="tether_custom_dialog_title">モバイルデータの上限</string>
   <string name="tether_data_usage_limit">ワンタイム データ制限</string>
   <string name="tether_data_usage_limit_summary">データ制限は、次回テザリングがオンになったときに適用されます</string>
   <string name="tether_devices_management_title">デバイスの管理</string>
   <string name="tether_devices_max_number">接続済みデバイスの上限</string>
+  <string name="tether_limit_dialog_title">モバイルデータの上限</string>
+  <string name="tether_limit_value_custom">カスタム</string>
+  <string name="tether_over_limit_dialog_cancle_btn">テザリングをリセット</string>
+  <string name="tether_over_limit_dialog_message">テザリングのデータ上限に達しました。</string>
+  <string name="tether_over_limit_dialog_title">データ使用の警告</string>
+  <string name="tether_over_limit_warning_notify_message">テザリングをオフにする。</string>
+  <string name="tether_over_limit_warning_notify_title">テザリングのデータ上限に達しました</string>
   <string name="tether_settings_disabled">ポータブルアクセスポイントはオフです</string>
   <string name="tether_settings_disabled_on_data_saver">データセーバーがオンのとき、テザリングやポータブルアクセスポイントの使用はできません</string>
   <string name="tether_settings_title_all">テザリングとポータブルアクセスポイント</string>
@@ -4229,6 +4304,7 @@ Android端末をUSBケーブルでコンピューターにつなぐことで、�
   <string name="trackball_settings">トラックボール</string>
   <string name="trackball_wake_title">トラックボールでロック解除</string>
   <string name="traffic_balance">Data usage mode</string>
+  <string name="traffic_none">None</string>
   <string name="transition_animation_scale_title">トランジションアニメスケール</string>
   <string name="translation_contributors_summary"/>
   <string name="translation_contributors_title">翻訳に貢献してくれた人たち</string>

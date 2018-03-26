@@ -36,6 +36,14 @@
         <item quantity="other">%d個のアプリが自動起動を許可されています</item>
         <item quantity="one">%d個のアプリが自動起動を許可されています</item>
     </plurals>
+    <plurals name="bg_network_allow_count">
+        <item quantity="other">%d個のアプリがネットワークに接続できます</item>
+        <item quantity="one">%d個のアプリがネットワークに接続できます</item>
+    </plurals>
+    <plurals name="bg_network_restrict_count">
+        <item quantity="other">%d個のアプリがネットワークに接続できません</item>
+        <item quantity="one">%d個のアプリがネットワークに接続できません</item>
+    </plurals>
     <plurals name="connected_devices_number">
         <item quantity="other">%d devices</item>
         <item quantity="one">%d device</item>
@@ -83,6 +91,10 @@
     <plurals name="enterprise_privacy_number_packages_lower_bound">
         <item quantity="other">アプリ: %d 個以上</item>
         <item quantity="one">アプリ: %d 個以上</item>
+    </plurals>
+    <plurals name="firewall_item_summary">
+        <item quantity="other">%s個のアプリが接続を制限されています</item>
+        <item quantity="one">%s個のアプリが接続を制限されています</item>
     </plurals>
     <plurals name="free_wifi_connected_count">
         <item quantity="other">%1$sユーザーが接続</item>

@@ -77,6 +77,13 @@ to be able to view them anytime"</string>
   <string name="dont_import">"後で"</string>
   <string name="downloading_space">"ダウンロード中…"</string>
   <string name="enable">"オンにする"</string>
+  <string name="encrypt_space_delete_dialog_click_message">"*データを移動する必要がない場合は、%s"</string>
+  <string name="encrypt_space_delete_dialog_click_message_action">"今すぐSecond spaceを削除・作成し直してください。"</string>
+  <string name="encrypt_space_delete_dialog_message">"Androidシステムを更新しようとしています。更新後、Second spaceのデータは互換性が無くなります。これを避けるには、すべてのデータをFirst spaceに移動し、Second spaceを削除してから再度作成し直してください。"</string>
+  <string name="encrypt_space_delete_dialog_positive_text">"データを移動"</string>
+  <string name="encrypt_space_delete_dialog_title">"注意"</string>
+  <string name="encrypt_space_delete_notification_message">"Second spaceを削除し、新しいspaceを作成してデバイスを更新します。"</string>
+  <string name="encrypt_space_delete_notification_title">Second space</string>
   <string name="enter_air_space">"Work spaceに移動"</string>
   <string name="err_copy_contacts">"連絡先をコピーできませんでした"</string>
   <string name="err_copy_files">"ファイルをコピーできませんでした"</string>

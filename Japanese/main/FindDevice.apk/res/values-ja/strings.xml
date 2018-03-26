@@ -10,6 +10,7 @@
   <string name="disable_find_device_error">"Find deviceをオフにできません。%1$s"</string>
   <string name="disable_find_device_success">"Find deviceはオフです"</string>
   <string name="doing_extra_login_steps">"ログインを確認中…"</string>
+  <string name="emergency_call">緊急通報</string>
   <string name="enable_find_device_error">"Find deviceをオンにできません。%1$s"</string>
   <string name="enable_find_device_success">"Find deviceはオンです"</string>
   <string name="find_device">Find device</string>
@@ -45,6 +46,7 @@ If you switch SIM cards, another SMS will be sent automatically to reactivate th
   <string name="phone_locked">"この端末は既に別のMi Account(%s)に関連付けられています。端末をアクティベートするにはログインしてください。"</string>
   <string name="phone_locked_account_email">", 関連付けられたメールアドレス: %s"</string>
   <string name="phone_locked_account_phone">", 関連付けられた電話番号: %s"</string>
+  <string name="return_to_call">通話に戻る</string>
   <string name="stop_on_empty_captcha">"キャプチャは空白にできません"</string>
   <string name="stop_on_empty_password">"パスワードは空白にできません"</string>
   <string name="sys_notification_async_open_failed_content">"タップして再試行、またはキャンセル。"</string>

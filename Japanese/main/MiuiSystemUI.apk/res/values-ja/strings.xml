@@ -205,6 +205,7 @@
   <string name="clear_adb_keys">USBデバッグの許可の取り消し</string>
   <string name="click_expand">タップして展開</string>
   <string name="click_to_return_multi_window">分割画面モードに戻るにはタップ</string>
+  <string name="click_to_return_multi_window_of_notch">分割画面モードに戻る</string>
   <string name="confirm_enable_oem_unlock_text">警告: この設定をONにしている場合、この端末では端末保護機能を利用できません。</string>
   <string name="confirm_enable_oem_unlock_title">OEMロック解除の許可</string>
   <string name="connected_via_passpoint">"%1$s経由で接続しました"</string>

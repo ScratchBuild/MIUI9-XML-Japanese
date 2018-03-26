@@ -1,16 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="folder_operations">
-        <item>"名前の変更"</item>
-        <item>"削除"</item>
-    </string-array>
     <string-array name="attachment_chooser">
         <item>"カメラ"</item>
         <item>"ギャラリー"</item>
-    </string-array>
-    <string-array name="note_sort_way">
-        <item>"作成日順"</item>
-        <item>"変更日順"</item>
     </string-array>
     <string-array name="contact_entries">
         <item>"名前"</item>
@@ -25,11 +17,19 @@
         <item>"住所"</item>
         <item>"メモ"</item>
     </string-array>
+    <string-array name="folder_operations">
+        <item>"名前の変更"</item>
+        <item>"削除"</item>
+    </string-array>
     <string-array name="font_size_names">
         <item>小</item>
         <item>中</item>
         <item>大</item>
         <item>極大</item>
+    </string-array>
+    <string-array name="note_sort_way">
+        <item>"作成日順"</item>
+        <item>"変更日順"</item>
     </string-array>
     <string-array name="welcome_notes_content">
         <item>"Welcome to Notes

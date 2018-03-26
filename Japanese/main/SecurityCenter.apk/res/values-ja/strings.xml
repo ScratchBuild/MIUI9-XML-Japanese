@@ -1520,7 +1520,7 @@ While calibrating, MIUI will send a text message to your carrier to receive the 
   <string name="report_only">"報告するメッセージを選択"</string>
   <string name="report_success">"メッセージを報告しました"</string>
   <string name="report_warning">"Report %1$s SMS to Mi? These messages and the phone numbers they were sent from will be uploaded to Mi's servers for review. Any personal info associated with these messages is always kept anonymous."</string>
-  <string name="report_warning_title">"SMSを報告"</string>
+  <string name="report_warning_title">"注意"</string>
   <string name="resource_antispam">"ブロックリスト"</string>
   <string name="resource_antivirus">"ウイルススキャン"</string>
   <string name="resource_app_permissions">"アプリの権限"</string>

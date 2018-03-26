@@ -76,7 +76,7 @@
   <string name="incorrect_pukcode">"PUKコードが正しくありません"</string>
   <string name="input_password_after_boot_msg">"端末のロックを解除するには、パスワードを入力します"</string>
   <string name="input_password_after_boot_msg_can_not_switch_when_calling">"通話中にspaceを切り替えることはできません"</string>
-  <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">"green guardが有効な間はspaceを切り替えることはできません"</string>
+  <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">"ペアレンタルコントロールが有効な間はspaceを切り替えることはできません"</string>
   <string name="input_password_after_boot_msg_must_enter_owner_space">"デバイスを再起動した後、First spaceのパスワードを入力する必要があります"</string>
   <string name="input_password_handle_sdcard_fs">"ロック画面からSecond spaceに切り替えることはできません。First spaceから切り替えてください。"</string>
   <string name="input_password_hint_text">"パスワードを入力"</string>
