@@ -536,7 +536,6 @@
   <string name="list_language_dtitle">言語</string>
   <string name="list_language_summary">ニュースの言語の選択</string>
   <string name="list_language_title">言語</string>
-  <string name="livetalk_setting">"プリペイドプラン"</string>
   <string name="load_networks_progress">検索中...</string>
   <string name="loading">"しばらくお待ちください..."</string>
   <string name="local_disable">ローカルニュースは無効になっています</string>
@@ -588,6 +587,7 @@
   <string name="modem_dialog_body">Mobile network is unstable which results in interruptions and network problems. Send feedback to Mi for analysis? This report may contain personally identifiable information. Your report will be used to help us fix this bug and will never be shared in any commercial context.</string>
   <string name="modem_dialog_title">モバイルネットワークが不安定です</string>
   <string name="msim_apn_not_set">"未設定"</string>
+  <string name="msim_cmcc_dds_switch_not_support">"キャリア制限のためSIMカードを切り替えることができません。"</string>
   <string name="msim_disable_sim_card_btn_text">OK</string>
   <string name="msim_disable_sim_card_title">SIMカードの使用を中止</string>
   <string name="msim_enable_sim">"オンにする"</string>

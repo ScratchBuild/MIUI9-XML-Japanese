@@ -70,6 +70,7 @@
   <string name="change_alert">"ネットワーク接続を確認して、もう一度やり直してください。"</string>
   <string name="china_version_first_start_network_msg">"このアプリを使用することで、Xiaomiの%1$sと%2$sに同意したことになります。このアプリが正常に動作するには、インターネット接続と位置情報へのアクセスが必要です。"</string>
   <string name="city_exceeded_warning">"最大で10都市まで追加できます"</string>
+  <string name="clear_net_mock_success">Net mockを正常に消去しました</string>
   <string name="commercial">Commercial</string>
   <string name="common_loading_text">"読み込み中..."</string>
   <string name="connect_fail">"ネットワークに接続できません、後でもう一度お試しください。"</string>
@@ -191,6 +192,7 @@
   <string name="real_time_sunset">"日の入 %1$s"</string>
   <string name="realtime_aqi_title">Air Quality Index</string>
   <string name="realtime_humidity_title">"湿度"</string>
+  <string name="receive_net_mock_success">Net mockを正常に受信しました</string>
   <string name="refresh_fail">"ネットワークに接続できませんでした"</string>
   <string name="reminder_from_xiaomi_weather_app">Mi Weather alert</string>
   <string name="retry">"再試行"</string>

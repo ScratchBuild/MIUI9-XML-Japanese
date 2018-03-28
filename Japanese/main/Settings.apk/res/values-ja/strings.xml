@@ -1435,7 +1435,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="enable_wifi_display">ワイヤレスディスプレイ</string>
   <string name="enabled_authorised_apps_summary">個々のアプリのスイッチを切り替えると、権限が取り消されます。</string>
   <string name="enabled_authorised_apps_title">有効な権限</string>
-  <string name="enalbe_identify_iPhone">AP identification</string>
+  <string name="enalbe_identify_iPhone">Device identification</string>
   <string name="encrypt_dont_require_password">必須としない</string>
   <string name="encrypt_dont_require_pattern">必須としない</string>
   <string name="encrypt_dont_require_pin">必須としない</string>
@@ -2231,6 +2231,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="lockscreen_glogin_checking_password">確認中…</string>
   <string name="lockscreen_glogin_password_hint">パスワード</string>
   <string name="lockscreen_glogin_submit_button">ログイン</string>
+  <string name="lockscreen_magazine_summary">高品質な Wallpaper Carousel</string>
   <string name="lockscreen_remote_input">端末がロックされている場合に、通知で返信などのテキストを入力できないようにします</string>
   <string name="login_account_dialog_message">Mi Accountでログインして、Mi Cloudとの同期をオンにします。</string>
   <string name="login_account_dialog_title">Mi Accountでログイン</string>
@@ -3323,6 +3324,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="screen_paper_mode_apps_title">読書モードを使用する</string>
   <string name="screen_paper_mode_global_summary">すべてのアプリで読書モードを使用する</string>
   <string name="screen_paper_mode_global_title">すべてのアプリ</string>
+  <string name="screen_paper_mode_hdr_toast">HDR動画を再生している間は、読書モードはオフになります。動画の再生が終了すると、自動的にオンに戻ります。</string>
   <string name="screen_paper_mode_local_summary">選択したアプリで読書モードを使用する</string>
   <string name="screen_paper_mode_local_title">選択したアプリ</string>
   <string name="screen_paper_mode_off_apps_title">読書モードを使用しない</string>

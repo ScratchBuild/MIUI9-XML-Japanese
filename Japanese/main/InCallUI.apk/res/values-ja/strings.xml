@@ -49,7 +49,6 @@
   <string name="call_recording_notification_title_error">"通話を録音できませんでした"</string>
   <string name="call_title_redialing_with_times">"リダイヤル %d回"</string>
   <string name="caller_manage_header">"グループ通話 %s"</string>
-  <string name="can_not_call_oneself">"この番号に発信できません"</string>
   <string name="can_not_use">"使用できません"</string>
   <string name="cancel">"キャンセル"</string>
   <string name="card_title_answering">"着信呼出"</string>
@@ -84,6 +83,9 @@
   <string name="conference_caller_info_name">"%1$s's conference call"</string>
   <string name="conference_callers_exceeded">"これ以上ユーザーを追加できません"</string>
   <string name="contacts_icon_label">"連絡先"</string>
+  <string name="crbt_second_hold_prompt">"%sを保留中です…"</string>
+  <string name="crbt_second_hold_prompt_conference">"グループ通話を保留中です…"</string>
+  <string name="crbt_second_hold_prompt_no_name">"直前の通話を保留中です…"</string>
   <string name="description_image_button_answer">"応答"</string>
   <string name="description_image_button_dialpad">"ダイヤルパッド"</string>
   <string name="description_image_button_eight">"8"</string>
@@ -105,9 +107,6 @@
   <string name="description_image_button_video_answer">"ビデオ通話"</string>
   <string name="description_image_button_zero">"0"</string>
   <string name="description_target_answer">"電話に出る"</string>
-  <string name="dialog_activate_livetalk">"番号を確認"</string>
-  <string name="dialog_call_ordinary_telephone">Regular call</string>
-  <string name="do_not_ask">"二度と表示しない"</string>
   <string name="do_not_support_video_calls_by_remote">"ビデオ通話は相手先の端末でサポートされていません"</string>
   <string name="emergency_call_dialog_number_for_display">"緊急通報番号"</string>
   <string name="incall_call_type_label_sip">"SIP通話"</string>
@@ -127,19 +126,7 @@
   <string name="incoming_circle_text_message_p">Slide up</string>
   <string name="incoming_circle_text_reject">Release</string>
   <string name="incoming_circle_text_reject_p">Slide up</string>
-  <string name="keep_wait_call_back">Keep waiting</string>
-  <string name="livetalk_dial">Using Top-up package</string>
-  <string name="livetalk_hangup">"電話を切る"</string>
   <string name="manageConferenceLabel">"グループ通話オプション"</string>
-  <string name="network_error_message">Current network is unstable. Switching to regular call for which you might be charged by the carrier.</string>
-  <string name="network_error_title">Unstable network</string>
-  <string name="no_call_back_message">Its taking too long to connect. Switching to regular call for which you might be charged by the carrier.</string>
-  <string name="no_call_back_title">"注意"</string>
-  <string name="not_activate_sim_card_content">Verify your phone number to start using Top-up package. You can still make a regular call for which youll be charged by the carrier.</string>
-  <string name="not_activate_sim_card_content_title">Phone number isnt verified</string>
-  <string name="not_activate_sim_card_content_with_operator">Verify SIM %1$s (%2$s) to make a call using Top-up package. You can still make a regular call for which youll be charged by the carrier.</string>
-  <string name="not_support_message">Cant call this number. Switching to regular call for which you might be charged by the carrier.</string>
-  <string name="not_support_title">"この番号はサポートされていません"</string>
   <string name="notification_action_accept">"同意する"</string>
   <string name="notification_action_answer_video">"ビデオ"</string>
   <string name="notification_action_answer_voice">"音声"</string>
@@ -178,6 +165,7 @@
   <string name="payphone">"公衆電話"</string>
   <string name="picking_participant">"連絡先の情報を取得中…"</string>
   <string name="private_num">"非通知"</string>
+  <string name="prompt_no_volte_when_failed">"VoLTEサービスは利用できません。"</string>
   <string name="remind_unlock_message">"お使いの端末はロックされています。\"%s\"は端末をロック解除した後に利用可能です。今すぐロック解除しますか？"</string>
   <string name="respond_via_sms_custom_message">"カスタムメッセージ"</string>
   <string name="select_audio_dialog_title">"応答モードを選択"</string>
@@ -187,7 +175,6 @@
   <string name="separate_from_conference">"通話を分割"</string>
   <string name="sip_call_not_support_record">"SIP通話を録音することはできません"</string>
   <string name="suspect_info">"個人情報に注意してください。"</string>
-  <string name="time_left_livetalk">"(%d秒)"</string>
   <string name="unknown">"通知不可能"</string>
   <string name="unlock_phone">"端末をロック解除"</string>
   <string name="upgrade_vt_prompt">"ビデオ通話に切り替えますか？"</string>
