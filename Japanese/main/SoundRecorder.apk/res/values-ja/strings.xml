@@ -147,7 +147,7 @@
   <string name="text_btn_wave">Wave</string>
   <string name="text_finish">"確認"</string>
   <string name="toast_max_record_time">%1$s can record for about %2$s</string>
-  <string name="toast_uninstall_fileexplorer">"Explorerアプリがインストールされていません"</string>
+  <string name="toast_uninstall_fileexplorer">"File Managerがインストールされていません"</string>
   <string name="wifi_recommended_body" formatted="false">"モバイルデータ接続を使用してこのファイル(%s)をダウンロードすると、データ使用量が増加します。データ使用量の制限を超えた場合は、キャリアによっては追加料金が発生する場合があります。 ファイルをダウンロードするためにWi-Fi接続を待つには、%sをタップ。"</string>
   <string name="wifi_recommended_title">"データ使用の警告"</string>
 </resources>
