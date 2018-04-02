@@ -1267,6 +1267,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="dialog_title_hdmi_color_calibration">色補正プリセット</string>
   <string name="dialog_title_login">Miアカウントにログインしてください</string>
   <string name="dialog_yes">はい</string>
+  <string name="direct_boot_unaware_dialog_message">注: 再起動後、スマートフォンのロックを解除するまでこのアプリを起動することはできません</string>
   <string name="disableNetwork">ネットワークを無効</string>
   <string name="disable_overlays">HWオーバーレイを無効</string>
   <string name="disable_overlays_summary">画面レンダリングに常にGPUを使用する</string>
@@ -2423,6 +2424,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="miui_lab_taplus_desc">アイテムを長押ししてアクションをトリガーする</string>
   <string name="miui_lab_taplus_title">起動するアプリ</string>
   <string name="miui_updater">システムの更新</string>
+  <string name="miui_userguide">ユーザーガイド</string>
   <string name="mms_breathing_light_color_title">メッセージLEDの色</string>
   <string name="mms_breathing_light_freq_title">メッセージLEDを点滅させる</string>
   <string name="mms_privacy_password_role_instruction">プライベートな連絡先とあなたとの会話はここに保存されます。</string>
@@ -2724,6 +2726,14 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="oem_unlock_enable_summary">ブートローダーによるロック解除を許可する</string>
   <string name="ok_rules">完了</string>
   <string name="okay">OK</string>
+  <string name="oldman_app_label">Lite mode</string>
+  <string name="oldman_installed_current_btn">元のホーム画面を復元する</string>
+  <string name="oldman_installed_current_des">Lite modeをデフォルトのホーム画面として設定しました。以下のボタンをタップすると、元のホーム画面に戻ります。</string>
+  <string name="oldman_installed_not_current_btn">デフォルトのホーム画面として設定</string>
+  <string name="oldman_installed_not_current_des">Lite modeがお使いの端末にインストールされています。これをデフォルトのホーム画面として使用できます。</string>
+  <string name="oldman_mode_entry_name">Lite mode</string>
+  <string name="oldman_uninstalled_btn">インストール</string>
+  <string name="oldman_uninstalled_des">Lite mode gets rid of the visual clutter and keeps your Home screen simple and minimalist.</string>
   <string name="one_cacrt">CA証明書1件</string>
   <string name="one_usercrt">ユーザー証明書1件</string>
   <string name="one_userkey">ユーザーキー1個</string>
@@ -3726,7 +3736,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="set_data_time_range">Show time range</string>
   <string name="setting_privacy_password">プライバシー保護パスワードを設定</string>
   <string name="settings_ad_loading">読み込み中…</string>
-  <string name="settings_ad_loading_unavailable">読み込み中に問題が発生しました。</string>
+  <string name="settings_ad_loading_unavailable">情報を読み込めませんでした。</string>
   <string name="settings_backup">設定をバックアップ</string>
   <string name="settings_backup_summary">設定をバックアップ</string>
   <string name="settings_button">設定</string>
@@ -4226,8 +4236,8 @@ PINが正しくない可能性があります。"</string>
   <string name="testing_usage_stats">使用統計情報</string>
   <string name="testing_wifi_info">Wi-Fiネットワーク情報</string>
   <string name="tether_and_hotspot_title">テザリングとホットスポット</string>
-  <string name="tether_auto_disable_summary">接続されているデバイスがない場合、ホットスポットを自動的に閉じます。</string>
-  <string name="tether_auto_disable_title">自動的にホットスポットを閉じる</string>
+  <string name="tether_auto_disable_summary">デバイスが接続されていない場合、ホットスポットを自動的にオフにする。</string>
+  <string name="tether_auto_disable_title">自動的にホットスポットをオフにする</string>
   <string name="tether_custom_dialog_title">モバイルデータの上限</string>
   <string name="tether_data_usage_limit">ワンタイム データ制限</string>
   <string name="tether_data_usage_limit_summary">データ制限は、次回テザリングがオンになったときに適用されます</string>

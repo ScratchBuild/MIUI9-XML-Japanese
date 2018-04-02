@@ -85,6 +85,7 @@ to be able to view them anytime"</string>
   <string name="encrypt_space_delete_notification_message">"Second spaceを削除し、新しいspaceを作成してデバイスを更新します。"</string>
   <string name="encrypt_space_delete_notification_title">Second space</string>
   <string name="enter_air_space">"Work spaceに移動"</string>
+  <string name="entrance_reopen_toast_msg">"パスワードの種類が異なるため、Second spaceへのショートカットを表示しています"</string>
   <string name="err_copy_contacts">"連絡先をコピーできませんでした"</string>
   <string name="err_copy_files">"ファイルをコピーできませんでした"</string>
   <string name="err_copy_photos">"写真をコピーできませんでした"</string>
@@ -205,6 +206,9 @@ Otherwise you may not be able to enter Second space from Lock screen."</string>
   <string name="removingSpace">"削除中…"</string>
   <string name="repeat_scanner_fingerprint">Add again</string>
   <string name="reset_passwd_success">Password was reset successfully</string>
+  <string name="reset_password_dialog_message">"First spaceとSecond spaceで異なる種類のパスワードを使用しています。Second spaceへのショートカットを非表示にするには、First spaceと同じ種類のパスワードを使用する必要があります。"</string>
+  <string name="reset_password_dialog_positve_btn_title">"変更"</string>
+  <string name="reset_password_dialog_title">"Second spaceのショートカットを非表示にできません"</string>
   <string name="restore_normal_show">"プライベートなメッセージを表示しない"</string>
   <string name="restore_show_desc">"Don't show private messages in Second space. They will still be available in First space."</string>
   <string name="restore_show_toast">"プライベートなメッセージを表示しない"</string>
@@ -365,6 +369,7 @@ to enter Second space from Lock screen"</string>
   <string name="xspace_guide_title">"デュアルアプリを作成"</string>
   <string name="xspace_header">"デュアルアプリ"</string>
   <string name="xspace_install_completed">"ホーム画面にアイコンを追加しました"</string>
+  <string name="xspace_install_completed_global">"ホーム画面にアイコンを追加しました"</string>
   <string name="xspace_install_failed">"作成できませんでした"</string>
   <string name="xspace_installing">"インストール中…"</string>
   <string name="xspace_introduce">"おすすめ"</string>

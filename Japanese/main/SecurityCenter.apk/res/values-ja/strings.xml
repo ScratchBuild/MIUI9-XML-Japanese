@@ -588,6 +588,8 @@
   <string name="diagnostic_attention_dialog_message">"Diagnostics for %1$s is in progress. Wait until it's finished and try again."</string>
   <string name="dialog_app_roaming_message">"%1$s can't use mobile data when roaming. When you're roaming overseas, only apps you've added to exceptions can use mobile data."</string>
   <string name="dialog_app_roaming_title">"Overseas roaming isn't enabled for %1$s"</string>
+  <string name="dialog_button_ignore">"無視する"</string>
+  <string name="dialog_button_yes">"はい"</string>
   <string name="dialog_msg_auto_start_declare">Some apps may incorrectly indicate that MIUI has prevented them from starting. Check permissions that have been granted to individual apps in Settings &gt; Apps.</string>
   <string name="dialog_msg_stop_virus_scan">"完了前にセキュリティスキャンを停止しますか？"</string>
   <string name="dialog_no_longer_alert">"次回から表示しない"</string>
@@ -1804,6 +1806,9 @@ While calibrating, MIUI will send a text message to your carrier to receive the 
   <string name="suggest_scan_again">Complete the scan to avoid security risks.</string>
   <string name="summary_app_lock_disable">"アプリロックでデータを保護する"</string>
   <string name="summary_auto_update">"MIUIはアップデートのダウンロードとインストールに最適な時間を選択します。"</string>
+  <string name="summary_background_connection">"このアプリのバックグラウンド接続を制限しました。元に戻すにはタップ。"</string>
+  <string name="summary_block_calls_from_cantacts">"ブロックリストを使用しています。元に戻すにはタップ。"</string>
+  <string name="summary_block_calls_from_strangers">"連絡先からの着信のみ許可しています。元に戻すにはタップ。"</string>
   <string name="summary_cleaner_cloudscan">"フォルダ名をアップロードしてオンラインの定義と比較する"</string>
   <string name="summary_cloud_account">"Miデバイスを最大限に活用する"</string>
   <string name="summary_cloud_service">"すべての端末間で写真、連絡先などを同期する"</string>
@@ -1814,6 +1819,8 @@ While calibrating, MIUI will send a text message to your carrier to receive the 
   <string name="summary_data_flow">"追加料金を避けるため、モバイルデータの使用を制限する"</string>
   <string name="summary_default_app">"%sはデフォルトのシステムアプリとして設定されていません"</string>
   <string name="summary_dev">Avoid malware and protect personal data</string>
+  <string name="summary_do_not_disturb">"夜間モードを使用しています。元に戻すにはタップ。"</string>
+  <string name="summary_eye_shield">"読書モードを使用しています。元に戻すにはタップ。"</string>
   <string name="summary_find_device">Locate and lock your device from anywhere</string>
   <string name="summary_flow_notification">"月間データ使用量の統計を通知シェードに表示する"</string>
   <string name="summary_flow_purchase">"Looks like there isn't much data left. Buy data to stay connected."</string>
@@ -1831,6 +1838,7 @@ While calibrating, MIUI will send a text message to your carrier to receive the 
   <string name="summary_permission_root">"お使いの端末はroot権限が取得されているようです。端末のセキュリティが損なわれる可能性があります。"</string>
   <string name="summary_power_optimizer">"電池残量が残り少ないと、端末のパフォーマンスが低下します"</string>
   <string name="summary_realname_verify">"利用者の身元を確認して、支払いをより安全にします。"</string>
+  <string name="summary_restrict_data_usage">"このアプリのデータ使用量を制限しました。元に戻すにはタップ。"</string>
   <string name="summary_show_notification">"キャッシュの消去、バッテリー残量の表示、通知シェードの通知を非表示にする"</string>
   <string name="summary_telecom_operator">"契約中のキャリアから毎月のデータ使用状況の統計を取得する"</string>
   <string name="summary_usb">Prevent malware from being transmitted via USB</string>
@@ -1946,6 +1954,9 @@ While calibrating, MIUI will send a text message to your carrier to receive the 
   <string name="title_app_lock_disable">Lock apps</string>
   <string name="title_app_update">"更新が利用可能"</string>
   <string name="title_auto_update">"自動的に更新"</string>
+  <string name="title_background_connection">"%sがバックグラウンドで使用できませんか？"</string>
+  <string name="title_block_calls_from_cantacts">"連絡先からの着信を取り損ねていますか？"</string>
+  <string name="title_block_calls_from_strangers">"重要な着信を取り損ねていますか？"</string>
   <string name="title_chain_start">Restrict chain start</string>
   <string name="title_cleaner_cloudscan">Cloud trash scan</string>
   <string name="title_cloud_account">Mi Account</string>
@@ -1960,6 +1971,8 @@ While calibrating, MIUI will send a text message to your carrier to receive the 
   <string name="title_dev_no">"開発者向けオプションはオンです"</string>
   <string name="title_dev_yes">"開発者向けオプションはオフです"</string>
   <string name="title_device_not_root">"rootアクセスは許可されていません"</string>
+  <string name="title_do_not_disturb">"着信音が鳴りませんか？"</string>
+  <string name="title_eye_shield">"画面の色が正しく見えませんか？"</string>
   <string name="title_find_device">Find device</string>
   <string name="title_flow_notification">"モバイルデータの通知"</string>
   <string name="title_flow_purchase">"モバイルデータを購入"</string>
@@ -1988,6 +2001,7 @@ While calibrating, MIUI will send a text message to your carrier to receive the 
   <string name="title_permission_yes">Permission manager on</string>
   <string name="title_power_optimizer">"バッテリーセーバー"</string>
   <string name="title_realname_verify">ID verification</string>
+  <string name="title_restrict_data_usage">"%sがインターネットに接続できませんか？"</string>
   <string name="title_show_notification">"通知シェードのウィジェット"</string>
   <string name="title_system_auto_download">"更新は自動的にダウンロードされます"</string>
   <string name="title_telecom_operator">"自動調整"</string>

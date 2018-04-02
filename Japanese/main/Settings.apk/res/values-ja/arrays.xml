@@ -301,7 +301,7 @@
         <item>ロック画面</item>
         <item>Privacy password</item>
         <item>キッズモード</item>
-        <item>File Explorer</item>
+        <item>File Manager</item>
         <item>アプリロック</item>
         <item>Second space</item>
     </string-array>
@@ -464,7 +464,7 @@
         <item>Create a directory: mkdir /media/mtp</item>
         <item>Confirm user group permissions in the current fuse user group</item>
         <item>Sign in again</item>
-        <item>Access mounted device: mtpfs /media/mtp via file explorer; same as local directory</item>
+        <item>Access mounted device: mtpfs /media/mtp via File Manager; same as local folder.</item>
         <item>"Uninstall device: fusermount -u /media/mtp
 Note: Only for Ubuntu 8.04!"</item>
     </string-array>
