@@ -278,7 +278,7 @@
   <string name="deleteConfirmation_title">"この連絡先を削除しますか？"</string>
   <string name="delete_call_log_message">"通話履歴を消去しますか？"</string>
   <string name="delete_call_log_selected_title">"選択した通話履歴を消去しますか？"</string>
-  <string name="delete_call_log_title">"通話履歴を選択"</string>
+  <string name="delete_call_log_title">"通話履歴を消去"</string>
   <string name="delete_contact_calllog_title">"通話履歴を消去しますか？"</string>
   <string name="delete_dial_input">"削除"</string>
   <string name="delete_duplicate">"統合"</string>
@@ -839,6 +839,9 @@ To add a contact to your list of favorites:
   <string name="pref_key_photo_word_title">"連絡先に写真を割り当てる"</string>
   <string name="pref_key_rebuild_t9_index_message">"検索の問題を解決するためにインデックスを再構築"</string>
   <string name="pref_key_rebuild_t9_index_title">"インデックスデータを再構築"</string>
+  <string name="pref_key_sdn_manage">SDNを表示</string>
+  <string name="pref_key_sdn_manage1">SDNカード1を表示</string>
+  <string name="pref_key_sdn_manage2">SDNカード2を表示</string>
   <string name="pref_key_sim_manage">"SIMカード"</string>
   <string name="pref_key_sim_manage1">Set up SIM card 1</string>
   <string name="pref_key_sim_manage2">Set up SIM card 2</string>
@@ -956,6 +959,8 @@ To add a contact to your list of favorites:
   <string name="scan_qrcode_card_hint1">"上記のQRコードをスキャンしてください"</string>
   <string name="scanning_sdcard_failed_message">理由: \"%s\"</string>
   <string name="scanning_sdcard_failed_title">"SDカードを読み込めませんでした"</string>
+  <string name="sdnContacts_empty">No SDN</string>
+  <string name="sdnContacts_emptyLoading">Loading SDN…</string>
   <string name="searchHint">"連絡先を検索"</string>
   <string name="search_batch_delete">Organize;Contacts</string>
   <string name="search_contacts_display">Contacts;Display</string>
@@ -1076,6 +1081,7 @@ To add a contact to your list of favorites:
   <string name="social_widget_label">"連絡先"</string>
   <string name="social_widget_loading">"読み込み中..."</string>
   <string name="solar_calendar">"グレゴリオ暦"</string>
+  <string name="special_code_security_exception">Operation rejected：Not default dialer</string>
   <string name="splitConfirmation">"この連絡先を複数の連絡先に分割します。"</string>
   <string name="splitConfirmation_title">"連絡先を分けますか？"</string>
   <string name="starredList">"スター付き"</string>

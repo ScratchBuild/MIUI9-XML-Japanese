@@ -160,7 +160,7 @@
   <string name="comment_app_menu">"コメント"</string>
   <string name="comment_description">"コメント"</string>
   <string name="comment_hint">"コメント"</string>
-  <string name="comment_max_length">Sorry, the input box is full.</string>
+  <string name="comment_max_length">"入力したコメントが長すぎます。"</string>
   <string name="comment_menu">"コメント"</string>
   <string name="comment_num_description">Comment number</string>
   <string name="common_use_phrase_bottom_bar_text_next">"次へ"</string>
@@ -290,7 +290,7 @@
   <string name="error_unauthorized">"ログインの回数が多すぎるため、Mi Accountとの同期がオフになっています。"</string>
   <string name="exit">"終了"</string>
   <string name="exit_browser_warning">"ブラウザを終了しますか？"</string>
-  <string name="favorite">"お気に入り"</string>
+  <string name="favorite">"お気に入りに追加"</string>
   <string name="file_dir">"フォルダの変更"</string>
   <string name="file_name">"名前: "</string>
   <string name="file_picker">Select path</string>
@@ -368,7 +368,7 @@
   <string name="media_error_video_not_exist">"動画が存在しません"</string>
   <string name="menu_preferences">"設定"</string>
   <string name="menu_title_clear_all">"すべて消去"</string>
-  <string name="menu_title_open_file_management">"File Explorerを開く"</string>
+  <string name="menu_title_open_file_management">"File Managerを開く"</string>
   <string name="menu_title_pause_all">"すべて停止"</string>
   <string name="menu_title_resume_all">"すべて開始"</string>
   <string name="miui_autologin_bar_error">"ログインに失敗しました"</string>
@@ -799,7 +799,7 @@
   <string name="open_app_confirm_message">Allow this page to open %s?</string>
   <string name="open_cloud_sync">"Mi Cloudとの同期をオンにする"</string>
   <string name="open_cloud_sync_desc">"ブックマークを正常に追加しました。他の端末に保存されたブックマークを同期するには、Mi Cloudとの同期をオンにしてください。今すぐログインしてオンにしますか？"</string>
-  <string name="open_file_explorer_failed">"File Explorerを開くことができません"</string>
+  <string name="open_file_explorer_failed">"File Managerを開くことができません"</string>
   <string name="open_voice_permission">Allow the mic to connect to the internet</string>
   <string name="page_info">"ページ情報"</string>
   <string name="page_info_address">"アドレス:"</string>
@@ -1081,13 +1081,13 @@ Browser needs to connect to the internet to work normally. You must agree to our
   <string name="suggest_access_music">Mi Music</string>
   <string name="suggest_item_delete_text">"削除"</string>
   <string name="suggest_open_app_failed">"このアプリを開くことができませんでした"</string>
-  <string name="suggestion_express_button_query_more">SEE MORE</string>
-  <string name="suggestion_express_button_text_query">QUERY</string>
-  <string name="suggestion_express_exception_net">The network is abnormal. Please check the network connection</string>
-  <string name="suggestion_express_exception_number">The number is incorrect, please check the related number</string>
-  <string name="suggestion_express_exception_server">Abnormal server, please check later</string>
-  <string name="suggestion_express_input_empty">The tracking number should not be empty</string>
-  <string name="suggestion_express_input_hint_inside">Please enter tracking number</string>
+  <string name="suggestion_express_button_query_more">VIEW MORE</string>
+  <string name="suggestion_express_button_text_query">CHECK</string>
+  <string name="suggestion_express_exception_net">"Couldn't connect to the network. Check your network settings and try again."</string>
+  <string name="suggestion_express_exception_number">The number is incorrect. Check your number and try again.</string>
+  <string name="suggestion_express_exception_server">A server error occurred. Wait a minute or two and try again.</string>
+  <string name="suggestion_express_input_empty">"Tracking number can't be empty."</string>
+  <string name="suggestion_express_input_hint_inside">Enter tracking number</string>
   <string name="suggestion_express_input_hint_out">Tracking number:</string>
   <string name="suggestion_express_title">Express single number query</string>
   <string name="suggestion_lottery_detail_pour">%s NOTE</string>

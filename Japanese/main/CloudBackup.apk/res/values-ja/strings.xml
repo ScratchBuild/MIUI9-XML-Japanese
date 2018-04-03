@@ -88,7 +88,6 @@
   <string name="desktop_installing">インストール中</string>
   <string name="desktop_wait_wifi">待機中</string>
   <string name="desktop_waiting">待機中</string>
-  <string name="device_corrupt">Mi Phone (データが破損しています)</string>
   <string name="device_delete_prompt">%sのバックアップを削除しますか？</string>
   <string name="device_xiaomi">Mi Phone</string>
   <string name="dialog_btn_next">次へ</string>
@@ -108,6 +107,9 @@
   <string name="download_settings">ホーム画面の設定をダウンロード中 %s%%</string>
   <string name="download_settings_fail">ホーム画面の設定をダウンロードできませんでした</string>
   <string name="error_unknown">"不明なエラー"</string>
+  <string name="get_device_id_error">デバイスIDを取得できませんでした</string>
+  <string name="home_hint_global_launcher">Desktop Poco</string>
+  <string name="home_restore_error">ホーム画面の復元に失敗しました</string>
   <string name="lack_of_storage">ストレージの空き領域が不足しています</string>
   <string name="latest_backup_time_loading">読み込み中…</string>
   <string name="managespace_delete_backup">削除</string>
@@ -153,6 +155,7 @@
   <string name="restore_unfinished">復元中、後ほど再試行してください</string>
   <string name="retry">再試行</string>
   <string name="self_phone">"この端末"</string>
+  <string name="self_phone_home">この端末: %s</string>
   <string name="settings_backup">システム設定</string>
   <string name="size_unknown">不明なサイズ</string>
   <string name="start_backup_to_micloud">"Mi Cloudへアプリをバックアップ"</string>
