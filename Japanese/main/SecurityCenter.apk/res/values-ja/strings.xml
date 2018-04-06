@@ -685,6 +685,15 @@
   <string name="exception_notify_message">"エラーのためデータ使用量の統計を取得できませんでした。復元するため再起動します。"</string>
   <string name="exception_titile">"エラーが発生しました"</string>
   <string name="exit">"終了"</string>
+  <string name="exit_dialog_garbage_clean_message">"お使いの端末にゴミが%s以上貯まっています。今すぐ整理しますか？"</string>
+  <string name="exit_dialog_garbage_clean_positive_button">"ゴミを整理する"</string>
+  <string name="exit_dialog_garbage_clean_title">"ゴミを整理する"</string>
+  <string name="exit_dialog_release_storage_message">"端末のストレージの80%以上が占有されています。使用していないアプリをアンインストールして空き領域を確保しましょう。"</string>
+  <string name="exit_dialog_release_storage_positive_button">"空き領域を確保"</string>
+  <string name="exit_dialog_release_storage_title">"空き領域を確保"</string>
+  <string name="exit_dialog_scan_message">"お使いの端末のパフォーマンススコアは75ポイント未満です。今すぐ最適化しますか？"</string>
+  <string name="exit_dialog_scan_positive_button">"最適化"</string>
+  <string name="exit_dialog_scan_title">"パフォーマンスを最適化"</string>
   <string name="finger_remind_message">"初めに指紋を追加してください。タップで[設定]を開きます。"</string>
   <string name="fingerprint_identify_msg">"指紋によるロック解除をオンにする"</string>
   <string name="fingerprint_not_identified_msg">"指紋を読み取れませんでした、パスワードを入力してください"</string>
