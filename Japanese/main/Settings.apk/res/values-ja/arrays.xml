@@ -112,6 +112,7 @@
         <item>画面をオン</item>
         <item>アカウントの取得</item>
         <item>バックグラウンドで実行</item>
+        <item>ユーザー補助機能の音量</item>
     </string-array>
     <string-array name="app_ops_summaries">
         <item>おおよその位置情報</item>
@@ -178,6 +179,7 @@
         <item>画面をオン</item>
         <item>アカウントの取得</item>
         <item>バックグラウンドで実行</item>
+        <item>ユーザー補助機能の音量</item>
     </string-array>
     <string-array name="app_process_limit_entries">
         <item>標準の上限</item>
@@ -209,6 +211,79 @@
         <item>1xRTT</item>
         <item>IS95B</item>
         <item>IS95A</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
+        <item>システムの選択（デフォルト）を使用</item>
+        <item>16 ビット / サンプル</item>
+        <item>24 ビット / サンプル</item>
+        <item>32 ビット / サンプル</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_bits_per_sample_titles">
+        <item>システムの選択（デフォルト）を使用</item>
+        <item>16 ビット / サンプル</item>
+        <item>24 ビット / サンプル</item>
+        <item>32 ビット / サンプル</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_channel_mode_summaries">
+        <item>システムの選択（デフォルト）を使用</item>
+        <item>モノラル</item>
+        <item>ステレオ</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_channel_mode_titles">
+        <item>システムの選択（デフォルト）を使用</item>
+        <item>モノラル</item>
+        <item>ステレオ</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_summaries">
+        <item>音質重視で最適化</item>
+        <item>音質と接続の品質のバランスを確保</item>
+        <item>接続の品質重視で最適化</item>
+        <item>ベスト エフォート（アダプティブ ビットレート）</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
+        <item>音質重視で最適化（990 kbps / 909 kbps）</item>
+        <item>音質と接続の品質のバランスを確保（660 kbps / 606 kbps）</item>
+        <item>接続の品質重視で最適化（330 kbps / 303 kbps）</item>
+        <item>ベスト エフォート（アダプティブ ビットレート）</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
+        <item>システムの選択（デフォルト）を使用</item>
+        <item>44.1 kHz</item>
+        <item>48.0 kHz</item>
+        <item>88.2 kHz</item>
+        <item>96.0 kHz</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_sample_rate_titles">
+        <item>システムの選択（デフォルト）を使用</item>
+        <item>44.1 kHz</item>
+        <item>48.0 kHz</item>
+        <item>88.2 kHz</item>
+        <item>96.0 kHz</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_summaries">
+        <item>システムの選択（デフォルト）を使用</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>aptX</item>
+        <item>aptX HD</item>
+        <item>LDAC</item>
+        <item>オプションのコーデックを有効にします</item>
+        <item>オプションのコーデックを無効にします</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_titles">
+        <item>システムの選択（デフォルト）を使用</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>aptX</item>
+        <item>aptX HD</item>
+        <item>LDAC</item>
+        <item>オプションのコーデックの有効化</item>
+        <item>オプションのコーデックの無効化</item>
+    </string-array>
+    <string-array name="bluetooth_avrcp_versions">
+        <item>AVRCP 1.4（デフォルト）</item>
+        <item>AVRCP 1.5</item>
+        <item>AVRCP 1.6</item>
     </string-array>
     <string-array name="bluetooth_visibility_timeout_entries">
         <item>2分</item>
@@ -335,6 +410,10 @@
         <item>OFF</item>
         <item>オーバードロー領域の表示</item>
         <item>第二色弱の方向けの領域の表示</item>
+    </string-array>
+    <string-array name="debug_hw_renderer_entries">
+        <item>OpenGL（デフォルト）</item>
+        <item>OpenGL（Skia）</item>
     </string-array>
     <string-array name="dream_timeout_entries">
         <item>起動しない</item>
@@ -555,6 +634,7 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>やや不足</item>
         <item>かなり不足</item>
         <item>残りわずか</item>
+        <item>不明</item>
     </string-array>
     <string-array name="screen_button_style">
         <item>左手スタイル</item>
@@ -618,6 +698,18 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>1MB/ログバッファ</item>
         <item>4MB/ログバッファ</item>
         <item>16MB/ログバッファ</item>
+    </string-array>
+    <string-array name="select_logpersist_summaries">
+        <item>OFF</item>
+        <item>すべてのログバッファ</item>
+        <item>ラジオ ログバッファ以外すべて</item>
+        <item>カーネル ログ バッファのみ</item>
+    </string-array>
+    <string-array name="select_logpersist_titles">
+        <item>OFF</item>
+        <item>すべて</item>
+        <item>ラジオ以外すべて</item>
+        <item>カーネルのみ</item>
     </string-array>
     <string-array name="show_non_rect_clip_entries">
         <item>オフ</item>
@@ -831,6 +923,7 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>プロキシの自動設定</item>
     </string-array>
     <string-array name="wifi_signal">
+        <item>弱</item>
         <item>弱</item>
         <item>中</item>
         <item>強</item>
