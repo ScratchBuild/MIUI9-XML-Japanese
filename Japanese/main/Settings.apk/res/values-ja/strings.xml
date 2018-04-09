@@ -2545,6 +2545,8 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="miui_lab_slogan">Learn. Explore. Discover.</string>
   <string name="miui_lab_taplus_desc">アイテムを長押ししてアクションをトリガーする</string>
   <string name="miui_lab_taplus_title">起動するアプリ</string>
+  <string name="miui_master_clear_summary">端末のすべてのデータを消去します</string>
+  <string name="miui_touch_filtered_warning">アプリがアクセス許可のダイアログをブロックしている場合は、重なっている項目をドラッグして移動するか、アプリを終了してください。</string>
   <string name="miui_updater">システムの更新</string>
   <string name="miui_userguide">ユーザーガイド</string>
   <string name="mms_breathing_light_color_title">メッセージLEDの色</string>
@@ -5425,6 +5427,7 @@ Android端末をUSBケーブルでコンピューターにつなぐことで、�
   <string name="wifiap_turn_on_hint">To use WLAN wifiap, turn it on.</string>
   <string name="wimax_settings">4G</string>
   <string name="window_animation_scale_title">ウィンドウアニメスケール</string>
+  <string name="wireless_connected">接続しました</string>
   <string name="wireless_networks_settings_title">無線とネットワーク</string>
   <string name="wireless_off">オフ</string>
   <string name="wireless_on">オン</string>

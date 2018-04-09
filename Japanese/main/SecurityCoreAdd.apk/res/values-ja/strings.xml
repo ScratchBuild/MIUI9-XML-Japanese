@@ -200,6 +200,8 @@ Otherwise you may not be able to enter Second space from Lock screen."</string>
   <string name="radio_button_icon_switch_title">"ショートカットを使用する"</string>
   <string name="radio_button_password_switch_title">"パスワードを使用する"</string>
   <string name="removeSuccess">"削除が完了しました"</string>
+  <string name="remove_button">"削除して再起動"</string>
+  <string name="remove_button_time">"削除して再起動(%d秒)"</string>
   <string name="remove_second_space_msg">"Second spaeceを削除すると、すべてのSecond spaceのアプリデータが失われます。今すぐSecond spaceを削除すますか？"</string>
   <string name="remove_user_click_message">"*Second spaceに重要なアイテムがない場合、%s"</string>
   <string name="remove_user_click_message_action">"Second spaceを削除して、今すぐ端末を再起動します。"</string>
@@ -309,6 +311,8 @@ Otherwise you may not be able to enter Second space from Lock screen."</string>
   <string name="start_new_fingerprint_tips">"Use Second space fingerprint
 to enter Second space from Lock screen"</string>
   <string name="start_setting_guide_desc_title">There are a few things to set up</string>
+  <string name="stop_xspace_alert_content">"すべてのデュアルアプリを削除しました。デュアルアプリのアカウントとアプリデータも削除しますか？削除後、必要に応じてもう一度デュアルアプリを作成する必要があります。"</string>
+  <string name="stop_xspace_alert_title">"デュアルアプリのアカウントを削除する"</string>
   <string name="summary_switch_apps_settings">"現在のspaceで使用するアプリを選択"</string>
   <string name="sure_to_use">"確認"</string>
   <string name="switchDataSummary">Move items between spaces</string>
