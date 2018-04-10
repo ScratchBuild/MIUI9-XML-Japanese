@@ -3,8 +3,8 @@
   <string name="about_hide_mode">"バッテリーセーバーについて"</string>
   <string name="app_list_title">"アプリを選択"</string>
   <string name="app_name">"電池とパフォーマンス"</string>
-  <string name="app_preload_policies_summary">"MLモデルを使用して頻繁に利用するアプリを予測し、リソースを事前に読み込むことでアプリの起動パフォーマンスを向上させます。"</string>
-  <string name="app_preload_policies_title">"AIプリロード"</string>
+  <string name="app_preload_policies_summary">"機械学習を用いて、ユーザーが使用する可能性がもっとも高いアプリを予測し、事前にリソースを読み込みます。"</string>
+  <string name="app_preload_policies_title">AI pre-loading</string>
   <string name="base_info">"基本情報"</string>
   <string name="cloud_addr_info">Cloud info</string>
   <string name="cloud_china_addr">Update Chinese server data</string>

@@ -133,6 +133,7 @@
   <string name="cancel">"キャンセル"</string>
   <string name="cancle_sync_cloud_tabs">"同期をキャンセル"</string>
   <string name="cannot_download">"ダウンロードできるのは\"http\"または\"https\"のURLのみです"</string>
+  <string name="cast_video">"動画をキャスト"</string>
   <string name="check_security_tip_privacy_policy">"プライバシーポリシー"</string>
   <string name="check_security_tip_user_agreement">"利用規約"</string>
   <string name="choosertitle_sharevia">"共有ツール"</string>
@@ -157,6 +158,7 @@
   <string name="cloud_tabs_sync_off">"同期はオフです"</string>
   <string name="cloud_time_tips">"前回の同期"</string>
   <string name="cloud_up_to_loading_tips">"指を離して更新"</string>
+  <string name="collect_video">"動画を収集"</string>
   <string name="comment_app_menu">"コメント"</string>
   <string name="comment_description">"コメント"</string>
   <string name="comment_hint">"コメント"</string>
@@ -264,6 +266,7 @@
   <string name="download_status_pending">"待機中"</string>
   <string name="download_success">"完了"</string>
   <string name="download_title">"ダウンロード"</string>
+  <string name="download_video">"動画をダウンロード"</string>
   <string name="download_wait_connect">"接続を待機中"</string>
   <string name="edit">"編集"</string>
   <string name="edit_bookmark">"ブックマークを編集"</string>
@@ -557,7 +560,7 @@
   <string name="mw_miuichromium_error_page_problem_access_denied">"%s0へのアクセスが拒否されました。"</string>
   <string name="mw_miuichromium_error_page_problem_cache_miss">"The cached version of this page can't be loaded."</string>
   <string name="mw_miuichromium_error_page_problem_cannot_open_page">"ページを開くことができません。"</string>
-  <string name="mw_miuichromium_error_page_problem_cannot_open_page_reason_blocked_by_response">"The page can't be opened. Access is blocked by %s0 ."</string>
+  <string name="mw_miuichromium_error_page_problem_cannot_open_page_reason_blocked_by_response">"The page can't be opened. Access is blocked by %s0."</string>
   <string name="mw_miuichromium_error_page_problem_cannot_open_page_reason_connection_closed">"The page can't be opened. %s0 interrupted connection."</string>
   <string name="mw_miuichromium_error_page_problem_cannot_open_page_reason_connection_refused">"The page can't be opened. %s0 refused to connect."</string>
   <string name="mw_miuichromium_error_page_problem_cannot_open_page_reason_connection_reset">"The page can't be opened. Connection was reset."</string>
@@ -643,6 +646,16 @@
           &lt;li>Your internet service provider
         &lt;/ul>"</string>
   <string name="mw_no_matches">"該当なし"</string>
+  <string name="mw_notification_category_browser">ブラウザ</string>
+  <string name="mw_notification_category_content_suggestions">Content Suggestions</string>
+  <string name="mw_notification_category_downloads">ダウンロード</string>
+  <string name="mw_notification_category_fullscreen_controls">全画面表示</string>
+  <string name="mw_notification_category_group_general">全般</string>
+  <string name="mw_notification_category_incognito">シークレット モード</string>
+  <string name="mw_notification_category_media">メディア</string>
+  <string name="mw_notification_category_screen_capture">スクリーンショット</string>
+  <string name="mw_notification_category_sites">サイト</string>
+  <string name="mw_notification_hidden_text">メッセージは非表示です</string>
   <string name="mw_ntp_title_no_suggestions">That’s all for now</string>
   <string name="mw_older">Older</string>
   <string name="mw_opening_file_error">"選択したファイルを開くことができませんでした。"</string>
@@ -814,6 +827,9 @@
   <string name="pay_success_toast">"支払いが完了しました"</string>
   <string name="permission_notification">send notifications.</string>
   <string name="permissions_prompt_message">%s wants to</string>
+  <string name="play_pause_video">"動画を再生/一時停止"</string>
+  <string name="play_video">"動画を再生"</string>
+  <string name="popup_video">"動画をポップアップ"</string>
   <string name="popup_window_attempt">"このサイトにポップアップウィンドウを開くことを許可しますか？"</string>
   <string name="positive_confirm_message">"とにかくオフにする"</string>
   <string name="pref_accept_quicklink_push">News feed</string>
@@ -1018,6 +1034,7 @@
   <string name="share_by_yidianzixun">【ちょっとした情報】</string>
   <string name="share_image_text">こんなものを見つけました！ @MIUI</string>
   <string name="share_page_text">こんなものを見つけました: %1$s @MIUI| %2$s</string>
+  <string name="share_video">動画を共有</string>
   <string name="show_check_security_url_check_tip_dialog_description">"We will collect and use your personal data if you choose to use our services.
 Here's the data that we'll collect:
 1. Secure URLs: We'll collect the URLs of the websites you visit while using our services.

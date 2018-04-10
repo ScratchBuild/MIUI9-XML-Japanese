@@ -492,7 +492,7 @@
   <string name="power_discharging_duration_short">%1$s - %2$s（残り時間）</string>
   <string name="power_remaining_duration_only">あと約 %1$s</string>
   <string name="power_remaining_duration_only_short">%1$s（残り時間）</string>
-  <string name="prompt_danger">リスク</string>
+  <string name="prompt_danger">危険</string>
   <string name="prompt_detecting">検出中</string>
   <string name="prompt_failure">エラー</string>
   <string name="prompt_return_to_split">分割画面</string>
