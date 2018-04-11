@@ -688,6 +688,7 @@
   <string name="exit_dialog_garbage_clean_message">"お使いの端末にゴミが%s以上貯まっています。今すぐ整理しますか？"</string>
   <string name="exit_dialog_garbage_clean_positive_button">"ゴミを整理する"</string>
   <string name="exit_dialog_garbage_clean_title">"ゴミを整理する"</string>
+  <string name="exit_dialog_homepage_optimise_message">"お使いの端末のパフォーマンススコアは80ポイント未満です。今すぐ最適化しますか？"</string>
   <string name="exit_dialog_release_storage_message">"端末のストレージの80%以上が占有されています。使用していないアプリをアンインストールして空き領域を確保しましょう。"</string>
   <string name="exit_dialog_release_storage_positive_button">"空き領域を確保"</string>
   <string name="exit_dialog_release_storage_title">"空き領域を確保"</string>
@@ -780,6 +781,12 @@
   <string name="gb_description_image_button_video_answer">"ビデオ通話"</string>
   <string name="gb_get_gift_right_now">"今すぐチェックイン"</string>
   <string name="gb_have_signed">"今日はチェックイン済み"</string>
+  <string name="gb_msg_completely_shielded">"メッセージを隠す"</string>
+  <string name="gb_msg_completely_shielded_summary">"隠す"</string>
+  <string name="gb_msg_quickly_answer">"クイック返信を許可する"</string>
+  <string name="gb_msg_quickly_answer_summary">"クイック返信"</string>
+  <string name="gb_msg_transparent_dispaly">Notifications with transparent background</string>
+  <string name="gb_msg_transparent_dispaly_summary">"不透明度"</string>
   <string name="gb_network_status_bad">"接続エラーが発生しました。"</string>
   <string name="gb_new_feature">New feature</string>
   <string name="gb_sign_gift">"報酬を受け取るにはチェックイン"</string>

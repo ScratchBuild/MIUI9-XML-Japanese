@@ -75,6 +75,8 @@
   <string name="accessibility_toggle_speak_password_preference_title">パスワードの音声出力</string>
   <string name="accessibility_wifi_off">Wi-FiはOFFです。</string>
   <string name="accessibility_wifi_one_bar">Wi-Fi電波状態:レベル1</string>
+  <string name="accessibility_wifi_security_type_none">オープン ネットワーク</string>
+  <string name="accessibility_wifi_security_type_secured">保護されたネットワーク</string>
   <string name="accessibility_wifi_signal_full">Wi-Fi電波状態:フル</string>
   <string name="accessibility_wifi_three_bars">Wi-Fi電波状態:レベル3</string>
   <string name="accessibility_wifi_two_bars">Wi-Fi電波状態:レベル2</string>
@@ -1017,6 +1019,9 @@
   <string name="confirm_erase">消去する</string>
   <string name="confirm_fingerprint_icon_content_description">続行するには指紋認証を使用してください。</string>
   <string name="confirm_fingerprint_msg">指をセンサーに当ててください</string>
+  <string name="confirm_frp_credential_message">端末は工場出荷時の状態にリセットされています。以前の機密情報でロックを解除できます。</string>
+  <string name="confirm_frp_credential_skip_txt">代わりにGoogleアカウントを使用する</string>
+  <string name="confirm_frp_credential_title">Factory Reset Protection</string>
   <string name="confirm_new_backup_pw_prompt">新しいフルバックアップパスワードをここに再入力してください</string>
   <string name="confirm_privacy_password">プライバシー保護パスワードを入力</string>
   <string name="confirm_privacy_password_fingerprint">指紋を読み取るか、プライバシー保護パスワードを入力</string>
@@ -5366,6 +5371,7 @@ Android端末をUSBケーブルでコンピューターにつなぐことで、�
   <string name="wifi_tether_configure_ap_text">Wi-Fiアクセスポイントをセットアップ</string>
   <string name="wifi_tether_configure_subtext">%1$s %2$sポータブルWi-Fiアクセスポイント</string>
   <string name="wifi_tether_enabled_subtext">ポータブルアクセスポイント%1$sが有効です</string>
+  <string name="wifi_tether_enabled_summary">%1$sが有効です</string>
   <string name="wifi_tether_failed_subtext">ポータブルWi-Fiアクセスポイントエラー</string>
   <string name="wifi_tether_first_use_message">Set up Mobile HotSpot at the First Use</string>
   <string name="wifi_tether_setting_title">設定</string>

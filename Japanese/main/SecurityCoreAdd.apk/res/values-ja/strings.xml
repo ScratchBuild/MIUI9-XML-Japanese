@@ -201,7 +201,7 @@ Otherwise you may not be able to enter Second space from Lock screen."</string>
   <string name="radio_button_password_switch_title">"パスワードを使用する"</string>
   <string name="removeSuccess">"削除が完了しました"</string>
   <string name="remove_button">"削除して再起動"</string>
-  <string name="remove_button_time">"削除して再起動(%d秒)"</string>
+  <string name="remove_button_time">"削除して再起動 (%d秒)"</string>
   <string name="remove_second_space_msg">"Second spaeceを削除すると、すべてのSecond spaceのアプリデータが失われます。今すぐSecond spaceを削除すますか？"</string>
   <string name="remove_user_click_message">"*Second spaceに重要なアイテムがない場合、%s"</string>
   <string name="remove_user_click_message_action">"Second spaceを削除して、今すぐ端末を再起動します。"</string>

@@ -888,6 +888,7 @@
   <string name="prompt_to_turnoff_volte_when_failed">VoLTEサービスは利用できません。電話をかけるにはVoLTEをオフにしてください。</string>
   <string name="prompt_to_turnoff_volte_when_supp_service">サービスは利用できません。[設定]からVoLTEをオフにしてください。</string>
   <string name="prompt_when_turnon_volte_on_3g_prefered">VoLTEをオンにする前に、優先ネットワークタイプとしてLTEを選択してください。</string>
+  <string name="prompt_when_turnon_volte_without_lte">"VoLTEネットワークは現在利用できません。 VoLTEをオンにすると、通常の通話ができなくなることがあります。"</string>
   <string name="propmpt_dialog_do_not_ask">二度と表示しない</string>
   <string name="propmpt_dialog_network_failed_title">通話がタイムアウトしました</string>
   <string name="propmpt_dialog_no_call_back_content">Its taking too long to connect. Switching to regular call for which you might be charged by the carrier.</string>
@@ -1075,6 +1076,7 @@
   <string name="sum_select_automatically">"自動的に優先ネットワークを選択"</string>
   <string name="sum_show_caller_id">発信時に番号を通知する</string>
   <string name="sum_voicemail_choose_provider">ボイスメールサービスを選択</string>
+  <string name="switch_dds_to_sub_alert">このSIMカードをデフォルトのデータカードとして設定します。</string>
   <string name="t9_indexing_method_pinyin">ピンイン</string>
   <string name="t9_indexing_method_title">T9検索入力</string>
   <string name="t9_indexing_method_zhuyin">ボポモフォ</string>
@@ -1153,6 +1155,7 @@
   <string name="ussdRunning">USSDコードを実行中...</string>
   <string name="vibrate_after_connected_summary">応答時にバイブレーションする</string>
   <string name="vibrate_after_connected_title">接続後にバイブレーション</string>
+  <string name="vice_card_data_in_use_alert">追加の料金が発生する可能性があります。</string>
   <string name="vice_slot_volte_data_switch_prompt">VoLTE通話中は2枚目のSIMを使用して端末がモバイルデータネットワークに接続します。これにより、追加料金が発生する場合があります。データプランの詳細については、携帯通信会社にお問い合わせください。</string>
   <string name="vice_slot_volte_data_switch_summary">VoLTE通話中、端末は2枚目のSIMを使用してモバイルデータネットワークに接続します</string>
   <string name="vice_slot_volte_data_switch_title">VoLTE通話中は2枚目のSIMでモバイルデータ接続する</string>
@@ -1185,6 +1188,7 @@
   <string name="volte_switch_summary">"VoLTEを使用して通話品質を向上させる"</string>
   <string name="volte_switch_summary2">この機能を有効にする前に、キャリアがこの機能をサポートしている事を確認してください。それ以外の場合には、通常の通話に影響する可能性があります。</string>
   <string name="volte_switch_title">"VoLTEを有効にする"</string>
+  <string name="volte_switch_title_ct">VoLTEが有効です</string>
   <string name="volte_tips_when_turn_on">China TelecomのVoLTEサービスは、LTEネットワークのエリア内でのみ提供されます。</string>
   <string name="wait_prompt_str">"次の番号を送信しますか？\n"</string>
   <string name="wifi_calling">"Wi-Fi通話"</string>
