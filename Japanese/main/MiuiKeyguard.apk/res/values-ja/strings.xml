@@ -72,6 +72,9 @@
   <string name="fingerprint_try_again_msg">"指紋を確認できませんでした、もう一度お試しください。"</string>
   <string name="fingerprint_try_again_text">"再試行"</string>
   <string name="forget_password_string">"パスワードを忘れた場合"</string>
+  <string name="gxzw_press_harder">"強く押してください"</string>
+  <string name="gxzw_try_more_again">"もう一度やり直す"</string>
+  <string name="gxzw_use_password">"パスワードを使用してください"</string>
   <string name="incorrect_pincode">"PINコードが正しくありません"</string>
   <string name="incorrect_pukcode">"PUKコードが正しくありません"</string>
   <string name="input_password_after_boot_msg">"端末のロックを解除するには、パスワードを入力します"</string>

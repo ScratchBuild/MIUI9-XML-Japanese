@@ -62,6 +62,7 @@
   <string name="shut_down">"シャットダウン"</string>
   <string name="sim_card_detecting">"SIMカードを確認中…"</string>
   <string name="sim_card_detecting_check">"SIMカードが見つかりませんでした。SIMカードが正しく挿入されているか、十分な残高があるかをそれぞれ確認してください。"</string>
+  <string name="sim_card_detecting_confirm_turn_on_network">"モバイルデータネットワークへの接続を許可しますか？許可をすると、挿入したSIMカードはモバイルデータネットワークに接続するために使用されます。"</string>
   <string name="sim_card_detecting_title">"SIMカードを確認"</string>
   <string name="sim_card_detection">"SIMカードを挿入"</string>
   <string name="sim_card_detection_info">"SIMカードを挿入するには、デバイスに付属の説明書をお読みください。"</string>
