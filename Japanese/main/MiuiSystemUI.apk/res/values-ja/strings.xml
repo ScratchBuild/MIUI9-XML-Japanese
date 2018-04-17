@@ -211,6 +211,7 @@
   <string name="confirm_enable_oem_unlock_title">OEMロック解除の許可</string>
   <string name="connected_via_passpoint">"%1$s経由で接続しました"</string>
   <string name="connected_via_wfa">"Wi-Fiアシスタント経由で接続しました"</string>
+  <string name="content_description_menu_button">メニュー</string>
   <string name="convert_to_fbe_warning">"データ パーティションをファイルベースの暗号化に変換します。
  警告: この操作ではユーザーのデータがすべて削除されます。
  この機能は開発中であり、正しく機能しない恐れがあります。
@@ -240,6 +241,7 @@
   <string name="debug_drawing_category">描画</string>
   <string name="debug_hw_drawing_category">ハードウェアアクセラレーテッドレンダリング</string>
   <string name="debug_hw_overdraw">GPUオーバードローをデバッグ</string>
+  <string name="debug_hw_renderer">GPU レンダラの設定</string>
   <string name="debug_input_category">入力</string>
   <string name="debug_layout">レイアウト境界を表示</string>
   <string name="debug_layout_summary">クリップの境界線、マージンなどを表示</string>
@@ -265,6 +267,7 @@
   <string name="disable_notification_title">通知を非表示</string>
   <string name="disable_overlays">HWオーバーレイを無効</string>
   <string name="disable_overlays_summary">画面合成に常にGPUを使用する</string>
+  <string name="disabled">無効</string>
   <string name="disabled_by_admin">管理者によって無効にされています</string>
   <string name="disabled_by_admin_summary_text">管理者により管理されています</string>
   <string name="dismount_storage">いいえ</string>
@@ -352,6 +355,7 @@
   <string name="inactive_app_active_summary">有効です。タップすると切り替わります。</string>
   <string name="inactive_app_inactive_summary">無効です。タップすると切り替わります。</string>
   <string name="inactive_apps_title">休止中のアプリ</string>
+  <string name="install_other_apps">不明なアプリのインストール</string>
   <string name="invalid_charger">"USB充電はサポートしていません。
 付属の充電器を使用してください。"</string>
   <string name="keep_screen_on">スリープモードにしない</string>
@@ -552,6 +556,10 @@
   <string name="recents_search_bar_label">検索</string>
   <string name="recents_stack_action_button_label">すべて削除</string>
   <string name="reject_call">"着信を拒否"</string>
+  <string name="remaining_length_format">あと %1$s</string>
+  <string name="retail_demo_reset_message">デモモードで初期状態にリセットするには、パスワードを入力してください</string>
+  <string name="retail_demo_reset_next">次へ</string>
+  <string name="retail_demo_reset_title">パスワード必須</string>
   <string name="return_to_incall_screen">通話に戻る</string>
   <string name="running_process_item_user_label">ユーザー: %1$s</string>
   <string name="runningservices_settings_summary">現在実行中のサービスを表示して制御する</string>
@@ -613,6 +621,8 @@
   <string name="show_hw_screen_updates">GPU表示の更新を表示</string>
   <string name="show_hw_screen_updates_summary">GPUでの描画時にウィンドウ内の表示を点滅させる</string>
   <string name="show_non_rect_clip">非矩形クリップ操作をデバッグ</string>
+  <string name="show_notification_channel_warnings">通知チャネルの警告を表示</string>
+  <string name="show_notification_channel_warnings_summary">アプリから有効なチャネルのない通知が投稿されたときに画面上に警告を表示します</string>
   <string name="show_screen_updates">表示面の更新を表示</string>
   <string name="show_screen_updates_summary">更新時にウィンドウの表示面全体を点滅させる</string>
   <string name="show_touches">タップを表示</string>
@@ -654,6 +664,8 @@ EEEE"</string>
   <string name="strict_mode">厳格モードを有効にする</string>
   <string name="strict_mode_summary">メインスレッドの処理が長引く場合は画面を点滅させる</string>
   <string name="task_access_locked_app_msg">アプリロックをオン</string>
+  <string name="telephony_monitor_switch">Telephony monitor</string>
+  <string name="telephony_monitor_switch_summary">Telephony Monitor は、電話やモデムの機能で問題が検出されたときにログを収集し、バグを報告するようユーザーに通知を表示します</string>
   <string name="tether_settings_title_all">テザリングとポータブルアクセスポイント</string>
   <string name="tether_settings_title_bluetooth">Bluetoothテザリング</string>
   <string name="tether_settings_title_usb">USBテザリング</string>
@@ -668,6 +680,38 @@ EEEE"</string>
   <string name="torch_opened">ライトをオン</string>
   <string name="track_frame_time">GPUレンダリングのプロファイル作成</string>
   <string name="transition_animation_scale_title">トランジションアニメスケール</string>
+  <string name="tts_default_lang_summary">テキスト読み上げに使用する言語固有の音声を設定する</string>
+  <string name="tts_default_lang_title">言語</string>
+  <string name="tts_default_pitch_summary">合成音声のトーンに影響します</string>
+  <string name="tts_default_pitch_title">音の高さ</string>
+  <string name="tts_default_rate_summary">テキストの読み上げ速度</string>
+  <string name="tts_default_rate_title">音声の速度</string>
+  <string name="tts_default_sample_string">これは音声合成のサンプルです</string>
+  <string name="tts_engine_network_required">この言語でテキスト読み上げを出力するには、ネットワーク接続が正常に機能している必要があります。</string>
+  <string name="tts_engine_preference_section_title">優先するエンジン</string>
+  <string name="tts_engine_security_warning">この音声合成エンジンを使用すると、読み上げるすべてのテキストの収集をエンジン（%s）に許可することになります。これにはパスワードやクレジットカード番号などの個人情報も含まれます。この音声合成エンジンを有効にしますか？</string>
+  <string name="tts_engine_settings_button">エンジン設定を起動</string>
+  <string name="tts_engine_settings_title">%sの設定</string>
+  <string name="tts_general_section_title">全般</string>
+  <string name="tts_install_data_summary">音声合成に必要な音声データをインストールする</string>
+  <string name="tts_install_data_title">音声データをインストール</string>
+  <string name="tts_lang_not_selected">言語が選択されていません</string>
+  <string name="tts_lang_use_system">システムの言語を使用</string>
+  <string name="tts_play_example_summary">音声合成の短いサンプルを再生する</string>
+  <string name="tts_play_example_title">サンプルを再生</string>
+  <string name="tts_reset_speech_pitch_summary">テキスト読み上げの音声の高さをデフォルトにリセットします。</string>
+  <string name="tts_reset_speech_pitch_title">音声の高さをリセット</string>
+  <string name="tts_settings">テキスト読み上げの設定</string>
+  <string name="tts_settings_title">テキスト読み上げの出力</string>
+  <string name="tts_status_checking">確認しています…</string>
+  <string name="tts_status_not_supported">%1$sはサポート対象ではありません</string>
+  <string name="tts_status_ok">%1$sは完全サポート対象です</string>
+  <string name="tts_status_requires_network">%1$sではネットワーク接続が必要です</string>
+  <string name="tts_status_title">デフォルトの言語のステータス</string>
+  <string name="un_important_notifications">重要でない通知</string>
+  <string name="unimportant_desc">すべての重要でない通知は、別のフォルダに表示されます。</string>
+  <string name="unimportant_title">重要でない</string>
+  <string name="unknown">不明</string>
   <string name="usb_accessory_confirm_prompt">このUSBアクセサリが接続された際に %1$s を開きますか？</string>
   <string name="usb_accessory_permission_prompt">アプリ %1$s のUSBアクセサリアクセスを許可しますか？</string>
   <string name="usb_accessory_uri_prompt">このUSBアクセサリで動作するアプリがインストールされていません。このアクセサリについての詳細を確認: %1$s</string>
@@ -719,10 +763,13 @@ EEEE"</string>
   <string name="wifi_allow_scan_with_traffic">Wi‑Fiローミングスキャンを常に許可する</string>
   <string name="wifi_allow_scan_with_traffic_summary">インターフェースのデータトラフィック量に基づいたWi-Fiローミングスキャンを許可するかしないかを設定できます</string>
   <string name="wifi_connected_no_internet">接続先はインターネットに接続されていない</string>
+  <string name="wifi_disabled_by_recommendation_provider">ネットワークの品質が低いため、接続されていません</string>
   <string name="wifi_disabled_generic">無効</string>
   <string name="wifi_disabled_network_failure">IP設定エラー</string>
   <string name="wifi_disabled_password_failure">認証に問題</string>
   <string name="wifi_disabled_wifi_failure">Wi-Fi接続エラー</string>
+  <string name="wifi_display_certification">ワイヤレスディスプレイ認証</string>
+  <string name="wifi_display_certification_summary">ワイヤレスディスプレイ認証のオプションを表示</string>
   <string name="wifi_fail_to_scan">ネットワークをスキャンできません</string>
   <string name="wifi_no_internet">インターネットに接続できません</string>
   <string name="wifi_no_internet_no_reconnect">自動的に接続できません</string>
