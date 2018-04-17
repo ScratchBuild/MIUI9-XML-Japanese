@@ -699,6 +699,14 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>4MB/ログバッファ</item>
         <item>16MB/ログバッファ</item>
     </string-array>
+    <string-array name="select_logd_system_levels">
+        <item>Off</item>
+        <item>Error</item>
+        <item>Warn</item>
+        <item>Info</item>
+        <item>Debug</item>
+        <item>Verbose</item>
+    </string-array>
     <string-array name="select_logpersist_summaries">
         <item>OFF</item>
         <item>すべてのログバッファ</item>

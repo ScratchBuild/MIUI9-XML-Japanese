@@ -341,8 +341,8 @@
   <string name="date_heading">"日付: "</string>
   <string name="date_message_received">%1$s %2$s</string>
   <string name="date_message_received_today">"今日, %1$s"</string>
-  <string name="debug_mode_preferencecategory">"ログの出力モードを設定してください"</string>
-  <string name="debug_mode_settings">"デバッグモード"</string>
+  <string name="debug_mode_preferencecategory">"ログ出力の設定"</string>
+  <string name="debug_mode_settings">"デバッグモードの設定"</string>
   <string name="del_account_questionnair_hint">"このアカウントを削除する理由を教えてください"</string>
   <string name="delete">"削除"</string>
   <string name="delete_message_flow">Delete message flow</string>
@@ -467,7 +467,7 @@
   <string name="folder_trash_name_en1">"削除済みメッセージ"</string>
   <string name="folder_trash_name_en2">"削除済みメッセージ"</string>
   <string name="folder_trash_name_en3">"[Gmail]/ゴミ箱"</string>
-  <string name="forever">"保存しない"</string>
+  <string name="forever">"常に"</string>
   <string name="forward">"転送"</string>
   <string name="forward_attachment">"転送"</string>
   <string name="forward_attribution">---------- Forwarded message ----------&lt;br>From: %1$s&lt;br>Date: %2$s&lt;br>Subject: %3$s&lt;br>To: %4$s&lt;br></string>
@@ -854,7 +854,7 @@ to receive reminders about payments and trips"</string>
   <string name="recognize_ticket_air_notification_title">Flight %3$s (%1$s/%2$s) will take off soon. Double check your flight info.</string>
   <string name="recognize_ticket_air_state_stopover">Stopover</string>
   <string name="recognize_ticket_air_state_transfer">Transfer</string>
-  <string name="recognize_ticket_air_user_name">Passenger:</string>
+  <string name="recognize_ticket_air_user_name">Passenger: %1$s</string>
   <string name="recognize_ticket_title">Plane &amp; train tickets</string>
   <string name="recognize_ticket_train_alter">Changed</string>
   <string name="recognize_ticket_train_depart_date">Departs at %3$s:%4$s on %1$s/%2$s</string>
@@ -879,7 +879,7 @@ to receive reminders about payments and trips"</string>
   <string name="reply_attribution" formatted="false">On %s, %s wrote:</string>
   <string name="report_phishing">"フィッシングを報告"</string>
   <string name="report_spam">"スパムを報告"</string>
-  <string name="request_copy_db_to_disk">Email request copy your database to the file</string>
+  <string name="request_copy_db_to_disk">Mail is requesting to copy your database into a file</string>
   <string name="request_entity_large">"ファイルが大きすぎます"</string>
   <string name="request_permission_activity">Permission Request</string>
   <string name="respond_inline">"   Respond inline"</string>

@@ -25,6 +25,7 @@
   <string name="accessibility_captioning_title">字幕</string>
   <string name="accessibility_category_personal">個人用プロファイルアカウント</string>
   <string name="accessibility_category_work">仕事用プロファイルアカウント - %s</string>
+  <string name="accessibility_close_tab">現在のタブを閉じる</string>
   <string name="accessibility_display_daltonizer_preference_subtitle">この機能は試験運用機能であり、パフォーマンスに影響することがあります。</string>
   <string name="accessibility_display_daltonizer_preference_title">色補正</string>
   <string name="accessibility_display_inversion_preference_subtitle">（試験運用機能）パフォーマンスに影響することがあります</string>
@@ -47,8 +48,9 @@
   <string name="accessibility_lock_screen_progress">%1$d/%2$d文字使用</string>
   <string name="accessibility_long_press_timeout_preference_title">押し続ける時間</string>
   <string name="accessibility_menu_item_settings">設定</string>
+  <string name="accessibility_more_settings">その他の設定</string>
   <string name="accessibility_no_services_installed">インストールされているサービスはありません</string>
-  <string name="accessibility_no_wifi">Wi-Fiが切断されました。</string>
+  <string name="accessibility_no_wifi">Wi-Fiから切断されました。</string>
   <string name="accessibility_personal_account_title">個人用アカウント - %s</string>
   <string name="accessibility_power_button_ends_call_prerefence_title">電源ボタンで通話を終了</string>
   <string name="accessibility_screen_magnification_enable">拡大のジェスチャー</string>
@@ -73,6 +75,7 @@
   <string name="accessibility_toggle_screen_magnification_auto_update_preference_title">画面の拡大を自動更新</string>
   <string name="accessibility_toggle_screen_magnification_preference_title">画面の拡大</string>
   <string name="accessibility_toggle_speak_password_preference_title">パスワードの音声出力</string>
+  <string name="accessibility_vpn_settings_info">VPN設定</string>
   <string name="accessibility_wifi_off">Wi-FiはOFFです。</string>
   <string name="accessibility_wifi_one_bar">Wi-Fi電波状態:レベル1</string>
   <string name="accessibility_wifi_security_type_none">オープン ネットワーク</string>
@@ -479,6 +482,7 @@
   <string name="battery_info_screen_on">画面の点灯時間</string>
   <string name="battery_info_status_charging">充電中</string>
   <string name="battery_info_status_charging_ac">ACで充電しています</string>
+  <string name="battery_info_status_charging_lower">充電中</string>
   <string name="battery_info_status_charging_usb">USBで充電しています</string>
   <string name="battery_info_status_charging_wireless">無線で充電しています</string>
   <string name="battery_info_status_discharging">充電していません</string>
@@ -928,6 +932,7 @@
   <string name="checking_find_device_status">Find deviceのステータスを確認します</string>
   <string name="checking_for_updates">アップデートをチェック中…</string>
   <string name="choose_assist_title">アシストアプリの選択</string>
+  <string name="choose_a_card_to_reset">リセットするにはSIMカードを選択</string>
   <string name="choose_profile">プロファイルの選択</string>
   <string name="choose_smartcover_type">ケースの種類を選択</string>
   <string name="choose_spell_checker">スペルチェッカーを選択</string>
@@ -1021,7 +1026,7 @@
   <string name="confirm_fingerprint_msg">指をセンサーに当ててください</string>
   <string name="confirm_frp_credential_message">端末は工場出荷時の状態にリセットされています。以前の機密情報でロックを解除できます。</string>
   <string name="confirm_frp_credential_skip_txt">代わりにGoogleアカウントを使用する</string>
-  <string name="confirm_frp_credential_title">Factory Reset Protection</string>
+  <string name="confirm_frp_credential_title">ファクトリーリセット後にロック解除</string>
   <string name="confirm_new_backup_pw_prompt">新しいフルバックアップパスワードをここに再入力してください</string>
   <string name="confirm_privacy_password">プライバシー保護パスワードを入力</string>
   <string name="confirm_privacy_password_fingerprint">指紋を読み取るか、プライバシー保護パスワードを入力</string>
@@ -1042,7 +1047,7 @@
   <string name="convenience_key_category_title">システム制御</string>
   <string name="convert_to_fbe_warning">"データ パーティションをファイルベースの暗号化に変換します。
  警告: この操作ではユーザーのデータがすべて削除されます。
- この機能はアルファ版であり、正しく機能しない恐れがあります。
+ この機能は開発中であり、正しく機能しない恐れがあります。
  続行するには [消去して変換] をクリックしてください。"</string>
   <string name="convert_to_file_encryption">ファイル暗号化に変換する</string>
   <string name="convert_to_file_encryption_done">ファイルは既に暗号化済みです</string>
@@ -1931,7 +1936,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="high_power_prompt_title">電池の最適化を無視</string>
   <string name="high_power_system">電池の最適化の利用不可</string>
   <string name="history_details_title">履歴の詳細</string>
-  <string name="home">ホームの設定</string>
+  <string name="home">ホーム画面の設定</string>
   <string name="home_app">ホームアプリ</string>
   <string name="home_app_uninstall_button">このアプリをアンインストール</string>
   <string name="home_key">ホーム</string>
@@ -2162,9 +2167,9 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="local_auto_backup_off">オフ</string>
   <string name="local_auto_backup_on">オン</string>
   <string name="local_auto_backup_section_title">自動バックアップ</string>
-  <string name="local_backup_password_summary_change">デスクトップのフルバックアップ用のパスワードを変更または削除する場合にタップします</string>
-  <string name="local_backup_password_summary_none">デスクトップのフルバックアップは現在保護されていません</string>
-  <string name="local_backup_password_title">PCバックアップパスワード</string>
+  <string name="local_backup_password_summary_change">ホーム画面のフルバックアップ用のパスワードを変更または削除する場合にタップします</string>
+  <string name="local_backup_password_summary_none">ホーム画面のフルバックアップは現在保護されていません</string>
+  <string name="local_backup_password_title">ホーム画面のバックアップパスワード</string>
   <string name="local_backup_password_toast_confirmation_mismatch">パスワードが一致しません。</string>
   <string name="local_backup_password_toast_success">新しいバックアップパスワードが設定されました</string>
   <string name="local_backup_password_toast_validation_failure">バックアップパスワードの設定に失敗しました</string>
@@ -3414,12 +3419,15 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="reset_dashboard_title">リセット</string>
   <string name="reset_legacy_password_settings_preface_text">ロック画面のパスワードをリセットする必要があります</string>
   <string name="reset_network_button_text">設定をリセット</string>
+  <string name="reset_network_category">This will reset all network settings, including:</string>
   <string name="reset_network_complete_toast">ネットワーク設定をリセットしました</string>
   <string name="reset_network_confirm_title">リセットしますか？</string>
+  <string name="reset_network_data">モバイルデータ</string>
   <string name="reset_network_desc">ネットワーク設定をすべてリセットします。</string>
   <string name="reset_network_final_button_text">設定をリセット</string>
   <string name="reset_network_final_desc">すべてのネットワーク設定をリセットしますか？この操作は元に戻せません。</string>
   <string name="reset_network_title">ネットワーク設定のリセット</string>
+  <string name="reset_network_wifi">WLAN</string>
   <string name="reset_second_space_passwd">Second spaceのパスワードをリセット</string>
   <string name="reset_second_space_passwd_cancel">キャンセル</string>
   <string name="reset_second_space_passwd_confirm">続行</string>
@@ -3914,6 +3922,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="select_all">すべて選択</string>
   <string name="select_application">アプリを選択</string>
   <string name="select_device_admin_msg">デバイス管理者</string>
+  <string name="select_logd_level">ログレベルを選択</string>
   <string name="select_logd_size_dialog_title">ログバッファのサイズを選択</string>
   <string name="select_logd_size_title">ログバッファのサイズ</string>
   <string name="select_logpersist_dialog_title">端末上に永続的に保存するログバッファを選択</string>
@@ -5180,6 +5189,7 @@ Android端末をUSBケーブルでコンピューターにつなぐことで、�
   <string name="wifi_forget">切断</string>
   <string name="wifi_frequency">周波数</string>
   <string name="wifi_gateway">ゲートウェイ</string>
+  <string name="wifi_hide_password">パスワードを隠す</string>
   <string name="wifi_hotspot_checkbox_text">Wi-Fiアクセスポイント</string>
   <string name="wifi_hotspot_checkbox_text_summary">モバイル接続でWi‑Fiネットワークを提供</string>
   <string name="wifi_hotspot_configure_ap_text">アクセスポイントのセットアップ</string>
@@ -5217,7 +5227,8 @@ Android端末をUSBケーブルでコンピューターにつなぐことで、�
   <string name="wifi_multiple_cert_added">（複数の証明書が追加されています）</string>
   <string name="wifi_network_prefix_length">ネットワークプレフィックス長</string>
   <string name="wifi_no_domain_warning">ドメインを指定する必要があります。</string>
-  <string name="wifi_no_internet">インターネットアクセスを検出できないため、自動的に再接続されません。</string>
+  <string name="wifi_no_internet">インターネットに接続できません</string>
+  <string name="wifi_no_internet_no_reconnect">自動的に接続できません</string>
   <string name="wifi_not_in_range">圏外</string>
   <string name="wifi_notify_cmcc_connected_summary">中国移動通信ネットワークに接続した場合には通知を表示</string>
   <string name="wifi_notify_cmcc_connected_title">中国移動通信ネットワーク通知</string>

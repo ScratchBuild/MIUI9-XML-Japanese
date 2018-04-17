@@ -1005,6 +1005,7 @@ Carrier may charge you additional fees if you use mobile data connection again."
   <string name="main_toolbar_statistic">Data usage stats</string>
   <string name="main_used_bill">%s CNY</string>
   <string name="man_add_application">"自動起動するアプリを手動で追加"</string>
+  <string name="managed_user_title">すべての仕事用アプリ</string>
   <string name="manual_input_free_traffic">Set off-peak data usage</string>
   <string name="manual_input_traffic">"データ使用量を設定"</string>
   <string name="manual_item_white_list_summary">"選択したアプリが最適化されないようにする"</string>

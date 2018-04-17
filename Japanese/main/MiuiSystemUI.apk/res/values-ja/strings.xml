@@ -110,6 +110,7 @@
   <string name="audio_effect_settings">ヘッドフォンタイプを選択してください</string>
   <string name="available_via_passpoint">%1$s経由で使用可能</string>
   <string name="battery_info_status_charging">充電中</string>
+  <string name="battery_info_status_charging_lower">充電中</string>
   <string name="battery_info_status_charging_ac">ACで充電しています</string>
   <string name="battery_info_status_charging_ac_short">充電しています</string>
   <string name="battery_info_status_charging_usb">USBで充電しています</string>
@@ -212,7 +213,7 @@
   <string name="connected_via_wfa">"Wi-Fiアシスタント経由で接続しました"</string>
   <string name="convert_to_fbe_warning">"データ パーティションをファイルベースの暗号化に変換します。
  警告: この操作ではユーザーのデータがすべて削除されます。
- この機能はアルファ版であり、正しく機能しない恐れがあります。
+ この機能は開発中であり、正しく機能しない恐れがあります。
  続行するには [消去して変換] をクリックしてください。"</string>
   <string name="convert_to_file_encryption">ファイル暗号化に変換する</string>
   <string name="convert_to_file_encryption_done">ファイルは既に暗号化済みです</string>
@@ -251,12 +252,15 @@
   <string name="description_image_button_answer">応答</string>
   <string name="description_image_button_reject">拒否</string>
   <string name="description_target_search">検索</string>
-  <string name="dev_settings_warning_message">これらの設定は開発専用に設計されています。そのため端末や端末上のアプリが故障したり正常に動作しなくなったりするおそれがあります。</string>
+  <string name="dev_logpersist_clear_warning_message">"When we're no longer monitoring using the persistent logger, we are required to erase the logger data resident on your device."</string>
+  <string name="dev_logpersist_clear_warning_title">Clear persistent logger storage?</string>
+  <string name="dev_settings_warning_message">これらの設定は開発者のみを対象としています。これらの機能を有効にすると、端末やアプリが誤動作したり、エラーが発生する可能性があります。</string>
   <string name="dev_settings_warning_title">開発用の設定を許可しますか？</string>
   <string name="development_settings_enable">開発者向けオプションの有効化</string>
   <string name="development_settings_not_available">デベロッパー向けオプションはこのユーザーには表示されません</string>
   <string name="development_settings_summary">アプリ開発オプションを設定する</string>
   <string name="development_settings_title">開発者向けオプション</string>
+  <string name="direct_boot_unaware_dialog_message">注: 再起動後、スマートフォンのロックを解除するまでこのアプリを起動することはできません</string>
   <string name="disable_notification_summary">選択したアプリからの通知を表示しない</string>
   <string name="disable_notification_title">通知を非表示</string>
   <string name="disable_overlays">HWオーバーレイを無効</string>
@@ -303,6 +307,7 @@
   <string name="ext_media_safe_unmount_notification_title">SDカードの安全な取り出し</string>
   <string name="ext_media_unmountable_notification_message">SDカードが故障しています。再フォーマットを行ってください。</string>
   <string name="ext_media_unmountable_notification_title">故障したSDカード</string>
+  <string name="failed_to_open_app_settings_toast">%1$sの設定を開くことができませんでした</string>
   <string name="float_incall_ignore">無視</string>
   <string name="float_incall_message">メッセージ</string>
   <string name="force_allow_on_external">外部ストレージへのアプリの書き込みを許可</string>
@@ -333,13 +338,14 @@
   <string name="hdcp_checking_dialog_title">HDCPチェック動作を設定</string>
   <string name="hdcp_checking_title">HDCPチェック</string>
   <string name="help_feedback_label">ヘルプとフィードバック</string>
-  <string name="home">Settings Home</string>
+  <string name="home">ホーム画面の設定</string>
   <string name="hour_minute_time_format">HH:mm</string>
   <string name="how_to_back_home">ホーム画面に戻る</string>
   <string name="how_to_switch_recents">タスク履歴を開く</string>
   <string name="how_to_use_drawer">スライドメニューを開く方法</string>
   <string name="how_to_use_drawer_summary">画面の上部で右にスワイプする</string>
   <string name="how_to_use_fsg">ジェスチャーを使用してこれらのアクションを実行できます:</string>
+  <string name="ime_security_warning">%1$s can record everything you type, including passwords, credit card numbers, and other personal data.</string>
   <string name="immediately_destroy_activities">アクティビティを保持しない</string>
   <string name="immediately_destroy_activities_summary">ユーザーが離れたアクティビティを直ちに破棄する</string>
   <string name="important_desc">すべての重要な通知は、通知シェードに直接表示されます。</string>
@@ -378,9 +384,9 @@
   <string name="legacy_vpn_name">VPN</string>
   <string name="list_delimeter">", "</string>
   <string name="loading_desktop">"読み込み中…"</string>
-  <string name="local_backup_password_summary_change">デスクトップのフルバックアップ用のパスワードを変更または削除する場合にタップします</string>
-  <string name="local_backup_password_summary_none">デスクトップのフルバックアップは現在保護されていません</string>
-  <string name="local_backup_password_title">PCバックアップパスワード</string>
+  <string name="local_backup_password_summary_change">ホーム画面のフルバックアップ用のパスワードを変更または削除する場合にタップします</string>
+  <string name="local_backup_password_summary_none">ホーム画面のフルバックアップは現在保護されていません</string>
+  <string name="local_backup_password_title">ホーム画面のバックアップパスワード</string>
   <string name="local_backup_password_toast_confirmation_mismatch">パスワードが一致しません。</string>
   <string name="local_backup_password_toast_success">新しいバックアップパスワードが設定されました</string>
   <string name="local_backup_password_toast_validation_failure">バックアップパスワードの設定に失敗しました</string>
@@ -584,6 +590,7 @@
   <string name="screenshot_toalbum_txt">プレビュー</string>
   <string name="search_hint">"ウェブサイト、アプリ、連絡先、動画を検索"</string>
   <string name="select_application">アプリを選択</string>
+  <string name="select_logd_level">ログレベルを選択</string>
   <string name="select_logd_size_dialog_title">ログバッファのサイズを選択</string>
   <string name="select_logd_size_title">ログバッファのサイズ</string>
   <string name="select_usb_configuration_dialog_title">USB設定の選択</string>
@@ -717,7 +724,8 @@ EEEE"</string>
   <string name="wifi_disabled_password_failure">認証に問題</string>
   <string name="wifi_disabled_wifi_failure">Wi-Fi接続エラー</string>
   <string name="wifi_fail_to_scan">ネットワークをスキャンできません</string>
-  <string name="wifi_no_internet">インターネットアクセスを検出できないため、自動的に再接続されません。</string>
+  <string name="wifi_no_internet">インターネットに接続できません</string>
+  <string name="wifi_no_internet_no_reconnect">自動的に接続できません</string>
   <string name="wifi_not_in_range">圏外</string>
   <string name="wifi_remembered">保存済み</string>
   <string name="wifi_security_none">なし</string>
