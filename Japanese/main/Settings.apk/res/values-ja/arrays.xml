@@ -189,6 +189,11 @@
         <item>プロセスの上限: 3</item>
         <item>プロセスの上限: 4</item>
     </string-array>
+    <string-array name="automatic_storage_management_days">
+        <item>30 日間</item>
+        <item>60 日間</item>
+        <item>90 日間</item>
+    </string-array>
     <string-array name="battery_indicator_style_entries">
         <item>Graphical</item>
         <item>Percentage</item>

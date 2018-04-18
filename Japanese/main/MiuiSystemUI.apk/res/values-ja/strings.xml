@@ -177,6 +177,23 @@
   <string name="bluetooth_profile_sap">SIMアクセス</string>
   <string name="bluetooth_sap_profile_summary_connected">SIM Access Serverに接続済み</string>
   <string name="bluetooth_sap_profile_summary_use_for">SIMアクセスに使用</string> 
+  <string name="bluetooth_select_a2dp_codec_bits_per_sample">サンプルあたりの Bluetooth オーディオ ビット</string>
+  <string name="bluetooth_select_a2dp_codec_bits_per_sample_dialog_title">"Bluetooth オーディオ コーデックを選択:
+サンプルあたりのビット"</string>
+  <string name="bluetooth_select_a2dp_codec_channel_mode">Bluetooth オーディオ チャンネル モード</string>
+  <string name="bluetooth_select_a2dp_codec_channel_mode_dialog_title">"Bluetooth オーディオ コーデックを選択:
+チャンネル モード"</string>
+  <string name="bluetooth_select_a2dp_codec_ldac_playback_quality">Bluetooth オーディオ LDAC コーデック: 再生音質</string>
+  <string name="bluetooth_select_a2dp_codec_ldac_playback_quality_dialog_title">"Bluetooth オーディオ LDAC コーデックを選択:
+再生音質"</string>
+  <string name="bluetooth_select_a2dp_codec_sample_rate">Bluetooth オーディオ サンプルレート</string>
+  <string name="bluetooth_select_a2dp_codec_sample_rate_dialog_title">"Bluetooth オーディオ コーデックを選択:
+サンプルレート"</string>
+  <string name="bluetooth_select_a2dp_codec_streaming_label">ストリーミング: %1$s</string>
+  <string name="bluetooth_select_a2dp_codec_type">Bluetooth オーディオ コーデック</string>
+  <string name="bluetooth_select_a2dp_codec_type_dialog_title">Bluetooth オーディオ コーデックを選択</string>
+  <string name="bluetooth_select_avrcp_version_dialog_title">Bluetooth AVRCP バージョンを選択する</string>
+  <string name="bluetooth_select_avrcp_version_string">Bluetooth AVRCP バージョン</string>
   <string name="bluetooth_tethered">Bluetoothテザリング中</string>
   <string name="bt_hci_snoop_log">Bluetooth HCIスヌープログを有効にする</string>
   <string name="bt_hci_snoop_log_summary">Bluetooth HCIパケットをすべてファイルにキャプチャする</string>
