@@ -954,7 +954,8 @@
   <string name="close_demo_mode">キャンセル</string>
   <string name="close_gesture">ジェスチャーを使用して閉じる</string>
   <string name="close_miui_optimization_title">MIUIの最適化をオフにする</string>
-  <string name="close_miui_optimization_warning_message">この変更を適用するために端末を再起動します。注：この機能をオフにすると、ユーザーインターフェースのレイアウトや他の要素に大きな変化があります。</string>
+  <string name="close_optimization_message">この機能をオフにすると、MIUIのテキストレイアウト、アカウント、およびその他の部分が影響を受ける可能性があります。</string>
+  <string name="close_optimization_option">オフにする</string>
   <string name="close_sdcard_optimization_title">疑似SDカードの最適化をオフにする</string>
   <string name="close_sdcard_optimization_warning_message">この変更を適用するために端末を再起動します。</string>
   <string name="cloud_backup_section_title">Mi Cloudバックアップ</string>
@@ -2934,7 +2935,8 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="open_demo_mode">オンにする</string>
   <string name="open_demo_mode_warning_message">デモモードをオンにすると、ステータスバーの時計が停止し、バッテリーと電波強度のアイコンは100%として表示されます。元に戻すにはデモモードをオフにするか、端末を再起動してください。</string>
   <string name="open_miui_optimization_title">MIUIの最適化をオンにする</string>
-  <string name="open_miui_optimization_warning_message">この変更を適用するために端末を再起動します。</string>
+  <string name="open_optimization_message">最適化をオンにすると、より滑らかで高速なUIを実現します。</string>
+  <string name="open_optimization_option">オンにする</string>
   <string name="open_sdcard_optimization_title">疑似SDカードの最適化をオンにする</string>
   <string name="open_sdcard_optimization_warning_message">この変更を適用するために端末を再起動します。</string>
   <string name="open_wifi_connect_summary">タップして詳細を表示</string>
@@ -2942,8 +2944,6 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="opening_paragraph_delete_profile_unknown_company">この仕事用プロファイルを管理するアプリ:</string>
   <string name="operator_warning">端末で記録されるデータ使用量と携帯通信会社のデータ使用量は異なる場合があります。</string>
   <string name="optimization_cancel">キャンセル</string>
-  <string name="optimization_close">今すぐ再起動</string>
-  <string name="optimization_open">今すぐ再起動</string>
   <string name="ota_disable_automatic_update">自動システム アップデート</string>
   <string name="other_advanced_settings">その他の設定</string>
   <string name="other_device_info">その他</string>

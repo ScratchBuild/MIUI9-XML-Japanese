@@ -3,7 +3,7 @@
   <string name="accessibility_calllog_detail">"通話履歴の詳細"</string>
   <string name="accessibility_contact_detail">"連絡先の詳細"</string>
   <string name="account_container_title">"インポート元"</string>
-  <string name="account_phone">電話のみ、非同期</string>
+  <string name="account_phone">端末のみ、非同期</string>
   <string name="account_sim">"SIMカード"</string>
   <string name="account_sim2">"SIMカード %d"</string>
   <string name="account_type_format">"%1$sからの連絡先"</string>
@@ -156,7 +156,7 @@
   <string name="chat_qq">QQでチャット</string>
   <string name="chat_skype">Skypeでチャット</string>
   <string name="chat_yahoo">Yahooでチャット</string>
-  <string name="checkhint">"対象の電話を確認する"</string>
+  <string name="checkhint">"対象の端末を確認する"</string>
   <string name="clearCallLogConfirmation">すべての通話記録は削除されます。</string>
   <string name="clearCallLogConfirmation_title">すべての通話履歴を削除しますか？</string>
   <string name="clearCallLogProgress_title">通話履歴を削除しています…</string>
@@ -348,9 +348,9 @@
   <string name="device_import_progress_message">"インポート中…"</string>
   <string name="device_import_progress_toast">"%1$d件の連絡先をインポートしました"</string>
   <string name="device_import_title">"インポート"</string>
-  <string name="device_list_title">"番号を選択"</string>
-  <string name="device_other_guide">Other phone supports bluetooth?</string>
-  <string name="device_other_title">"他の電話からインポート"</string>
+  <string name="device_list_title">"端末を選択"</string>
+  <string name="device_other_guide">Other device supports bluetooth?</string>
+  <string name="device_other_title">"他の端末からインポート"</string>
   <string name="device_paired_dialog_message">"連絡先を読み込み中…"</string>
   <string name="device_paired_dialog_title">"連絡先を読み込み中…"</string>
   <string name="device_pairing_dialog_message">"ペアとして設定中…"</string>
@@ -516,7 +516,7 @@ To avoid frequent queries, we update balance info once a day."</string>
   <string name="import_contact_card_button">"連絡先をインポート"</string>
   <string name="import_failure_no_vcard_file">SDカード内にvCardファイルがありません。</string>
   <string name="import_from_onekey_migrate">"Mi Moverを使用してインポート"</string>
-  <string name="import_from_other_phone">"別の電話からインポート"</string>
+  <string name="import_from_other_device">"別の端末からインポート"</string>
   <string name="import_from_sdcard">"ストレージからインポート"</string>
   <string name="import_from_sim">"SIMカードからインポート"</string>
   <string name="import_from_sim1">"SIMカード1からインポート"</string>
@@ -776,7 +776,7 @@ To add a contact to your list of favorites:
   <string name="option_view_group">"表示"</string>
   <string name="organizationLabelsGroup">組織</string>
   <string name="other_contacts">"その他の連絡先"</string>
-  <string name="other_phone">"その他の番号"</string>
+  <string name="other_phone">"その他の端末"</string>
   <string name="path_batch_delete">システムアプリ/連絡先/連絡先を整理/一括削除</string>
   <string name="path_contacts_display">システムアプリ/連絡先/Display preferences</string>
   <string name="path_contacts_more">システムアプリ/連絡先/連絡先を整理</string>
@@ -870,7 +870,7 @@ To add a contact to your list of favorites:
   <string name="preference_key_trash_bin_title">"連絡先を復元"</string>
   <string name="preference_other">"その他"</string>
   <string name="preference_others">"その他"</string>
-  <string name="preference_phone">"電話"</string>
+  <string name="preference_phone">"端末"</string>
   <string name="preference_phone_more_title">"通話設定"</string>
   <string name="preference_remove_duplicate">"重複する連絡先を統合"</string>
   <string name="preference_show_yellowpage_tab_description">"この機能をオフにすると、イエローページが正常に動作しない場合があります。"</string>
@@ -994,7 +994,7 @@ To add a contact to your list of favorites:
   <string name="select_all_exceed">"Select no more than %1$d, can't select all"</string>
   <string name="select_exceed">Select no more than %1$d</string>
   <string name="select_groups">"グループを選択"</string>
-  <string name="select_none">"何も選択されていません"</string>
+  <string name="select_none">"アイテムが選択されていません"</string>
   <string name="select_show_contacts">"連絡先リスト"</string>
   <string name="select_vcard_title">vCardファイルを選択してください</string>
   <string name="send_contact_shortcut_todesktop_success">"ホーム画面に設置しました"</string>
@@ -1109,8 +1109,8 @@ To add a contact to your list of favorites:
   <string name="toast_copy_done">"完了"</string>
   <string name="toast_copying">"コピー中…"</string>
   <string name="toast_displaying_all_contacts">"すべての連絡先を表示しています"</string>
-  <string name="toast_finish_delete_call_log">"通話履歴を消去しました"</string>
-  <string name="toast_finish_delete_selected_call_log">"通話履歴を消去しました"</string>
+  <string name="toast_finish_delete_call_log">"正常に消去されました"</string>
+  <string name="toast_finish_delete_selected_call_log">"正常に消去されました"</string>
   <string name="toast_for_failed_saving_nickname">"ニックネームを保存できませんでした"</string>
   <string name="toast_for_saving_nickname">"ニックネームを保存しました"</string>
   <string name="toast_join_with_empty_contact">"別の連絡先と統合するにはまず連絡先の名前を入力してください。"</string>

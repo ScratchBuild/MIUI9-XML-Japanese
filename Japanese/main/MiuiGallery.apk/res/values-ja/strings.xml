@@ -2,6 +2,7 @@
 <resources>
   <string name="accept">"同意する"</string>
   <string name="accept_or_deny">%1$s shared the album %2$s with you.</string>
+  <string name="actionbar_overflow_item_desc">"その他のオプション"</string>
   <string name="add_automatically_alert_msg">Add photos from \"%1$s\" to this album automatically?</string>
   <string name="add_automatically_alert_title">Add photos automatically</string>
   <string name="add_secret_ensure_title">"非表示"</string>
@@ -19,6 +20,7 @@
   <string name="add_to_secret_failed_with_reason">"Can't add to hidden album. %1$s."</string>
   <string name="add_to_secret_successful">Added to hidden album</string>
   <string name="add_to_share_album_not_delete">"共有アルバムから写真を削除することはできません"</string>
+  <string name="added_to_favorites">"お気に入りに追加しました"</string>
   <string name="added_to_favorites_tip">Added to \"Favorites\" album</string>
   <string name="adding">"追加中…"</string>
   <string name="adding_recipients">"受信者を追加中…"</string>
@@ -90,6 +92,7 @@
   <string name="app_name">"ギャラリー"</string>
   <string name="app_name_view_picture">"写真を表示"</string>
   <string name="app_name_view_video">"動画を表示"</string>
+  <string name="application_icon">"アプリアイコン"</string>
   <string name="apply">"適用"</string>
   <string name="assistant_page_label">"アシスタント"</string>
   <string name="associate_face_album">"アルバムを選択"</string>
@@ -109,10 +112,12 @@
   <string name="baby_album_needs_auto_backup_tip">"Can't turn off automatic backup for Baby album"</string>
   <string name="baby_album_new_photo_remind">"赤ちゃんのアルバムに新しい写真があります。"</string>
   <string name="baby_album_setting_title">"赤ちゃんの情報"</string>
+  <string name="baby_album_settings">"赤ちゃんのアルバムの設定"</string>
   <string name="baby_album_sharer_accept_dialog_msg">"Dear %1$s's %2$s,\n%3$s's %4$s shared %5$s's album with you"</string>
   <string name="baby_album_sharer_recommand_face">Add existing photos of %1$s?</string>
   <string name="baby_album_sharers_page_title">"家族と共有"</string>
   <string name="baby_birthday">"誕生日"</string>
+  <string name="baby_face_desc">"赤ちゃんのアルバム"</string>
   <string name="baby_lock_wallpaper">"ロック画面の壁紙"</string>
   <string name="baby_lock_wallpaper_cancelled">"ロック画面の壁紙をデフォルトに切り替えました"</string>
   <string name="baby_lock_wallpaper_save_settings_msg">"現在の設定を適用しますか？"</string>
@@ -124,6 +129,7 @@
   <string name="baby_nick_name">"ニックネーム"</string>
   <string name="baby_sexy">"性別"</string>
   <string name="baby_suffix">"の赤ちゃん"</string>
+  <string name="back">"戻る"</string>
   <string name="backup_automatically_summary">"写真や動画をすべての端末からMi Cloudにバックアップします。これにより、すべての端末で写真や動画を簡単に参照、編集、共有することができます。"</string>
   <string name="backup_automatically_title">"自動的にバックアップ"</string>
   <string name="backup_battery_low_desc">You can still choose to continue backing up items</string>
@@ -219,6 +225,8 @@
   <string name="cleaner_stop_scan">"スキャンを停止"</string>
   <string name="click_download_gif">"GIFをダウンロードするにはタップ"</string>
   <string name="click_top_right">"このアイコンをタップ"</string>
+  <string name="close">"閉じる"</string>
+  <string name="close_dialog_desc">"ダイアログを閉じる"</string>
   <string name="cloud_camera_display_name">Camera photos</string>
   <string name="cloud_guide_auto_backup_title">"バックアップするアルバムを選択"</string>
   <string name="cloud_guide_login_title">"写真や動画を自動的にバックアップ"</string>
@@ -241,6 +249,7 @@
   <string name="cloudfolder_contain_invalidate_char">"アルバム名に'%s'を含めることはできません"</string>
   <string name="cloudfolder_name_cannot_empty">"アルバム名"</string>
   <string name="cloudfolder_name_reserved">"アルバム名は予約済みです"</string>
+  <string name="collage__talkback_effect">%d effect</string>
   <string name="collage_choose">"選択"</string>
   <string name="collage_margin_text">"余白"</string>
   <string name="collage_mirror">"反転"</string>
@@ -266,6 +275,9 @@
   <string name="context_menu_add_contact">"連絡先に追加"</string>
   <string name="context_menu_copy">"コピー"</string>
   <string name="context_menu_copy_notice">"クリップボードにコピーしました"</string>
+  <string name="correct_photo_time">"写真の日付と時刻を修正する"</string>
+  <string name="correct_time_success">"正常に修正されました"</string>
+  <string name="correct_time_tip">"日付と時刻を修正中…"</string>
   <string name="create_baby_album">"赤ちゃんのアルバムを作成"</string>
   <string name="create_baby_album_dialog_msg">"\"%s\"のためのアルバムを作成しますか？"</string>
   <string name="create_baby_album_later_toast">"[設定]からいつでも赤ちゃんのアルバムを作成できます"</string>
@@ -279,6 +291,7 @@
   <string name="custom_select_title_quickly_share">"共有"</string>
   <string name="custom_select_title_select_all">"すべて選択"</string>
   <string name="custom_select_title_select_item">"アイテムを選択"</string>
+  <string name="debugging_info">"デバッグ情報が正常に生成されました。フォルダを開くには[OK]をタップ。"</string>
   <string name="debugging_tip">"デバッグデータの生成中"</string>
   <string name="define_by_user">Custom</string>
   <string name="delete">"削除"</string>
@@ -406,6 +419,7 @@
   <string name="exit_share_in_process">"\"%s\"を終了しています…"</string>
   <string name="exit_share_successfully">"%1$sを終了しました"</string>
   <string name="exit_video_play">"終了"</string>
+  <string name="expand_desc">"その他"</string>
   <string name="expand_people">Show more people</string>
   <string name="face_album_detecting_tip">"読み込み中…"</string>
   <string name="face_album_empty">"Not enough photos to recognize people.
@@ -430,10 +444,12 @@ Take more photos of your friends!"</string>
   <string name="fail_to_pick_email">"無効なメールアドレス"</string>
   <string name="fail_to_sync_album">"アルバムを同期できませんでした。データ接続を確認して、もう一度お試しください。"</string>
   <string name="family_member_invitation_text">"他の家族"</string>
+  <string name="fancy_color_desc">Colors</string>
   <string name="fast_share_auto_render">Beautify</string>
   <string name="fast_share_auto_render_finish">Beautified</string>
   <string name="filter_category_film">Film</string>
   <string name="filter_category_food">Food</string>
+  <string name="filter_category_master">Master</string>
   <string name="filter_category_portrait">Portrait</string>
   <string name="filter_category_scene">Landscape</string>
   <string name="filter_film_blackwhite">B&amp;W</string>
@@ -452,15 +468,23 @@ Take more photos of your friends!"</string>
   <string name="filter_food_latte">Latte</string>
   <string name="filter_food_softdrink">Soda</string>
   <string name="filter_food_wholemeal">Grains</string>
+  <string name="filter_master_hazy">Hazy</string>
+  <string name="filter_master_mellow">Mellow</string>
+  <string name="filter_master_memoire">Memoire</string>
+  <string name="filter_master_rise">Rise</string>
+  <string name="filter_master_somber">Somber</string>
   <string name="filter_original">None</string>
   <string name="filter_people_fairytale">Kids</string>
   <string name="filter_people_heart">Emotions</string>
   <string name="filter_people_japanese">Fresh</string>
   <string name="filter_people_maze">Maze</string>
   <string name="filter_people_mint">Mint</string>
+  <string name="filter_people_movie">Movie</string>
   <string name="filter_people_nature">Natural</string>
   <string name="filter_people_pink">Blush</string>
+  <string name="filter_people_riddle">Riddle</string>
   <string name="filter_people_roman">Romantic</string>
+  <string name="filter_people_story">Story</string>
   <string name="filter_scene_city">City</string>
   <string name="filter_scene_df">Mist</string>
   <string name="filter_scene_koizora">Amour</string>
@@ -473,6 +497,7 @@ Take more photos of your friends!"</string>
   <string name="finish_fill_baby">"作成"</string>
   <string name="flash_off">"フラッシュOFF"</string>
   <string name="flash_on">"フラッシュON"</string>
+  <string name="free_view_desc">"3Dビュー"</string>
   <string name="gallery_setting">"設定"</string>
   <string name="gallery_sync_disable_toast">"ギャラリーの同期はオフです"</string>
   <string name="get_album_info_in_process">"共有済みアルバムの情報を取得中…"</string>
@@ -711,6 +736,27 @@ Take more photos of your friends!"</string>
   <string name="photo_editor_rotate">"回転"</string>
   <string name="photo_editor_saving">"保存中…"</string>
   <string name="photo_editor_sticker">"ステッカー"</string>
+  <string name="photo_editor_talkback_cancel">Cancel</string>
+  <string name="photo_editor_talkback_confirm">Confirm</string>
+  <string name="photo_editor_talkback_crop_16_9">Sixteen to nine</string>
+  <string name="photo_editor_talkback_crop_1_1">One to one</string>
+  <string name="photo_editor_talkback_crop_3_4">Three to four</string>
+  <string name="photo_editor_talkback_crop_4_3">Four to three</string>
+  <string name="photo_editor_talkback_crop_9_16">Nine to sixteen</string>
+  <string name="photo_editor_talkback_crop_free">Free</string>
+  <string name="photo_editor_talkback_crop_mirror">Mirror</string>
+  <string name="photo_editor_talkback_crop_original">Original</string>
+  <string name="photo_editor_talkback_crop_rotate">Rotate</string>
+  <string name="photo_editor_talkback_doodle_arrow">Arrow</string>
+  <string name="photo_editor_talkback_doodle_circular">Circle</string>
+  <string name="photo_editor_talkback_doodle_line">Line</string>
+  <string name="photo_editor_talkback_doodle_path">Brush</string>
+  <string name="photo_editor_talkback_doodle_rectangle">Rectangle</string>
+  <string name="photo_editor_talkback_effect">%d effect</string>
+  <string name="photo_editor_talkback_eraser">Erase</string>
+  <string name="photo_editor_talkback_recently">Recently used</string>
+  <string name="photo_editor_talkback_redo">Redo</string>
+  <string name="photo_editor_talkback_undo">Undo</string>
   <string name="photo_editor_text">"テキスト"</string>
   <string name="photo_page_save_uri_image_fail">"ギャラリーに保存できませんでした"</string>
   <string name="photo_page_save_uri_image_ok">"写真をギャラリーに保存しました"</string>
@@ -760,6 +806,8 @@ Take more photos of your friends!"</string>
   <string name="picker_title_specify_format_one">"%d枚の写真を選択"</string>
   <string name="picker_title_unlimit">"写真を選択"</string>
   <string name="places_album_empty_title">"場所ごとに写真を並べ替えできます"</string>
+  <string name="play_gif_desc">"GIFを再生"</string>
+  <string name="play_video_desc">"動画を再生"</string>
   <string name="preparing_data">"読み込み中…"</string>
   <string name="projection_cancel">"キャンセル"</string>
   <string name="projection_checkbox_text">"このプロジェクターを記憶する"</string>
@@ -784,6 +832,7 @@ Take more photos of your friends!"</string>
   <string name="recovery_merge_or_rename">"アルバムを統合"</string>
   <string name="recovery_merge_or_rename_message">"同じ名前のアルバムが既に存在します。今すぐ統合しますか？"</string>
   <string name="recovery_rename">"名前を変更"</string>
+  <string name="refocus_desc">"もう一度フォーカス"</string>
   <string name="relation_text_empty_alert">Add relationship info</string>
   <string name="relation_text_family">"家族"</string>
   <string name="relation_text_father">"父親"</string>
@@ -870,6 +919,7 @@ Take more photos of your friends!"</string>
   <string name="search_setting_title">"ギャラリー内の写真を検索"</string>
   <string name="search_syncing">Syncing data, come back in a while</string>
   <string name="search_title_album">"アルバム"</string>
+  <string name="search_title_app_screenshot">"スクリーンショット"</string>
   <string name="search_title_history">"検索履歴"</string>
   <string name="search_title_location">"場所"</string>
   <string name="search_title_more">"その他"</string>
@@ -898,8 +948,11 @@ Take more photos of your friends!"</string>
   <string name="see_ignore_faces">"View people you've ignored"</string>
   <string name="select_item_face">"これは'%s'ですか？"</string>
   <string name="select_origin_tip">"元のファイル (%s)"</string>
+  <string name="send_file_beautify_failed">"共有できませんでした"</string>
   <string name="send_multiple_files_hint_format">"送信 (%s)"</string>
   <string name="send_public_url">"アルバムのURLを送信"</string>
+  <string name="send_secret_file_failed">"共有できませんでした"</string>
+  <string name="send_secret_file_space_low">"ストレージに十分な空き領域がありません"</string>
   <string name="send_too_many_files_error">Can send up to %d items at a time</string>
   <string name="set_as_baby_lock_wallpaper">"ロック画面の壁紙に設定"</string>
   <string name="set_as_wallpaper_description">"この画像はサムネイルです、元のファイルをダウンロードしますか？"</string>
@@ -915,6 +968,7 @@ Take more photos of your friends!"</string>
   <string name="share">"共有"</string>
   <string name="share_album">"アルバムを共有"</string>
   <string name="share_album_needs_auto_upload_tip">"共有アルバムのバックアップをオフにすることはできません"</string>
+  <string name="share_album_qr_code">"アルバムのQRコード"</string>
   <string name="share_by_email_start">Share %1$s in background</string>
   <string name="share_by_email_successfully">Shared %1$s</string>
   <string name="share_public_url_text">"I've shared the album %1$s with you. View it at %2$s"</string>
@@ -1097,6 +1151,7 @@ Take more photos of your friends!"</string>
   <string name="video_not_exist">"Video doesn't exist"</string>
   <string name="view_by_gallery_tip">MIUI Gallery</string>
   <string name="view_face_album">"アルバムを表示"</string>
+  <string name="view_more_face_desc">"その他の人物を表示"</string>
   <string name="view_queuing_status">"状態を確認"</string>
   <string name="welcome_to_micloud">"Mi Cloudへようこそ"</string>
   <string name="where_is_barcode">"QRコードはどこですか？"</string>
