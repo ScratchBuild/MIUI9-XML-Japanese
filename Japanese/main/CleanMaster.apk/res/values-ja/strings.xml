@@ -127,7 +127,7 @@
   <string name="confirm_auto_cleaner">OK</string>
   <string name="conn_of_function_safe">Network connection for Security</string>
   <string name="connecting">"接続中…"</string>
-  <string name="deep_clean_completed_tips">Cleaned successfully</string>
+  <string name="deep_clean_completed_tips">"正常に消去されました"</string>
   <string name="deep_clean_data_path_clean_title">"キャッシュを消去"</string>
   <string name="deep_clean_uninstall_completed_tips">"正常にアンインストールされました"</string>
   <string name="deepclean_1_k_clean">Quick clean</string>
@@ -269,7 +269,7 @@
   <string name="install_sucess">"%sが正常にインストールされました"</string>
   <string name="installed">"インストール済み"</string>
   <string name="installing">"インストール中"</string>
-  <string name="item_title_process_mode">Choose an action</string>
+  <string name="item_title_process_mode">"アクションを選択"</string>
   <string name="junk_tag_RF_EmptyFolders">"空のフォルダ"</string>
   <string name="junk_tag_RF_ImageThumbnails">"ギャラリーのサムネイル"</string>
   <string name="just_now">"たった今"</string>
@@ -319,7 +319,7 @@
   <string name="open_app">"開く"</string>
   <string name="open_browser">"ブラウザで開く"</string>
   <string name="open_file_error">"このファイルを開くためのアプリが見つかりませんでした"</string>
-  <string name="output_videos">Export videos</string>
+  <string name="output_videos">"動画をエクスポート"</string>
   <string name="phone_search">"Google検索"</string>
   <string name="positive_confirm">OK</string>
   <string name="pref_category_title_auto_clean_config_settings">"自動クリーンアップ"</string>
@@ -334,14 +334,14 @@
   <string name="pref_summary_auto_update_cleanup_db">"最終更新 %s"</string>
   <string name="pref_summary_cleanup_white_list">"選択したアプリをクリーンアップから除外する"</string>
   <string name="pref_summary_expand_cache_group">"キャッシュの詳細を自動的に表示する"</string>
-  <string name="pref_summary_garbage_auto_clean_content">Choose which items to clean automatically</string>
-  <string name="pref_summary_garbage_cleanup_check_size">Clean automatically when trash reaches a certain size</string>
+  <string name="pref_summary_garbage_auto_clean_content">"自動的にクリーンアップするアイテムを選択する"</string>
+  <string name="pref_summary_garbage_cleanup_check_size">"ゴミが一定のサイズに達したら自動的にクリーンアップする"</string>
   <string name="pref_summary_garbage_cleanup_check_time">Schedule a routine clean</string>
   <string name="pref_summary_garbage_process_mode">"クリーナー実行時の通知を設定"</string>
   <string name="pref_summary_open_optimizer_cloud_scan">"不明なファイル名をアップロードしてオンライ定義と比較する"</string>
   <string name="pref_title_apps_cleanup_size">​When cache size reaches</string>
   <string name="pref_title_auto_clean">"自動的にクリーンアップ"</string>
-  <string name="pref_title_auto_clean_content_choose">Choose items to clean</string>
+  <string name="pref_title_auto_clean_content_choose">"クリーンアップするアイテムを選択"</string>
   <string name="pref_title_auto_clean_operation">"クリーンアップ方法"</string>
   <string name="pref_title_auto_clean_trigger">"ストレージをクリーンアップ"</string>
   <string name="pref_title_auto_update_cleanup_db">"自動的に更新"</string>

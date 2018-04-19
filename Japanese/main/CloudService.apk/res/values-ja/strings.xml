@@ -40,8 +40,8 @@
   <string name="find_device_error_server">サーバーエラー</string>
   <string name="find_device_gdpr_prompt">Find deviceを有効にすると、プライバシーポリシーに同意したことになります。プライバシー保護を取り消す必要がある場合は、この機能をオフにしてください。</string>
   <string name="find_device_gdpr_prompt_policy_doc_name">プライバシーポリシー</string>
-  <string name="find_device_operation_failure_rpc">"Couldn't perform the operation due to RPC error."</string>
-  <string name="find_device_send_sms_alert">If you switch SIM cards, another SMS may be sent automatically to reactivate this feature.</string>
+  <string name="find_device_operation_failure_rpc">RPCエラーのため操作を実行できませんでした。</string>
+  <string name="find_device_send_sms_alert">SIMカードを切り替えた場合、この機能を再度有効にするためSMSが改めて送信される場合があります。</string>
   <string name="find_device_service_title">Find device</string>
   <string name="forget_password">"&lt;u>パスワードを忘れた場合&lt;/u>"</string>
   <string name="i_know">OK</string>
@@ -121,7 +121,7 @@ to your Mi Account to reactivate Mi Cloud."</string>
   <string name="micloud_detail_not_syncable">"同期できません"</string>
   <string name="micloud_detail_pause">同期の一時停止</string>
   <string name="micloud_detail_pending">待機中</string>
-  <string name="micloud_detail_preference_sync_items">Items</string>
+  <string name="micloud_detail_preference_sync_items">アイテム</string>
   <string name="micloud_detail_query_error">"同期の進捗状況に関する情報を取得できませんでした"</string>
   <string name="micloud_detail_success">"同期済み"</string>
   <string name="micloud_detail_syncing">同期中</string>
