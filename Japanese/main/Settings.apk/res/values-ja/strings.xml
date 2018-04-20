@@ -5131,7 +5131,7 @@ Android端末をUSBケーブルでコンピューターにつなぐことで、�
   <string name="wifi_dialog_remind_type_title">モバイルデータネットワーク</string>
   <string name="wifi_disabled_generic">無効</string>
   <string name="wifi_disabled_help">受信感度が低いためWi-Fiネットワークの接続は切断されました</string>
-  <string name="wifi_disabled_network_failure">インターネット接続不良により無効</string>
+  <string name="wifi_disabled_network_failure">IPアドレスを構成できません</string>
   <string name="wifi_disabled_password_failure">認証に問題</string>
   <string name="wifi_disabled_wifi_failure">Wi-Fi接続に失敗しました</string>
   <string name="wifi_disconnected_notification_summary">Wi-Fiネットワークに接続していません。</string>

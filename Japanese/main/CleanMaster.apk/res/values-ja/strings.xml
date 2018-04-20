@@ -210,6 +210,14 @@
   <string name="go_to">"続行"</string>
   <string name="goto_set">"設定"</string>
   <string name="grabage_rank_title">Cleaned today</string>
+  <string name="guide_secure_dialog_message">"お使いの端末の最適化スコアが80ポイントを下回っています。今すぐ最適化しますか？"</string>
+  <string name="guide_secure_dialog_negative">"キャンセル"</string>
+  <string name="guide_secure_dialog_positive">"最適化"</string>
+  <string name="guide_secure_dialog_title">"パフォーマンスを最適化"</string>
+  <string name="guide_virus_dialog_message">"アプリとインストールパッケージをスキャンして、端末をウイルスやマルウェアから保護します。今すぐスキャンしますか？"</string>
+  <string name="guide_virus_dialog_negative">"キャンセル"</string>
+  <string name="guide_virus_dialog_positive">"スキャン"</string>
+  <string name="guide_virus_dialog_title">"セキュリティスキャン"</string>
   <string name="header_optimizer">"この機能を利用することで、%sに同意したことになります。"</string>
   <string name="hint_clean_select_items">"重複を削除しています…"</string>
   <string name="hints_ad_header_left">"古いファイル"</string>
@@ -289,6 +297,7 @@
   <string name="low_memory_warning_dialog_ok_button">"消去"</string>
   <string name="low_memory_warning_dialog_title">"十分な空き領域がありません"</string>
   <string name="main_title_filesize">%1$s trash</string>
+  <string name="mainbtn_text_no_trash">"スキップ"</string>
   <string name="mainbtn_text_quick_cleanup">"%sをクリーンアップ"</string>
   <string name="memeory_check_content">%1$d apps, memory %2$s</string>
   <string name="menu_add_to_white_list">"例外に追加"</string>
