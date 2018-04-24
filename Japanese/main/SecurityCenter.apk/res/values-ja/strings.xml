@@ -72,6 +72,7 @@
   <string name="add_whitelist">"例外に追加"</string>
   <string name="address">Address</string>
   <string name="address_choose_hint">%1$s, %2$s, and %3$d other locations</string>
+  <string name="adjust_sms_cmd">&lt;u>SMSのテンプレートを調整する&lt;/u></string>
   <string name="adjust_traffic_carrier_summary_more_onemonth_before">"1ヶ月以上前に更新"</string>
   <string name="adjust_traffic_carrier_summary_more_oneweek_before">"1週間以上前に更新"</string>
   <string name="adjust_traffic_carrier_summary_oneweek_before">"1週間前に更新"</string>
@@ -601,6 +602,9 @@
   <string name="dialog_restrict_positive">"キャンセル"</string>
   <string name="dialog_roaming_message">"海外ローミング中、このアプリにモバイルデータの使用を許可しますか？"</string>
   <string name="dialog_roaming_title">"海外ローミング"</string>
+  <string name="dialog_roaming_warning_checkbox">"次回から表示しない"</string>
+  <string name="dialog_roaming_warning_message">"国際データローミングを有効にすると、ご契約中のキャリアから追加料金が請求されます。とにかくオンにしますか？"</string>
+  <string name="dialog_roaming_warning_ok">"オンにする"</string>
   <string name="dialog_text">"Game speed boosterのショートカットをホーム画面に作成"</string>
   <string name="dialog_title_attention">"注意"</string>
   <string name="dialog_title_auto_start_declare">"自動起動について"</string>
@@ -1079,6 +1083,7 @@ Carrier may charge you additional fees if you use mobile data connection again."
   <string name="menu_item_virus_lib_auto_update_summary">Updated on %s</string>
   <string name="menu_remove">"削除"</string>
   <string name="menu_report">"エラーを報告"</string>
+  <string name="menu_setting_traffic">"手動で設定"</string>
   <string name="menu_sms">"メッセージを送信"</string>
   <string name="menu_text_antispam">"ブロックリスト"</string>
   <string name="menu_text_antivirus">"セキュリティスキャン"</string>
@@ -1654,6 +1659,7 @@ While calibrating, MIUI will send a text message to your carrier to receive the 
   <string name="sms_contact_block">Block SMS from contacts</string>
   <string name="sms_delete_hint">"この番号からブロックされたメッセージをすべて削除しますか？"</string>
   <string name="sms_delete_title">"メッセージを削除"</string>
+  <string name="sms_detail_correct_success_text">"Here's the data usage stats from the previous calibration (%1$s):"</string>
   <string name="sms_detail_fragment_title_bill">"通話残高"</string>
   <string name="sms_detail_fragment_title_traffic">"データ残高"</string>
   <string name="sms_filter">Smart filter</string>
@@ -1876,6 +1882,7 @@ While calibrating, MIUI will send a text message to your carrier to receive the 
   <string name="tab_guide">Guide</string>
   <string name="tab_sms">SMS</string>
   <string name="tab_title">"ブロックリスト"</string>
+  <string name="tc_cmd_invalid">"テンプレートが無効です"</string>
   <string name="tc_diagnostic_all_error_notification_summary">"問題を報告するにはタップ"</string>
   <string name="tc_diagnostic_all_error_notification_title">"診断を完了できませんでした"</string>
   <string name="tc_diagnostic_brand_error_notification_summary">"ネットワークの種類を調整するにはタップ"</string>
@@ -1915,6 +1922,10 @@ While calibrating, MIUI will send a text message to your carrier to receive the 
   <string name="tc_diagnostic_upload_button">"報告"</string>
   <string name="tc_diagnostic_upload_no_network">"ご意見ありがとうございます！ あなたの報告はネットワークに接続したときに送信されます。"</string>
   <string name="tc_diagnostic_upload_success">"ご意見ありがとうございます！"</string>
+  <string name="tc_get_cmd_error">"テンプレートを取得できませんでした"</string>
+  <string name="tc_parse_error">"SMS を解析できませんでした"</string>
+  <string name="tc_receive_timeout">"キャリブレーションがタイムアウトしました"</string>
+  <string name="tc_send_sms_error">"SMSを送信できませんでした"</string>
   <string name="tc_sms_report_direction">"SMS問い合わせコード"</string>
   <string name="tc_sms_report_do_report">"送信"</string>
   <string name="tc_sms_report_get_sms">Get SMS</string>
@@ -1947,6 +1958,7 @@ While calibrating, MIUI will send a text message to your carrier to receive the 
   <string name="tc_sms_report_type">Report type</string>
   <string name="tc_sms_report_upload_success">"Data usage report SMS submitted. We'll get right on it!"</string>
   <string name="tc_sms_report_upload_when_net">"ご意見ありがとうございます！"</string>
+  <string name="tc_web_correct_error">"キャリブレーションできませんでした"</string>
   <string name="tether_custom_dialog_title">"モバイルデータの上限"</string>
   <string name="tether_limit_dialog_title">"モバイルデータの上限"</string>
   <string name="tether_limit_value_custom">"カスタム"</string>

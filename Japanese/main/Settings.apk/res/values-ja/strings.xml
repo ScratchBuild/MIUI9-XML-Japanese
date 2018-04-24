@@ -1856,6 +1856,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="gadget_wifi">Wi-Fi</string>
   <string name="gallery_privacy_password_role_instruction">プライベートな写真はここに保存されます。</string>
   <string name="game_controller_settings_category">ゲーム用コントローラ</string>
+  <string name="game_mode_settings">ゲームモード</string>
   <string name="game_storage_settings">ゲーム</string>
   <string name="gesture_preference_summary">簡単な操作でスマートフォンを管理できます</string>
   <string name="gesture_preference_title">動作</string>
