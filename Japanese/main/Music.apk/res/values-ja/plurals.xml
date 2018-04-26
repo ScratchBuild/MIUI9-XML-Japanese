@@ -62,6 +62,10 @@ total %2$d song"</item>
         <item quantity="other">%d個のアイテムを削除しますか？</item>
         <item quantity="one">%d個のアイテムを削除しますか？</item>
     </plurals>
+    <plurals name="dialog_confirm_delete_downloads_message_with_file">
+        <item quantity="other">"%d個のアイテムを削除しますか？\n注意: この操作で端末上の実際のファイルも削除されます。"</item>
+        <item quantity="one">"%d個のアイテムを削除しますか？\n注意: この操作で端末上の実際のファイルも削除されます。"</item>
+    </plurals>
     <plurals name="dialog_delete_descript">
         <item quantity="other">Delete %d songs?</item>
         <item quantity="one">Delete %d song?</item>

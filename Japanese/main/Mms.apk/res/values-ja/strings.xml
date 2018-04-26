@@ -50,6 +50,16 @@
   <string name="bookmark_confirm_delete_message">選択したメッセージのスターを外しますか？</string>
   <string name="bookmark_empty">スターを付けたメッセージはありません</string>
   <string name="bookmark_list_title">スター</string>
+  <string name="button_emoji_creature">Animal emojis</string>
+  <string name="button_emoji_lifestyle">Lifestyle emojis</string>
+  <string name="button_emoji_smiley">Face emojis</string>
+  <string name="button_emoji_symbol">Symbol emojis</string>
+  <string name="button_emoji_text">Text emojis</string>
+  <string name="button_fold">Fold</string>
+  <string name="button_next_slide">次へ</string>
+  <string name="button_pre_slide">前へ</string>
+  <string name="button_resend_message">Send again</string>
+  <string name="button_unfold">Unfold</string>
   <string name="call_sender">送信者に電話</string>
   <string name="cannot_add_picture_and_video">"1つのスライドに動画と写真を追加することはできません。"</string>
   <string name="cannot_add_slide_anymore">"スライドを追加できません。"</string>
@@ -126,7 +136,9 @@
   <string name="delete_wild_sims_title">選択した番号を削除</string>
   <string name="delivery_report_activity">受取確認通知</string>
   <string name="delivery_toast_body">"%sさん宛てのメッセージ"</string>
+  <string name="dialog_message_fake_cell_detect_error">Correct the info about this message? To do this, MIUI needs to upload the phone number (%1$s), the contents of the message, and the info about nearby location to its servers.</string>
   <string name="dialog_message_sms_report">スパムメッセージを報告すると、メッセージの内容と送信者の情報がMIUIにアップロードされます。これらの情報はスパムフィルタの改善にのみ使用されます。</string>
+  <string name="dialog_title_fake_cell_detect_error">Correction</string>
   <string name="disable_notifications_dialog_message">デフォルトのメッセージアプリからのテキストメッセージ通知が重複しないようにしますか？</string>
   <string name="disabled">オフ</string>
   <string name="discard">破棄</string>
@@ -139,6 +151,7 @@
   <string name="download_later">"現在ダウンロードできません。しばらくしてからもう一度お試しください。"</string>
   <string name="downloading">ダウンロード中</string>
   <string name="downloading_file_can_not_play">録音ファイルのダウンロードが完了するまでお待ちください</string>
+  <string name="draft">下書き</string>
   <string name="duration_not_a_number">表示時間は数字で入力してください</string>
   <string name="duration_sec">"表示時間 (%s秒)"</string>
   <string name="duration_selector_title">"スライドの表示時間"</string>
@@ -167,9 +180,9 @@
   <string name="fail_to_view_attachment">"添付ファイルは利用できません"</string>
   <string name="failed_to_add_media">"この%1$sはメッセージに追加できません"</string>
   <string name="failed_to_resize_image">画像のサイズを変更できません</string>
+  <string name="fake_cell_alert_detect_error">"これは偽装基地局から送られたものではありません"</string>
   <string name="fake_cell_alert_hint">このメッセージは表示されたものとは異なる電話番号から送信されたようです。金銭の要求を含むSMSには注意してください。</string>
   <string name="fake_cell_checking_hint">安全性を確認中...</string>
-  <string name="fake_cell_detection_entry">偽装基地局の検出</string>
   <string name="fake_cell_safe_hint">このメッセージは安全です</string>
   <string name="fake_cell_timeout_hint">"安全性を確認できませんでした"</string>
   <string name="favorite_at_time">Starred at: %1s</string>
@@ -448,7 +461,7 @@
   <string name="privacy_password_title4">パスワードを更新しました</string>
   <string name="private_message">プライベートメッセージ</string>
   <string name="private_new_notification">メッセージ通知</string>
-  <string name="private_protect">パスワード</string>
+  <string name="private_protect">プライバシー保護</string>
   <string name="private_settings">プライベートメッセージ設定</string>
   <string name="processing">"処理中..."</string>
   <string name="prvate_contact">プライベートの連絡先</string>

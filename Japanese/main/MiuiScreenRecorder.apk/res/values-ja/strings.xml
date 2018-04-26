@@ -13,12 +13,16 @@
   <string name="button_confirm">OK</string>
   <string name="button_goon_recorder">再開</string>
   <string name="cancel_edit">キャンセル</string>
+  <string name="cannot_change_frames">フレームレートは、固定フレームレートの録画に対してのみカスタマイズできます。</string>
   <string name="cannot_change_parames">記録中にパラメータの変更はできません</string>
   <string name="cannot_record">記録できませんでした、後ほど再試行してください。</string>
+  <string name="close_screen_record">記録を停止しました</string>
   <string name="description_content">"Screen recorder provides system-level recording capabilities. You won't be able to use Screen recorder if you continue. Confirm to continue."</string>
   <string name="description_title">"スクリーンレコーダーについて"</string>
   <string name="deselect_all">すべて選択を解除</string>
   <string name="error_open_file_failed_no_app_found">このファイルを開くためのアプリが見つかりませんでした</string>
+  <string name="fixed_frame_rate">固定フレームレート</string>
+  <string name="fixed_frame_rate_summary">Recording videos with fixed frame rate enhances playback on social media platforms and reduces battery life.</string>
   <string name="frames">フレームレート</string>
   <string name="frames_summary">フレームレートを高くするとぶれが軽減されます</string>
   <string name="frequently_click_toast">"読み込み中…"</string>
@@ -30,6 +34,9 @@
   <string name="hint_volume_down">音量[－]</string>
   <string name="hint_volume_up">音量[＋]</string>
   <string name="home_title_none">アイテムを選択</string>
+  <string name="is_checked">選択済み</string>
+  <string name="is_go_home">スクリーンレコーダーに戻る</string>
+  <string name="is_go_home_summary">"記録を停止した後、スクリーンレコーダーの開始ページを開く"</string>
   <string name="loopback_sound">スピーカー</string>
   <string name="low_battery">記録を開始する前に端末を充電してください</string>
   <string name="low_battery_title">バッテリー不足</string>
@@ -55,6 +62,7 @@
   <string name="screen_record_option">録画オプション</string>
   <string name="screen_record_params">録画パラメータ</string>
   <string name="select_all">すべて選択</string>
+  <string name="settings">設定</string>
   <string name="show_hard_key">ナビゲーションボタンを可視化</string>
   <string name="show_hard_key_summary">ホーム、メニュー、戻るボタンを押した時にプロンプトを表示する</string>
   <string name="show_screen_touch">タッチジェスチャーを表示</string>
@@ -67,5 +75,8 @@
   <string name="stop_record_while_locking">終了するには画面をロック</string>
   <string name="stop_record_while_locking_summary">画面がロックされたら録画を終了して動画の保存を行う</string>
   <string name="stop_recording">録画を終了</string>
+  <string name="storage_location">ストレージ</string>
+  <string name="storage_location_summary">保存先のストレージを選択してください</string>
   <string name="timer_format">%s</string>
+  <string name="unchecked">選択していません</string>
 </resources>

@@ -310,6 +310,10 @@
   <string name="enable_webview_multiprocess">マルチプロセスWebView</string>
   <string name="enable_webview_multiprocess_desc">WebViewレンダラを個別に実行する</string>
   <string name="enabled_by_admin">管理者により有効にされています</string>
+  <string name="enter_special_mode_message">アプリを再起動すると、コンテンツの表示が上部のステータスバーの領域まで拡張されます。If there are exceptions such as content occlusion and click misplacement, you can click the button again to restore the default mode.</string>
+  <string name="enter_special_mode_title">アプリを再起動して表示エリアを拡張する</string>
+  <string name="exit_special_mode_message">アプリを再起動すると、コンテンツの表示エリアがデフォルトのモードに戻ります。</string>
+  <string name="exit_special_mode_title">アプリを再起動して表示エリアを復元する</string>
   <string name="expanded_confirm_disable_notification">非表示</string>
   <string name="expanded_notification_manager">通知の管理</string>
   <string name="ext_media_badremoval_notification_message">データ損失を避けるため、取り外し前にSDカードをアンマウントしてください。</string>
@@ -645,6 +649,8 @@
   <string name="show_touches">タップを表示</string>
   <string name="show_touches_summary">タップを視覚表示する</string>
   <string name="simulate_color_space">色空間シミュレート</string>
+  <string name="special_mode_cancel">キャンセル</string>
+  <string name="special_mode_ok">再起動</string>
   <string name="status_bar_accessibility_dismiss_recents">最近使ったアプリをクリア</string>
   <string name="status_bar_clock_date_format">"M月d日 EEEE"</string>
   <string name="status_bar_date_format">"M月d日

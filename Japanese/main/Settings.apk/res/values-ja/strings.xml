@@ -2600,6 +2600,11 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="move_app_to_sdcard">SDカードに移動</string>
   <string name="move_error_device_admin">端末管理アプリは外部メディアにはインストールできません。</string>
   <string name="moving">移動中</string>
+  <string name="mqs_privacy_automatically_upload">次回自動的にアップロード</string>
+  <string name="mqs_privacy_dialog_cancel">キャンセル</string>
+  <string name="mqs_privacy_dialog_confirm">アップロード</string>
+  <string name="mqs_privacy_dialog_content">Upload logs to help us locate and solve this problem? Logs may contain your personal info, including the info about your location.</string>
+  <string name="mqs_privacy_dialog_title">エラーが発生しました</string>
   <string name="msd_driver_download">ドライバをダウンロード</string>
   <string name="msd_driver_download_mac">OSX:ドライバをダウンロードし、AndroidFileTransfer.dmgをインストールします。</string>
   <string name="msd_driver_download_mac_url">ドライバの取得 http://www.android.com/filetransfer/</string>
@@ -3190,6 +3195,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="privacy_authorize_cloud_msg">"To ensure your account's security, sign in to i.mi.com if you want to revoke authorization for Mi Cloud services (including sync and backups)."</string>
   <string name="privacy_authorize_dialog_agree">同意</string>
   <string name="privacy_authorize_dialog_exit">終了</string>
+  <string name="privacy_authorize_dialog_message">&lt;Data>"In order to use the basic features of this service, you must agree that Xiaomi will collect, process, and use your personal data. Refer to our Privacy Policy to learn how we collect and process personal data. Selecting \"Agree\" means that you've read and agreed to our &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Privacy Policy&amp;lt;/a&amp;gt; and &amp;lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s\"&amp;gt;User Agreement&amp;lt;/a&amp;gt;.&amp;#8203;"&lt;/Data></string>
   <string name="privacy_authorize_network_error">ネットワークに接続してもう一度お試しください。</string>
   <string name="privacy_authorize_privacy_policy">プライバシーポリシー</string>
   <string name="privacy_authorize_revoke">取り消し</string>
