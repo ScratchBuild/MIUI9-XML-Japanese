@@ -24,7 +24,7 @@
   <string name="ac_summaryOn">"オンにしました、アプリを開くにはパスワードが必要です"</string>
   <string name="ac_unmask_all_apps">"すべてのアプリを表示"</string>
   <string name="access_control_app_is_launching">"アプリを起動中"</string>
-  <string name="access_control_failed_need_to_unlock_nofingerprint">Enter password before unlocking with a new fingerprint</string>
+  <string name="access_control_failed_need_to_unlock_nofingerprint">"新しい指紋でロックを解除する前にパスワードを入力してください"</string>
   <string name="access_control_fingerprint_not_identified_msg">"指紋を読み取れませんでした。"</string>
   <string name="access_control_need_password">"%sが正常に追加されました"</string>
   <string name="access_control_need_to_unlock_nofingerprint">"アプリロックのパスワードを入力"</string>
@@ -82,7 +82,7 @@
   <string name="adjust_traffic_data">"データ使用量を設定"</string>
   <string name="after_the_lock_screen">"アプリは画面と一緒にロックする"</string>
   <string name="all_address_choose_hint">All numbers in this province</string>
-  <string name="already_close_gamebooster">Game speed booster is off</string>
+  <string name="already_close_gamebooster">"Game speed boosterはオフです"</string>
   <string name="anti_disturb_msg_detail">"着信を除くすべての通知をオフにする"</string>
   <string name="anti_disturb_msg_title">DND</string>
   <string name="antispam_mode_details">"ブロックリストの詳細"</string>
@@ -227,7 +227,7 @@
   <string name="app_manager_show_all_apps_opened">"すべてのアプリからの結果を表示しています…"</string>
   <string name="app_manager_show_detail_infos">"すべて表示"</string>
   <string name="app_manager_start_by">Started by %s</string>
-  <string name="app_manager_system_mobile_disable">Turn off data</string>
+  <string name="app_manager_system_mobile_disable">"モバイルデータをオフにする"</string>
   <string name="app_manager_title">"アプリを管理"</string>
   <string name="app_manager_total_size">"合計"</string>
   <string name="app_manager_uninstall">"アンインストール"</string>
@@ -279,7 +279,7 @@
   <string name="auto_atsk_condition_battery_level_text_up">"バッテリーが%sまで充電されました"</string>
   <string name="auto_back_booster">Stop boosting</string>
   <string name="auto_booster_suc">Boosted successfully</string>
-  <string name="auto_clean_close">Automatic cleanups are off</string>
+  <string name="auto_clean_close">"自動クリーンアップはオフです"</string>
   <string name="auto_handle_title">"全般"</string>
   <string name="auto_import_games">"すべてのゲームを1か所にまとめる"</string>
   <string name="auto_task_condition_choose_battery_level_down">"指定したレベルまでバッテリーが放電されたとき"</string>
@@ -326,7 +326,7 @@
   <string name="auto_task_operation_bluetooth">Bluetooth</string>
   <string name="auto_task_operation_brightness">"画面の明るさ"</string>
   <string name="auto_task_operation_close">Off</string>
-  <string name="auto_task_operation_close_string">Turn off %s</string>
+  <string name="auto_task_operation_close_string">"%sをオフにする"</string>
   <string name="auto_task_operation_gps">GPS</string>
   <string name="auto_task_operation_memory_clean_lockscreen">Clear memory</string>
   <string name="auto_task_operation_mobile_data">"モバイルデータ"</string>
