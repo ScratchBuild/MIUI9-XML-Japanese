@@ -83,6 +83,7 @@
   <string name="life_post_wake_up_time_title">"起床時間"</string>
   <string name="life_post_weather_description">%1$s, %2$s, %3$s</string>
   <string name="life_post_weather_description_secondary">%1$s,%2$s,%3$s</string>
+  <string name="life_post_weather_description_third">%1$s，%2$s</string>
   <string name="life_post_weather_invalid">"天気情報を取得できませんでした、再試行するにはタップ"</string>
   <string name="loading_ringtone">"着信音を読み込み中..."</string>
   <string name="menu_add_worldclock">"都市を追加"</string>

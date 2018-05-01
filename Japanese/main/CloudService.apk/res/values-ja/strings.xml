@@ -180,7 +180,7 @@ to your Mi Account to reactivate Mi Cloud."</string>
   <string name="micloud_main_head_menu_recycle_bin_title">削除したアイテム</string>
   <string name="micloud_main_head_menu_state_close">オフ</string>
   <string name="micloud_main_head_menu_state_open">オン</string>
-  <string name="micloud_main_head_menu_state_unavailable">利用できません</string>
+  <string name="micloud_main_head_menu_state_unavailable">サポートされていません</string>
   <string name="micloud_main_master_sync_on">Sync on</string>
   <string name="micloud_main_memory_low_message">"同期するには、クラウドに保存したアイテムをいくつか削除します。"</string>
   <string name="micloud_main_memory_low_title">"端末の内部ストレージがいっぱいです"</string>

@@ -166,7 +166,7 @@ You can also download them separately."</string>
   <string name="need_reset_passwd">Reset Work space password before entering Work space</string>
   <string name="need_set_second_space_desc">"Second spaceの指紋認証を追加する前に、Second spaceのパスワードを追加する"</string>
   <string name="need_set_second_space_pwd_first">"初めにSecond spaceのパスワードを設定"</string>
-  <string name="net_work_notice">Parental controls need to connect to the internet and get access to your location to work normally. This permissions are required to send the info about battery levels, step count, and your location to the controlled devices. Allow?</string>
+  <string name="net_work_notice">Parental controls need to connect to the internet and get access to your location to work normally. These permissions are required to send the info about battery levels, step count, and your location to the controlling devices. Allow?</string>
   <string name="newSecondSpace">"Second spaceをオンにする"</string>
   <string name="next_setp">"次へ"</string>
   <string name="no_match_repate_scanner">"Couldn't find matching fingerprints, scan again"</string>
@@ -201,6 +201,7 @@ Otherwise you may not be able to enter Second space from Lock screen."</string>
   <string name="private_sms_show_title">"Second spaceにプライベートなメッセージが表示されます"</string>
   <string name="private_space_setting">"管理"</string>
   <string name="public_app">Both spaces</string>
+  <string name="qq_login">Sign in to QQ</string>
   <string name="radio_button_icon_switch_title">"ショートカットを使用する"</string>
   <string name="radio_button_password_switch_title">"パスワードを使用する"</string>
   <string name="removeSuccess">"削除が完了しました"</string>

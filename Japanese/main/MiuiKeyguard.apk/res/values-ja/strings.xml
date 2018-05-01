@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="accessibility_enter_lock_wallpaper">"Musicを開くにはタップ"</string>
+  <string name="app_name">"ロック画面"</string>
   <string name="btn_camera">Enter your face</string>
   <string name="change_to_ac_charging">"有線充電に切り替えました"</string>
   <string name="click_to_enter_text">"表示するにはタップ"</string>
