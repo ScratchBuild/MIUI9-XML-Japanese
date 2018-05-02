@@ -394,22 +394,22 @@
         <item>使用サイクルを設定...</item>
     </string-array>
     <string-array name="date_of_app_all">
-        <item>Today (data)</item>
-        <item>This month (data)</item>
-        <item>Last month (data)</item>
-        <item>Today WLAN</item>
-        <item>This month WLAN</item>
-        <item>Last month WLAN</item>
+        <item>今日 (data)</item>
+        <item>今月 (data)</item>
+        <item>先月 (data)</item>
+        <item>今日 WLAN</item>
+        <item>今月 WLAN</item>
+        <item>先月 WLAN</item>
     </string-array>
     <string-array name="date_of_traffic">
-        <item>"Today "</item>
-        <item>"This month "</item>
-        <item>"Last month "</item>
+        <item>"今日 "</item>
+        <item>"今月 "</item>
+        <item>"先月 "</item>
     </string-array>
     <string-array name="date_of_traffic_prefix">
-        <item>"Today: "</item>
-        <item>"This month: "</item>
-        <item>"Last month: "</item>
+        <item>"今日: "</item>
+        <item>"今月: "</item>
+        <item>"先月: "</item>
     </string-array>
     <string-array name="debug_hw_overdraw_entries">
         <item>OFF</item>
@@ -777,8 +777,8 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>極限</item>
     </string-array>
     <string-array name="traffic_type">
-        <item>"Mobile usage "</item>
-        <item>"WLAN usage "</item>
+        <item>"データ使用量 "</item>
+        <item>" Wi-Fi使用量 "</item>
     </string-array>
     <string-array name="transition_animation_scale_entries">
         <item>アニメーションオフ</item>
