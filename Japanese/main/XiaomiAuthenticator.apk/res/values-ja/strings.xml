@@ -72,9 +72,7 @@ Sign in at account.xiaomi.com and click Reactivate."</string>
   <string name="lockpattern_continue_button_text">"続行"</string>
   <string name="lockpattern_need_to_confirm">"確認のためパターンを再入力"</string>
   <string name="lockpattern_need_to_confirm_wrong">"以前の入力と一致しません、再入力してください:"</string>
-  <string name="lockpattern_need_to_unlock_footer"/>
   <string name="lockpattern_need_to_unlock_wrong">&lt;font color=red>パスワードが間違っています。入力できるのはあと%d回です&lt;/font></string>
-  <string name="lockpattern_need_to_unlock_wrong_footer"/>
   <string name="lockpattern_pattern_confirmed_header">"新しいロック解除パターン:"</string>
   <string name="lockpattern_pattern_entered_header">"パターンが記録されました。"</string>
   <string name="lockpattern_recording_incorrect_too_short">"少なくとも%dつの点を結んでください:"</string>

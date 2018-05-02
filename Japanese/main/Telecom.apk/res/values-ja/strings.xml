@@ -34,7 +34,6 @@
   <string name="respond_via_sms_canned_response_4">"ただいま電話に出られません。後ほどご連絡をお願いいたします。"</string>
   <string name="respond_via_sms_confirmation_format">"%sにメッセージを送信しました。"</string>
   <string name="respond_via_sms_edittext_dialog_title">"クイック返信"</string>
-  <string name="respond_via_sms_setting_summary"/>
   <string name="respond_via_sms_setting_title">"クイック返信"</string>
   <string name="respond_via_sms_setting_title_2">"クイック返信の編集"</string>
   <string name="telecommAppLabel">"通話管理"</string>

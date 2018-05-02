@@ -133,8 +133,6 @@
 管理者は、ネットワークアクティビティや端末の位置情報など、このユーザーに関連付けられた設定、アクセス、アプリ、データを監視および管理できます。"</string>
   <string name="additional_permissions">その他の権限</string>
   <string name="additional_permissions_more">他%1$d件</string>
-  <string name="additional_system_update"/>
-  <string name="additional_system_update_menu"/>
   <string name="additional_system_update_settings_list_item_title">その他のシステムアップデート</string>
   <string name="adjust_3d_depth_title">ゲームの3D深度を調整</string>
   <string name="admin_device_owner_message">管理者は、設定、アクセス許可、企業アクセス、ネットワークアクティビティ、端末の位置情報など、このデバイスに関連付けられているアプリとデータを監視および管理できます。</string>
@@ -259,7 +257,6 @@
   <string name="app_name_label">アプリ</string>
   <string name="app_name_na">データ使用量</string>
   <string name="app_not_found_dlg_text">インストール済みアプリのリストに、このアプリはありません。</string>
-  <string name="app_not_found_dlg_title"/>
   <string name="app_notification_block_summary">このアプリからの通知を表示しない</string>
   <string name="app_notification_block_title">すべてブロック</string>
   <string name="app_notification_importance_title">重要度</string>
@@ -420,7 +417,6 @@
   <string name="backup_data_title">データのバックアップ</string>
   <string name="backup_disabled">バックアップは無効です</string>
   <string name="backup_erase_dialog_message">Wi-Fiパスワード、ブックマーク、その他の設定とアプリのデータのバックアップを停止し、Googleサーバー上のすべてのコピーを消去しますか？</string>
-  <string name="backup_erase_dialog_title"/>
   <string name="backup_inactive_title">バックアップサービスは無効</string>
   <string name="backup_pw_cancel_button_text">キャンセル</string>
   <string name="backup_pw_set_button_text">バックアップパスワードを設定</string>
@@ -634,7 +630,6 @@
   <string name="bluetooth_enter_passkey_msg">ペア設定コードを入力してからReturnキーまたはEnterキーを押してください</string>
   <string name="bluetooth_enter_passkey_other_device">もう一方のデバイスでも、このパスキーの入力が必要な場合があります。</string>
   <string name="bluetooth_enter_pin_other_device">もう一方のデバイスでも、このPINの入力が必要な場合があります。</string>
-  <string name="bluetooth_error_title"/>
   <string name="bluetooth_headset_profile_summary_connected">携帯電話の音声に接続</string>
   <string name="bluetooth_headset_profile_summary_use_for">携帯電話の音声に使用</string>
   <string name="bluetooth_hid_profile_summary_connected">入力デバイスに接続されています</string>
@@ -760,7 +755,6 @@
   <string name="bluetooth_tethering_overflow_error">テザリングできるデバイスは%1$d個までです。</string>
   <string name="bluetooth_turning_off">BluetoothをOFFにしています...</string>
   <string name="bluetooth_turning_on">BluetoothをONにしています...</string>
-  <string name="bluetooth_unknown"/>
   <string name="bluetooth_unlock_add_device">デバイスを追加</string>
   <string name="bluetooth_unlock_change_device_confirm_msg">古いデバイスは、現在のデバイスに置き換えられます。</string>
   <string name="bluetooth_unlock_change_matched_device">他のデバイスを選択</string>
@@ -1387,7 +1381,6 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="dlg_confirm_unmount_text">SDカードのマウントを解除すると、使用中のアプリの一部が停止し、SDカードを再マウントするまで使用できなくなる場合があります。</string>
   <string name="dlg_confirm_unmount_title">SDカードのマウントを解除しますか？</string>
   <string name="dlg_error_unmount_text">SDカードのマウントを解除できませんでした。しばらくしてからもう一度お試しください。</string>
-  <string name="dlg_error_unmount_title"/>
   <string name="dlg_ok">OK</string>
   <string name="dlg_remove_locales_error_message">優先する言語を設定しておく必要があります</string>
   <string name="dlg_remove_locales_error_title">すべての言語を削除することはできません</string>
@@ -1638,7 +1631,6 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="error_mcc_not3">MCC欄は3桁で指定してください。</string>
   <string name="error_mnc_not23">MNC欄は2桁か3桁で指定してください。</string>
   <string name="error_name_empty">[名前]フィールドは必須です。</string>
-  <string name="error_title"/>
   <string name="estimated_charging_time_left">フル充電まで</string>
   <string name="estimated_time_description">推定値は使用状況によって変わる可能性があります</string>
   <string name="estimated_time_left">予測される残り時間</string>
@@ -2595,7 +2587,6 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="modify_privacy_password">パスワードを変更</string>
   <string name="move_app">移動</string>
   <string name="move_app_failed_dlg_text">アプリを移動できませんでした。%1$s</string>
-  <string name="move_app_failed_dlg_title"/>
   <string name="move_app_to_internal">携帯端末に移動</string>
   <string name="move_app_to_sdcard">SDカードに移動</string>
   <string name="move_error_device_admin">端末管理アプリは外部メディアにはインストールできません。</string>
@@ -2913,7 +2904,6 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="now">今すぐ再起動</string>
   <string name="nsd_quick_toggle_summary">別の端末上のアプリにこの端末上のアプリを検出することを許可する</string>
   <string name="nsd_quick_toggle_title">ネットワークサービスの検出</string>
-  <string name="oem_preferred_feedback_reporter"/>
   <string name="oem_radio_info_label">OEM固有の情報/設定</string>
   <string name="oem_unlock_enable">OEMロック解除</string>
   <string name="oem_unlock_enable_disabled_summary_bootloader_unlocked">ブートローダーは既にロック解除されています</string>
@@ -3057,7 +3047,6 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="phone_call_noise_suppression">通話中のノイズを抑制</string>
   <string name="phone_info_label">携帯電話情報</string>
   <string name="phone_language">言語</string>
-  <string name="phone_language_summary"/>
   <string name="physical_keyboard_title">物理キーボード</string>
   <string name="pick_up_gesture_wakeup_title">端末を持ち上げてスリープ解除</string>
   <string name="pico_installed">インストール済み</string>
@@ -3253,7 +3242,6 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="privacy_password_settings_titles_second_space">プライバシー保護パスワードはあなたのメッセージ、写真、およびメモを保護します。</string>
   <string name="privacy_password_title">プライバシー保護パスワード</string>
   <string name="privacy_password_toggle_summary">プライベートなアイテムにアクセスする際にパスワードを要求する。</string>
-  <string name="privacy_password_transparent_tiltle"/>
   <string name="privacy_password_use_finger_dialog_mess">プライバシー保護パスワードであなたの指紋を使用することもできます。</string>
   <string name="privacy_password_use_finger_dialog_open">設定</string>
   <string name="privacy_password_use_finger_dialog_title">指紋ロック解除</string>
@@ -3397,7 +3385,6 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="recommend_item_4">イヤホン</string>
   <string name="recommend_item_title">おすすめ</string>
   <string name="recompute_size">サイズを再計算中…</string>
-  <string name="regulatory_info_text"/>
   <string name="regulatory_information">規制情報</string>
   <string name="remaining_length_format">あと %1$s</string>
   <string name="remove_account_failed">この変更は管理者によって許可されていません</string>
@@ -3468,7 +3455,6 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="ring_volume_title">着信音量</string>
   <string name="ringtone_mute">None</string>
   <string name="ringtone_slot_setting_title">シングルSIMの設定</string>
-  <string name="ringtone_summary"/>
   <string name="ringtone_title">着信音</string>
   <string name="ringtone_uniform_setting_title">デュアルSIMの設定</string>
   <string name="roaming">データローミング</string>
@@ -3641,7 +3627,6 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="sd_insert_summary">マウントするSDカードを挿入</string>
   <string name="sd_memory">SDカード</string>
   <string name="sd_mount">SDカードをマウント</string>
-  <string name="sd_mount_summary"/>
   <string name="sdcard_changes_instructions">USBケーブルの再接続時に変更が有効になります。</string>
   <string name="sdcard_format">SDカード内データを消去</string>
   <string name="sdcard_optimization">疑似SDカードの最適化</string>
@@ -4446,7 +4431,6 @@ PINが正しくない可能性があります。"</string>
   <string name="system_shortcut_wake">ショートカットボタンでスリープ解除</string>
   <string name="system_storage">システムストレージ</string>
   <string name="system_ui_settings">SystemUI調整ツールを表示</string>
-  <string name="system_update_settings_list_item_summary"/>
   <string name="system_update_settings_list_item_title">システムアップデート</string>
   <string name="talkback_summary">主に視覚障害者を対象としたスクリーンリーダー ツールです</string>
   <string name="talkback_title">Talkback</string>
@@ -4541,7 +4525,6 @@ Android端末をUSBケーブルでコンピューターにつなぐことで、�
   <string name="traffic_balance">Data usage mode</string>
   <string name="traffic_none">None</string>
   <string name="transition_animation_scale_title">トランジションアニメスケール</string>
-  <string name="translation_contributors_summary"/>
   <string name="translation_contributors_title">翻訳に貢献してくれた人たち</string>
   <string name="trust_agent_disabled_device_admin">管理者によって無効にされています</string>
   <string name="trusted_credentials">信頼できる認証情報</string>
@@ -4663,7 +4646,6 @@ Android端末をUSBケーブルでコンピューターにつなぐことで、�
   <string name="unlock_set_unlock_mode_pin">PIN</string>
   <string name="unlock_set_unlock_none_summary">セキュリティなし</string>
   <string name="unlock_set_unlock_none_title">スワイプ</string>
-  <string name="unlock_set_unlock_off_summary"/>
   <string name="unlock_set_unlock_off_title">なし</string>
   <string name="unlock_set_unlock_password_none">なし</string>
   <string name="unlock_set_unlock_password_summary">端末のロックを解除するには4桁以上の英数字を入力する</string>
@@ -4730,7 +4712,6 @@ Android端末をUSBケーブルでコンピューターにつなぐことで、�
   <string name="usb_midi_summary">MIDI対応アプリがUSBを介してパソコンのMIDIソフトと連携できるようにします。</string>
   <string name="usb_midi_title">MIDI</string>
   <string name="usb_mount">USBストレージをマウント</string>
-  <string name="usb_mount_summary"/>
   <string name="usb_msd_driver_installer_summary">WindowsとOSXのドライバを取得</string>
   <string name="usb_msd_driver_installer_title">ドライバのインストールディスク(MSD)</string>
   <string name="usb_msd_summary">WindowsまたはOSXを使用してファイルを転送</string>
@@ -4825,7 +4806,6 @@ Android端末をUSBケーブルでコンピューターにつなぐことで、�
   <string name="user_dict_settings_empty_text">"単語リストに登録がありません。
 単語を追加するには[＋]をタップ。"</string>
   <string name="user_dict_settings_more_languages">その他の言語...</string>
-  <string name="user_dict_settings_summary"/>
   <string name="user_dict_settings_title">単語リスト</string>
   <string name="user_enable_calling">通話をON</string>
   <string name="user_enable_calling_and_sms_confirm_message">通話とSMSの履歴がこのユーザーと共有されます。</string>
@@ -5409,7 +5389,6 @@ Android端末をUSBケーブルでコンピューターにつなぐことで、�
   <string name="wifi_tether_settings_title">ポータブルアクセスポイント</string>
   <string name="wifi_tether_starting">アクセスポイントをONにしています…</string>
   <string name="wifi_tether_stopping">アクセスポイントをOFFにしています…</string>
-  <string name="wifi_type_approval"/>
   <string name="wifi_type_approval_dialog_title">規制情報</string>
   <string name="wifi_type_approval_title">型式承認</string>
   <string name="wifi_unchanged">（変更なし）</string>

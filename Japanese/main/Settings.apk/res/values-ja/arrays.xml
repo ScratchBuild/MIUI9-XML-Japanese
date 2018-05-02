@@ -853,14 +853,6 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>タイムアウト</item>
         <item>失敗しました</item>
     </string-array>
-    <string-array name="vpn_types">
-        <item>PPTP</item>
-        <item>L2TP/IPSec PSK</item>
-        <item>L2TP/IPSec RSA</item>
-        <item>IPSec Xauth PSK</item>
-        <item>IPSec Xauth RSA</item>
-        <item>IPSec Hybrid RSA</item>
-    </string-array>
     <string-array name="vpn_types_long">
         <item>PPTP VPN</item>
         <item>事前共有鍵付きのL2TP/IPSec VPN</item>

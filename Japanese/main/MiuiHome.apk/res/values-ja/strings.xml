@@ -267,7 +267,6 @@
   <string name="settings">"設定"</string>
   <string name="settings_shortcut">"設定"</string>
   <string name="share">"共有"</string>
-  <string name="sharedUserId"/>
   <string name="show_all">"すべて表示"</string>
   <string name="show_mem_info_title">メモリの状態を表示</string>
   <string name="sort_by_abc">"名前順"</string>

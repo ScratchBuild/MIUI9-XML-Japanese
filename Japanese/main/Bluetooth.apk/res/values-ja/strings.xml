@@ -29,7 +29,6 @@
   <string name="bt_enable_line1">"Bluetoothサービスを利用するには、まずBluetoothをONにしてください。"</string>
   <string name="bt_enable_line2">"Bluetoothを今すぐONにしますか？"</string>
   <string name="bt_enable_ok">"ONにする"</string>
-  <string name="bt_enable_title"/>
   <string name="bt_error_btn_ok">"OK"</string>
   <string name="bt_share_picker_label">"Bluetooth"</string>
   <string name="bt_sm_2_1">"「%1$s」からのファイルを保存するのに十分な空き領域がSDカードにありません"</string>
@@ -109,8 +108,6 @@
   <string name="permlab_bluetoothShareManager">"ダウンロードマネージャーにアクセスします。"</string>
   <string name="permlab_bluetoothWhitelist">"Bluetooth端末によるアクセスを許可します。"</string>
   <string name="permlab_handoverStatus">Receive BT handover transfer broadcasts.</string>
-  <string name="process"/>
-  <string name="sharedUserId"/>
   <string name="start_server">"TCPサーバーを起動"</string>
   <string name="status_canceled">"ユーザーが転送をキャンセルしました。"</string>
   <string name="status_connection_error">"接続できませんでした。"</string>

@@ -106,7 +106,6 @@
   <string name="record_list_fm">"FM録音"</string>
   <string name="record_mark_point">Mark %s</string>
   <string name="record_name_hour">.</string>
-  <string name="record_name_minute"/>
   <string name="record_quliaty_preference_title">"録音の品質"</string>
   <string name="recording">Recording</string>
   <string name="recording_quality_high">"高品質"</string>
