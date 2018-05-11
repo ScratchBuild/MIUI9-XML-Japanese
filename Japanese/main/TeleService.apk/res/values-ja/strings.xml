@@ -367,6 +367,7 @@
   <string name="enable_disable_retail_directory">お店情報</string>
   <string name="enable_disable_stock_quotes">株価情報</string>
   <string name="enable_disable_technology_news">テクノロジーニュース</string>
+  <string name="enable_dual_4g_if_dual_ct">China TelecomのSIMカードが2枚挿入されている場合、両方のSIMカードでVoLTEを有効にするためには4G接続を優先にしてください。</string>
   <string name="enable_dual_4g_prompt_when_turn_on_volte">VoLTEでは両方のSIMスロットに4G接続が必要です。今すぐデュアル4Gに切り替えますか？</string>
   <string name="enable_fdn">発信番号制限をONにする</string>
   <string name="enable_fdn_ok">発信番号制限をOFFにする</string>
@@ -376,6 +377,7 @@
   <string name="enable_proximity_summary">"通話中に携帯を耳に当てている間は、自動的に画面をオフにします。"</string>
   <string name="enable_proximity_title">近接センサー</string>
   <string name="enable_sim_pin">SIM PINの設定</string>
+  <string name="enable_vice_volte_if_dual_ct">China TelecomのSIMカードが2枚挿入されている場合、2枚目のSIMカードのVoLTEが自動的に有効になります。</string>
   <string name="enable_video_calling_dialog_close">閉じる</string>
   <string name="enable_video_calling_dialog_msg">ビデオハングアウトをONにするには、ネットワーク設定で4G LTE拡張モードを有効にする必要があります。</string>
   <string name="enable_video_calling_dialog_settings">ネットワーク設定</string>

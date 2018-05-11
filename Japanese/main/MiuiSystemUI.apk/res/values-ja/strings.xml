@@ -616,7 +616,6 @@
   <string name="screenshot_saving_ticker">"スクリーンショットを保存しています…"</string>
   <string name="screenshot_saving_title">"スクリーンショットを保存しています…"</string>
   <string name="screenshot_send">"送る"</string>
-  <string name="screenshot_toalbum_txt">プレビュー</string>
   <string name="search_hint">"ウェブサイト、アプリ、連絡先、動画を検索"</string>
   <string name="select_application">アプリを選択</string>
   <string name="select_logd_level">ログレベルを選択</string>

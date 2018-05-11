@@ -2817,6 +2817,8 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="normal_smartcover_title">不透明なフロントカバー</string>
   <string name="not_battery_optimizing">電池の最適化を使用しない</string>
   <string name="not_installed">未インストール</string>
+  <string name="notch_force_black_desc">機能をオンにすると、ノッチ領域が黒色になります</string>
+  <string name="notch_force_black_title">ノッチを隠す</string>
   <string name="notes_privacy_password_role_instruction">プライベートなメモはここに保存されます。</string>
   <string name="notification_app_settings_button">通知設定</string>
   <string name="notification_badge_title">通知ドットの許可</string>
