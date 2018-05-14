@@ -81,40 +81,40 @@
         <item quantity="one">%d個のアイテムを選択済み</item>
     </plurals>
     <plurals name="delete_media_from_all_devices_and_cloud_msg">
-        <item quantity="other">Delete %d items from all devices and Mi Cloud?</item>
-        <item quantity="one">Delete %d item from all devices and Mi Cloud?</item>
+        <item quantity="other">すべてのデバイスとMi Cloudから%d個のアイテムを削除しますか？</item>
+        <item quantity="one">すべてのデバイスとMi Cloudから%d個のアイテムを削除しますか？</item>
     </plurals>
     <plurals name="delete_media_from_local">
         <item quantity="other">%d個のアイテムを削除しますか？</item>
         <item quantity="one">%d個のアイテムを削除しますか？</item>
     </plurals>
     <plurals name="delete_media_from_this_album_and_cloud_msg">
-        <item quantity="other">Delete %d items from this album and Mi Cloud?</item>
-        <item quantity="one">Delete %d item from this album and Mi Cloud?</item>
+        <item quantity="other">このアルバムとMi Cloudから%d個のアイテムを削除しますか？</item>
+        <item quantity="one">このアルバムとMi Cloudから%d個のアイテムを削除しますか？</item>
     </plurals>
     <plurals name="delete_photo_from_all_devices_and_cloud_msg">
-        <item quantity="other">Delete %d photos from all devices and Mi Cloud?</item>
-        <item quantity="one">Delete this photo from all devices and Mi Cloud?</item>
+        <item quantity="other">すべてのデバイスとMi Cloudから%d枚の写真を削除しますか？</item>
+        <item quantity="one">すべてのデバイスとMi Cloudからこの写真を削除しますか？</item>
     </plurals>
     <plurals name="delete_photo_from_local">
         <item quantity="other">%d枚の写真を削除しますか？</item>
         <item quantity="one">この写真を削除しますか？</item>
     </plurals>
     <plurals name="delete_photo_from_this_album_and_cloud_msg">
-        <item quantity="other">Delete %d photos from this album and Mi Cloud?</item>
-        <item quantity="one">Delete this photo from this album and Mi Cloud?</item>
+        <item quantity="other">このアルバムとMi Cloudから%d枚の写真を削除しますか？</item>
+        <item quantity="one">このアルバムとMi Cloudからこの写真を削除しますか？</item>
     </plurals>
     <plurals name="delete_video_from_all_devices_and_cloud_msg">
-        <item quantity="other">Delete %d videos from all devices and Mi Cloud?</item>
-        <item quantity="one">Delete this video from all devices and Mi Cloud?</item>
+        <item quantity="other">すべてのデバイスとMi Cloudから%d個の動画を削除しますか？</item>
+        <item quantity="one">すべてのデバイスとMi Cloudからこの動画を削除しますか？</item>
     </plurals>
     <plurals name="delete_video_from_local">
-        <item quantity="other">Delete %d videos?</item>
-        <item quantity="one">Delete this video?</item>
+        <item quantity="other">%d個の動画を削除しますか？</item>
+        <item quantity="one">この動画を削除しますか？</item>
     </plurals>
     <plurals name="delete_video_from_this_album_and_cloud_msg">
-        <item quantity="other">Delete %d videos from this album and Mi Cloud?</item>
-        <item quantity="one">Delete this video from this album and Mi Cloud?</item>
+        <item quantity="other">このアルバムとMi Cloudから%d個の動画を削除しますか？</item>
+        <item quantity="one">このアルバムとMi Cloudからこの動画を削除しますか？</item>
     </plurals>
     <plurals name="download_error">
         <item quantity="other">%1$d個のファイルをダウンロードできませんでした</item>

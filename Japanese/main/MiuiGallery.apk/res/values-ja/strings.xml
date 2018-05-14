@@ -310,11 +310,11 @@
   <string name="delete_in_home_page">When you delete photos or videos from Gallery, they will also be deleted from:</string>
   <string name="delete_in_process">"削除中…"</string>
   <string name="delete_origin">"元のアルバムからアイテムを削除"</string>
-  <string name="delete_other_shared_images">"Can't delete photos shared by others"</string>
+  <string name="delete_other_shared_images">"他のユーザーが共有している写真は削除できません"</string>
   <string name="delete_owner_and_other_shared_images_format">%1$d deleted, %2$d saved</string>
   <string name="delete_third_party_photo">"この写真を削除しますか？"</string>
   <string name="delete_third_party_video">"この動画を削除しますか？"</string>
-  <string name="delete_to_trash_tips">"最近削除した写真は、設定 &gt; ゴミ箱から表示することができます"</string>
+  <string name="delete_to_trash_tips">"最近削除した写真は、[設定] &gt; [ゴミ箱] から表示することができます"</string>
   <string name="deny">"拒否"</string>
   <string name="detail_title">"詳細情報"</string>
   <string name="disable_auto_upload_tip">"このアルバムのMi Cloudとの同期をオフにしますか？"</string>
