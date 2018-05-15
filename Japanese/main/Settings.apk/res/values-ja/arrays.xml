@@ -586,7 +586,6 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>Single mic noise suppression</item>
         <item>Dual mic noise suppression</item>
     </string-array>
-
     <string-array name="power_mode_entries">
         <item>パフォーマンス</item>
         <item>バランス</item>
