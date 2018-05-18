@@ -7,7 +7,6 @@ Messages will only appear in Second space."</string>
   <string name="PrivacyContactDes2">"If you used private messages in First space,
 this feature will be added to Second space automatically."</string>
   <string name="add_finger_print">"指紋認証を追加"</string>
-  <string name="agree">"同意"</string>
   <string name="air_space_created">"Work spaceを作成しました"</string>
   <string name="air_space_deleted">"Work spaceを削除しました"</string>
   <string name="air_space_exit">"spaceを終了"</string>
@@ -74,7 +73,6 @@ to be able to view them anytime"</string>
   <string name="dialog_title">"注意"</string>
   <string name="dir_switch_out_all_photos">Second space Gallery</string>
   <string name="disable">"オフにする"</string>
-  <string name="disagree">"同意しない"</string>
   <string name="do_not_ask">"二度と表示しない"</string>
   <string name="dont_import">"後で"</string>
   <string name="downloading_space">"ダウンロード中…"</string>
@@ -166,7 +164,6 @@ You can also download them separately."</string>
   <string name="need_reset_passwd">Reset Work space password before entering Work space</string>
   <string name="need_set_second_space_desc">"Second spaceの指紋認証を追加する前に、Second spaceのパスワードを追加する"</string>
   <string name="need_set_second_space_pwd_first">"初めにSecond spaceのパスワードを設定"</string>
-  <string name="net_work_notice">Parental controls need to connect to the internet and get access to your location to work normally. These permissions are required to send the info about battery levels, step count, and your location to the controlling devices. Allow?</string>
   <string name="newSecondSpace">"Second spaceをオンにする"</string>
   <string name="next_setp">"次へ"</string>
   <string name="no_match_repate_scanner">"Couldn't find matching fingerprints, scan again"</string>

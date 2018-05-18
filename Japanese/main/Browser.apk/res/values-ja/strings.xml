@@ -45,7 +45,9 @@
   <string name="action_menu_useful_page_added">"スタートページに追加しました"</string>
   <string name="action_menu_user_center">"プロフィール"</string>
   <string name="action_modify_bookmark">"ブックマークを編集"</string>
+  <string name="action_one_touch">"通知を開く"</string>
   <string name="action_put_in_search_box">"検索ボックスに%sを配置"</string>
+  <string name="action_skip">"スキップ"</string>
   <string name="adblock_force_updating_rules_toast">"Ad blockerを更新中"</string>
   <string name="adblock_notification">"%d個の広告をブロックしました"</string>
   <string name="adblock_rules_not_updated_toast">"更新できませんでした"</string>
@@ -280,6 +282,7 @@
   <string name="enable_geolocation_confirm_message">Turning off location services will affect the recommendations you receive.</string>
   <string name="enter_developer_mode">"開発者モードに切り替える"</string>
   <string name="enter_incongnito_mode">"シークレットモードに切り替える"</string>
+  <string name="enter_infoflow_guide">"ニュースを見るには上向きにスライド"</string>
   <string name="enter_the_group_name">"グループ名を入力"</string>
   <string name="enter_the_password">"パスワードを入力"</string>
   <string name="enter_the_user_name">"ユーザー名を入力"</string>
@@ -341,8 +344,10 @@
   <string name="homepage_more_sites">"その他のウェブサイト"</string>
   <string name="homepage_search_hint">"検索"</string>
   <string name="homepage_top_card_menu">Top</string>
+  <string name="hot_words_item_ads_mark">Ads</string>
   <string name="ignore_add_pwa_dialog_today">"今日は表示しない"</string>
   <string name="in_secureaccess">"ブラウザをセーフモードに切り替えました"</string>
+  <string name="info_flow_description">"チャンネル情報"</string>
   <string name="isReplacePage">"ファイルが既に存在します、置き換えますか？"</string>
   <string name="is_first_history_item">This is the first page in Browser history</string>
   <string name="is_first_tab">This is the first tab</string>
@@ -374,6 +379,7 @@
   <string name="menu_title_open_file_management">"File Managerを開く"</string>
   <string name="menu_title_pause_all">"すべて停止"</string>
   <string name="menu_title_resume_all">"すべて開始"</string>
+  <string name="message_notice_push">"最新のホットスポットを見逃しません！"</string>
   <string name="miui_autologin_bar_error">"ログインに失敗しました"</string>
   <string name="miui_autologin_bar_title">"Mi Accountでログイン"</string>
   <string name="miui_bookmark_action_bar_add_group_title">"グループに追加"</string>
@@ -881,6 +887,7 @@
   <string name="pref_nav_mode_summary_pad">Pad</string>
   <string name="pref_nav_mode_summary_phone">Phone</string>
   <string name="pref_nav_mode_title">"ブラウザモード"</string>
+  <string name="pref_navscreen_layoutstate_title">"マルチウィンドウの管理"</string>
   <string name="pref_notifications_hint">"通知"</string>
   <string name="pref_notifications_receive">"通知"</string>
   <string name="pref_notifications_title">"通知"</string>
@@ -958,6 +965,7 @@
   <string name="readmode_recommend_message">"この本は既に読んでいます。"</string>
   <string name="readmode_refresh">"更新"</string>
   <string name="readmodelist_bookmarks_to_show">Reading list</string>
+  <string name="refresh_description">"更新"</string>
   <string name="refuse_permissions_request">"拒否"</string>
   <string name="remember_passwords_confirm_message">Turning this feature off may affect usage.</string>
   <string name="remove_bookmark">"ブックマークを削除"</string>
@@ -982,9 +990,10 @@
   <string name="same_folder_name_warning">"同じ名前のグループが既に存在します"</string>
   <string name="save_button_text">"保存"</string>
   <string name="save_dialog_title">"保存"</string>
-  <string name="save_file">Save %s</string>
+  <string name="save_file">"保存"</string>
   <string name="save_file_already_exist_alert_message">"同じ名前のファイルが既に存在します、ファイルを上書きしますか？"</string>
   <string name="save_file_already_exist_alert_title">"ファイルを上書きしますか？"</string>
+  <string name="save_file_suffix">file</string>
   <string name="save_form_data_confirm_message">Turning this feature off may affect usage.</string>
   <string name="save_image_failed">"画像を保存できませんでした"</string>
   <string name="save_image_success">"画像を保存しました"</string>
@@ -1035,6 +1044,8 @@
   <string name="share_image_text">こんなものを見つけました！ @MIUI</string>
   <string name="share_page_text">こんなものを見つけました: %1$s @MIUI| %2$s</string>
   <string name="share_video">動画を共有</string>
+  <string name="short_video_description">"ビデオチャンネル"</string>
+  <string name="short_video_tip">Look! Fun video</string>
   <string name="show_check_security_url_check_tip_dialog_description">"We will collect and use your personal data if you choose to use our services.
 Here's the data that we'll collect:
 1. Secure URLs: We'll collect the URLs of the websites you visit while using our services.
@@ -1098,6 +1109,7 @@ Browser needs to connect to the internet to work normally. You must agree to our
   <string name="suggest_access_music">Mi Music</string>
   <string name="suggest_item_delete_text">"削除"</string>
   <string name="suggest_open_app_failed">"このアプリを開くことができませんでした"</string>
+  <string name="suggestion_clear_record_message">Do you confirm empty input record?</string>
   <string name="suggestion_express_button_query_more">VIEW MORE</string>
   <string name="suggestion_express_button_text_query">CHECK</string>
   <string name="suggestion_express_exception_net">"Couldn't connect to the network. Check your network settings and try again."</string>
@@ -1124,6 +1136,7 @@ Browser needs to connect to the internet to work normally. You must agree to our
   <string name="tabs_description">"タブ"</string>
   <string name="temp_refuse">"結構です"</string>
   <string name="title_bar_loading">"読み込み中…"</string>
+  <string name="title_notice_push">"リマインダー通知"</string>
   <string name="too_many_windows_dialog_message">"新しいタブを開くには1つ閉じる必要があります。"</string>
   <string name="too_many_windows_dialog_title">"タブの数が限度に達しました"</string>
   <string name="transfer_prompt_0">"動画を再生"</string>

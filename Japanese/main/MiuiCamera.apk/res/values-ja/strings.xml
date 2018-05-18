@@ -1,6 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="access_sd_fail">"SDカードにアクセスできません。"</string>
+  <string name="accessibility_ai_scene_off">"AIカメラがオフです"</string>
+  <string name="accessibility_ai_scene_on">"AIカメラがオンです"</string>
   <string name="accessibility_audio_shutter_bg">Audio Shutter background</string>
   <string name="accessibility_camera_module_picker">CameraModulePicker</string>
   <string name="accessibility_camera_picker">"前面と背面のカメラを切り替える"</string>
@@ -18,8 +20,7 @@
   <string name="accessibility_video_capture_button">VideoCaptureButton</string>
   <string name="accessibility_video_module_picker">VideoModulePicker</string>
   <string name="accessibility_video_pause_button">VideoPauseButton</string>
-  <string name="ai_scene_mode_use_hint_text">"AI camera detects scenes automatically
-and optimizes your photos based on this info"</string>
+  <string name="ai_scene_mode_use_hint_text">"AIカメラを開き、写真の撮影シーンや被写体に基づいて画像を最適化します。"</string>
   <string name="audio_focus_exit_button_text">"音声フォーカスをオフにする"</string>
   <string name="burst_shoot_exit_button_text">"連続撮影をオフにする"</string>
   <string name="button_fisheye_camera_title">Fisheye</string>
@@ -96,7 +97,7 @@ facial expression to synthesize into a photo"</string>
   <string name="pref_burst_shoot_title">"連続撮影"</string>
   <string name="pref_camcorder_settings">"ビデオ"</string>
   <string name="pref_camcorder_settings_category">"カメラ設定"</string>
-  <string name="pref_camera_ai_scene_title">AI camera</string>
+  <string name="pref_camera_ai_scene_title">"AIカメラ"</string>
   <string name="pref_camera_antibanding_entry_0">"オフ"</string>
   <string name="pref_camera_antibanding_entry_1">50 Hz</string>
   <string name="pref_camera_antibanding_entry_2">60 Hz</string>

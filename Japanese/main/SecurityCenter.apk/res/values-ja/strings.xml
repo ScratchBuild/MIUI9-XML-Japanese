@@ -787,6 +787,7 @@
   <string name="gb_have_signed">"今日はチェックイン済み"</string>
   <string name="gb_msg_completely_shielded">"メッセージを隠す"</string>
   <string name="gb_msg_completely_shielded_summary">"隠す"</string>
+  <string name="gb_msg_not_shielded_summary">"表示"</string>
   <string name="gb_msg_quickly_answer">"クイック返信を許可する"</string>
   <string name="gb_msg_quickly_answer_summary">"クイック返信"</string>
   <string name="gb_msg_transparent_dispaly">Notifications with transparent background</string>
